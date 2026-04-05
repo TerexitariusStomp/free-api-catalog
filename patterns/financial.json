@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Square",
+    "url": "https://developer.squareup.com/reference/square",
+    "auth": "OAuth",
+    "category": "Business",
+    "description": "Easy way to take payments, manage refunds, and help customers checkout online",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "1inch",
+    "url": "https://1inch.io/api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "API for querying decentralize exchange",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Agent Gateway API",
+    "url": "https://agent-gateway-kappa.vercel.app",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Agent Gateway API provides a unified interface to over 39 production-ready services designed for AI agents. These services include crypto wallets, DeFi trading, file storage, code execution, and more,",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Binance",
+    "url": "https://github.com/binance/binance-spot-api-docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Exchange for Trading Cryptocurrencies based in China",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Bitfinex",
+    "url": "https://docs.bitfinex.com/docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Bithumb",
+    "url": "https://apidocs.bithumb.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Block",
+    "url": "https://block.io/docs/basic",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin Payment, Wallet & Transaction Data",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "BlockBee",
+    "url": "https://docs.blockbee.io/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Payment Processor",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Blockchain",
+    "url": "https://www.blockchain.com/api",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin Payment, Wallet & Transaction Data",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Bybit",
+    "url": "https://bybit-exchange.github.io/docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency data feed and algorithmic trading",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "CoinAPI",
+    "url": "https://docs.coinapi.io/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "All Currency Exchanges integrate under a single api",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Coinbase Pro",
+    "url": "https://docs.pro.coinbase.com/#api",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "CoinDCX",
+    "url": "https://docs.coindcx.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Coinigy",
+    "url": "https://coinigy.docs.apiary.io",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Interacting with Coinigy Accounts and Exchange Directly",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Coinremitter",
+    "url": "https://coinremitter.com/docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Payment & Prices",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "CryptAPI",
+    "url": "https://docs.cryptapi.io",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Payment Processor",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "CryptoMarket",
+    "url": "https://api.exchange.cryptomkt.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Trading platform",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "dYdX",
+    "url": "https://docs.dydx.exchange/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Decentralized cryptocurrency exchange",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Ethplorer",
+    "url": "https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "EXMO",
+    "url": "https://documenter.getpostman.com/view/10287440/SzYXWKPi",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies exchange based in UK",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Gateio",
+    "url": "https://www.gate.io/api2",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "API provides spot, margin and futures trading operations",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Gemini",
+    "url": "https://docs.gemini.com/rest-api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Exchange",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Huobi",
+    "url": "https://huobiapi.github.io/docs/spot/v1/en/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Seychelles based cryptocurrency exchange",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Kraken",
+    "url": "https://docs.kraken.com/rest/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Exchange",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "KuCoin",
+    "url": "https://docs.kucoin.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Mempool",
+    "url": "https://mempool.space/api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin API Service focusing on the transaction fee",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "MEXC Global",
+    "url": "https://www.mexc.com/mexc-api",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Crypto asset exchange for trading Marketplace",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "N.exchange",
+    "url": "https://nexchange2.docs.apiary.io",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency exchange rates and swap service",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "OKEx",
+    "url": "https://okx.com/okx-api",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency exchange based in Seychelles",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Poloniex",
+    "url": "https://docs.poloniex.com",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "US based digital asset exchange",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Trading View",
+    "url": "https://www.tradingview.com/rest-api-spec/",
+    "auth": "OAuth",
+    "category": "Cryptocurrency",
+    "description": "Market price, data, graph for brokers and traders",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "VALR",
+    "url": "https://docs.valr.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Exchange based in South Africa",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Amdoren",
+    "url": "https://www.amdoren.com/currency-api/",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Free currency API with over 150 currencies",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Convert Currency to Multiple Currencies",
+    "url": "https://apyhub.com/utility/currency-conversion-multiple",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Convert currencies from a source currency to multiple target currencies.",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "CurrencyFreaks",
+    "url": "https://currencyfreaks.com/",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Provides current and historical currency exchange rates with free plan 1K requests/month",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Czech National Bank",
+    "url": "https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "A collection of exchange rates",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Exchangerate.host",
+    "url": "https://exchangerate.host",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Free foreign exchange & crypto rates API",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "FyGraph",
+    "url": "https://fygraph.com",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "GraphQL API of latest 1.000+ crypto and 167+ fiat updated every minute",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "National Bank of Poland",
+    "url": "http://api.nbp.pl/en.html",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "A collection of currency exchange rates (data in XML and JSON)",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "ratesapi",
+    "url": "https://ratesapi.io",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Free exchange rates and historical rates",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Exchange Rates API",
+    "url": "https://docs.exchangeratesapi.com.au/",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Exchange Rates API is a developer-friendly data service providing official Reserve Bank of Australia (RBA) exchange rate data through clean, modern REST API endpoints. We transform publicly availa",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Moonton API",
+    "url": "https://en.moonton.com/games/index.html'",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Moonton API provides access to various game-related functionalities, allowing developers to fetch game data, player statistics, and manage in-game transactions. It aims to enhance user engagement ",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "StackExchange",
+    "url": "https://api.stackexchange.com/",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Q&A forum for developers",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Aletheia",
+    "url": "https://aletheiaapi.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Insider trading data, earnings call analysis, financial statements, and more",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Banco do Brasil",
+    "url": "https://developers.bb.com.br",
+    "auth": "OAuth",
+    "category": "Finance",
+    "description": "All Banco do Brasil financial transaction APIs",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Billplz",
+    "url": "https://www.billplz.com/api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Payment platform",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Earnings Feed",
+    "url": "https://earningsfeed.com/api/docs",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "SEC filings, insider transactions, institutional holdings",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Kite Connect",
+    "url": "https://kite.trade/docs/connect/v3/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Stock market investment and trading platform",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Klarna",
+    "url": "https://docs.klarna.com/klarna-payments/api/payments-api/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Klarna payment and shopping service",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Mono",
+    "url": "https://mono.co/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Connect with users’ bank accounts and access transaction data in Africa",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Plaid",
+    "url": "https://plaid.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Connect with user's bank accounts and access transaction data",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Razorpay Payments",
+    "url": "https://razorpay.com/docs/#home-payments",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Indian payment gateway API integration",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://stripe.com/docs/api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Payment processing, subscriptions, and financial management",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Barter.vg",
+    "url": "https://github.com/bartervg/barter.vg/wiki",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Provides information about Game, DLC, Bundles, Giveaways, Trading",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "SpaceTradersAPI",
+    "url": "https://spacetraders.io?rel=pub-apis",
+    "auth": "OAuth",
+    "category": "Games & Comics",
+    "description": "A playable inter-galactic space trading MMOAPI",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "YAML Yugi",
+    "url": "https://github.com/DawnbrandBots/yaml-yugi",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "API providing a comprehensive, machine-readable database of Yu-Gi-Oh! Trading Card Game, Official Card Game, Master Duel, Rush Duel, and Speed Duel. It supports fetching individual cards in JSON or YA",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Humanitarian Data Exchange",
+    "url": "https://data.humdata.org",
+    "auth": "No",
+    "category": "Health",
+    "description": "Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Forex Trading API",
+    "url": "https://www.swissquote.com/en-ch/private/trade/products/forex",
+    "auth": "No",
+    "category": "Other",
+    "description": "The Forex Trading API allows users to access the foreign exchange market for trading currencies and precious metals. It facilitates trading over 80 currency pairs with comprehensive trading options an",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "VulDB",
+    "url": "https://vuldb.com/?doc.api",
+    "auth": "apiKey",
+    "category": "Security",
+    "description": "VulDB API allows to initiate queries for one or more items along with transactional bots",
+    "service_pattern": "Financial"
+  },
+  {
+    "name": "Grab",
+    "url": "https://developer.grab.com/docs/",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "Track deliveries, ride fares, payments and loyalty points",
+    "service_pattern": "Financial"
+  }
+]

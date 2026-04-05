@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Postman Echo",
+    "url": "https://www.postman-echo.com",
+    "auth": "No",
+    "category": "Data Validation",
+    "description": "Test api server to receive and return value from HTTP method",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Postman",
+    "url": "https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Tool for testing APIs",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "OWASP ZAP",
+    "url": "https://www.zaproxy.org/docs/api/",
+    "auth": "No",
+    "category": "Security",
+    "description": "Automated security testing API for web apps",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Beeceptor's CRUD APIs",
+    "url": "https://beeceptor.com/crud-api/?ref=public-api-lists",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Free stateful CRUD APIs",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Dicebear Avatars",
+    "url": "https://avatars.dicebear.com",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate random pixel-art avatars",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "English Random Words",
+    "url": "https://random-words-api.vercel.app/word",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate English Random Words with Pronunciation",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Faker",
+    "url": "https://fakerjs.dev/",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate massive amounts of fake (but realistic) data for testing and development.",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "FakeStoreAPI",
+    "url": "https://fakestoreapi.com/",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Fake store rest API for your e-commerce or shopping website prototype",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "GeneradorDNI",
+    "url": "https://api.generadordni.es",
+    "auth": "apiKey",
+    "category": "Test Data",
+    "description": "Data generator API. Profiles, vehicles, banks and cards, etc",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "ItsThisForThat",
+    "url": "https://itsthisforthat.com/api.php",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate Random startup ideas",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "JSONing",
+    "url": "https://jsoning.com/api/",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Fake REST API for prototyping",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Metaphorsum",
+    "url": "http://metaphorpsum.com",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate demo paragraphs giving number of words and sentences",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Micro-Jaymock",
+    "url": "https://micro-jaymock.now.sh/",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Tiny API mocking microservice for generating fake JSON data",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Mockae",
+    "url": "https://mockae.com/",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Fake REST API powered by Lua",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Mockerito",
+    "url": "https://mockerito.com/?ref=public-api-lists",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Free mock REST APIs across different business domains",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Random Data",
+    "url": "https://random-data-api.com",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Random data generator",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Random Identity",
+    "url": "https://rapidapi.com/edualc1018/api/random-identity-generator",
+    "auth": "apiKey",
+    "category": "Test Data",
+    "description": "Random Identity Generator with custom response format",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Randommer",
+    "url": "https://randommer.io/randommer-api",
+    "auth": "apiKey",
+    "category": "Test Data",
+    "description": "Random data generator",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Short Id",
+    "url": "https://github.com/aguedo/idgen",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate unique short Ids",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Softwium",
+    "url": "https://softwium.com/fake-api",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "This free public API allows developers to easily obtain fake JSON data for testing and development. There is no need for registration, tokens, or authentication, simplifying the process of retrieving ",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "This Person Does not Exist",
+    "url": "https://thispersondoesnotexist.com",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generates real-life faces of people who do not exist",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "UI Names",
+    "url": "https://github.com/thm/uinames",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate random fake names",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "What The Commit",
+    "url": "https://whatthecommit.com/index.txt",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Funny random commit messages generator",
+    "service_pattern": "Testing"
+  },
+  {
+    "name": "Yes No",
+    "url": "https://yesno.wtf/api",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate yes or no randomly",
+    "service_pattern": "Testing"
+  }
+]

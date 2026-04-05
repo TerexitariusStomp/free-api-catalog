@@ -1,0 +1,346 @@
+[
+  {
+    "name": "Aylien Text Analysis",
+    "url": "https://docs.aylien.com/textapi/#getting-started",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "A collection of information retrieval and natural language APIs",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Cloudmersive Natural Language Processing",
+    "url": "https://www.cloudmersive.com/nlp-api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Natural language processing and text analysis",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Semantria",
+    "url": "https://semantria.readme.io/docs",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Text Analytics with sentiment analysis, categorization & named entity extraction",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Watson Natural Language Understanding",
+    "url": "https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Natural language processing for advanced text analysis",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Stock Sentiment",
+    "url": "https://api.adanos.org/docs",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Reddit & X/Twitter sentiment analysis for stocks with buzz scores",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "WallstreetBets",
+    "url": "https://dashboard.nbshare.io/apps/reddit/api/",
+    "auth": "No",
+    "category": "Finance",
+    "description": "WallstreetBets Stock Comments Sentiment Analysis",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Advanced Multilanguage AI Translator (RapidAPI)",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "AI-powered translator supporting multiple languages with fast, context-aware responses",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "AI For Thai",
+    "url": "https://aiforthai.in.th/index.php",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Free Various Thai AI API",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "AI Learning Engine",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Create, auto-grade, and analyze learning tasks with AI-based evaluations",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "AI/ML API",
+    "url": "https://aimlapi.com",
+    "auth": "Yes",
+    "category": "Machine Learning",
+    "description": "Access 100+ curated AI Models over 1 API",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Clarifai",
+    "url": "https://docs.clarifai.com/api-guide/api-overview",
+    "auth": "OAuth",
+    "category": "Machine Learning",
+    "description": "Computer Vision",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Cloudmersive",
+    "url": "https://www.cloudmersive.com/image-recognition-and-processing-api",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Image captioning, face recognition, NSFW classification",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Cohere",
+    "url": "https://docs.cohere.ai/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable.",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "CustomGPT.ai",
+    "url": "https://docs.customgpt.ai/reference/i-api-homepage",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "RAG API with RESTful endpoints, comprehensive SDKs, and enterprise-grade reliability.",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Deepcode",
+    "url": "https://www.deepcode.ai",
+    "auth": "No",
+    "category": "Machine Learning",
+    "description": "AI for code review",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Dialogflow",
+    "url": "https://cloud.google.com/dialogflow/docs/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Natural Language Processing",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "DiffusionBee",
+    "url": "https://diffusionbee.com",
+    "auth": "No",
+    "category": "Machine Learning",
+    "description": "Stable Diffusion text-to-image generation",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Eden",
+    "url": "https://www.edenai.co/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Get all AI models in one place, e.g. OpenAI, Google and lots more!",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "EXUDE-API",
+    "url": "http://uttesh.com/exude-api",
+    "auth": "No",
+    "category": "Machine Learning",
+    "description": "Used for the primary ways for filtering the stopping, stemming words from the text data",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Face-api.js",
+    "url": "https://github.com/justadudewhohacks/face-api.js",
+    "auth": "No",
+    "category": "Machine Learning",
+    "description": "JavaScript API for face detection, recognition, and emotion analysis using TensorFlow.js",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Gladia",
+    "url": "https://docs.gladia.io",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Artificial intelligence API's",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "HOL Registry Broker",
+    "url": "https://hol.org/docs/registry-broker/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Discovery API for AI agents & MCP servers (search, verify, UAID, chat)",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Hugging Face Datasets",
+    "url": "https://huggingface.co/docs/datasets",
+    "auth": "No",
+    "category": "Machine Learning",
+    "description": "Access and share datasets for ML",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Hugging Face Models Hub",
+    "url": "https://huggingface.co/docs/hub",
+    "auth": "No",
+    "category": "Machine Learning",
+    "description": "Discover and use pre-trained models",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Imagga",
+    "url": "https://imagga.com/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Image Recognition Solutions like Tagging, Visual Search, NSFW moderation",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Inferdo",
+    "url": "https://rapidapi.com/user/inferdo",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Computer Vision services like Facial detection, Image labeling, NSFW classification",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Irisnet",
+    "url": "https://irisnet.de/api/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Realtime content moderation API that blocks or blurs unwanted images in real-time",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "jsonAi.cloud",
+    "url": "https://jsonai.cloud",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Save JSON schemas as api endpoints, feed it with your data and get structured JSON responses with AI",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Keen IO",
+    "url": "https://keen.io/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Data Analytics",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Machinetutors",
+    "url": "https://machinetutors.com/api/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "MessengerX.io",
+    "url": "https://messengerx.rtfd.io",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "A FREE API for developers to build and monetize personalized ML based chat apps",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "NLP Cloud",
+    "url": "https://nlpcloud.io",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "OpenAI",
+    "url": "https://openai.com/index/openai-api",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Perspective",
+    "url": "https://perspectiveapi.com",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "NLP API to return probability that if text is toxic, obscene, insulting or threatening",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Replicate",
+    "url": "https://replicate.com/docs/reference/http",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Run and deploy machine learning models in the cloud",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Roboflow Universe",
+    "url": "https://universe.roboflow.com",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Pre-trained computer vision models",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "SkyBiometry",
+    "url": "https://skybiometry.com/documentation/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Face Detection, Face Recognition and Face Grouping",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Spam Hunter",
+    "url": "https://spam-hunter.ru/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Free service to classify text as spam using ML",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Unplugg",
+    "url": "https://unplu.gg/test_api.html",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Forecasting API for timeseries data",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Wit.ai",
+    "url": "https://wit.ai/",
+    "auth": "OAuth",
+    "category": "Machine Learning",
+    "description": "Natural Language Processing",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "WolframAlpha",
+    "url": "https://products.wolframalpha.com/api/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Provides specific answers to questions using data and algorithms",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "Crun API Overview",
+    "url": "https://docs.crun.ai/",
+    "auth": "No",
+    "category": "Music",
+    "description": "The Crun API provides access to a wide range of AI models for tasks such as image generation, video creation, and audio processing through a unified platform. Developers can easily integrate these cap",
+    "service_pattern": "AI/ML"
+  },
+  {
+    "name": "RiskSentinel",
+    "url": "https://risksentinel.ai",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "AI-powered news intelligence API delivering structured events with risk assessment, sentiment analysis, company impacts, geo tagging, ai generated summary and more",
+    "service_pattern": "AI/ML"
+  }
+]

@@ -1,0 +1,1706 @@
+[
+  {
+    "name": "Free Elevation API",
+    "url": "https://www.elevation-api.eu/",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "This API provides access to elevation data for any point on Earth without any cost. Users can retrieve elevation information by making GET requests with latitude and longitude parameters.",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Abstract IP Geolocation",
+    "url": "https://www.abstractapi.com/ip-geolocation-api",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Geolocate website visitors from their IPs",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Actinia Grass GIS",
+    "url": "https://actinia.mundialis.de/api_docs/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Actinia is an open source REST API for geographical data that uses GRASS GIS",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Address Lookup Service",
+    "url": "https://data.gov.hk/en-data/dataset/hk-dpo-als_01-als/resource/210c2cc9-1172-4529-a82b-f10107513e9c",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The Address Lookup Service API provides a means for users to retrieve address records based on input address information. Users can submit both GET and POST requests to search for address details usin",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "administrative-divisons-db",
+    "url": "https://github.com/kamikazechaser/administrative-divisions-db",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get all administrative divisions of a country",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "adresse.data.gouv.fr",
+    "url": "https://adresse.data.gouv.fr",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Address database of France, geocoding and reverse",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Airtel IP",
+    "url": "https://aether.epias.ltd/ip2country/1.1.1.1/?full=true",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "IP Geolocation API. Collecting data from multiple sources",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Apiip",
+    "url": "https://apiip.net/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Get location information by IP address",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "ArcGIS Hub - World Countries Generalized",
+    "url": "https://hub.arcgis.com/datasets/2b93b06dc0dc4e809d3c8db5cb96ba69_0/about",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The World Countries Generalized layer provides a simplified representation of global country boundaries, optimized for performance and visibility at broader scales (1:5,000,000 and beyond). Developed ",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Arul's IP API",
+    "url": "https://aruljohn.com/api/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get your IP Address using this API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Battuta",
+    "url": "http://battuta.medunes.net",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "A (country/region/city) in-cascade location API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "BigDataCloud's Free API",
+    "url": "https://www.bigdatacloud.com//free-api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get free client-side reverse geocoding API and Client Info API. No account creation and API key required.",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "BigDataCloud's IP Geolocation API",
+    "url": "https://www.bigdatacloud.com/ip-geolocation",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Provides fast and accurate IP geolocation APIs along with security checks and confidence area.",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "BigDataCloud's Network Engineering API",
+    "url": "https://www.bigdatacloud.com/network-engineering",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Get detailed ASN and Network lookup of an IP address.",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "BigDataCloud's Reverse Geocoding API",
+    "url": "https://www.bigdatacloud.com/reverse-geocoding",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Get rich locality information from the geographical coordinates.",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Bing Maps",
+    "url": "https://www.microsoft.com/maps/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Create/customize digital maps based on Bing Maps data",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "bng2latlong",
+    "url": "https://www.getthedata.com/bng2latlong",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Cartes.io",
+    "url": "https://github.com/M-Media-Group/Cartes.io/wiki/API",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Create maps and markers for anything",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Cep.la",
+    "url": "http://cep.la",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "CitySDK",
+    "url": "http://www.citysdk.eu/citysdk-toolkit",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Open APIs for select European cities",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Company Search API",
+    "url": "https://recherche-entreprises.api.gouv.fr/docs/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The Company Search API allows users to find a company, association, or public service in France using various search criteria such as name, address, and leaders or elected officials. The API is fully ",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Countries & Cities API",
+    "url": "https://documenter.getpostman.com/view/1134062/T1LJjU52",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Provides population and geographical data for countries and cities. Use it to get detailed information on populations, locations, flags, currencies, capitals, and more. Access endpoints to retrieve si",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Country",
+    "url": "http://country.is",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get your visitor's country from their IP",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "CountryStateCity",
+    "url": "https://countrystatecity.in/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Daum Maps",
+    "url": "http://apis.map.daum.net/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Daum Maps provide multiple APIs for Korean maps",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Ducks Unlimited",
+    "url": "https://gis.ducks.org/datasets/du-university-chapters/api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "API explorer that gives a query URL with a JSON response of locations and cities",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Free Jobs API",
+    "url": "https://docs.joinrise.co/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The Free Jobs API provides access to a comprehensive database of job listings across various industries. It allows users to retrieve job details, including title, location, salary, and requirements, h",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "FreeGeoIP",
+    "url": "https://freegeoip.app/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Free geo ip information, no registration required. 15k/hour rate limit",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "GeoAdmin Search API",
+    "url": "https://docs.geo.admin.ch/access-data/search.html",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API allows users to search for locations, layers, or features using either text search or bounding box parameters. It supports three types of searches: location search, layer search, and feature ",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "GeoApi",
+    "url": "https://api.gouv.fr/api/geoapi.html",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "French geographical data",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Geoapify",
+    "url": "https://www.geoapify.com/api/geocoding-api/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Forward and reverse geocoding, address autocomplete",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Geocod.io",
+    "url": "https://www.geocod.io/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Address geocoding / reverse geocoding in bulk",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Geocode.xyz",
+    "url": "https://geocode.xyz/api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Geocodify.com",
+    "url": "https://geocodify.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Worldwide geocoding, geoparsing and autocomplete for addresses",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Geodata.gov.gr",
+    "url": "https://geodata.gov.gr/en/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Open geospatial data and API service for Greece",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "GeoDataSource",
+    "url": "https://www.geodatasource.com/web-service",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Geocoding of city name by using latitude and longitude coordinates",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "GeoDB Cities",
+    "url": "http://geodb-cities-api.wirefreethought.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Get global city, region, and country data",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "GeoDescription",
+    "url": "https://geodescription.com",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Reverse geocoding - Converting geographic coordinates to address-like location description",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "GeographQL",
+    "url": "https://geographql.netlify.app",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "A Country, State, and City GraphQL API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "GeoJS",
+    "url": "https://www.geojs.io",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "IP geolocation with ChatOps integration",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Geokeo",
+    "url": "https://geokeo.com",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Geokeo geocoding service- with 2500 free api requests daily",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Geolocated",
+    "url": "https://geolocated.io",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Free IP Geolocation API with multi-continent servers, and 60000 free requests/month",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "GeoNames",
+    "url": "http://www.geonames.org/export/web-services.html",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Place names and other geographical data",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "geoPlugin",
+    "url": "https://www.geoplugin.com",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "IP geolocation and currency conversion",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Google Earth Engine",
+    "url": "https://developers.google.com/earth-engine/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "A cloud-based platform for planetary-scale environmental data analysis",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Google Maps",
+    "url": "https://developers.google.com/maps/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Create/customize digital maps based on Google Maps data",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Graph Countries",
+    "url": "https://github.com/lennertVanSever/graphcountries",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Country-related data like currencies, languages, flags, regions+subregions and bordering countries",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Hello as Service",
+    "url": "https://hellosalut.stefanbohacek.dev/hello/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API allows developers to greet visitors in their native language by utilizing their IP address or browser language settings. By making a simple API call, you can receive localized greetings based",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "HelloSalut",
+    "url": "https://fourtonfish.com/project/hellosalut-api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get hello translation following user language",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "HERE Maps",
+    "url": "https://developer.here.com",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Create/customize digital maps based on HERE Maps data",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Hong Kong GeoData Store",
+    "url": "https://geodata.gov.hk/gs/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "API for accessing geo-data of Hong Kong",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IBGE",
+    "url": "https://servicodados.ibge.gov.br/api/docs",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Aggregate services of IBGE (Brazilian Institute of Geography and Statistics)",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IIN Lookup API",
+    "url": "https://iinapi.com/iin_api_specs.yaml",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API retrieves metadata about credit or debit cards based on the initial digits (IIN/BIN) of the card number. Users can obtain information like the card brand, issuing institution, and country by ",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "InternetDB API",
+    "url": "https://internetdb.shodan.io",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The InternetDB API enables fast lookups of open ports for specific IP addresses, providing insights into the devices using those addresses. It also includes vulnerability metadata to help users assess",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IP (LabStack)",
+    "url": "http://labstack.com/ip",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Lookup country, region, city, time-zone, currency and language of an IP",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IP Address Lookup",
+    "url": "https://ipty.org",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides the public IP address of a user along with their network information. It allows users to easily find and share their IP address using a simple HTTP request.",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IP Data API",
+    "url": "https://ipapi.is/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "ipapi.is provides a comprehensive API for obtaining detailed information on IP addresses, including geolocation, hosting provider data, and detection of VPNs, proxies, and abusive behavior. The API is",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IP Geolocation & Currency Converter",
+    "url": "https://www.geoplugin.com/webservices/json",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The JSON IP Geolocation API allows you to determine the geographical location of visitors based on their IP addresses. It provides detailed location data such as country, region, city, and coordinates",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IP Geolocation API",
+    "url": "https://ip-api.com/docs/api:json",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API allows users to retrieve geolocation information from an IP address or domain name. It provides details such as country, city, region, latitude, longitude, and more in a JSON format without r",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IP Location",
+    "url": "http://ip-api.com/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Find location with ip address",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IP2Location",
+    "url": "https://www.ip2location.com/web-service/ip2location",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "IP geolocation web service to get more than 55 parameters",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IP2Location.io",
+    "url": "https://www.ip2location.io",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Bundle of Free IP geolocation and WHOIS API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IP2Proxy",
+    "url": "https://www.ip2location.com/web-service/ip2proxy",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Detect proxy and VPN using IP address",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "ipapi.co IP Location",
+    "url": "https://ipapi.co/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Find IP address location information",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "ipgeolocation",
+    "url": "https://ipgeolocation.io/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "IP Geolocation AP with free plan 30k requests per month",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IPGeolocationAPI.com",
+    "url": "https://ipgeolocationapi.com/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Locate your visitors by IP with country details",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IPInfoDB",
+    "url": "https://www.ipinfodb.com/api",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "ipstack",
+    "url": "https://ipstack.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Locate and identify website visitors by IP address",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IPWho IP Geolocation API",
+    "url": "https://www.ipwho.org/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency.",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IPWhois",
+    "url": "https://ipwhois.io",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "IP geolocation and IP intelligence API providing location, ISP, ASN, and proxy detection data for IPv4 and IPv6 addresses",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "IsItWater",
+    "url": "https://IsItWater.com/",
+    "auth": "rapidapi-key",
+    "category": "Geocoding",
+    "description": "A free API to determine if a lat/lon is on water or land",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "ISO 3166 Updates API",
+    "url": "https://iso3166-updates.vercel.app/api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Access all of the current and historical ISO 3166 changes data",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "ISO 3166-2 API",
+    "url": "https://iso3166-2-api.vercel.app/api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Access all of the world's subdivision/regional ISO 3166-2 codes",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "ISS Current Location",
+    "url": "http://open-notify.org/Open-Notify-API/ISS-Location-Now/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Provides the current location of the International Space Station including latitude, longitude, and timestamp. Offers both JSON and JSONP formats for easy access. Users are advised to poll the API no ",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Kakao Maps",
+    "url": "https://apis.map.kakao.com",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Kakao Maps provide multiple APIs for Korean maps",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "keycdn IP Location Finder",
+    "url": "https://tools.keycdn.com/geo",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Get the IP geolocation data through the simple REST API. All the responses are JSON encoded",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Kölner Adressen API",
+    "url": "https://offenedaten-koeln.de/dataset/adressen-k%C3%B6ln",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides access to a dataset containing addresses within the city of Cologne. It includes geospatial information and various formats for data retrieval, enabling navigation and analysis of ge",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "LocationIQ",
+    "url": "https://locationiq.org/docs/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Provides forward/reverse geocoding and batch geocoding",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Longdo Map",
+    "url": "https://map.longdo.com/docs/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Interactive map with detailed places and information portal in Thailand",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "MapAtlas",
+    "url": "https://mapatlas.eu/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Geocoding, routing, map tiles, directions, and route optimization APIs. EU-hosted",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Mapbox",
+    "url": "https://docs.mapbox.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Create/customize beautiful digital maps",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "MapQuest",
+    "url": "https://developer.mapquest.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "To access tools and resources to map the world",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Metadapi Zip Code",
+    "url": "https://www.metadapi.com/API-Products/Zip-Code-API",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Enhanced United States zip code information. Census, IRS, demographics, radius, distances and more",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Mexico",
+    "url": "https://github.com/IcaliaLabs/sepomex",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Mexico RESTful zip codes API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Nominatim",
+    "url": "https://nominatim.org/release-docs/develop/api/Overview",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Search OSM data by name and address",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "One Map, Singapore",
+    "url": "https://www.onemap.gov.sg/docs/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Singapore Land Authority REST API services for Singapore addresses",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "OnWater",
+    "url": "https://onwater.io",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Determine if a lat/lon is on water or land",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Open Topo Data",
+    "url": "https://www.opentopodata.org",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Elevation and ocean depth for a latitude and longitude",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "OpenCage",
+    "url": "https://opencagedata.com",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Forward and reverse geocoding using open data",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "OpenPLZ API",
+    "url": "https://www.openplzapi.org/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "A public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland via an open REST API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "openrouteservice.org",
+    "url": "https://openrouteservice.org/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Directions, POIs, isochrones, geocoding (+reverse), elevation, and more",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "OpenStreetMap",
+    "url": "https://wiki.openstreetmap.org/wiki/API",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Navigation, geolocation and geographical data",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "osu! beatmap API",
+    "url": "https://osu.direct/api/docs",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Search, discover, and download osu! beatmaps effortlessly.",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Parking St.Gallen",
+    "url": "https://daten.stadt.sg.ch/explore/dataset/freie-parkplatze-in-der-stadt-stgallen-pls/api/?disjunctive.phid&disjunctive.phname",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Allows searching and downloading parking records in Stadt St.Gallen with various parameters. Data includes parking locations, availability, occupancy, and more.",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Phone Number Validator",
+    "url": "https://api.numlookupapi.com/v1/validate/01613950781?apikey=num_live_Nf2vjeM19tHdi42qQ2LaVVMg2IGk1ReU2BYBKnvm&country_code=BD",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API validates phone numbers, providing details such as the local and international format. It identifies the country, carrier, and line type for the given number, ensuring accurate communication.",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Pinball Map",
+    "url": "https://pinballmap.com/api/v1/docs",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "A crowdsourced map of public pinball machines",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Pointpin",
+    "url": "https://pointp.in",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Pointpin is a simple yet powerful API designed for high traffic websites to deliver fast and reliable IP geolocation for your websites and applications.",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Postali",
+    "url": "https://postali.app/api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Mexico Zip Codes API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Postcode API",
+    "url": "https://postcodes.io",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Postcode lookup & Geolocation for the UK",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "PostcodeData.nl",
+    "url": "http://api.postcodedata.nl/v1/postcode/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Provide geolocation data based on postcode for Dutch addresses",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Proweblook IP Checker",
+    "url": "https://proweblook.com/ipapi",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Proweblook lookup & Geolocation",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Red Tide Information",
+    "url": "https://data.gov.hk/en-data/dataset/hk-afcd-afcdlist-red-tide-location",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides updated information on red tides sighted in Hong Kong waters, including species and location. It facilitates access to datasets for both commercial and non-commercial use, ensuring t",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Represent Officials API",
+    "url": "https://represent.opennorth.ca/api/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides access to information about elected officials and electoral districts in Canada. Users can find representatives based on postal codes or geographical coordinates, retrieve boundary s",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "REST Countries",
+    "url": "https://restcountries.com",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get information about countries via a RESTful API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "RoadGoat Cities",
+    "url": "https://www.roadgoat.com/business/cities-api",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Cities content & photos API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Rwanda Locations",
+    "url": "https://rapidapi.com/victorkarangwa4/api/rwanda",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Rwanda Provences, Districts, Cities, Capital City, Sector, cells, villages and streets",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Shame as a Service",
+    "url": "https://github.com/prakhardubey2002/shame-as-a-service/blob/main/README.md",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "A simple NestJS API that delivers country-specific shame messages. Perfect for adding a bit of humor to your applications or motivating your team with culturally-aware shame quotes.",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "SLF",
+    "url": "https://github.com/slftool/slftool.github.io/blob/master/API.md",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "German city, country, river, database",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "SmartIP.io",
+    "url": "https://smartip.io",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "IP Geolocation and Threat Intelligence API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "SpotSense",
+    "url": "https://spotsense.io/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Add location based interactions to your mobile app",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Telize",
+    "url": "https://rapidapi.com/fcambus/api/telize/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Telize offers location information from any IP address",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Timezones Dictionary API",
+    "url": "https://apyhub.com/utility/data-lists-timezone",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "This API returns a list of all available timezones for your application",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "TomTom",
+    "url": "https://developer.tomtom.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Maps, Directions, Places and Traffic APIs",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Uebermaps",
+    "url": "https://uebermaps.com/api/v2",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Discover and share maps with friends",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "US ZipCode",
+    "url": "https://www.smarty.com/docs/cloud/us-zipcode-api",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Validate and append data for any US ZipCode",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "User Data Scraper",
+    "url": "https://leakcheck.net/api/public?check=example",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API allows users to scrape and retrieve user data from various online sources. It gathers a wide range of user information including names, addresses, phone numbers, and more, which can be utiliz",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Utah AGRC",
+    "url": "https://api.mapserv.utah.gov",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Utah Web API for geocoding Utah addresses",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "UV Index API",
+    "url": "https://data.gov.sg/datasets?formats=API&sort=relevancy&page=1&resultId=d_1b676cd174a9af4704fdb3f9aa58ff5e#tag/default/GET/uv",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The UV Index API provides real-time data on ultraviolet index levels for various locations in Singapore. Users can retrieve the latest UV index information updated every hour between 7 AM and 7 PM. Th",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "ViaCep",
+    "url": "https://viacep.com.br",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Brazil RESTful zip codes API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Visitor Statistics API",
+    "url": "https://data.gov.hk/en-data/dataset/hk-censtatd-tablechart-650-80001",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides access to data regarding visitor arrivals in Hong Kong by country and region of residence. Users can retrieve this data in various formats including JSON, CSV, and XLSX for analysis ",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "What3Words",
+    "url": "https://what3words.com",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Three words as rememberable and unique coordinates worldwide",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Yandex.Maps Geocoder",
+    "url": "https://yandex.com/dev/maps/geocoder",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Use geocoding to get an object's coordinates from its address",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "ZipCodeAPI",
+    "url": "https://www.zipcodeapi.com",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "US zip code distance, radius and location API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Zipcodestack",
+    "url": "https://zipcodestack.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Zip Code API - Free Postal Code Validation",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Zippopotam.us",
+    "url": "http://www.zippopotam.us",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get information about place such as country, city, state, etc",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Ziptastic",
+    "url": "https://ziptasticapi.com",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get the country, state, and city of any US zip-code",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Sunrise-Sunset",
+    "url": "https://sunrise-sunset.org/api",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Sunset and sunrise times for a given latitude and longitude",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Accommodation API",
+    "url": "https://databrowser.opendatahub.com/dataset-overview/7c8f490d-7b54-4a88-801f-f7669f5aaed9",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API provides access to a comprehensive dataset of accommodations, including hotels, guesthouses, and similar types of lodging. Users can retrieve information on various accommodation options, fac",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "ADS-B Exchange",
+    "url": "https://www.adsbexchange.com/data",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Access real-time and historical data of any and all airborne aircraft",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "adsbdb",
+    "url": "https://www.adsbdb.com",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Open access to aircraft, airline, and flight route data",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Aero Key, India",
+    "url": "https://aerokey-api.vercel.app/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Indian Domestic Airport Data",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "airportsapi",
+    "url": "https://airport-web.appspot.com/api/docs",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Get name and website-URL for airports by ICAO code",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "AIS Hub",
+    "url": "http://www.aishub.net/api",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Real-time data of any marine and inland vessel equipped with AIS tracking system",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Amadeus for Developers",
+    "url": "https://developers.amadeus.com/self-service",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "Travel Search - Limited usage",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Amadeus Travel Innovation Sandbox",
+    "url": "https://sandbox.amadeus.com/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Travel Search - Limited usage",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "ArcNautical Vessel Check",
+    "url": "https://github.com/SaltyTaro/vessel-check-api",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Vessel sanctions screening, ownership transparency scoring, and vetting intelligence",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "AviationAPI",
+    "url": "https://docs.aviationapi.com",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "AZ511",
+    "url": "https://www.az511.com/developers/doc",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Access traffic data from the ADOT API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "BC Ferries",
+    "url": "https://www.bcferriesapi.ca",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Sailing times and capacities for BC Ferries",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "BIC-Boxtech",
+    "url": "https://docs.bic-boxtech.org/",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "Container technical detail for the global container fleet",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Boston MBTA Transit",
+    "url": "https://www.mbta.com/developers/v3-api",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Stations and predicted arrivals for MBTA",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Brasil API",
+    "url": "https://brasilapi.com.br/docs",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Acesso programático de informações relacionadas a CEPs, bancos, CNPJ, IBGE, feriados nacionais, tabela FIPE e muito mais, fornecendo endpoints modernos com baixa latência. Este projeto busca centraliz",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Chinese Medicine Clinics",
+    "url": "https://data.gov.hk/en-data/dataset/hospital-hadata-service-cmctr",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API provides access to the attendance data of Chinese medicine clinics and training and research centers. Users can access datasets including annual attendances categorized by languages such as E",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "CityBikes",
+    "url": "https://api.citybik.es",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Bike share data from around the world",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Community Transit",
+    "url": "https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Transitland API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Company Enrich API",
+    "url": "https://docs.companyenrich.com",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "The Company Enrich API provides businesses with enriched, actionable insights about companies. It offers endpoints for company enrichment, search, and discovering similar companies, enabling users to ",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "CTS",
+    "url": "https://api.cts-strasbourg.eu/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "CTS Realtime API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Dymo API Introduction",
+    "url": "https://tpe.li/D-DMAPI",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "The Dymo API provides a comprehensive solution for businesses by integrating security, AI, marketing, and analytics into a single platform. It allows users to validate data, detect malicious activity,",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Flight Fare Search",
+    "url": "https://rapidapi.com/farish978/api/flight-fare-search",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Search for realtime flight fares across destinations",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Fuel Prices at Spanish Gas Stations",
+    "url": "https://datos.gob.es/en/apidata",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Provides information about fuel prices at gas stations in Spain",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Game Data API",
+    "url": "https://fitgirlapi.onrender.com",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API serves as a robust backend for aggregating game data by merging metadata from Steam with download links from the FitGirl Repacks website. It provides endpoints to retrieve popular games and d",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Grab",
+    "url": "https://developer.grab.com/docs/",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "Track deliveries, ride fares, payments and loyalty points",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "GraphHopper",
+    "url": "https://docs.graphhopper.com/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "A-to-B routing with turn-by-turn instructions",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Icelandic APIs",
+    "url": "http://docs.apis.is",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Open APIs that deliver services in or regarding Iceland",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Izi",
+    "url": "http://api-docs.izi.travel/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Audio guide for travellers",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Konkan Railway Live Train Position",
+    "url": "https://konkan-railway-api.vercel.app/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Realtime data for trains on India's Konkan Railway",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Land Transport Authority DataMall, Singapore",
+    "url": "https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Singapore transport information",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Las Vegas City API",
+    "url": "https://www.lasvegasnevada.gov/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API provides access to various city services, resources, and information for residents, visitors, and businesses in Las Vegas. Users can retrieve data about city events, government initiatives, p",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Mentality Skill Training",
+    "url": "https://melodious-squirrel-e72cff.netlify.app/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API provides resources and tools focused on improving mental skills and techniques for athletes. It offers structured training methods that cater specifically to enhancing cognitive abilities in ",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Metro Lisboa",
+    "url": "http://app.metrolisboa.pt/status/getLinhas.php",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Delays in subway lines",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "MTA",
+    "url": "https://api.mta.info/#/subwayRealTimeFeeds",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "MTA Subway Realtime Feeds",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Navitia",
+    "url": "https://navitia.io",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Multimodal public transport routing",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Oldest People Records API",
+    "url": "https://whoistheoldest.com/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API provides information about the oldest living person and the oldest person ever recorded. It manages local data, allowing updates and constraints such as birth date limits and country of origi",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Open Charge Map",
+    "url": "https://openchargemap.org/site/en/api",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Global EV charging stations: locations, status, operators",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "OpenSky Network API",
+    "url": "https://openskynetwork.github.io/opensky-api/rest.html",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Retrieve state vectors, flights, and tracks for the whole network, a particular sensor, or a specific aircraft. Rate limits apply for certain API calls, and restrictions vary for anonymous and OpenSky",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "OVAPI Netherlands Transport",
+    "url": "https://github.com/skywave/KV78Turbo-OVAPI/wiki",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "OVAPI, country-wide public transport",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Passantenfrequenz Stadt St.Gallen",
+    "url": "https://daten.stadt.sg.ch/explore/dataset/fussganger-stgaller-innenstadt-vadianstrasse/information/?disjunctive.tag_nr&disjunctive.wochentag&disjunctive.arbeitstag&sort=measured_at",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Measures pedestrian traffic in St. Gallen, showing the number of pedestrians passing by a sensor on Vadianstrasse.",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "PikaSim",
+    "url": "https://pikasim.com/reseller/api-docs",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Purchase travel eSIMs programmatically for 190+ countries",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Railway Transport for France",
+    "url": "https://www.digital.sncf.com/startup/api",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "SNCF public API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "REFUGE Restrooms",
+    "url": "https://www.refugerestrooms.org/api/docs",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Provides safe restroom access for transgender, intersex and gender nonconforming individuals",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Sabre for Developers",
+    "url": "https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Travel Search - Limited usage",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Schiphol Airport",
+    "url": "https://developer.schiphol.nl/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Schiphol",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Shodan EntityDB API",
+    "url": "https://entitydb.shodan.io/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "The Shodan EntityDB API provides fast lookups for business entities, offering a centralized repository of financial overviews and executive information for entities listed in the US. Access critical f",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Swedavia Airports",
+    "url": "https://apideveloper.swedavia.se/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Airport and flight information of Swedish Airports operated by Swedavia",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Swiss Public Transport",
+    "url": "https://transport.opendata.ch/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Swiss public transport API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Tankerkoenig",
+    "url": "https://creativecommons.tankerkoenig.de/swagger/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "German realtime gas/diesel prices",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Trackr TMS",
+    "url": "https://rapidapi.com/jccm6/api/trackr-tms",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Trackr API makes it easy to create, assign, and track shipments, with driver support, movement history, and more",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "TransitLand",
+    "url": "https://www.transit.land/documentation/datastore/api-endpoints.html",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Transit Aggregation",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Atlanta, US",
+    "url": "http://www.itsmarta.com/app-developer-resources.aspx",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Marta",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Auckland, New Zealand",
+    "url": "https://dev-portal.at.govt.nz",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Auckland Transport",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Belgium",
+    "url": "https://docs.irail.be",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "The iRail API is a third-party API for Belgian public transport by train",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Berlin, Germany",
+    "url": "https://github.com/derhuerst/vbb-rest/blob/5/docs/api.md",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Third-party VBB API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Bordeaux, France",
+    "url": "https://opendata.bordeaux-metropole.fr/explore/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Bordeaux Métropole public transport and more (France)",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Budapest, Hungary",
+    "url": "https://bkkfutar.docs.apiary.io",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Budapest public transport API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Chicago, US",
+    "url": "http://www.transitchicago.com/developers/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Chicago Transit Authority (CTA)",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Czech Republic",
+    "url": "https://www.chaps.cz/eng/products/idos-internet",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Czech transport API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Finland",
+    "url": "https://digitransit.fi/en/developers",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Finnish transport API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Grenoble, France",
+    "url": "https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Grenoble public transport",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Hessen, Germany",
+    "url": "https://opendata.rmv.de/site/start.html",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "RMV API (Public Transport in Hessen)",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Honolulu, US",
+    "url": "http://hea.thebus.org/api_info.asp",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Honolulu Transportation Information",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for India",
+    "url": "https://data.gov.in/sector/transport",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "India Public Transport API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Lisbon, Portugal",
+    "url": "https://emel.city-platform.com/opendata/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Data about buses routes, parking and traffic",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for London, England",
+    "url": "https://api.tfl.gov.uk",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "TfL API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Manchester, England",
+    "url": "https://developer.tfgm.com/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "TfGM transport network data",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Norway",
+    "url": "https://developer.entur.org",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Transport APIs and dataset for Norway",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Ottawa, Canada",
+    "url": "https://www.octranspo.com/en/plan-your-trip/travel-tools/developers",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "OC Transpo API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Paris, France",
+    "url": "http://data.ratp.fr/api/v1/console/datasets/1.0/search",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "RATP Open Data API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Philadelphia, US",
+    "url": "http://www3.septa.org/hackathon/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "SEPTA APIs",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Sao Paulo, Brazil",
+    "url": "http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "SPTrans",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Spain",
+    "url": "https://data.renfe.com/api/1/util/snippet/api_info.html",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Public trains of Spain",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Sweden",
+    "url": "https://www.trafiklab.se/api",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "Public Transport consumer",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Switzerland",
+    "url": "https://opentransportdata.swiss/en/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Official Swiss Public Transport Open Data",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for The Netherlands",
+    "url": "http://www.ns.nl/reisinformatie/ns-api",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "NS, only trains",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Toronto, Canada",
+    "url": "https://myttc.ca/developers",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "TTC",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for UK",
+    "url": "https://developer.transportapi.com",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Transport API and dataset for UK",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for United States",
+    "url": "https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "NextBus API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Vancouver, Canada",
+    "url": "https://developer.translink.ca/",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "TransLink",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Transport for Washington, US",
+    "url": "https://developer.wmata.com/",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "Washington Metro transport API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "transport.rest",
+    "url": "https://transport.rest",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Community maintained, developer-friendly public transport API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Tripadvisor",
+    "url": "https://developer-tripadvisor.com/home/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Rating content for a hotel, restaurant, attraction or destination",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Uber",
+    "url": "https://developer.uber.com/products",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "Uber ride requests and price estimation",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "Velib metropolis, Paris, France",
+    "url": "https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Velib Open Data API",
+    "service_pattern": "Geospatial"
+  },
+  {
+    "name": "VOLO",
+    "url": "https://www.flyvolo.ai/for-agents",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Private aviation charter search, quotes, fleet, and empty legs",
+    "service_pattern": "Geospatial"
+  }
+]

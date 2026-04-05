@@ -1,0 +1,2906 @@
+[
+  {
+    "name": "Swiss Federal Railways (SBB)",
+    "url": "https://data.sbb.ch/explore/dataset/ist-daten-sbb/api/?flg=de-ch",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "This API provides departure, delay, and cancellation data from the Swiss Federal Railways (SBB) for the previous day. It compares scheduled (soll) vs. actual (ist) operations.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Bitquery",
+    "url": "https://graphql.bitquery.io/ide",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Onchain GraphQL APIs & DEX APIs",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Bscscan",
+    "url": "https://bscscan.com/apis",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Binance Smart Chain explorer API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Chainlink",
+    "url": "https://chain.link/developer-resources",
+    "auth": "No",
+    "category": "Blockchain",
+    "description": "Build hybrid smart contracts with Chainlink",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Chainpoint",
+    "url": "https://tierion.com/chainpoint",
+    "auth": "No",
+    "category": "Blockchain",
+    "description": "Chainpoint is a global network for anchoring data to the Bitcoin blockchain",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Covalent",
+    "url": "https://www.covalenthq.com/docs/api/",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Multi-blockchain data aggregator platform",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Etherscan",
+    "url": "https://etherscan.io/apis",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Ethereum explorer API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "GetBlock",
+    "url": "https://getblock.io/",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Blockchain RPC Node provider that supports over 50 multiple blockchains",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Helium",
+    "url": "https://docs.helium.com/api/blockchain/introduction",
+    "auth": "No",
+    "category": "Blockchain",
+    "description": "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Layer4",
+    "url": "https://www.layer4.app/api-docs",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Layer4 is a blockchain integration platform that supports no-code and API use",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Nownodes",
+    "url": "https://nownodes.io/",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Blockchain-as-a-service solution that provides high-quality connection via API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "The Graph",
+    "url": "https://thegraph.com",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Indexing protocol for querying networks like Ethereum with GraphQL",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Watchdata",
+    "url": "https://docs.watchdata.io",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Provide simple and reliable API access to Ethereum blockchain",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "1inch",
+    "url": "https://1inch.io/api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "API for querying decentralize exchange",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Agent Gateway API",
+    "url": "https://agent-gateway-kappa.vercel.app",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Agent Gateway API provides a unified interface to over 39 production-ready services designed for AI agents. These services include crypto wallets, DeFi trading, file storage, code execution, and more,",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Alchemy Ethereum",
+    "url": "https://docs.alchemy.com/alchemy/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Ethereum Node-as-a-Service Provider",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Binance",
+    "url": "https://github.com/binance/binance-spot-api-docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Exchange for Trading Cryptocurrencies based in China",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "BitcoinAverage",
+    "url": "https://apiv2.bitcoinaverage.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Digital Asset Price Data for the blockchain industry",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Bitfinex",
+    "url": "https://docs.bitfinex.com/docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Bithumb",
+    "url": "https://apidocs.bithumb.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Bitmex",
+    "url": "https://www.bitmex.com/app/apiOverview",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Real-Time Cryptocurrency derivatives trading platform based in Hong Kong",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Block",
+    "url": "https://block.io/docs/basic",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin Payment, Wallet & Transaction Data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "BlockBee",
+    "url": "https://docs.blockbee.io/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Payment Processor",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Blockchain",
+    "url": "https://www.blockchain.com/api",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin Payment, Wallet & Transaction Data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Blockchain.info",
+    "url": "https://blockchain.info/api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin blockchain explorer",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "BlockFacts",
+    "url": "https://blockfacts.io/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Real-time crypto data from multiple exchanges via a single unified API, and much more",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "blockfrost Cardano",
+    "url": "https://blockfrost.io/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Interaction with the Cardano mainnet and several testnets",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Brave NewCoin",
+    "url": "https://bravenewcoin.com/developers",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Real-time and historic crypto data from more than 200+ exchanges",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "BtcTurk",
+    "url": "https://docs.btcturk.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Real-time cryptocurrency data, graphs and API that allows buy&sell",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Bybit",
+    "url": "https://bybit-exchange.github.io/docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency data feed and algorithmic trading",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CoinAPI",
+    "url": "https://docs.coinapi.io/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "All Currency Exchanges integrate under a single api",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Coinbase",
+    "url": "https://developers.coinbase.com",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Coinbase Pro",
+    "url": "https://docs.pro.coinbase.com/#api",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CoinCap",
+    "url": "https://docs.coincap.io/",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Real time Cryptocurrency prices through a RESTful API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CoinDCX",
+    "url": "https://docs.coindcx.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CoinDesk",
+    "url": "http://www.coindesk.com/api/",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin Price Index",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CoinGecko API",
+    "url": "https://api.coingecko.com/api/v3",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency prices, market caps, volumes (10,000+ assets)",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Coinigy",
+    "url": "https://coinigy.docs.apiary.io",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Interacting with Coinigy Accounts and Exchange Directly",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CoinLayer",
+    "url": "https://coinlayer.com",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Real-time Crypto Currency Exchange Rates",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Coinlib",
+    "url": "https://coinlib.io/apidocs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Crypto Currency Prices",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Coinlore",
+    "url": "https://www.coinlore.com/cryptocurrency-data-api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies prices, volume and more",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CoinMarketCap",
+    "url": "https://coinmarketcap.com/api/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Prices",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Coinpaprika",
+    "url": "https://api.coinpaprika.com",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies prices, volume and more",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CoinRanking",
+    "url": "https://developers.coinranking.com/api/documentation",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Live Cryptocurrency data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Coinremitter",
+    "url": "https://coinremitter.com/docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Payment & Prices",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CoinStats",
+    "url": "https://coinstats.app/api-docs/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Blockchain and DeFi across 120+ chains, market, historical data, portfolio tracking, news, sentiment, MCP, and agent skills",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CryptAPI",
+    "url": "https://docs.cryptapi.io",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Payment Processor",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CryptoCompare",
+    "url": "https://www.cryptocompare.com/api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Comparison",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CryptoLabel API",
+    "url": "https://cryptolabel.io/docs",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "The CryptoLabel API allows users to resolve blockchain addresses, identify their types, and retrieve associated labels and metadata. It supports several blockchains including Ethereum, Bitcoin, and Tr",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CryptoMarket",
+    "url": "https://api.exchange.cryptomkt.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Trading platform",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Currency Exchange API",
+    "url": "https://www.juheapi.com/api-catalog/exchange-rate",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Provides daily currency exchange rates and performs conversions between a wide range of global currencies and cryptos. This API allows applications to access real-time foreign exchange data, making it",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "DexPaprika",
+    "url": "https://api.dexpaprika.com",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Free DEX and DeFi data — pools, tokens, OHLCV, and trades across all chains",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "dYdX",
+    "url": "https://docs.dydx.exchange/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Decentralized cryptocurrency exchange",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Ethplorer",
+    "url": "https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "EXMO",
+    "url": "https://documenter.getpostman.com/view/10287440/SzYXWKPi",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies exchange based in UK",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Gateio",
+    "url": "https://www.gate.io/api2",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "API provides spot, margin and futures trading operations",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Gemini",
+    "url": "https://docs.gemini.com/rest-api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Exchange",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Huobi",
+    "url": "https://huobiapi.github.io/docs/spot/v1/en/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Seychelles based cryptocurrency exchange",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Indodax",
+    "url": "https://github.com/btcid/indodax-official-api-docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Trade your Bitcoin and other assets with rupiah",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "INFURA Ethereum",
+    "url": "https://www.infura.io/product/ethereum",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Interaction with the Ethereum mainnet and several testnets",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Kekkai Currency API",
+    "url": "https://kekkai.redume.su/docs",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Kekkai is an open-source API that allows you to collect and save historical currency data from various sources. It supports both cryptocurrencies and fiat currencies, enabling users to create exchange",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Kraken",
+    "url": "https://docs.kraken.com/rest/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Exchange",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "KuCoin",
+    "url": "https://docs.kucoin.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Localbitcoins",
+    "url": "https://localbitcoins.com/api-docs",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "P2P platform to buy and sell Bitcoins",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Mempool",
+    "url": "https://mempool.space/api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin API Service focusing on the transaction fee",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "MercadoBitcoin",
+    "url": "https://api.mercadobitcoin.net/api/v4/docs",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Brazilian Cryptocurrency Information",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Messari",
+    "url": "https://messari.io/api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Provides API endpoints for thousands of crypto assets",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "MEXC Global",
+    "url": "https://www.mexc.com/mexc-api",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Crypto asset exchange for trading Marketplace",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "N.exchange",
+    "url": "https://nexchange2.docs.apiary.io",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency exchange rates and swap service",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NiceHash",
+    "url": "https://docs.nicehash.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Largest Crypto Mining Marketplace",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NovaDax",
+    "url": "https://doc.novadax.com/en-US/#introduction",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "NovaDAX API to access all market data, trading management endpoints",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "OKEx",
+    "url": "https://okx.com/okx-api",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency exchange based in Seychelles",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "OpenSea",
+    "url": "https://docs.opensea.io/reference/api-overview",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "The Largest NFT Marketplace",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Poloniex",
+    "url": "https://docs.poloniex.com",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "US based digital asset exchange",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Solana RPC",
+    "url": "https://docs.solana.com/developing/clients/jsonrpc-api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Provides various endpoints to interact with the Solana Blockchain",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Technical Analysis",
+    "url": "https://technical-analysis-api.com",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency prices and technical analysis",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Trading View",
+    "url": "https://www.tradingview.com/rest-api-spec/",
+    "auth": "OAuth",
+    "category": "Cryptocurrency",
+    "description": "Market price, data, graph for brokers and traders",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Tron Network",
+    "url": "https://developers.tron.network/reference/api-key",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Provides various endpoints to interact with the Tron Blockchain",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "VALR",
+    "url": "https://docs.valr.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Exchange based in South Africa",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "WorldCoinIndex",
+    "url": "https://www.worldcoinindex.com/apiservice",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Prices",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Yahoo Finance API",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Yahoo finance API to access current and historical crypto and finance data.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "ZMOK",
+    "url": "https://zmok.io",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Ethereum JSON RPC API and Web3 provider",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "1Forge",
+    "url": "https://1forge.com/forex-data-api/api-documentation",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Forex currency market data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Bank of Russia",
+    "url": "https://www.cbr.ru/development/SXML",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Exchange rates and currency conversion",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CurrencyFreaks",
+    "url": "https://currencyfreaks.com/",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Provides current and historical currency exchange rates with free plan 1K requests/month",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Currencylayer",
+    "url": "https://currencylayer.com/documentation",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Exchange rates and currency conversion",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CurrencyScoop",
+    "url": "https://currencyscoop.com/api-documentation",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Real-time and historical currency rates JSON API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Czech National Bank",
+    "url": "https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "A collection of exchange rates",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "EuroRates",
+    "url": "https://euroratesapi.dev/",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Exchange rates for EUR pairs, historical and real-time data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Exchangeratesapi.io",
+    "url": "https://exchangeratesapi.io",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Exchange rates with currency conversion",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Fixer.io",
+    "url": "http://fixer.io",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Exchange rates and currency conversion",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Frankfurter",
+    "url": "https://www.frankfurter.app/docs",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Exchange rates, currency conversion and time series",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "FreeForexAPI",
+    "url": "https://freeforexapi.com/Home/Api",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Real-time foreign exchange rates for major currency pairs",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "FxFeed.io",
+    "url": "https://fxfeed.io",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Foreign exchange rates, currency conversion and time series data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "FxRatesAPI",
+    "url": "https://fxratesapi.com/",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Real-time exchange rates, historical rates and currency conversion",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Manyapis",
+    "url": "https://manyapis.com/products/currency/usd-to-eur-rate",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Exchange rates and currency conversion with free plan 50 requests/day",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "MetalpriceAPI",
+    "url": "https://metalpriceapi.com",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Real-time and historical exchange rates and currency conversion API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "National Bank of Poland",
+    "url": "http://api.nbp.pl/en.html",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "A collection of currency exchange rates (data in XML and JSON)",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "ratesapi",
+    "url": "https://ratesapi.io",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Free exchange rates and historical rates",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "RBA Exchange Rates API",
+    "url": "https://www.exchangeratesapi.com.au",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Real-time and historical Reserve Bank of Australia (RBA) exchange rates API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Unirate",
+    "url": "https://unirateapi.com",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Free Exchange Rates and Currency Conversion",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "VATComply.com",
+    "url": "https://www.vatcomply.com/documentation",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Exchange rates, geolocation and VAT number validation",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Euro Rates API",
+    "url": "https://euroratesapi.dev/documentation",
+    "auth": "No",
+    "category": "Development",
+    "description": "This API provides free access to real-time exchange rates for EUR from the European Central Bank. It allows developers to retrieve official currency conversion data efficiently and seamlessly integrat",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Exchange Rates API",
+    "url": "https://docs.exchangeratesapi.com.au/",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Exchange Rates API is a developer-friendly data service providing official Reserve Bank of Australia (RBA) exchange rate data through clean, modern REST API endpoints. We transform publicly availa",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "import.io",
+    "url": "http://api.docs.import.io/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Retrieve structured data from a website or RSS feed",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "MLB GUMBO API",
+    "url": "https://github.com/MajorLeagueBaseball/google-cloud-mlb-hackathon",
+    "auth": "No",
+    "category": "Development",
+    "description": "The MLB GUMBO API provides real-time access to comprehensive Major League Baseball data, including live game information and player statistics. Developers can utilize this API to create applications t",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "RSS feed to JSON",
+    "url": "https://rss-to-json-serverless-api.vercel.app",
+    "auth": "No",
+    "category": "Development",
+    "description": "Returns RSS feed in JSON format using feed URL",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "RSS to JSON",
+    "url": "https://github.com/ayusharma/RSS-to-JSON",
+    "auth": "No",
+    "category": "Development",
+    "description": "Returns RSS feed in JSON format using feed URL",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Sumo API",
+    "url": "https://www.sumo-api.com/api-guide",
+    "auth": "No",
+    "category": "Development",
+    "description": "Free API for accessing sumo database including rikishi, basho, banzuke, torikumi, hoshitori, matches, and more. Explore sumo data, learn about sumo history, and check match results.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "1ClickImpact",
+    "url": "https://docs.1clickimpact.com/",
+    "auth": "apiKey",
+    "category": "Environment",
+    "description": "Environmental impact API for tree planting, carbon offsetting and ocean cleanup",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Air Quality Index",
+    "url": "https://www.juheapi.com/api-catalog/aqi",
+    "auth": "No",
+    "category": "Environment",
+    "description": "Real-time air quality data including AQI and pollutant concentrations for worldwide locations",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "AirVisual API",
+    "url": "https://docs.airvisual.com",
+    "auth": "apiKey",
+    "category": "Environment",
+    "description": "Air quality data and forecasts for cities worldwide (500 free API calls/day)",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "BreezoMeter Pollen",
+    "url": "https://docs.breezometer.com/api-documentation/pollen-api/v2/",
+    "auth": "apiKey",
+    "category": "Environment",
+    "description": "Daily Forecast pollen conditions data for a specific location",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Carbon Interface",
+    "url": "https://docs.carboninterface.com/",
+    "auth": "apiKey",
+    "category": "Environment",
+    "description": "API to calculate carbon (C02) emissions estimates for common C02 emitting activities",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Cloverly",
+    "url": "https://www.cloverly.com/carbon-offset-documentation",
+    "auth": "apiKey",
+    "category": "Environment",
+    "description": "API calculates the impact of common carbon-intensive activities in real time",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CO2 Offset",
+    "url": "https://co2offset.io/api.html",
+    "auth": "No",
+    "category": "Environment",
+    "description": "Carbon footprint calculation for travel, energy, activities with offset validation and registry data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Danish data service Energi",
+    "url": "https://www.energidataservice.dk/",
+    "auth": "No",
+    "category": "Environment",
+    "description": "Open energy data from Energinet to society",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "GrünstromIndex",
+    "url": "https://gruenstromindex.de",
+    "auth": "No",
+    "category": "Environment",
+    "description": "German renewable energy forecast — shows when green power surplus makes electricity cheapest",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "IQAir",
+    "url": "https://www.iqair.com/air-pollution-data-api",
+    "auth": "apiKey",
+    "category": "Environment",
+    "description": "Air quality and weather data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Luchtmeetnet",
+    "url": "https://api-docs.luchtmeetnet.nl",
+    "auth": "No",
+    "category": "Environment",
+    "description": "Predicted and actual air quality components for The Netherlands (RIVM)",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "National Grid ESO",
+    "url": "https://data.nationalgrideso.com/",
+    "auth": "No",
+    "category": "Environment",
+    "description": "Open data from Great Britain’s Electricity System Operator",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "PM2.5",
+    "url": "https://pm25.lass-net.org/#apis",
+    "auth": "No",
+    "category": "Environment",
+    "description": "Air quality sensor data from Lass-net monitoring stations",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "PM2.5 Open Data Portal",
+    "url": "https://pm25.lass-net.org",
+    "auth": "No",
+    "category": "Environment",
+    "description": "Open low-cost PM2.5 sensor data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "PVWatts",
+    "url": "https://developer.nrel.gov/docs/solar/pvwatts/v6/",
+    "auth": "apiKey",
+    "category": "Environment",
+    "description": "Energy production photovoltaic (PV) energy systems",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Srp Energy",
+    "url": "https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html",
+    "auth": "apiKey",
+    "category": "Environment",
+    "description": "Hourly usage energy report for Srp customers",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Thames Water Open Data",
+    "url": "https://data.thameswater.co.uk",
+    "auth": "apiKey",
+    "category": "Environment",
+    "description": "Open Data from the UK's largest water and wastewater services company",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "UK Carbon Intensity",
+    "url": "https://carbon-intensity.github.io/api-definitions",
+    "auth": "No",
+    "category": "Environment",
+    "description": "The Official Carbon Intensity API for Great Britain developed by National Grid",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "WattBuy",
+    "url": "https://wattbuy.readme.io/reference/getting-started-with-your-api",
+    "auth": "apiKey",
+    "category": "Environment",
+    "description": "Electricity usage estimations, carbon footprint estimations, and utility data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "WeatherStack",
+    "url": "https://weatherstack.com/documentation",
+    "auth": "apiKey",
+    "category": "Environment",
+    "description": "Humidity & Air & Pressure API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Website Carbon",
+    "url": "https://api.websitecarbon.com",
+    "auth": "No",
+    "category": "Environment",
+    "description": "API to estimate the carbon footprint of loading web pages",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Abstract VAT Validation",
+    "url": "https://www.abstractapi.com/vat-validation-rates-api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Validate VAT numbers and calculate VAT rates",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Aletheia",
+    "url": "https://aletheiaapi.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Insider trading data, earnings call analysis, financial statements, and more",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Alpha Vantage",
+    "url": "https://alphavantage.co",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Stocks, forex, crypto, technical indicators",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "ArgentoFX",
+    "url": "https://fastapiproject-1-eziw.onrender.com/docs",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Real-time foreign exchange rates for Argentina",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Banco do Brasil",
+    "url": "https://developers.bb.com.br",
+    "auth": "OAuth",
+    "category": "Finance",
+    "description": "All Banco do Brasil financial transaction APIs",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Barchart OnDemand",
+    "url": "https://www.barchartondemand.com/free",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Stock, Futures and Forex Market Data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Billplz",
+    "url": "https://www.billplz.com/api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Payment platform",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Binance Public API",
+    "url": "https://api.binance.com/api/v3",
+    "auth": "No",
+    "category": "Finance",
+    "description": "24hr tickers, order books, market stats",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Binlist",
+    "url": "https://binlist.net",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Public access to a database of IIN/BIN information",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Boleto.Cloud",
+    "url": "https://boleto.cloud/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "A api to generate boletos in Brazil",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Bullbear Advisors",
+    "url": "https://rapidapi.com/otha1920/api/bullbear-advisor",
+    "auth": "No",
+    "category": "Finance",
+    "description": "See strong buy and sell signals the day they occur. Get today's stocks that closed with a strong Bullish or Bearish candlestick.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Citi",
+    "url": "https://sandbox.developerhub.citi.com/api-catalog-list",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "All Citigroup account and statement data APIs",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CoinDesk BPI",
+    "url": "https://api.coindesk.com/v1/bpi",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Bitcoin Price Index and historical data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CommodityPriceAPI",
+    "url": "https://commoditypriceapi.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real-time & historical commodity prices (metals, energy, etc)",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "DolarAPI",
+    "url": "https://dolarapi.com/docs/",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Real-time exchange rates for Latin American currencies",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Earnings Feed",
+    "url": "https://earningsfeed.com/api/docs",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "SEC filings, insider transactions, institutional holdings",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Econdb",
+    "url": "https://www.econdb.com/api",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Global macroeconomic data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "EIA Open Data",
+    "url": "https://www.eia.gov/opendata",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Electricity, renewables, emissions, fuel prices",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Ethereum",
+    "url": "https://ethereum.org/en/developers/docs",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Access Ethereum blockchain data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Fed Treasury",
+    "url": "https://fiscaldata.treasury.gov/api-documentation",
+    "auth": "No",
+    "category": "Finance",
+    "description": "U.S. Department of the Treasury Data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Finage",
+    "url": "https://finage.co.uk",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Financial Data",
+    "url": "https://financialdata.net/documentation",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Stock market and financial data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Financial Modeling Prep",
+    "url": "https://site.financialmodelingprep.com/developer/docs",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Realtime and historical stock data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "FinFeedAPI",
+    "url": "https://finfeedapi.com",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Developer-first market data API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Finnhub",
+    "url": "https://finnhub.io",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real-time financial data, crypto, forex (freemium)",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Finturest IBAN",
+    "url": "https://finturest.com/products/iban-api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Fast, accurate IBAN validation and generation",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "FRED",
+    "url": "https://fred.stlouisfed.org/docs/api/api_key.html",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "800K+ economic time series",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Front Accounting APIs",
+    "url": "https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule",
+    "auth": "OAuth",
+    "category": "Finance",
+    "description": "Front accounting is multilingual and multicurrency software for small businesses",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "FXMacroData",
+    "url": "https://fxmacrodata.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real-time forex macroeconomic API for all major currency pairs sourced from central bank announcements",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "IEX",
+    "url": "https://iextrading.com/developer/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Realtime stock data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "IEX Cloud",
+    "url": "https://iexcloud.io/docs/api/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Realtime & Historical Stock and Market Data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "IG",
+    "url": "https://labs.ig.com/gettingstarted",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Spreadbetting and CFD Market Data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "IIN API",
+    "url": "https://iinapi.com",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "IIN API allows you to accurately identify the issuing bank, card type, country of origin, and other details from a credit or debit card number. This is essential for fraud prevention, payment processing, and customer verification.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Indian Bank Data API",
+    "url": "https://github.com/kaustubhk24/Indian-Banks-Data",
+    "auth": "No",
+    "category": "Finance",
+    "description": "All Banks IFSC Code data,Search by IFSc or other details",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Indian Mutual Fund",
+    "url": "https://www.mfapi.in",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Get complete history of India Mutual Funds Data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Intrinio",
+    "url": "https://intrinio.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "A wide selection of financial data feeds",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "KeepRule",
+    "url": "https://github.com/henu-wang/keeprule-api",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Investment principles and quotes from Buffett, Munger & more",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Kite Connect",
+    "url": "https://kite.trade/docs/connect/v3/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Stock market investment and trading platform",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Klarna",
+    "url": "https://docs.klarna.com/klarna-payments/api/payments-api/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Klarna payment and shopping service",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Mboum API",
+    "url": "https://docs.mboum.com",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real-time Stock market and Options Data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Mboum Finance",
+    "url": "https://mboum.com/api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Stock, options, market fundamentals (freemium)",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "MercadoPago",
+    "url": "https://www.mercadopago.com.br/developers/es/reference",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Mercado Pago API reference - all the information you need to develop your integrations",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Mono",
+    "url": "https://mono.co/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Connect with users’ bank accounts and access transaction data in Africa",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Moov",
+    "url": "https://docs.moov.io/api/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "The Moov API makes it simple for platforms to send, receive, and store money",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "OpenFIGI",
+    "url": "https://www.openfigi.com/api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Equity, index, futures, options symbology from Bloomberg LP",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "ParityVend",
+    "url": "https://www.ambeteco.com/ParityVend/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Globalize your business by auto-adapting pricing for each visitor with Purchasing Power Parity",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Plaid",
+    "url": "https://plaid.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Connect with user's bank accounts and access transaction data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Polygon",
+    "url": "https://polygon.io/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Historical stock market data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Polygon.io",
+    "url": "https://polygon.io/docs/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real-time and historical stock market data, crypto and forex",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Portfolio Optimizer",
+    "url": "https://portfoliooptimizer.io",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Portfolio analysis and optimization",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "PredScope",
+    "url": "https://predscope.com/api/markets.json",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Free prediction market odds and analytics data from Polymarket",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Razorpay IFSC",
+    "url": "https://razorpay.com/docs",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Indian Financial Systems Code (Bank Branch Codes)",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Razorpay Payments",
+    "url": "https://razorpay.com/docs/#home-payments",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Indian payment gateway API integration",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Real Time Finance",
+    "url": "https://github.com/Real-time-finance/finance-websocket-API/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Websocket API to access realtime stock data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Realie Property Data API",
+    "url": "https://www.realie.ai/real-estate-data-api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Realie's property data is directly sourced from local municipalities and contains over 100 data fields. Realie covers the entire USA with 180 million parcels.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "RentCast",
+    "url": "https://developers.rentcast.io",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Retrieve real-time property and rental data for real estate in the United States",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "SEC EDGAR Data",
+    "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+    "auth": "No",
+    "category": "Finance",
+    "description": "API to access annual reports of public US companies",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "SmartAPI",
+    "url": "https://smartapi.angelbroking.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Gain access to set of  <SmartAPI>  and create end-to-end broking services",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "StockData",
+    "url": "https://www.StockData.org",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real-Time, Intraday & Historical Market Data, News and Sentiment API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://stripe.com/docs/api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Payment processing, subscriptions, and financial management",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "TradeWatch",
+    "url": "https://tradewatch.io/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real time financial market data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Tradier",
+    "url": "https://developer.tradier.com",
+    "auth": "OAuth",
+    "category": "Finance",
+    "description": "US equity/option market data (delayed, intraday, historical)",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Twelve Data",
+    "url": "https://twelvedata.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Stock market data (real-time & historical)",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Validate IBAN API",
+    "url": "https://apyhub.com/utility/finance-validator-iban",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "This API lets you quickly validate IBAN bank codes",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Validate Swift/BIC",
+    "url": "https://apyhub.com/utility/finance-validator-bic",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Validates BIC/SWIFT code",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "ValueRay",
+    "url": "https://www.valueray.com/api",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Quantitative and sentiment data for stocks and ETFs",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "World Trading Data",
+    "url": "https://www.worldtradingdata.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Market data provider",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "xChangeApi",
+    "url": "https://xchangeapi.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Exchange rates & real time market data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "YNAB",
+    "url": "https://api.youneedabudget.com/",
+    "auth": "OAuth",
+    "category": "Finance",
+    "description": "Budgeting & Planning",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Zoho Books",
+    "url": "https://www.zoho.com/books/api/v3/",
+    "auth": "OAuth",
+    "category": "Finance",
+    "description": "Online accounting software, built for your business",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Kroger",
+    "url": "https://developer.kroger.com/reference",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Supermarket Data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "IP Geo Currency API",
+    "url": "https://apip.cc/docs.html",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides geolocation information and currency data based on a user's IP address. It allows developers to retrieve IP details such as country, city, and currency exchange rates through simple ",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Data.parliament.uk",
+    "url": "https://explore.data.parliament.uk/",
+    "auth": "No",
+    "category": "Government",
+    "description": "Contains live datasets including information about petitions, bills, MP votes, attendance and more",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Covid-19 Live Data",
+    "url": "https://github.com/mathdroid/covid-19-api",
+    "auth": "No",
+    "category": "Health",
+    "description": "Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "API2NEWS Endpoint",
+    "url": "https://documenter.getpostman.com/view/13902582/2sA3rxrZcC?ref=producthunt",
+    "auth": "No",
+    "category": "News",
+    "description": "The API2NEWS Endpoint provides access to the latest news stories from various sources, including BBC, TechCrunch, and CNN. Users can retrieve articles by making GET requests to specific endpoints for ",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "APITube News API",
+    "url": "https://apitube.io/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Monitor news sources from around the world in real-time. Get the latest news articles from more than 500,000 news sources in 60 languages.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Associated Press",
+    "url": "https://developer.ap.org/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Search for news and metadata from Associated Press",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Chronicling America",
+    "url": "http://chroniclingamerica.loc.gov/about/api/",
+    "auth": "No",
+    "category": "News",
+    "description": "Provides access to millions of pages of historic US newspapers from the Library of Congress",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Currents",
+    "url": "https://currentsapi.services/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Latest news published in various news sources, blogs and forums",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Dictum API",
+    "url": "https://quoterism.com",
+    "auth": "No",
+    "category": "News",
+    "description": "This API provides access to a collection of inspiring expressions gathered throughout history. It enables users to retrieve quotes from various categories and authors, fostering motivation and reflect",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "eLife Sciences API",
+    "url": "https://api.elifesciences.org/documentation/",
+    "auth": "No",
+    "category": "News",
+    "description": "The eLife Sciences API provides access to various resources related to scientific articles, annotations, reports, and more. It allows users to retrieve, search, and manage scholarly content, emphasizi",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Feedbin",
+    "url": "https://github.com/feedbin/feedbin-api",
+    "auth": "OAuth",
+    "category": "News",
+    "description": "RSS reader",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Finlight",
+    "url": "https://finlight.me",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Realtime financial news with sentiment and article content",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "FIRST News API",
+    "url": "https://api.first.org/v1/get-news",
+    "auth": "No",
+    "category": "News",
+    "description": "Public query for FIRST News with additional parameters for filtering results. No credentials required.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "GNews",
+    "url": "https://gnews.io/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Search for news from various sources",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "HackerNews Node",
+    "url": "https://github.com/EdixonAlberto/api-hackernews-node",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Api to get related articles about Node.js in Hacker News",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "HasData: Structured Web Data APIs",
+    "url": "https://hasdata.com",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Real-time Google News, SERP, and Web Scraping APIs. Extract structured public data from any news outlet or search engine at scale without blocks",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Inshorts News",
+    "url": "https://github.com/cyberboysumanjay/Inshorts-News-API",
+    "auth": "No",
+    "category": "News",
+    "description": "Provides news from inshorts",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "MarketAux",
+    "url": "https://www.marketaux.com/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Live stock market news with tagged tickers + sentiment and stats JSON API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Math Function Parser",
+    "url": "https://math.oglimmer.com/swagger/ui",
+    "auth": "No",
+    "category": "News",
+    "description": "This API provides functionalities to parse and resolve mathematical expressions. It includes endpoints to tokenize expressions, resolve them, and return their abstract syntax tree (AST).",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "New York Times",
+    "url": "https://developer.nytimes.com/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "The New York Times Developer Network",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "News Public API",
+    "url": "https://news-public-api.onrender.com/",
+    "auth": "No",
+    "category": "News",
+    "description": "This API provides access to the latest news articles, allowing users to fetch and retrieve news data programmatically. It is built using Python REST Framework and is available for public use.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NewsAPI",
+    "url": "https://newsapi.org",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Headlines currently published on a range of news sources and blogs",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NewsAPI.ai",
+    "url": "https://www.newsapi.ai/documentation",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "News API access to real-time and archive news content",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NewsDataHub",
+    "url": "https://newsdatahub.com",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "NewsDataHub provides a production-ready REST API delivering near-real-time global news data at scale",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NewsMesh",
+    "url": "https://newsmesh.co",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Access the news articles from trusted sources with real-time updates & powerful search capabilities",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NewsX",
+    "url": "https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Get or Search Latest Breaking News with ML Powered Summaries 🤖",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "OkSurf",
+    "url": "https://ok.surf/",
+    "auth": "No",
+    "category": "News",
+    "description": "Free Google News with OG Images",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Spaceflight News",
+    "url": "https://spaceflightnewsapi.net",
+    "auth": "No",
+    "category": "News",
+    "description": "Spaceflight news articles aggregated",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Substack API Wrapper",
+    "url": "https://github.com/NHagar/substack_api",
+    "auth": "No",
+    "category": "News",
+    "description": "Substack's newsletter platform now has an API wrapper, for easy access to latest posts",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "The Guardian",
+    "url": "http://open-platform.theguardian.com/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Access all the content the Guardian creates, categorised by tags and section",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "The Old Reader",
+    "url": "https://github.com/theoldreader/api",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "RSS reader",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "TheNews",
+    "url": "https://www.thenewsapi.com/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Aggregated headlines, top story and live news JSON API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Top News API",
+    "url": "https://worldnewsapi.com/docs/top-news/",
+    "auth": "No",
+    "category": "News",
+    "description": "This API provides the top news articles from a specified country in a specific language for a given date. The news articles are aggregated from multiple sources, and the ranking is based on the number",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Trove",
+    "url": "https://trove.nla.gov.au/about/create-something/using-api",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Search through the National Library of Australia collection of 1000s of digitised newspapers",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "World News",
+    "url": "https://worldnewsapi.com",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Search through millions of semantically tagged worldwide news",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Danish Energi Data",
+    "url": "https://api.energidataservice.dk",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Open energy market data: spot prices, grid load, CO2 forecasts from Denmark",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Nasdaq Data Link",
+    "url": "https://docs.data.nasdaq.com/",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Stock market data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NOAA NWS API",
+    "url": "https://api.weather.gov",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Real-time weather observations, forecasts, alerts, and radar via GeoJSON",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "OpenAQ API",
+    "url": "https://api.openaq.org",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Real-time and historical air quality data (PM2.5, PM10, NO2, O3, CO, SO2) across 10,000+ stations in 100+ countries",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "OpenWeather",
+    "url": "https://openweathermap.org/api",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Current weather, forecasts, air quality",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Quandl",
+    "url": "https://www.quandl.com/",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Stock Market Data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Urban Observatory",
+    "url": "https://urbanobservatory.ac.uk",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "The largest set of publicly available real time urban data in the UK",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Carbon Intensity API",
+    "url": "https://api.carbonintensity.org.uk/",
+    "auth": "No",
+    "category": "Other",
+    "description": "Official API for Carbon Intensity in Great Britain provided by National Grid. Allows access to current and historical carbon intensity data for different regions and time periods.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Exchange Rate API",
+    "url": "https://www.exchangerate-api.com/docs/free",
+    "auth": "No",
+    "category": "Other",
+    "description": "ExchangeRate-API provides a free and open-access API for real-time currency conversion and exchange rate data without the need for an API key. It supports various currency pairs and allows users to ob",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "OpenAQ Platform",
+    "url": "https://docs.openaq.org/docs/introduction",
+    "auth": "No",
+    "category": "Other",
+    "description": "Largest open-source air quality data platform aggregating historical and real-time air quality data globally.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Parkhaus Basel API",
+    "url": "https://data.bs.ch/explore/dataset/100088/information/?disjunctive.title&sort=published",
+    "auth": "No",
+    "category": "Other",
+    "description": "Provides minute-by-minute occupancy data for public parking garages in Basel, Switzerland, sourced from the RSS feed of the Basel parking guidance system.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Purple Air",
+    "url": "https://www2.purpleair.com",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Real Time Air Quality Monitoring",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "USGS Earthquake Hazards Program",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Earthquakes data real-time",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "American Football Highlights API",
+    "url": "https://highlightly.net/documentation/american-football/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Real time American Football (NFL/NCAA) highlights",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "API-FOOTBALL",
+    "url": "https://www.api-football.com/documentation-v3",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Get information about Football Leagues & Cups",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "balldontlie",
+    "url": "https://www.balldontlie.io",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Balldontlie provides access to stats data from the NBA",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Basketball Highlights API",
+    "url": "https://highlightly.net/documentation/basketball/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Real time basketball video highlights",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Canadian Football League (CFL)",
+    "url": "http://api.cfl.ca/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Official JSON API providing real-time league, team and player statistics about the CFL",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Cartola FC",
+    "url": "https://github.com/wgenial/cartrolandofc",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "The Cartola FC API serves to check the partial points of your team",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "City Bikes",
+    "url": "https://api.citybik.es/v2",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "City Bikes around the world",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Cloudbet",
+    "url": "https://www.cloudbet.com/api/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CollegeFootballData.com",
+    "url": "https://collegefootballdata.com",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Unofficial detailed American college football statistics, records, and results API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "CricData",
+    "url": "https://cricketdata.org/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Ultimate Cricket data API - Score, Scorecard, Players data, Fantasy API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Ergast F1 API",
+    "url": "https://ergast.com/api/f1",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Formula 1 historical data (1950–present)",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "F1 API",
+    "url": "https://f1api.dev",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Open F1 API with realtime data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "F1 Data API",
+    "url": "https://github.com/Jacobbrewer1/f1-data",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Formula 1 data API that delivers data from the F1 Archive dating back to 1950",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Fantasy Premier League",
+    "url": "https://github.com/flavnat/fpl-api",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Fantasy Premier League data, including fixtures, teams, and player stats",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Fitbit",
+    "url": "https://dev.fitbit.com/",
+    "auth": "OAuth",
+    "category": "Sports & Fitness",
+    "description": "Fitbit Information",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Football",
+    "url": "https://rapidapi.com/GiulianoCrescimbeni/api/football98/",
+    "auth": "X-Mashape-Key",
+    "category": "Sports & Fitness",
+    "description": "A simple Open Source Football API to get squads’ stats, best scorers and more",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Football (Soccer) Videos",
+    "url": "https://www.scorebat.com/video-api",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Football Data API",
+    "url": "https://www.football-data.org/documentation/quickstart",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "The Football Data API provides comprehensive access to football (soccer) statistics and information. It includes data on areas, competitions, teams, matches, standings, scorers, and players. Perfect f",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Football Highlights",
+    "url": "https://highlightly.net/documentation/football/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Real time football (soccer) highlights from over +950 leagues",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Football Prediction",
+    "url": "https://boggio-analytics.com/fp-api/",
+    "auth": "X-Mashape-Key",
+    "category": "Sports & Fitness",
+    "description": "Predictions for upcoming football matches, odds, results and stats",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Football Standings",
+    "url": "https://github.com/azharimm/football-standings-api",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Display football standings e.g epl, la liga, serie a etc. The data is based on espn site",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Football-Data.org",
+    "url": "http://api.football-data.org/index",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Football Data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Free Sports API",
+    "url": "https://www.thesportsdb.com/free_sports_api",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Provides free JSON sports API for accessing basic sports data, including information on teams, players, events, and more. Offers test API keys, API limits, and upgrade options for premium features.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Golf-Data",
+    "url": "https://github.com/Jacobbrewer1/golf-data-docs",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Golf data API with golf course, club and hole information",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Hockey Highlights",
+    "url": "https://highlightly.net/documentation/hockey/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Real time hockey highlights",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "iSports API",
+    "url": "https://isportsapi.com/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Provide live and historical sports data of global competitions, like live score, fixtures, player & match stats, database etc.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "JCDecaux Bike",
+    "url": "https://developer.jcdecaux.com/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "JCDecaux's self-service bicycles",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "MLB Records and Stats",
+    "url": "https://appac.github.io/mlb-data-api-docs",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Current and historical MLB statistics",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NBA Data",
+    "url": "https://rapidapi.com/api-sports/api/api-nba/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "All NBA Stats DATA, Games, Livescore, Standings, Statistics",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NBA GraphQL",
+    "url": "https://nbaapi.com/graphql/",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Advanced NBA Player, Team, and Season Statistics and Data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NBA Stats",
+    "url": "https://api.server.nbaapi.com/",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "NBA player statistics, season totals, advanced metrics, game data, and shot chart data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NHL Records and Stats",
+    "url": "https://gitlab.com/dword4/nhlapi",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "NHL historical data and statistics",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Oddsmagnet",
+    "url": "https://oddsmagnet.com/oddsdata",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Odds history from multiple UK bookmakers",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "OpenLigaDB",
+    "url": "https://www.openligadb.de",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Crowd sourced sports league results",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Placar Agora",
+    "url": "https://golfeito.asamkt.com.br/",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Placar Agora provides live scores, final results, and upcoming game schedules for sports enthusiasts. It allows users to follow their favorite teams and view real-time updates on various matches.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Premier League Standings",
+    "url": "https://rapidapi.com/heisenbug/api/premier-league-live-scores/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "All Current Premier League Standings and Statistics",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "SharpAPI",
+    "url": "https://docs.sharpapi.io",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Real-time sports betting odds from 20+ sportsbooks with +EV detection",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Sport Data",
+    "url": "https://sportdataapi.com",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Get sports data from all over the world",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Sport Highlights",
+    "url": "https://highlightly.net/documentation/sports/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Real time Sport Highlights",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Sportmonks Cricket",
+    "url": "https://docs.sportmonks.com/cricket/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Live cricket score, player statistics and fantasy API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Sportmonks Football",
+    "url": "https://docs.sportmonks.com/football/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Football score/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Squiggle",
+    "url": "https://api.squiggle.com.au",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Fixtures, results and predictions for Australian Football League matches",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Strava",
+    "url": "https://strava.github.io/api/",
+    "auth": "OAuth",
+    "category": "Sports & Fitness",
+    "description": "Connect with athletes, activities and more",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "SuredBits",
+    "url": "https://suredbits.com/api/",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Query sports data, including teams, players, games, scores and statistics",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "TheSportsDB",
+    "url": "https://www.thesportsdb.com/api.php",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Crowd-Sourced Sports Data and Artwork",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Tredict",
+    "url": "https://www.tredict.com/blog/oauth_docs/",
+    "auth": "OAuth",
+    "category": "Sports & Fitness",
+    "description": "Get and set activities, health data and more",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Wger",
+    "url": "https://wger.de/en/software/api",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Workout manager data as exercises, muscles or equipment",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "TheOddsAPI",
+    "url": "https://the-odds-api.com",
+    "auth": "apiKey",
+    "category": "Sports Betting",
+    "description": "Live odds from 30+ bookmakers (free tier)",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Aftership",
+    "url": "https://developers.aftership.com/reference/quick-start",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "API to update, manage and track shipment efficiently",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Correios",
+    "url": "https://cws.correios.com.br/ajuda",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "Integration to provide information and prepare shipments using Correio's services",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "IndianPincodes",
+    "url": "https://www.indianpincodes.co.in",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "API for getting Pincode details in India",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Pixela",
+    "url": "https://pixe.la",
+    "auth": "X-Mashape-Key",
+    "category": "Tracking",
+    "description": "API for recording and tracking habits or effort, routines",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "PostalPinCode",
+    "url": "http://www.postalpincode.in/Api-Details",
+    "auth": "No",
+    "category": "Tracking",
+    "description": "API for getting Pincode details in India",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Postmon",
+    "url": "http://postmon.com.br",
+    "auth": "No",
+    "category": "Tracking",
+    "description": "An API to query Brazilian ZIP codes and orders easily, quickly and free",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "PostNord",
+    "url": "https://developer.postnord.com/apis",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "Provides information about parcels in transport for Sweden and Denmark",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Sweden",
+    "url": "https://developer.postnord.com/docs2",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "Provides information about parcels in transport",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "UPS",
+    "url": "https://www.ups.com/upsdeveloperkit",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "Shipment and Address information",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "WeCanTrack",
+    "url": "https://docs.wecantrack.com",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "Automatically place subids in affiliate links to attribute affiliate conversions to click data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "WhatPulse",
+    "url": "https://developer.whatpulse.org",
+    "auth": "No",
+    "category": "Tracking",
+    "description": "Small application that measures your keyboard/mouse usage",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "BART API",
+    "url": "https://api.bart.gov",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Bay Area Rapid Transit real-time arrivals",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Real Time Bus Data",
+    "url": "https://data.gov.hk/en-data/dataset/hk-td-tis_21-etakmb",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API provides real-time arrival data for Kowloon Motor Bus and Long Win Bus services. It includes routes, stops, and the estimated time of arrival (ETA) for bus services based on live data updates",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Transport for Los Angeles, US",
+    "url": "https://developer.metro.net/api/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Data about positions of Metro vehicles in real time and travel their routes",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "7Timer",
+    "url": "http://www.7timer.info/doc.php",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Weather, especially for Astroweather",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Aare.guru API",
+    "url": "https://aareguru.existenz.ch/",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Public API for Aare river data including temperature, flow rate, weather forecasts, and more. Non-commercial use allowed with customizable app and version parameters.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "AccuWeather",
+    "url": "https://developer.accuweather.com/apis",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather and forecast data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Aemet",
+    "url": "https://opendata.aemet.es/centrodedescargas/inicio",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather and forecast data from Spain",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Air Quality API",
+    "url": "https://open-meteo.com/en/docs/air-quality-api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Hourly/daily weather forecast + 80-yr historical data, air quality, marine, climate, and flood — no key",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "APIXU",
+    "url": "https://www.apixu.com/doc/request.aspx",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "AQICN",
+    "url": "https://aqicn.org/api/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Air Quality Index Data for over 1000 cities",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Automatic Weather Stations",
+    "url": "https://opendatadocs.meteoswiss.ch/a-data-groundbased/a1-automatic-weather-stations",
+    "auth": "No",
+    "category": "Weather",
+    "description": "The Automatic Weather Stations API provides access to data from around 160 automatic measurement stations within the SwissMetNet network. It delivers vital meteorological data including temperature, p",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Aviation Weather",
+    "url": "https://aviationweather.gov/data/api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "This API provides machine-to-machine access to aviation weather data, including METARs, TAFs, AIRMETs, and SIGMETs. It enables users to fetch up-to-date weather information for flight planning and ope",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "AviationWeather",
+    "url": "https://www.aviationweather.gov/dataserver",
+    "auth": "No",
+    "category": "Weather",
+    "description": "NOAA aviation weather forecasts and observations",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "ColorfulClouds",
+    "url": "https://open.caiyunapp.com/ColorfulClouds_Weather_API",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Data Commons",
+    "url": "https://datacommons.org/disasters",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Open source initiative from Google. Global disaster events and statistics data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "DWD API",
+    "url": "https://dwd.api.bund.dev/",
+    "auth": "No",
+    "category": "Weather",
+    "description": "API of the German Weather Service (DWD): weather data, data from specific weather stations, warnings (local, coast, sea, alps)",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Euskalmet",
+    "url": "https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Meteorological data of the Basque Country",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Foreca",
+    "url": "https://developer.foreca.com",
+    "auth": "OAuth",
+    "category": "Weather",
+    "description": "Weather",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Free UV Index API",
+    "url": "https://currentuvindex.com/api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Provides real-time UV Index and 5 day Hourly UV Index Forecast globally without API Key. Single endpoint for current UV Index and forecast based on latitude/longitude.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "GISTDA",
+    "url": "https://disaster.gistda.or.th/services/open-api",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Thailand natural disaster information",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Glax Weather API",
+    "url": "https://dragon.best/api/glax_weather/",
+    "auth": "No",
+    "category": "Weather",
+    "description": "This API provides current weather data for a specified location, presenting information visually through Glax. Users can retrieve data in JSON or PNG formats and customize their queries with parameter",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Global Flood API",
+    "url": "https://open-meteo.com/en/docs/flood-api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Hourly/daily weather forecast + 80-yr historical data, air quality, marine, climate, and flood — no key",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "GribStream",
+    "url": "https://gribstream.com/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Global weather forecast API for any use. Leverage the NBM and GFS models. Great for bulk pulls",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "HG Weather",
+    "url": "https://hgbrasil.com/status/weather",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Provides weather forecast data for cities in Brazil",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Hong Kong Obervatory",
+    "url": "https://www.hko.gov.hk/en/abouthko/opendata_intro.htm",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Provide weather information, earthquake information, and climate data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Korea Meteorological Administration",
+    "url": "https://apihub.kma.go.kr/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather and climate data from KMA",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Met Office DataPoint",
+    "url": "https://www.metoffice.gov.uk/services/data/datapoint/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather data for the UK",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Meteoblue",
+    "url": "https://content.meteoblue.com/en/business-solutions/weather-apis",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Global weather data with 100+ weather variables, 14 days ahead and 4 days of history data.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Meteoprog Weather API",
+    "url": "https://billing.meteoprog.com/documentation",
+    "auth": "No",
+    "category": "Weather",
+    "description": "The Meteoprog Weather API provides comprehensive weather data, allowing integration of fast and accurate weather forecasts into various applications and websites. It offers endpoints for current weath",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Meteorologisk Institutt",
+    "url": "https://api.met.no/weatherapi/documentation",
+    "auth": "User-Agent",
+    "category": "Weather",
+    "description": "Weather and climate data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Meteosource",
+    "url": "https://www.meteosource.com/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Global weather forecasts based on machine learning and historical data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "National Weather Service",
+    "url": "https://www.weather.gov/documentation/services-web-api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "US weather forecasts and alerts",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NDBC Buoy Data API",
+    "url": "https://surftruths.com/api.html",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Description: Access real-time buoy readings and information from the National Data Buoy Center (NDBC) with this API. Currently under development, it provides essential data for ocean and weather monit",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NOAA Climate Data",
+    "url": "https://www.ncdc.noaa.gov/cdo-web/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather and climate data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "NOAA NGDC",
+    "url": "https://www.ngdc.noaa.gov/",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Natural hazards data including earthquakes, tsunamis, and volcanic eruptions",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "ODWeather",
+    "url": "https://api.oceandrivers.com/static/docs.html",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Ocean and marine weather data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Oikolab",
+    "url": "https://docs.oikolab.com",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "70+ years of global, hourly historical and forecast weather data from NOAA and ECMWF",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Open-Meteo",
+    "url": "https://open-meteo.com",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Hourly/daily weather forecast + 80-yr historical data, air quality, marine, climate, and flood — no key",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "openSenseMap",
+    "url": "https://api.opensensemap.org",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Data from Personal Weather Stations called senseBoxes",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "OpenUV",
+    "url": "https://www.openuv.io",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Real-time UV Index Forecast",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "OpenWeatherMap",
+    "url": "https://openweathermap.org/api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Weather, forecasts, one call alerts",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "QWeather",
+    "url": "https://dev.qweather.com/en/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Location-based weather data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "RainViewer",
+    "url": "https://www.rainviewer.com/api.html",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Radar data collected from different websites across the Internet",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Realtime Weather (Singapore)",
+    "url": "https://data.gov.sg/collections/1459/view",
+    "auth": "No",
+    "category": "Weather",
+    "description": "This API provides real-time readings of temperature, humidity, precipitation, and wind conditions across various weather stations in Singapore at intervals of up to one minute. Managed by the National",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Storm Glass",
+    "url": "https://stormglass.io/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Global marine weather from multiple sources",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Stormglass",
+    "url": "https://docs.stormglass.io/#/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather forecasts & historical data from the world’s most trusted meteorological institutions in one single API",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Tomorrow",
+    "url": "https://docs.tomorrow.io",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather API Powered by Proprietary Technology",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Visual Crossing",
+    "url": "https://www.visualcrossing.com/weather-api",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Global historical and weather forecast data",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Weather Data API",
+    "url": "https://api.openweathermap.org/data/2.5/weather",
+    "auth": "No",
+    "category": "Weather",
+    "description": "This API provides weather data, including current conditions, forecasts, and historical weather information. It allows users to access weather information for various locations worldwide.",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Weather Forecast API",
+    "url": "https://www.baguette-radar.com/",
+    "auth": "No",
+    "category": "Weather",
+    "description": "This API provides real-time weather data, including temperature, humidity, and forecasts for various locations. Users can access detailed meteorological information to integrate into their application",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Weather Hacks",
+    "url": "http://weather.livedoor.com/weather_hacks/",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Weather, for Japan",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "weather-api",
+    "url": "https://github.com/robertoduessmann/weather-api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Simple weather data from multiple sources without API key",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Weatherbit",
+    "url": "https://www.weatherbit.io/api",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "wttr.in",
+    "url": "https://github.com/chubin/wttr.in",
+    "auth": "No",
+    "category": "Weather",
+    "description": "wttr.in is a console-oriented weather forecast service that supports various information representation methods like terminal-oriented ANSI-sequences for console HTTP clients (curl, httpie, or wget), ",
+    "service_pattern": "Dynamic Data"
+  },
+  {
+    "name": "Yandex.Weather",
+    "url": "https://yandex.com/dev/weather/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Assesses weather condition in specific locations",
+    "service_pattern": "Dynamic Data"
+  }
+]

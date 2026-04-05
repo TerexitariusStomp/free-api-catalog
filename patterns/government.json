@@ -1,0 +1,802 @@
+[
+  {
+    "name": "USPTO API Catalog",
+    "url": "https://developer.uspto.gov/api-catalog",
+    "auth": "No",
+    "category": "Development",
+    "description": "The USPTO API Catalog provides developers with access to various APIs related to intellectual property. It includes information about registering, searching, and managing patents and trademarks, allow",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "ZipCheckup",
+    "url": "https://api.zipcheckup.com/v1",
+    "auth": "No",
+    "category": "Environment",
+    "description": "U.S. drinking water quality data by ZIP code from EPA and 20+ federal sources",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Ambee",
+    "url": "https://www.getambee.com/api/natural-disasters",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Natural Disasters API",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Api Colombia",
+    "url": "https://api-colombia.com/",
+    "auth": "No",
+    "category": "Government",
+    "description": "Community driven API for Colombia Public Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Apiverket",
+    "url": "https://apiverket.se/docs",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Unified API for Swedish public data — weather, transport, companies, and 30+ agencies",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Autobahn API",
+    "url": "https://autobahn.api.bund.dev",
+    "auth": "No",
+    "category": "Government",
+    "description": "Information about Germany's federal highways like construction sites and traffic jams",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Bank Negara Malaysia Open Data",
+    "url": "https://apikijangportal.bnm.gov.my",
+    "auth": "No",
+    "category": "Government",
+    "description": "Malaysia Central Bank Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "BCLaws",
+    "url": "https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html",
+    "auth": "No",
+    "category": "Government",
+    "description": "Access to the laws of British Columbia",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Brazil",
+    "url": "https://brasilapi.com.br",
+    "auth": "No",
+    "category": "Government",
+    "description": "Community driven API for Brazil Public Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Brazil Central Bank Open Data",
+    "url": "https://dadosabertos.bcb.gov.br",
+    "auth": "No",
+    "category": "Government",
+    "description": "Brazil Central Bank Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Brazil Receita WS",
+    "url": "https://www.receitaws.com.br",
+    "auth": "No",
+    "category": "Government",
+    "description": "Consult companies by CNPJ for Brazilian companies",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Brazilian Chamber of Deputies Open Data",
+    "url": "https://dadosabertos.camara.leg.br/swagger/api.html",
+    "auth": "No",
+    "category": "Government",
+    "description": "Provides legislative information in Apis XML and JSON, as well as files in various formats",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "BuildData",
+    "url": "https://builddata.ca",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Canadian construction and development data from 17 cities",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "BusinessUSA",
+    "url": "https://business.usa.gov/developer",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Authoritative information on U.S. programs, events, services and more",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Census.gov",
+    "url": "https://www.census.gov/data/developers/data-sets.html",
+    "auth": "No",
+    "category": "Government",
+    "description": "The US Census Bureau provides various APIs and data sets on demographics and businesses",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "City, Analyze Boston",
+    "url": "https://data.boston.gov/",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Boston(US) City Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "City, Berlin",
+    "url": "https://daten.berlin.de",
+    "auth": "No",
+    "category": "Government",
+    "description": "Berlin(DE) City Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "City, Bologna Opendata",
+    "url": "https://dati.comune.bologna.it",
+    "auth": "No",
+    "category": "Government",
+    "description": "Bologna(IT) City Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "City, Gdańsk",
+    "url": "https://ckan.multimediagdansk.pl/en",
+    "auth": "No",
+    "category": "Government",
+    "description": "Gdańsk (PL) City Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "City, Gdynia",
+    "url": "http://otwartedane.gdynia.pl/en/api_doc.html",
+    "auth": "No",
+    "category": "Government",
+    "description": "Gdynia (PL) City Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "City, Helsinki",
+    "url": "https://hri.fi/en_gb",
+    "auth": "No",
+    "category": "Government",
+    "description": "Helsinki(FI) City Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "City, Lviv",
+    "url": "https://opendata.city-adm.lviv.ua/",
+    "auth": "No",
+    "category": "Government",
+    "description": "Lviv(UA) City Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "City, Nantes Open Data",
+    "url": "https://data.nantesmetropole.fr/pages/home/",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Nantes(FR) City Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "City, New York Open Data",
+    "url": "https://opendata.cityofnewyork.us/",
+    "auth": "No",
+    "category": "Government",
+    "description": "New York (US) City Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "City, Prague Opendata",
+    "url": "http://opendata.praha.eu/en",
+    "auth": "No",
+    "category": "Government",
+    "description": "Prague(CZ) City Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "City, Toronto Open Data",
+    "url": "https://open.toronto.ca",
+    "auth": "No",
+    "category": "Government",
+    "description": "Toronto (CA) City Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "civicAPI",
+    "url": "https://civicapi.org/",
+    "auth": "No",
+    "category": "Government",
+    "description": "Provides live and historic election results for races across the world",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Code.gov",
+    "url": "https://code.gov",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "The primary platform for Open Source and code sharing for the U.S. Federal Government",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Colorado Data Engine",
+    "url": "http://codataengine.org/",
+    "auth": "No",
+    "category": "Government",
+    "description": "Formatted and geolocated Colorado public data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Colorado Information Marketplace",
+    "url": "https://data.colorado.gov",
+    "auth": "No",
+    "category": "Government",
+    "description": "Colorado State Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Data USA",
+    "url": "https://datausa.io/about/api",
+    "auth": "No",
+    "category": "Government",
+    "description": "US Public Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Data.gov",
+    "url": "https://api.data.gov/",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "US Government Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Dedline.io API",
+    "url": "https://github.com/dedline-io/dedline-api",
+    "auth": "No",
+    "category": "Government",
+    "description": "Data for US state voter registration deadlines and details, for primaries and general elections",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Deutscher Bundestag DIP",
+    "url": "https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "This API provides read access to DIP entities (e.g. activities, persons, printed material)",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "District of Columbia Open Data",
+    "url": "http://opendata.dc.gov/pages/using-apis",
+    "auth": "No",
+    "category": "Government",
+    "description": "Contains D.C. government public datasets, including crime, GIS, financial data, and so on",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "EU Data Portal",
+    "url": "https://data.europa.eu/api",
+    "auth": "No",
+    "category": "Government",
+    "description": "European Union open data portal with 1M+ public datasets on policy, science, economy, and geography",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "FBI Wanted",
+    "url": "https://www.fbi.gov/wanted/api",
+    "auth": "No",
+    "category": "Government",
+    "description": "U.S. FBI most-wanted persons, images, descriptions",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "FEC",
+    "url": "https://api.open.fec.gov/developers/",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Information on campaign donations in federal elections",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Federal Register",
+    "url": "https://www.federalregister.gov/reader-aids/developer-resources/rest-api",
+    "auth": "No",
+    "category": "Government",
+    "description": "The Daily Journal of the United States Government",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Food Standards Agency",
+    "url": "http://ratings.food.gov.uk/open-data/en-GB",
+    "auth": "No",
+    "category": "Government",
+    "description": "UK food hygiene rating data API",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Gazette Data, UK",
+    "url": "https://www.thegazette.co.uk/data",
+    "auth": "OAuth",
+    "category": "Government",
+    "description": "UK official public record API",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Interpol Red Notices",
+    "url": "https://interpol.api.bund.dev",
+    "auth": "No",
+    "category": "Government",
+    "description": "Access and search Interpol Red Notices",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Istanbul (İBB) Open Data",
+    "url": "https://data.ibb.gov.tr",
+    "auth": "No",
+    "category": "Government",
+    "description": "Data sets from the İstanbul Metropolitan Municipality (İBB)",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "National Park Service, US",
+    "url": "https://www.nps.gov/subjects/developer/",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Data from the US National Park Service",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, ACT",
+    "url": "https://www.data.act.gov.au",
+    "auth": "No",
+    "category": "Government",
+    "description": "Australian Capital Territory Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Argentina",
+    "url": "https://datos.gob.ar",
+    "auth": "No",
+    "category": "Government",
+    "description": "Argentina Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Australia",
+    "url": "https://www.data.gov.au",
+    "auth": "No",
+    "category": "Government",
+    "description": "Australian Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Austria",
+    "url": "https://www.data.gv.at",
+    "auth": "No",
+    "category": "Government",
+    "description": "Austria Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Belgium",
+    "url": "https://data.gov.be",
+    "auth": "No",
+    "category": "Government",
+    "description": "Belgium Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Canada",
+    "url": "http://open.canada.ca/en",
+    "auth": "No",
+    "category": "Government",
+    "description": "Canadian Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Colombia",
+    "url": "https://www.dane.gov.co",
+    "auth": "No",
+    "category": "Government",
+    "description": "Colombia Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Cyprus",
+    "url": "https://data.gov.cy/",
+    "auth": "No",
+    "category": "Government",
+    "description": "Cyprus Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Czech Republic",
+    "url": "https://data.gov.cz/english",
+    "auth": "No",
+    "category": "Government",
+    "description": "Czech Republic Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Denmark",
+    "url": "https://www.opendata.dk",
+    "auth": "No",
+    "category": "Government",
+    "description": "Denmark Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Estonia",
+    "url": "https://avaandmed.eesti.ee/instructions/opendata-dataset-api",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Estonia Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Finland",
+    "url": "https://www.avoindata.fi/en",
+    "auth": "No",
+    "category": "Government",
+    "description": "Finland Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, France",
+    "url": "https://www.data.gouv.fr/",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "French Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Germany",
+    "url": "https://www.govdata.de/daten/-/details/govdata-metadatenkatalog",
+    "auth": "No",
+    "category": "Government",
+    "description": "Germany Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Greece",
+    "url": "https://data.gov.gr/",
+    "auth": "OAuth",
+    "category": "Government",
+    "description": "Greece Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, India",
+    "url": "https://data.gov.in/",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Indian Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Ireland",
+    "url": "https://data.gov.ie/pages/developers",
+    "auth": "No",
+    "category": "Government",
+    "description": "Ireland Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Italy",
+    "url": "https://www.dati.gov.it",
+    "auth": "No",
+    "category": "Government",
+    "description": "Italy Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Kazakhstan",
+    "url": "https://data.egov.kz/",
+    "auth": "No",
+    "category": "Government",
+    "description": "Kazakhstan Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Korea",
+    "url": "https://www.data.go.kr/",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Korea Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Lithuania",
+    "url": "https://data.gov.lt/public/api/1",
+    "auth": "No",
+    "category": "Government",
+    "description": "Lithuania Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Luxembourg",
+    "url": "https://data.public.lu",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Luxembourgish Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Malaysia",
+    "url": "https://data.gov.my/",
+    "auth": "No",
+    "category": "Government",
+    "description": "Malaysia Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Mexico",
+    "url": "https://www.inegi.org.mx/datos",
+    "auth": "No",
+    "category": "Government",
+    "description": "Mexican Statistical Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Netherlands",
+    "url": "https://data.overheid.nl/en/ondersteuning/data-publiceren/api",
+    "auth": "No",
+    "category": "Government",
+    "description": "Netherlands Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, New South Wales",
+    "url": "https://api.nsw.gov.au/",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "New South Wales Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, New Zealand",
+    "url": "https://www.data.govt.nz",
+    "auth": "No",
+    "category": "Government",
+    "description": "New Zealand Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Norway",
+    "url": "https://data.norge.no/dataservices",
+    "auth": "No",
+    "category": "Government",
+    "description": "Norwegian Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Poland",
+    "url": "https://dane.gov.pl/en",
+    "auth": "No",
+    "category": "Government",
+    "description": "Poland Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Portugal",
+    "url": "https://dados.gov.pt/en/docapi",
+    "auth": "No",
+    "category": "Government",
+    "description": "Portugal Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Queensland Government",
+    "url": "https://www.data.qld.gov.au",
+    "auth": "No",
+    "category": "Government",
+    "description": "Queensland Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Romania",
+    "url": "http://data.gov.ro/",
+    "auth": "No",
+    "category": "Government",
+    "description": "Romania Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Saudi Arabia",
+    "url": "https://data.gov.sa",
+    "auth": "No",
+    "category": "Government",
+    "description": "Saudi Arabia Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Singapore",
+    "url": "https://data.gov.sg/developer",
+    "auth": "No",
+    "category": "Government",
+    "description": "Singapore Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Slovakia",
+    "url": "https://data.gov.sk/en",
+    "auth": "No",
+    "category": "Government",
+    "description": "Slovakia Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Slovenia",
+    "url": "https://podatki.gov.si",
+    "auth": "No",
+    "category": "Government",
+    "description": "Slovenia Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, South Australian Government",
+    "url": "https://data.sa.gov.au",
+    "auth": "No",
+    "category": "Government",
+    "description": "South Australian Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Spain",
+    "url": "https://datos.gob.es/en",
+    "auth": "No",
+    "category": "Government",
+    "description": "Spain Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Sweden",
+    "url": "https://www.dataportal.se/en/dataservice/91_29789/api-for-the-statistical-database",
+    "auth": "No",
+    "category": "Government",
+    "description": "Sweden Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Switzerland",
+    "url": "https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html",
+    "auth": "No",
+    "category": "Government",
+    "description": "Switzerland Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Taiwan",
+    "url": "https://data.gov.tw",
+    "auth": "No",
+    "category": "Government",
+    "description": "Taiwan Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Thailand",
+    "url": "https://data.go.th/",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Thailand Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, UK",
+    "url": "https://data.gov.uk",
+    "auth": "No",
+    "category": "Government",
+    "description": "UK Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, USA",
+    "url": "https://www.data.gov/",
+    "auth": "No",
+    "category": "Government",
+    "description": "United States Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, Victoria State Government",
+    "url": "https://www.data.vic.gov.au",
+    "auth": "No",
+    "category": "Government",
+    "description": "Victoria State Government Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Open Government, West Australia",
+    "url": "https://data.wa.gov.au",
+    "auth": "No",
+    "category": "Government",
+    "description": "West Australia Open Data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "OpenFEMA API",
+    "url": "https://www.fema.gov/about/openfema/api",
+    "auth": "No",
+    "category": "Government",
+    "description": "Disaster declarations, public assistance, risk index",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "PolitiData",
+    "url": "https://politidata.ca",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Canadian political financing, lobbying registrations and communications",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "PRC Exam Schedule",
+    "url": "https://api.whenisthenextboardexam.com/docs/",
+    "auth": "No",
+    "category": "Government",
+    "description": "Unofficial Philippine Professional Regulation Commission's examination schedule",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "PredictHQ",
+    "url": "https://docs.predicthq.com/",
+    "auth": "oAuth",
+    "category": "Government",
+    "description": "Events and natural disasters data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "ProcureData",
+    "url": "https://procuredata.ca",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "Canadian federal procurement contracts, tenders and awards",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "Represent by Open North",
+    "url": "https://represent.opennorth.ca",
+    "auth": "No",
+    "category": "Government",
+    "description": "Find Canadian Government Representatives",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "RWLabs",
+    "url": "https://apidoc.rwlabs.org/#api-use",
+    "auth": "apiKey",
+    "category": "Government",
+    "description": "All types of disaster data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "UK Companies House",
+    "url": "https://developer.company-information.service.gov.uk/",
+    "auth": "OAuth",
+    "category": "Government",
+    "description": "UK Companies House Data from the UK government",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "USAspending.gov",
+    "url": "https://api.usaspending.gov",
+    "auth": "No",
+    "category": "Government",
+    "description": "US federal spending data",
+    "service_pattern": "Government"
+  },
+  {
+    "name": "18F",
+    "url": "http://18f.github.io/API-All-the-X/",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Unofficial US Federal Government API Development",
+    "service_pattern": "Government"
+  }
+]

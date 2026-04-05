@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Auth0",
+    "url": "https://auth0.com",
+    "auth": "apiKey",
+    "category": "Authentication & Authorization",
+    "description": "Easy to implement, adaptable authentication and authorization platform",
+    "service_pattern": "Identity"
+  },
+  {
+    "name": "Clerk",
+    "url": "https://clerk.com",
+    "auth": "apiKey",
+    "category": "Authentication & Authorization",
+    "description": "Drop-in React components for authentication and authorization",
+    "service_pattern": "Identity"
+  },
+  {
+    "name": "Corbado",
+    "url": "https://corbado.com",
+    "auth": "apiKey",
+    "category": "Authentication & Authorization",
+    "description": "Passkey-first authentication",
+    "service_pattern": "Identity"
+  },
+  {
+    "name": "GetOTP",
+    "url": "https://otp.dev/en/docs/",
+    "auth": "apiKey",
+    "category": "Authentication & Authorization",
+    "description": "Implement OTP flow quickly",
+    "service_pattern": "Identity"
+  },
+  {
+    "name": "Kinde",
+    "url": "https://kinde.com",
+    "auth": "OAuth",
+    "category": "Authentication & Authorization",
+    "description": "Authentication for modern applications. Integrates in minutes and free up to 7,500 MAU",
+    "service_pattern": "Identity"
+  },
+  {
+    "name": "MojoAuth",
+    "url": "https://mojoauth.com",
+    "auth": "apiKey",
+    "category": "Authentication & Authorization",
+    "description": "Secure and modern passwordless authentication platform",
+    "service_pattern": "Identity"
+  },
+  {
+    "name": "Stytch",
+    "url": "https://stytch.com/",
+    "auth": "apiKey",
+    "category": "Authentication & Authorization",
+    "description": "User infrastructure for modern applications",
+    "service_pattern": "Identity"
+  },
+  {
+    "name": "Warrant",
+    "url": "https://docs.warrant.dev/",
+    "auth": "apiKey",
+    "category": "Authentication & Authorization",
+    "description": "APIs for authorization and access control",
+    "service_pattern": "Identity"
+  },
+  {
+    "name": "iAM Smart API",
+    "url": "https://data.gov.hk/en-data/dataset/hk-dpo-dpo_hp-iam-smart-registration-locations",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The iAM Smart API provides information about registration locations for the iAM Smart service, which facilitates digital identity verification in Hong Kong. It delivers data regarding service counters",
+    "service_pattern": "Identity"
+  },
+  {
+    "name": "Jumio",
+    "url": "https://www.jumio.com/developer/",
+    "auth": "apiKey",
+    "category": "Security",
+    "description": "Provides identity verification, KYC (Know Your Customer), and AML (Anti-Money Laundering) solutions, including document verification and biometric authentication.",
+    "service_pattern": "Identity"
+  }
+]

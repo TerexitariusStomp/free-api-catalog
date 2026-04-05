@@ -1,0 +1,354 @@
+[
+  {
+    "name": "API Setu",
+    "url": "https://www.apisetu.gov.in",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "An Indian Government platform that provides a lot of APIS for KYC, business, education & employment",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Archive.org",
+    "url": "https://archive.readme.io/docs",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "The Internet Archive",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "ArgentinaDatos",
+    "url": "https://argentinadatos.com/",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Unofficial Argentinian data API",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Black History Facts",
+    "url": "https://www.blackhistoryapi.io/docs",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Contribute or search one of the largest black history fact databases on the web",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Callook.info",
+    "url": "https://callook.info",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "United States ham radio callsigns",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "CARTO",
+    "url": "https://carto.com/",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Location Information Prediction",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "CollegeScoreCard.ed.gov",
+    "url": "https://collegescorecard.ed.gov/data",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Data on higher education institutions in the United States",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Copernicus Sentinel Hub",
+    "url": "https://dataspace.copernicus.eu",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Sentinel-1/2/3/5P imagery",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "DataStream",
+    "url": "https://github.com/datastreamapp/api-docs",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "An open access platform for sharing Canadian water quality data",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Enigma Public",
+    "url": "https://developers.enigma.com/docs",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Broadest collection of public data",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "fonoApi",
+    "url": "https://fonoapi.freshpixl.com/",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Mobile Device Description",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "French Address Search",
+    "url": "https://geo.api.gouv.fr/adresse",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Address search via the French Government",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Fruits",
+    "url": "https://fruits-api.netlify.app/graphql",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Information of fruit trees of the world",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Generate Link Preview (including checking for malicious links)",
+    "url": "https://apyhub.com/utility/link-preview",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Fetches metadata from any URL passed to it, including Open Graph tags.",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "ICPSR",
+    "url": "https://www.icpsr.umich.edu/web/ICPSR",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Inter-university Consortium for Political and Social Research",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Joshua Project",
+    "url": "https://api.joshuaproject.net/",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "People groups of the world with the fewest followers of Christ",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "LinkPreview",
+    "url": "https://www.linkpreview.net",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Get JSON formatted summary with title, description and preview image for any requested URL",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Lowy Asia Power Index",
+    "url": "https://github.com/0x0is1/lowy-index-api-docs",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Get measure resources and influence to rank the relative power of states in Asia",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Microlink.io",
+    "url": "https://microlink.io",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Extract structured data from any website",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "NASA Earthdata",
+    "url": "https://earthdata.nasa.gov",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Satellite products: MODIS, MERRA-2, GPM",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "NOAA CDO",
+    "url": "https://ncdc.noaa.gov/cdo-web/webservices/v2",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Historical climate data",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Nobel Prize",
+    "url": "https://www.nobelprize.org/about/developer-zone-2",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Open data about nobel prizes and events",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "OBIS API",
+    "url": "https://api.obis.org",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "100M+ marine biodiversity records and ocean species observation data from OBIS",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "openAFRICA",
+    "url": "https://africaopendata.org",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Large datasets repository of African open data",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "OpenCorporates",
+    "url": "http://api.opencorporates.com/documentation/API-Reference",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Data on corporate entities and directors in many countries",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "OpenSanctions",
+    "url": "https://www.opensanctions.org/api",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Sanctions and politically exposed persons data",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "PM2.5 Open Data",
+    "url": "https://pm25.lass-net.org",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Low-cost PM2.5 sensor network data (Asia-Pacific)",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Scoop.it",
+    "url": "http://www.scoop.it/dev",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Content Curation Service",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Smithsonian Open Access",
+    "url": "https://api.si.edu",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Smithsonian museum collections, artifacts, images, and historical metadata",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Socrata",
+    "url": "https://dev.socrata.com/",
+    "auth": "OAuth",
+    "category": "Open Data",
+    "description": "Access to Open Data from Governments, Non-profits and NGOs around the world",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Sofiaplan",
+    "url": "https://sofiaplan.bg/api/",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Access to urban research data for the Bulgarian capital Sofia",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Teleport",
+    "url": "https://developers.teleport.org/",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Quality of Life Data",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Udemy Coupons, Courses & Instructors Data",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/udemy-coupons-courses-instructors-data-api",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Retrieve Udemy courses, coupons, instructors, and metadata",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Umeå Open Data",
+    "url": "https://opendata.umea.se/api",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Open data of the city Umeå in northern Sweden",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "UN Data",
+    "url": "https://data.un.org",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "UN statistics and indicators",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "UniDb",
+    "url": "https://unidbapi.com",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Data that helps people gain useful insight into universities in the United Kingdom",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Universities List",
+    "url": "https://github.com/Hipo/university-domains-list",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "University names, countries and domains",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "University of Oslo",
+    "url": "https://data.uio.no",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "UPC database",
+    "url": "https://upcdatabase.org/api",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "More than 1.5 million barcode numbers from all around the world",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "USDA NASS Quick Stats",
+    "url": "https://quickstats.nass.usda.gov/api",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "U.S. agricultural statistics: crops, livestock, acreage",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Wikidata",
+    "url": "https://www.wikidata.org/w/api.php?action=help",
+    "auth": "OAuth",
+    "category": "Open Data",
+    "description": "Structured knowledge graph: entities, statements, linked data via SPARQL endpoint",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Wikidata API / SPARQL",
+    "url": "https://wikidata.org/wiki/Wikidata:Data_access",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Structured knowledge graph: entities, statements, linked data via SPARQL endpoint",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Wikipedia API",
+    "url": "https://mediawiki.org/wiki/API:Main_page",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Full Wikipedia article content, search, categories, links, and page revisions",
+    "service_pattern": "Other"
+  },
+  {
+    "name": "Yelp",
+    "url": "https://www.yelp.com/developers",
+    "auth": "OAuth",
+    "category": "Open Data",
+    "description": "Find Local Business",
+    "service_pattern": "Other"
+  }
+]

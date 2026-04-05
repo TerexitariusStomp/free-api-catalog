@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Library Management",
+    "url": "https://github.com/adam-dev2/library-management-api",
+    "auth": "No",
+    "category": "Books",
+    "description": "Manage users, books, authors, loans and reviews",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Apache Superset",
+    "url": "https://superset.apache.org/docs/api",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "API to manage your BI dashboards and data sources on Superset",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Redash",
+    "url": "https://redash.io/help/user-guide/integrations-and-api/api",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Access your queries and dashboards on Redash",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Trello",
+    "url": "https://developers.trello.com/",
+    "auth": "OAuth",
+    "category": "Business",
+    "description": "Boards, lists and cards to help you organize and prioritize your projects",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Elering Dashboard API",
+    "url": "https://dashboard.elering.ee/assets/api-doc.html",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides access to various data sets related to the Elering power and gas systems, including balancing data and capacity information. It offers endpoints for retrieving real-time data, histor",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://beta.developer.spotify.com/documentation/web-api/",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "View Spotify music catalog, manage users' libraries, get recommendations and more",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "ClickUp",
+    "url": "https://clickup.com/api",
+    "auth": "OAuth",
+    "category": "Productivity",
+    "description": "ClickUp is a robust, cloud-based project management tool for boosting productivity",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "JIRA",
+    "url": "https://developer.atlassian.com/server/jira/platform/rest-apis/",
+    "auth": "OAuth",
+    "category": "Productivity",
+    "description": "JIRA is a proprietary issue tracking product that allows bug tracking and agile project management",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Zube",
+    "url": "https://zube.io/docs/api",
+    "auth": "OAuth",
+    "category": "Productivity",
+    "description": "Full stack project management",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Best Buy",
+    "url": "https://bestbuyapis.github.io/api-documentation/#overview",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Products, Buying Options, Categories, Recommendations, Stores and Commerce",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Canopy",
+    "url": "https://www.canopyapi.co/",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "A modern API for Amazon Data",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Digi-Key",
+    "url": "https://www.digikey.com/en/resources/api-solutions",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Retrieve price and inventory of electronic components as well as place orders",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "eBay",
+    "url": "https://developer.ebay.com/",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Sell and Buy on eBay",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Etsy",
+    "url": "https://www.etsy.com/developers/documentation/getting_started/api_basics",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Manage shop and interact with listings",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Flipkart Marketplace",
+    "url": "https://seller.flipkart.com/api-docs/FMSAPI.html",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Product listing management, Order Fulfilment in the Flipkart Marketplace",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Lazada",
+    "url": "https://open.lazada.com/doc/doc.htm",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Retrieve product ratings and seller performance metrics",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Mercadolibre",
+    "url": "https://developers.mercadolibre.cl/es_ar/api-docs-es",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Manage sales, ads, products, services and Shops",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "OLX Poland",
+    "url": "https://developer.olx.pl/api/doc#section/",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Integrate with local sites by posting, managing adverts and communicating with OLX users",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Platzi Fake Store",
+    "url": "https://fakeapi.platzi.com/",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "A fake store API for your e-commerce or shopping website prototype. For testing and learning",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Printful",
+    "url": "https://developers.printful.com",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Printful's official API to manage and integrate their services",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Printify",
+    "url": "https://developers.printify.com/",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Printify's official API to manage and integrate their services",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Rappi",
+    "url": "https://dev-portal.rappi.com/",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Manage orders from Rappi's app",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "ScoutAPI",
+    "url": "https://scoutapi.com",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Affordable, Swift, and Reliable Amazon Data in Real-Time",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Shopee",
+    "url": "https://open.shopee.com/documents?version=1",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Shopee's official API for integration of various services from Shopee",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Shopify",
+    "url": "https://shopify.dev/docs/api",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Manage sales channels, customers, products, and discounts for a retail business",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "ShopSavvy",
+    "url": "https://shopsavvy.com/data",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Product pricing and price history across thousands of retailers",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Tokopedia",
+    "url": "https://developer.tokopedia.com/openapi/guide/#/",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Tokopedia's Official API for integration of various services from Tokopedia",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "WooCommerce",
+    "url": "https://woocommerce.github.io/woocommerce-rest-api-docs/",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format",
+    "service_pattern": "Platform"
+  },
+  {
+    "name": "Oktias Bakery API",
+    "url": "https://beni.xo.je",
+    "auth": "No",
+    "category": "Video",
+    "description": "This API provides functionality for an online bakery store, enabling users to browse products, place orders, and manage a shopping cart. It is designed to streamline the shopping experience for cakes ",
+    "service_pattern": "Platform"
+  }
+]

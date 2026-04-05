@@ -1,0 +1,3322 @@
+[
+  {
+    "name": "Amazing Endemic Species",
+    "url": "https://aes.shenlu.me",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Amazing endemic species all over the world",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Axolotl",
+    "url": "https://theaxolotlapi.netlify.app",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Collection of axolotl pictures and facts",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Bored API",
+    "url": "https://boredapi.com/api",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Get random activities based on type, participants, price, and accessibility ranges.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Cat Facts",
+    "url": "https://alexwohlbruck.github.io/cat-facts",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Daily cat facts",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Cataas",
+    "url": "https://cataas.com",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Cat as a Service - random cat images and GIFs",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Cats",
+    "url": "https://developers.thecatapi.com/",
+    "auth": "apiKey",
+    "category": "Animals",
+    "description": "Pictures of cats from Tumblr",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Data.gov CKAN API",
+    "url": "https://data.gov/developers/apis/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Provides metadata about datasets in the data.gov catalog powered by CKAN, including URLs and descriptions, but not the actual data within each dataset.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Dog CEO",
+    "url": "https://dog.ceo/dog-api",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Pictures of dogs based on the Stanford Dogs Dataset",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Dog Facts",
+    "url": "https://kinduff.github.io/dog-api",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random dog facts API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Dogs",
+    "url": "https://dogapi.dog/docs/api-v2",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random facts and breed information about dogs",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "eBird",
+    "url": "https://documenter.getpostman.com/view/664302/S1ENwy59",
+    "auth": "apiKey",
+    "category": "Animals",
+    "description": "Retrieve recent or notable birding observations within a region",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Extinct Animals API",
+    "url": "https://cheba-apis.vercel.app/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "This API provides information about animals that became extinct in the last 11,650 years, known as the Holocene extinction. It gathers data from Wikipedia and individual animal pages, allowing users t",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "FastAPI",
+    "url": "https://realip.cc/docs",
+    "auth": "No",
+    "category": "Animals",
+    "description": "FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. It allows for easy creation of applications while ensuring validatio",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "FishWatch",
+    "url": "https://www.fishwatch.gov/developers",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Information and pictures about individual fish species",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Free Birds API",
+    "url": "https://freetestapi.com/apis/birds",
+    "auth": "No",
+    "category": "Animals",
+    "description": "The Free Birds API offers accessible endpoints to retrieve and manage various bird data ideal for development purposes. It supports multiple features including searching, sorting, and limiting results",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Global Shark Attack API",
+    "url": "https://public.opendatasoft.com/explore/dataset/global-shark-attack",
+    "auth": "No",
+    "category": "Animals",
+    "description": "The Global Shark Attack File (GSAF) API offers access to a comprehensive dataset of human-shark interactions, including detailed incident reports categorized by type, such as unprovoked, provoked, boa",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Hong Kong CSDI",
+    "url": "https://portal.csdi.gov.hk/csdi-webpage/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "The Hong Kong CSDI Portal provides access to a range of geospatial data and applications aimed at supporting data sharing and government initiatives. It centralizes resources for spatial data, making ",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "HTTP Cat",
+    "url": "https://http.cat",
+    "auth": "No",
+    "category": "Animals",
+    "description": "HTTP status codes with cat images",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "HTTP Dog",
+    "url": "https://http.dog",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Dogs for every HTTP response status code",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Insult API",
+    "url": "https://insult.mattbas.org/api/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "The Insult API generates humorous and creative insults in various formats, allowing users to specify language and templates. It supports multiple languages, including English and corporate jargon, cat",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "IUCN",
+    "url": "http://apiv3.iucnredlist.org/api/v3/docs",
+    "auth": "apiKey",
+    "category": "Animals",
+    "description": "IUCN Red List of Threatened Species",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Meow Facts",
+    "url": "https://github.com/wh-iterabb-it/meowfacts",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random cat facts API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "MeowFacts",
+    "url": "https://meowfacts.herokuapp.com",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random cat facts",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Motivational API",
+    "url": "https://github.com/GomezMig03/MotivationalAPI",
+    "auth": "No",
+    "category": "Animals",
+    "description": "This API provides a collection of catholic and secular motivational phrases to help users overcome their challenges. It is intended to be utilized in applications focused on motivation and support, li",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "NID Correction Portal",
+    "url": "https://cms-card-management-system-nid-cms-steel.vercel.app/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "This API provides a platform for users to manage and review National ID (NID) correction requests. Users can log in, search for requests, view details, approve or reject applications, and track status",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "PageSpeed API",
+    "url": "https://developers.google.com/speed/docs/insights/rest/v5/pagespeedapi/runpagespeed",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Runs PageSpeed analysis on a specified URL, providing scores, suggestions for faster loading, and other data. Supports different categories, locales, and strategies.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Petfinder",
+    "url": "https://www.petfinder.com/developers/",
+    "auth": "apiKey",
+    "category": "Animals",
+    "description": "Petfinder is dedicated to helping pets find homes, another resource to get pets adopted",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "RandomDog",
+    "url": "https://random.dog/woof.json",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random pictures of dogs",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "RandomDuck",
+    "url": "https://random-d.uk/api",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random pictures of ducks",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "RandomFox",
+    "url": "https://randomfox.ca/floof",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random pictures of foxes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "RescueGroups",
+    "url": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Adoption",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Search Notice API",
+    "url": "https://api.adviceslip.com/advice/search/try1",
+    "auth": "No",
+    "category": "Animals",
+    "description": "This API allows users to search for specific notice slips within a given database. It provides information regarding the results of search queries, indicating if there are matching slips or not.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "The Dog",
+    "url": "https://thedogapi.com/",
+    "auth": "apiKey",
+    "category": "Animals",
+    "description": "A public service all about Dogs, free to use when making your fancy new App, Website or Service",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Trivia API",
+    "url": "https://opentdb.com/api.php?amount=10",
+    "auth": "No",
+    "category": "Animals",
+    "description": "The Open Trivia Database provides a completely free JSON API for use in programming projects. Use of this API does not require a API Key, just generate the URL below use it in your own application to ",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "World Cup Qualification",
+    "url": "https://api.football-data.org/v4/competitions/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "This API provides detailed information about the qualification process for the FIFA World Cup for different confederations around the world. It includes tournament structures, match schedules, and res",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "WoRMS",
+    "url": "https://www.marinespecies.org/rest/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Authoritative list of marine species names and taxonomy",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "xeno-canto",
+    "url": "https://xeno-canto.org/explore/api",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Bird recordings from around the world",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "AniDB",
+    "url": "https://wiki.anidb.net/HTTP_API_Definition",
+    "auth": "apiKey",
+    "category": "Anime",
+    "description": "Anime Database",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "AnimeChan",
+    "url": "https://github.com/RocktimSaikia/anime-chan",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Anime quotes from popular anime series",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "AnimeFacts",
+    "url": "https://chandan-02.github.io/anime-facts-rest-api",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Anime Facts (over 100+)",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "AOT quotes",
+    "url": "https://attackontitanquotes.vercel.app/",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Attack on Titan Quotes API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Attack on Titan API",
+    "url": "https://www.attackontitanapi.com/",
+    "auth": "No",
+    "category": "Anime",
+    "description": "A RESTful API that provides access to a wide range of data related to the popular anime and manga series 'Attack on Titan'. Users can retrieve information about characters, episodes, locations, organi",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Catboy",
+    "url": "https://catboys.com/api",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Neko images, funny GIFs & more",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Danbooru Anime",
+    "url": "https://danbooru.donmai.us/wiki_pages/help:api",
+    "auth": "apiKey",
+    "category": "Anime",
+    "description": "Thousands of anime artist database to find good anime art",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Dattebayo API",
+    "url": "https://api-dattebayo.vercel.app/",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Dattebayo: Your Ultimate Naruto Anime API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Demon Slayer API",
+    "url": "https://www.demonslayer-api.com/",
+    "auth": "No",
+    "category": "Anime",
+    "description": "The Demon Slayer API provides developers with structured data related to the popular anime series, including character details, combat styles, and affiliations. It allows users to access information a",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Dragon Ball",
+    "url": "https://web.dragonball-api.com",
+    "auth": "No",
+    "category": "Anime",
+    "description": "An easy to use Dragon Ball API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Jikan",
+    "url": "https://jikan.moe",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Unofficial MyAnimeList API - anime, manga, character data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Jikan REST API",
+    "url": "https://docs.api.jikan.moe/",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Unofficial MyAnimeList REST API for anime and manga data.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Kitsu",
+    "url": "https://kitsu.docs.apiary.io/",
+    "auth": "OAuth",
+    "category": "Anime",
+    "description": "Anime discovery platform",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "MangaDex",
+    "url": "https://api.mangadex.org/docs/",
+    "auth": "apiKey",
+    "category": "Anime",
+    "description": "Manga Database and Community",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Mangapi",
+    "url": "https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/",
+    "auth": "apiKey",
+    "category": "Anime",
+    "description": "Translate manga pages from one language to another",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "MyAnimeList",
+    "url": "https://myanimelist.net/clubs.php?cid=13727",
+    "auth": "OAuth",
+    "category": "Anime",
+    "description": "Anime and Manga Database and Community",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Naruto Character API",
+    "url": "https://narutodb.xyz/",
+    "auth": "No",
+    "category": "Anime",
+    "description": "The NarutoDB API offers a detailed database of characters, clans, villages, and more from the Naruto anime and manga series. Users can access comprehensive information about each character, including ",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Nekos API",
+    "url": "https://nekosapi.com/docs",
+    "auth": "OAuth",
+    "category": "Anime",
+    "description": "Anime images with lots of metadata",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "NekosBest",
+    "url": "https://docs.nekos.best",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Neko Images & Anime roleplaying GIFs",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Nekosia API",
+    "url": "https://nekosia.cat",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Anime API with cute random images. Dominated colors & compressed images & avoiding duplicates.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Nekosia Neko API",
+    "url": "https://nekosia.cat/documentation?page=introduction",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Nekosia is a free API designed for integrating anime content, specifically featuring cute Neko images. It includes a dedicated Booru for browsing and adding images, enhancing project content with a va",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "One Piece API",
+    "url": "https://api-onepiece.com/en/documentation",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Access information about the One Piece manga, including sagas, fruits, chapters, volumes, episodes, and more. Explore details about characters, crews, locations, and various elements from the One Piec",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Trace Moe",
+    "url": "https://soruly.github.io/trace.moe-api",
+    "auth": "No",
+    "category": "Anime",
+    "description": "A useful tool to get the exact scene of an anime from a screenshot",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Waifu.im",
+    "url": "https://waifu.im/docs",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Get waifu pictures from an archive of over 4000 images and multiple tags",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Waifu.it",
+    "url": "https://docs.waifu.it",
+    "auth": "apiKey",
+    "category": "Anime",
+    "description": "Free RESTful API for Anime Quotes, Facts, Emotes, Gifs, Nekos, Waifus and More!",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Waifu.pics",
+    "url": "https://waifu.pics/docs",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Image sharing platform for anime images",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "YummyAnime API",
+    "url": "https://github.com/l0v3m0n3y/yummyanime",
+    "auth": "No",
+    "category": "Anime",
+    "description": "The YummyAnime API is a JavaScript library designed for accessing and interacting with the yummyani.me platform. It allows developers to search for anime content and retrieve detailed information abou",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "A Bíblia Digital",
+    "url": "https://www.abibliadigital.com.br/en",
+    "auth": "apiKey",
+    "category": "Books",
+    "description": "Do not worry about managing the multiple versions of the Bible",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Bhagavad Gita",
+    "url": "https://bhagavadgita.io/api",
+    "auth": "OAuth",
+    "category": "Books",
+    "description": "Bhagavad Gita text",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Bhagavad Gita telugu",
+    "url": "https://gita-api.vercel.app",
+    "auth": "No",
+    "category": "Books",
+    "description": "Bhagavad Gita API in telugu and odia languages",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Bible-api",
+    "url": "https://bible-api.com",
+    "auth": "No",
+    "category": "Books",
+    "description": "Free Bible API with multiple languages",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Big Book",
+    "url": "https://bigbookapi.com",
+    "auth": "apiKey",
+    "category": "Books",
+    "description": "The Big Book API allows you to semantically search, filter, sort, and recommend books",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Ganjoor",
+    "url": "https://api.ganjoor.net",
+    "auth": "OAuth",
+    "category": "Books",
+    "description": "Classic Persian poetry works including access to related manuscripts, recitations and music tracks",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Google Books",
+    "url": "https://developers.google.com/books/",
+    "auth": "OAuth",
+    "category": "Books",
+    "description": "Books",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Gutendex",
+    "url": "https://gutendex.com",
+    "auth": "No",
+    "category": "Books",
+    "description": "Web-API for fetching data from Project Gutenberg Books Library",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Harry Potter",
+    "url": "https://github.com/fedeperin/potterapi",
+    "auth": "No",
+    "category": "Books",
+    "description": "API to get data from Harry Potter books, movies and characters",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Holy Bible API",
+    "url": "https://holy-bible-api.com/docs",
+    "auth": "No",
+    "category": "Books",
+    "description": "Free Bible API serving 800+ text translations and 40+ audio translations",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Library Management",
+    "url": "https://github.com/adam-dev2/library-management-api",
+    "auth": "No",
+    "category": "Books",
+    "description": "Manage users, books, authors, loans and reviews",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Open Library",
+    "url": "https://openlibrary.org/developers/api",
+    "auth": "No",
+    "category": "Books",
+    "description": "Books, book covers and related data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Open Library Search API",
+    "url": "https://openlibrary.org/dev/docs/api/search",
+    "auth": "No",
+    "category": "Books",
+    "description": "Open Library provides an experimental API to search for book data. It can return data for multiple books in a single request, including Work and Edition level information, author IDs, book availabilit",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "PoetryDB",
+    "url": "https://github.com/thundercomb/poetrydb#readme",
+    "auth": "No",
+    "category": "Books",
+    "description": "Enables you to get instant data from our vast poetry collection",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Quran",
+    "url": "https://quran.api-docs.io",
+    "auth": "No",
+    "category": "Books",
+    "description": "RESTful Quran API with multiple languages",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Quran Cloud",
+    "url": "https://alquran.cloud/api",
+    "auth": "No",
+    "category": "Books",
+    "description": "A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Rig Veda",
+    "url": "https://aninditabasu.github.io/indica/",
+    "auth": "No",
+    "category": "Books",
+    "description": "Gods and poets, their categories, and the verse meters, with the mandal and sukta number",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Stephen King",
+    "url": "https://stephen-king-api.onrender.com/",
+    "auth": "No",
+    "category": "Books",
+    "description": "The varied works and characters of the prolific author Stephen King",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Thirukkural",
+    "url": "https://api-thirukkural.web.app",
+    "auth": "No",
+    "category": "Books",
+    "description": "1330 Thirukkural poems and explanation in Tamil and English",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Wizard World API",
+    "url": "https://wizard-world-api.herokuapp.com/swagger/index.html",
+    "auth": "No",
+    "category": "Books",
+    "description": "Get information from the Harry Potter universe",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Wolne Lektury",
+    "url": "https://wolnelektury.pl/api",
+    "auth": "No",
+    "category": "Books",
+    "description": "API for obtaining information about e-books available on the WolneLektury.pl website",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Affirmations",
+    "url": "https://www.affirmations.dev",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API provides inspirational affirmations to boost positivity and self-esteem. Users can retrieve random affirmations to enhance their mental wellness and motivation.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Agify / Genderize / Nationalize",
+    "url": "https://api.agify.io",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Predict age/gender/nationality from name",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Alan Perlis Quotes",
+    "url": "https://perl.is/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API provides random epigrams by Alan Perlis, a notable figure in computer science. Users can programmatically access a variety of his thought-provoking quotes to enhance their applications or for",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Buddha Quotes API",
+    "url": "https://buddha-api.com/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API provides access to a collection of inspirational quotes from Buddhist figures including Buddha, Dogen, and Thich Nhat Hanh. Users can retrieve random quotes as well as specific quotes for tod",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Cat Fact API",
+    "url": "https://alexwohlbruck.github.io/cat-facts/docs/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "An API that shows different Cat Facts!",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "chucknorris.io",
+    "url": "https://api.chucknorris.io",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "JSON API for hand curated Chuck Norris jokes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Fun Fact",
+    "url": "https://api.aakhilv.me",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "A simple HTTPS api that can randomly select and return a fact from the FFA database",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Imgflip",
+    "url": "https://imgflip.com/api",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Gets an array of popular memes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "JokeAPI",
+    "url": "https://v2.jokeapi.dev",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Programmable jokes with safe-mode and categories",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Keanu Reeves Whoa",
+    "url": "https://whoa.onrender.com/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "JSON API for every \"whoa\" said by actor Keanu Reeves in his movies",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Kimi Quotes API",
+    "url": "https://kimiquotes.pages.dev/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "The Kimi Quotes API provides access to a collection of quotes from Finnish Formula 1 driver Kimi Räikkönen, including team radio snippets and interview quotes. Users can easily retrieve random quotes ",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Multilingual AI Zodiac",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/multilingual-ai-zodiac-customized-horoscopes-for-all-signs",
+    "auth": "apiKey",
+    "category": "Entertainment",
+    "description": "Personalized daily horoscopes and zodiac insights in 100+ languages",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "NaMoMemes",
+    "url": "https://github.com/theIYD/NaMoMemes",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Indian political meme content API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "No-as-a-Service",
+    "url": "https://no.lavx.hu",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API provides random, creative, and humorous rejection reasons for various scenarios where a graceful decline is necessary. With a simple GET request, users can retrieve a witty response formatted",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "No-as-a-Service API",
+    "url": "https://github.com/hotheadhacker/no-as-a-service",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Official Joke",
+    "url": "https://official-joke-api.appspot.com/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "API for random and programming jokes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Pokefact API",
+    "url": "https://pokefacts.vercel.app",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "API chooses a random Pokemon fact and displays it to the user.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Quotes API",
+    "url": "https://motivational-spark-api.vercel.app/api/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "The Quotes API provides access to a collection of motivational quotes. Users can retrieve all quotes, a random quote, multiple random quotes, or a specific quote by index.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Random Dad Joke",
+    "url": "https://icanhazdadjoke.com/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "API for largest selection of dad jokes on the internet",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Random Fox API",
+    "url": "https://randomfox.ca/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Shows a random fox",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Random Useless Facts",
+    "url": "https://uselessfacts.jsph.pl",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Get useless, but true facts",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Strictly Better API",
+    "url": "https://www.strictlybetter.eu/api-guide",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API allows users to retrieve and search for obsolete cards in JSON format. Users can also find functional reprints and access various endpoints with a limit on the number of results per request.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Studio Ghibli",
+    "url": "https://ghibliapi.herokuapp.com",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Films, characters, species, vehicles from Studio Ghibli movies",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Techy",
+    "url": "https://techy-api.vercel.app",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "JSON and Plaintext API for tech-savvy sounding phrases",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Teehee Joke API",
+    "url": "https://teehee.dev/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "The Teehee.dev API provides a simple way to retrieve random jokes curated by Jesse G. Donat. Users can make a GET request to receive a joke along with its ID, question, answer, and a permalink for ref",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "TVMaze",
+    "url": "https://www.tvmaze.com/api",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "TV show information and schedules",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Unsolicited Advice API",
+    "url": "https://kk-advice.koyeb.app/api",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API provides access to a collection of unsolicited advice from Kevin Kelly. Users can retrieve random advice, all available advice, or specific advice based on its ID.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "World Fun Facts (RapidAPI)",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/world-fun-facts-all-languages-support",
+    "auth": "apiKey",
+    "category": "Entertainment",
+    "description": "Fun and interesting facts with multi-language support",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Yes-as-a-Service",
+    "url": "https://yes.lavx.hu",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API provides random, creative, and amusing affirmations in JSON format, allowing users to receive positive responses for various scenarios. It is perfect for applications requiring a light-hearte",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "YoMomma",
+    "url": "https://github.com/beanboi7/yomomma-apiv2",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "REST API for Yo Momma Jokes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Beverage Mixing API",
+    "url": "https://abhi-api.vercel.app/api/game/dare",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "This API provides recommendations for mixing various beverages with specific ingredients. It can suggest drink combinations based on user input, enhancing the beverage experience.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "BoozeAPI",
+    "url": "https://boozeapi.com/",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "REST API Cocktail Recipes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Chomp",
+    "url": "https://chompthis.com/api/",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Data about various grocery products and foods",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Coffee",
+    "url": "https://coffee.alexflipnote.dev",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Random pictures of coffee",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Edamam",
+    "url": "https://developer.edamam.com/",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Recipe Search",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Edamam nutrition",
+    "url": "https://developer.edamam.com/edamam-docs-nutrition-api",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Nutrition Analysis",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Edamam recipes",
+    "url": "https://developer.edamam.com/edamam-docs-recipe-api",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Recipe Search",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Food Hygiene Rating API",
+    "url": "https://www.food.gov.uk/uk-food-hygiene-rating-data-api",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "The UK Food Hygiene Rating Data API provides access to food hygiene ratings issued to various food establishments across the UK. It allows users to obtain data in XML and JSON formats, featuring geolo",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Foodish",
+    "url": "https://github.com/surhud004/Foodish#readme",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Random food images for developers",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Fruityvice",
+    "url": "https://www.fruityvice.com",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "API for fruit data retrieval and addition. Provides information about various fruits based on 100 grams. Users can also contribute by adding new fruits.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Give Food API",
+    "url": "https://www.givefood.org.uk/api/",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "This API provides access to the largest public database of food banks in the UK, including details about their locations and the items they need donated. Users can retrieve this data in various format",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Jelly Belly Wiki",
+    "url": "https://jelly-belly-wiki.netlify.app/",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Data about Jelly Belly beans- flavores, facts, history and more endpoints",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "LCBO",
+    "url": "https://lcbo.dev/",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Alcohol",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Open Brewery DB",
+    "url": "https://www.openbrewerydb.org",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Breweries, Cideries and Craft Beer Bottle Shops",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/data",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Open-source food product database",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "PunkAPI",
+    "url": "https://github.com/alxiw/punkapi",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "BrewDog's DIY Dog beer catalogue as an API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Spoonacular",
+    "url": "https://spoonacular.com/food-api",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Recipes, Food Products, and Meal Planning",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Status Pizza",
+    "url": "https://status.pizza",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Pizza for every HTTP Status",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "TacoFancy",
+    "url": "https://github.com/evz/tacofancy-api",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Open taco recipe database and data collection",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Tasty",
+    "url": "https://rapidapi.com/apidojo/api/tasty/",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "API to query data about recipe, plan, ingredients",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "TheCocktailDB",
+    "url": "https://www.thecocktaildb.com/api/json/v1/1",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "TheCocktailDB data service",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/api/json/v1/1",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "TheMealDB data service",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "TheReportOfTheWeek",
+    "url": "https://github.com/andyklimczak/TheReportOfTheWeek-API",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Food and drink review API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Untappd",
+    "url": "https://untappd.com/api/docs",
+    "auth": "OAuth",
+    "category": "Food & Drink",
+    "description": "Social beer sharing",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "What's on the menu?",
+    "url": "http://nypl.github.io/menus-api/",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "NYPL human-transcribed historical menu collection",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "WhiskyHunter",
+    "url": "https://whiskyhunter.net/api",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Past online whisky auctions statistical data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Zestful",
+    "url": "https://zestfuldata.com/",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Parse recipe ingredients",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "5e SRD",
+    "url": "https://5e-bits.github.io/docs",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Dungeons & Dragons 5th Edition System Reference Data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "AmiiboAPI",
+    "url": "https://amiiboapi.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Nintendo Amiibo Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Atlas Academy",
+    "url": "https://api.atlasacademy.io/docs",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "API for Fate/Grand Order game data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Autochess VNG",
+    "url": "https://github.com/namakurohman93/autochess-vng-api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Autochess game stats, items, and player data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Battle.net",
+    "url": "https://develop.battle.net/documentation/guides/getting-started",
+    "auth": "OAuth",
+    "category": "Games & Comics",
+    "description": "Diablo III, Hearthstone, StarCraft II and World of Warcraft game data APIs",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Blue Archive",
+    "url": "https://github.com/arufars/api-blue-archive",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Provides Blue Archive characters information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Board Game Geek",
+    "url": "https://boardgamegeek.com/wiki/page/BGG_XML_API2",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Board games, RPG and videogames",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Brawl Stars",
+    "url": "https://developer.brawlstars.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Brawl Stars Game Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Call of Duty",
+    "url": "https://codapi.dev/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Unofficial wrapper for the Call of Duty API with multi-language support.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "CheapShark",
+    "url": "https://www.cheapshark.com/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Steam/PC Game Prices and Deals",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Chess.com",
+    "url": "https://www.chess.com/news/view/published-data-api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Chess.com read-only REST API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Chuck Norris Database",
+    "url": "http://www.icndb.com/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Jokes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Clash of Clans",
+    "url": "https://developer.clashofclans.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Clash of Clans Game Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Clash Royale",
+    "url": "https://developer.clashroyale.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Clash Royale Game Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Comic Vine",
+    "url": "https://comicvine.gamespot.com/api/documentation",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Comics",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Crafatar",
+    "url": "https://crafatar.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "API for Minecraft skins and faces",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Crisis Core Fusion API",
+    "url": "https://github.com/RayMathew/crisis-core-materia-fusion-api/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "This API simulates the fusion of materia from the game 'Crisis Core: Final Fantasy VII'. It provides endpoints to input materia types and retrieves possible fusion outcomes based on complex rules gove",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Cross Universe",
+    "url": "https://crossuniverse.psychpsyo.com/apiDocs.html",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Cross Universe Card Data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "CSGO",
+    "url": "https://bymykel.github.io/CSGO-API/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "An unofficial JSON API for Counter-Strike: Global Offensive",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Deck of Cards",
+    "url": "https://deckofcardsapi.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Deck of cards simulator API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Destiny The Game",
+    "url": "https://bungie-net.github.io/multi/index.html",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Bungie Platform API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Digimon Information",
+    "url": "https://digimon-api.vercel.app",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Provides information about digimon creatures",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Digimon TCG",
+    "url": "https://documenter.getpostman.com/view/14059948/TzecB4fH",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Search for Digimon cards in digimoncard.io",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Disney",
+    "url": "https://disneyapi.dev",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Information of Disney characters",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Dota 2",
+    "url": "https://docs.opendota.com/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Provides information about Player stats, Match stats, Rankings for Dota 2",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Dungeons and Dragons",
+    "url": "https://www.dnd5eapi.co/docs",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Reference for 5th edition spells, classes, monsters, and more",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Dungeons and Dragons (Alternate)",
+    "url": "https://open5e.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Includes all monsters and spells from the SRD (System Reference Document) as well as a search API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Eight Ball",
+    "url": "https://eightballapi.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Fortune-telling API with random, sentiment-biased, and multi-language responses",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Eve Online",
+    "url": "https://esi.evetech.net/ui",
+    "auth": "OAuth",
+    "category": "Games & Comics",
+    "description": "Third-Party Developer Documentation",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Fantasy Role Playing API",
+    "url": "https://set.world",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Set API allows users to query and generate entities within a fantasy role-playing world. It supports various actions such as rolling items and characters via HTTP GET requests, making it easily access",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "FFXIV Collect",
+    "url": "https://ffxivcollect.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Final Fantasy XIV data on collectables",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Final Fantasy XIV",
+    "url": "https://xivapi.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Final Fantasy XIV Game data API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Flyff Game API",
+    "url": "https://api.flyff.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "All Game Data from Flyff",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Fortnite",
+    "url": "https://fortniteapi.com/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Fortnite Stats & Cosmetics",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "FreeToGame API",
+    "url": "https://freetogame.com/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "FreeToGame API data service",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "FunTranslations",
+    "url": "https://api.funtranslations.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Translate Text into funny languages",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Game Brain",
+    "url": "https://gamebrain.co/api",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Search and discover video games with AI",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "GamerPower",
+    "url": "https://www.gamerpower.com/api-read",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Free video game deals and giveaways tracker",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "GDBrowser",
+    "url": "https://gdbrowser.com/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Easy way to use the Geometry Dash Servers",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Geek-Jokes",
+    "url": "https://github.com/sameerkumar18/geek-joke-api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Fetch a random geeky/programming related joke for use in all sorts of applications",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Genshin Impact",
+    "url": "https://genshin.dev",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Genshin Impact game data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Giant Bomb",
+    "url": "https://www.giantbomb.com/api/documentation",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Video Games",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "GraphQL PokeAPI",
+    "url": "https://github.com/mazipan/graphql-pokeapi",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Pokemon data accessible via GraphQL queries",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "GraphQL Pokémon",
+    "url": "https://github.com/favware/graphql-pokemon",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "GraphQL powered Pokemon API. Supports generations 1 through 8",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Guild Wars 2",
+    "url": "https://wiki.guildwars2.com/wiki/API:Main",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Guild Wars 2 Game Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "GW2Spidy",
+    "url": "https://github.com/rubensayshi/gw2spidy/wiki",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "GW2Spidy API, Items data on the Guild Wars 2 Trade Market",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Halo",
+    "url": "https://developer.haloapi.com/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Halo 5 and Halo Wars 2 Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Hearthstone",
+    "url": "http://hearthstoneapi.com/",
+    "auth": "X-Mashape-Key",
+    "category": "Games & Comics",
+    "description": "Hearthstone Cards Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Humble Bundle",
+    "url": "https://rapidapi.com/Ziggoto/api/humble-bundle",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Humble Bundle's current bundles",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Humor",
+    "url": "https://humorapi.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Humor, Jokes, and Memes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Hypixel",
+    "url": "https://api.hypixel.net/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Hypixel player stats",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Hyrule Compendium",
+    "url": "https://github.com/gadhagod/Hyrule-Compendium-API",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Data on all interactive items from The Legend of Zelda: BOTW",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "IGDB.com",
+    "url": "https://api-docs.igdb.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Video Game Database",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Italian Jokes",
+    "url": "https://italian-jokes.vercel.app/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "JSON API for getting jokes about Italians",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Jokes",
+    "url": "https://github.com/15Dkatz/official_joke_api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Programming and general jokes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Jokes One",
+    "url": "https://jokes.one/api/joke/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Joke of the day and large category of jokes accessible via REST API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Jservice",
+    "url": "http://jservice.io",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Jeopardy Question Database",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Lichess",
+    "url": "https://lichess.org/api",
+    "auth": "OAuth",
+    "category": "Games & Comics",
+    "description": "Access to all data of users, games, puzzles and etc on Lichess",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "LotteryData.io",
+    "url": "https://lotterydata.io/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Powerball, MegaMillions, and more results (live + historical) games",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Magic The Gathering",
+    "url": "http://magicthegathering.io",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Magic The Gathering Game Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Marvel",
+    "url": "http://developer.marvel.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Marvel Comics",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Minecraft Server Status",
+    "url": "https://api.mcsrvstat.us",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "API to get Information about a Minecraft Server",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "mod.io",
+    "url": "https://docs.mod.io",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Cross Platform Mod API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Mojang",
+    "url": "https://wiki.vg/Mojang_API",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Mojang / Minecraft API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Monster Hunter World",
+    "url": "https://docs.mhw-db.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Monster Hunter World data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "moogleAPI",
+    "url": "https://www.moogleapi.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Final Fantasy franchise data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Multilingual Truth or Dare Game",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/multilingual-truth-or-dare-party-date-game-api",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Truth or Dare party/date game with multilingual support and random challenges",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Open Trivia",
+    "url": "https://opentdb.com/api_config.php",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Trivia Questions",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "PandaScore",
+    "url": "https://developers.pandascore.co/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "E-sports games and results",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Path of Exile",
+    "url": "https://www.pathofexile.com/developer/docs",
+    "auth": "OAuth",
+    "category": "Games & Comics",
+    "description": "Path of Exile Game Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "PlayerDB",
+    "url": "https://playerdb.co",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Query Minecraft, Steam and XBox Accounts",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "PlayerUnknown's Battlegrounds",
+    "url": "https://tracker.gg/developers",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "PUBG Stats",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Poker Odds Equity EV Calculator & Advice",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/poker-odds-equity-ev-calculator-advice-api",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Poker odds, equity & EV calculator with hand/decision advice",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Pokéapi",
+    "url": "https://pokeapi.co",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Pokémon data, including imagery",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Pokémon TCG",
+    "url": "https://pokemontcg.io",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Pokémon TCG Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Pokémon-3D-api",
+    "url": "https://documenter.getpostman.com/view/29725199/2sAYX8KMU8",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "3D Pokémon models for ThreeJS",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Psychonauts",
+    "url": "https://psychonauts-api.netlify.app",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Psychonauts World Characters Information and PSI Powers",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "PUBG",
+    "url": "https://developer.pubg.com/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Access in-game PUBG data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "PuyoDB (Deno)",
+    "url": "https://github.com/deltadex7/puyodb-api-deno",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Puyo Puyo information from Puyo Nexus Wiki",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "quizapi.io",
+    "url": "https://quizapi.io/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Access to various kind of quiz questions",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Raider",
+    "url": "https://raider.io/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Random Facts",
+    "url": "https://fungenerators.com/api/facts/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Random Facts from hundreds of categories",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "RAWG.io",
+    "url": "https://rawg.io/apidocs",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "500,000+ games for 50 platforms including mobiles",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Rick and Morty",
+    "url": "https://rickandmortyapi.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "All the Rick and Morty information, including images",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Riot Games",
+    "url": "https://developer.riotgames.com/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "League of Legends, Teamfight Tactics, Legends of Runetera and Valorant information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "RuneScape",
+    "url": "https://runescape.wiki/w/Application_programming_interface",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "RuneScape and OSRS RPGs information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Sakura CardCaptor",
+    "url": "https://github.com/JessVel/sakura-card-captor-api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Sakura CardCaptor Cards Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Scoresaber",
+    "url": "https://scoresaber.com/api/documentation",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Scoresaber Stats",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Scryfall",
+    "url": "https://scryfall.com/docs/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Magic: The Gathering database",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Steam",
+    "url": "https://steamapi.xpaw.me/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Steam Web API documentation",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "SteamWebAPI",
+    "url": "https://github.com/Revadike/InternalSteamWebAPI/wiki",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Steam player profiles, game libraries, and achievements",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "SuperHeroes",
+    "url": "https://superheroapi.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "All SuperHeroes and Villains data from all universes under a single API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "TCGdex",
+    "url": "https://tcgdex.dev",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Pokemon TCG card database with multilingual support",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Tebex",
+    "url": "https://docs.tebex.io/plugin/",
+    "auth": "X-Mashape-Key",
+    "category": "Games & Comics",
+    "description": "Tebex API for information about game purchases",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "TETR.IO",
+    "url": "https://tetr.io/about/api/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "TETR.IO Tetra Channel API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "TheGamestracker",
+    "url": "https://thegamestracker.com/server-info-api",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Game servers informations in JSON format",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Tronald Dump",
+    "url": "https://www.tronalddump.io",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Api & web archive for the things Donald Trump has said",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Universalis",
+    "url": "https://universalis.app/docs/index.html",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Final Fantasy XIV market board data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Valorant (non-official)",
+    "url": "https://valorant-api.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "An extensive API containing data of most Valorant in-game items, assets and more",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Valorant API",
+    "url": "https://dash.valorant-api.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "The Valorant API provides extensive data related to in-game items, assets, and other game features, sourced directly from the Valorant game files. This API automatically updates with each game patch, ",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Warface (non-official)",
+    "url": "https://api.wfstats.cf",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Official API proxy with better data structure and more features",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Wargaming.net",
+    "url": "https://developers.wargaming.net/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Wargaming.net info and stats",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "When is next MCU film",
+    "url": "https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Upcoming MCU film information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Wynncraft",
+    "url": "https://docs.wynncraft.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Wynncraft Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "XIVAPI",
+    "url": "https://v2.xivapi.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Final Fantasy XIV game data and item database",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "xkcd",
+    "url": "https://xkcd.com/json.html",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Retrieve xkcd comics as JSON",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "YGOPRODeck",
+    "url": "https://ygoprodeck.com/api-guide",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Yu-Gi-Oh! card database with images and pricing",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Yu-Gi-Oh!",
+    "url": "https://db.ygoprodeck.com/api-guide",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Yu-Gi-Oh! TCG Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Zelda",
+    "url": "https://docs.zelda.fanapis.com/docs",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "The Legend of Zelda franchise data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "7digital",
+    "url": "https://docs.7digital.com/reference",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Api of Music store 7digital",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "AcousticBrainz API",
+    "url": "https://acousticbrainz.org/data",
+    "auth": "No",
+    "category": "Music",
+    "description": "The AcousticBrainz API provides access to music feature data, including low-level and high-level semantic descriptors derived from audio files. It allows users to retrieve information about musical ch",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "AI Mastering",
+    "url": "https://aimastering.com/api_docs/",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Automated Music Mastering",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Audiomack",
+    "url": "https://www.audiomack.com/data-api/docs",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Api of the streaming music hub Audiomack",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Bandcamp",
+    "url": "https://bandcamp.com/developer",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "API of Music store Bandcamp",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Bandsintown",
+    "url": "https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0",
+    "auth": "No",
+    "category": "Music",
+    "description": "Music Events",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Chocomilk API",
+    "url": "https://chocomilk.amira.us.kg",
+    "auth": "No",
+    "category": "Music",
+    "description": "Chocomilk API provides a user-friendly interface for accessing various multimedia resources. With features like video downloading, music playback, and image manipulation, developers can easily integra",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Deezer",
+    "url": "https://developers.deezer.com/api",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Music",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Discogs",
+    "url": "https://www.discogs.com/developers",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Music",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Energy Radio Stations",
+    "url": "https://energy.ch/stations/energy-bern/playlist",
+    "auth": "No",
+    "category": "Music",
+    "description": "Provides various radio stations with different music genres and themes.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Free Music API",
+    "url": "https://www.theaudiodb.com/free_music_api",
+    "auth": "No",
+    "category": "Music",
+    "description": "TheAudioDB provides a free music API to use in test or development environments.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Freesound",
+    "url": "https://freesound.org/docs/api/",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Music Samples",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Gaana",
+    "url": "https://github.com/cyberboysumanjay/GaanaAPI",
+    "auth": "No",
+    "category": "Music",
+    "description": "API to retrieve song information from Gaana",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Genius",
+    "url": "https://docs.genius.com",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Crowdsourced lyrics and music knowledge",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "iTunes Search",
+    "url": "https://itunes.apple.com/search",
+    "auth": "No",
+    "category": "Music",
+    "description": "iTunes Search data service",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Jamendo",
+    "url": "https://developer.jamendo.com/v3.0/docs",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Music",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "JioSaavn",
+    "url": "https://github.com/cyberboysumanjay/JioSaavnAPI",
+    "auth": "No",
+    "category": "Music",
+    "description": "API to retrieve song information, album meta data and many more from JioSaavn",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "KKBOX",
+    "url": "https://developer.kkbox.com",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Get music libraries, playlists, charts, and perform out of KKBOX's platform",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "LastFm",
+    "url": "https://www.last.fm/api",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Music",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "LRCLIB",
+    "url": "https://lrclib.net/docs",
+    "auth": "No",
+    "category": "Music",
+    "description": "Crowdsourced lyrics",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Lyrics.ovh",
+    "url": "https://lyricsovh.docs.apiary.io",
+    "auth": "No",
+    "category": "Music",
+    "description": "Simple API to retrieve the lyrics of a song",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Mixcloud",
+    "url": "https://www.mixcloud.com/developers/",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Music",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Mubert AI Music API",
+    "url": "https://landing.mubert.com",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Integrate AI music into your app, game or service",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "MusicBrainz API",
+    "url": "https://musicbrainz.org/doc/MusicBrainz_API",
+    "auth": "No",
+    "category": "Music",
+    "description": "Open music encyclopedia with track, artist, and album metadata",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Musixmatch",
+    "url": "https://developer.musixmatch.com/",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Music",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Napster",
+    "url": "https://developer.napster.com/api/v2.2",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Music",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Openwhyd",
+    "url": "https://openwhyd.github.io/openwhyd/API",
+    "auth": "No",
+    "category": "Music",
+    "description": "Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Phishin",
+    "url": "https://phish.in/api-docs",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "A web-based archive of legal live audio recordings of the improvisational rock band Phish",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Pony API",
+    "url": "https://ponyapi.net/",
+    "auth": "No",
+    "category": "Music",
+    "description": "The Pony API provides access to detailed information about characters, episodes, songs, and comics from the animated series My Little Pony: Friendship is Magic. This RESTful API allows users to search",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Radio Basilisk",
+    "url": "https://www.basilisk.ch/",
+    "auth": "No",
+    "category": "Music",
+    "description": "Radio Basilisk provides daily information and entertainment to 100,000 listeners in the Basel region. This API shows the last played songs on Radio Basilisk.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Radio Browser",
+    "url": "https://api.radio-browser.info",
+    "auth": "No",
+    "category": "Music",
+    "description": "List of internet radio stations",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Radio SRF 1",
+    "url": "https://www.srf.ch/radio-srf-1/gespielte-musik",
+    "auth": "No",
+    "category": "Music",
+    "description": "API providing information about currently played music on Radio SRF 1 including song titles and artists.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Radiorecord API",
+    "url": "https://github.com/l0v3m0n3y/radiorecord",
+    "auth": "No",
+    "category": "Music",
+    "description": "This API provides a JavaScript library for interacting with radiorecord.ru, allowing users to access charts, tracks, and other resources related to music streaming. It simplifies the integration of ra",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "SearchLy",
+    "url": "https://www.github.com/AlbertSuarez/searchly",
+    "auth": "No",
+    "category": "Music",
+    "description": "Similarities search based on song lyrics",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Songkick",
+    "url": "https://www.songkick.com/developer/",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Music Events",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Songlink / Odesli",
+    "url": "https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Get all the services on which a song is available",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Songsterr",
+    "url": "https://www.songsterr.com/a/wa/api/",
+    "auth": "No",
+    "category": "Music",
+    "description": "Provides guitar, bass and drums tabs and chords",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "SoundCloud",
+    "url": "https://developers.soundcloud.com/docs/api/guide",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "With SoundCloud API you can build applications that will give more power to control your content",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://beta.developer.spotify.com/documentation/web-api/",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "View Spotify music catalog, manage users' libraries, get recommendations and more",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "TasteDive",
+    "url": "https://tastedive.com/read/api",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Similar artist API (also works for movies and TV shows)",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "TheAudioDB",
+    "url": "https://www.theaudiodb.com/api_guide.php",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Music",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Vagalume",
+    "url": "https://api.vagalume.com.br/docs/",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Crowdsourced lyrics and music knowledge",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "akshaykumar-rest",
+    "url": "https://akshaykumar-rest.vercel.app/",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Akshay Kumar for every HTTP status code",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Dev.to",
+    "url": "https://developers.forem.com/api",
+    "auth": "apiKey",
+    "category": "Personality",
+    "description": "Access Forem articles, users and other resources via API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Echoes",
+    "url": "https://echoes.soferity.com",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Quotes From Around The World",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "FavQs.com",
+    "url": "https://favqs.com/api",
+    "auth": "apiKey",
+    "category": "Personality",
+    "description": "FavQs allows you to collect, discover and share your favorite quotes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "FOAAS",
+    "url": "http://www.foaas.com",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Fuck Off As A Service",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Forismatic",
+    "url": "http://forismatic.com/en/api",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Inspirational Quotes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Hindi Quotes",
+    "url": "https://hindi-quotes.vercel.app/",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Get random Hindi quotes of different categories.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "icanhazdadjoke",
+    "url": "https://icanhazdadjoke.com/api",
+    "auth": "No",
+    "category": "Personality",
+    "description": "The largest selection of dad jokes on the internet",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Indian Quotes",
+    "url": "https://indian-quotes-api.vercel.app/",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Curated quotes from India's most successful entrepreneurs",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Joke Father",
+    "url": "https://jokefather.com/api/jokes/random",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Ultimate collection of dad jokes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "kanye.rest",
+    "url": "https://kanye.rest",
+    "auth": "No",
+    "category": "Personality",
+    "description": "REST API for random Kanye West quotes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "kimiquotes",
+    "url": "https://kimiquotes.pages.dev/docs",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Medium",
+    "url": "https://github.com/Medium/medium-api-docs",
+    "auth": "OAuth",
+    "category": "Personality",
+    "description": "Community of readers and writers offering unique perspectives on ideas",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Programming Quotes",
+    "url": "https://github.com/mudroljub/programming-quotes-api",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Programming-related quotes and wisdom",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Quotable",
+    "url": "https://github.com/lukePeavey/quotable",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Quote database with author and tag information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Quote Garden",
+    "url": "https://pprathameshmore.github.io/QuoteGarden/",
+    "auth": "No",
+    "category": "Personality",
+    "description": "REST API for more than 5000 famous quotes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Quoterism",
+    "url": "https://www.quoterism.com/developer",
+    "auth": "No",
+    "category": "Personality",
+    "description": "The Web's Largest Collection of Human Inspiration",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Quotes on Design",
+    "url": "https://quotesondesign.com/api",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Inspirational Quotes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Riddles API",
+    "url": "https://riddles-api.vercel.app/",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Get random riddles on every API call.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Stoicism Quote",
+    "url": "https://github.com/tlcheah2/stoic-quote-lambda-public-api",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Quotes about Stoicism",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "They Said So Quotes",
+    "url": "https://theysaidso.com/api",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Quotes Trusted by many fortune brands around the world",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Traitify",
+    "url": "https://app.traitify.com/developer",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Assess, collect and analyze Personality",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Udemy(instructor)",
+    "url": "https://www.udemy.com/developers/instructor/",
+    "auth": "apiKey",
+    "category": "Personality",
+    "description": "API for instructors on Udemy",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Vadivelu HTTP Codes",
+    "url": "https://vadivelu.anoram.com/",
+    "auth": "No",
+    "category": "Personality",
+    "description": "On demand HTTP Codes with images",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Zen Quotes",
+    "url": "https://zenquotes.io",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Large collection of Zen quotes for inspiration",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "APITemplate.io",
+    "url": "https://apitemplate.io",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Dynamically generate images and PDFs from templates with a simple API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Cartoons",
+    "url": "https://sampleapis.com/api-list/cartoons",
+    "auth": "No",
+    "category": "Photography",
+    "description": "If cartoons is what you like then boy do we have a full list of all the cartoons from the past and present and all their details including a amazingly sourced image to showcase",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Change Image Background API",
+    "url": "https://apyhub.com/utility/image-processor-change-background",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "This API helps you change the background of any image",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "CheetahO",
+    "url": "https://cheetaho.com/docs/getting-started",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Photo optimization and resize",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Civitai API",
+    "url": "https://developer.civitai.com/docs/api/public-rest",
+    "auth": "No",
+    "category": "Photography",
+    "description": "REST API for accessing Civitai creators, images, models, model versions, and tags. Provides endpoints for retrieving specific resources like models by ID or model versions by hash.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Convert Images to PDF API",
+    "url": "https://apyhub.com/utility/converter-image-pdf",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Convert any image to a PDF without losing quality with one API call",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Dagpi",
+    "url": "https://dagpi.xyz",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Image manipulation and processing",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Data Dragon API",
+    "url": "https://riot-api-libraries.readthedocs.io/en/latest/ddragon.html",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Data Dragon is a static data API providing information and images related to champions, runes, and items in League of Legends. It allows developers to access and download data files, enabling them to ",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Duply",
+    "url": "https://app.duply.co/docs",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Generate, Edit, Scale and Manage Images and Videos Smarter & Faster",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "DynaPictures",
+    "url": "https://dynapictures.com/docs/",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Generate Hundreds of Personalized Images in Minutes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Flickr",
+    "url": "https://www.flickr.com/services/api/",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Flickr Services",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Generate Image Thumbnails API",
+    "url": "https://apyhub.com/utility/image-processor-thumbnail",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Generate and optimise Image Thumbnails from any image with this API and save hours of image editing",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Getty Images",
+    "url": "http://developers.gettyimages.com/en/",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Build applications using the world's most powerful imagery",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Giphy",
+    "url": "https://developers.giphy.com/docs/",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Get all your gifs",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Google Photos",
+    "url": "https://developers.google.com/photos",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Integrate Google Photos with your apps or devices",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Image Transformation API",
+    "url": "https://image.pollinations.ai/prompt/transform%20this%20image?model=kontext&image=",
+    "auth": "No",
+    "category": "Photography",
+    "description": "This API allows users to apply various transformations to images, enabling modifications such as filtering, resizing, and style transfer. It is designed for developers looking to enhance visual conten",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Imgur",
+    "url": "https://apidocs.imgur.com/",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Images",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Lorem Picsum",
+    "url": "https://picsum.photos",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Images from Unsplash",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Pexels",
+    "url": "https://www.pexels.com/api",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Free Stock Photos and Videos",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "PhotoRoom",
+    "url": "https://www.photoroom.com/api/",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Remove background from images",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Pixabay",
+    "url": "https://pixabay.com/sk/service/about/api/",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Photography",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Pollinations AI",
+    "url": "https://pollinations.ai/",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Pollinations AI is an open-source platform providing simple text and image generation APIs without the need for sign-ups or API keys. It emphasizes user privacy and encourages creative exploration wit",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Railway Station Photos",
+    "url": "https://api.railway-stations.org/openapi.yaml",
+    "auth": "No",
+    "category": "Photography",
+    "description": "OpenData project to collect railway station photos from many countries. More and more countries are added over time. Most photos are CC0 licensed and can be used freely.\nThe railway stations with thei",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Readme typing SVG",
+    "url": "https://github.com/DenverCoder1/readme-typing-svg",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Customizable typing and deleting text SVG",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Remove Background from Images API",
+    "url": "https://apyhub.com/utility/image-processor-remove-background",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "This API helps you remove background from any image",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "ReSmush.it",
+    "url": "https://resmush.it/api",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Photo optimization",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Screenshotlayer",
+    "url": "https://screenshotlayer.com",
+    "auth": "No",
+    "category": "Photography",
+    "description": "URL to screenshot",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "ShotOG",
+    "url": "https://shotog.2214962083.workers.dev/docs",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Open-source OG image generation with 8 templates, custom fonts, and batch generation",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "shutterstock",
+    "url": "https://api-reference.shutterstock.com/",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Stock Photos and Videos",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Sirv",
+    "url": "https://apidocs.sirv.com/",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Image management solutions like optimization, manipulation, hosting",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Templated",
+    "url": "https://templated.io",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Generate images and PDFs with a simple API. Design in a Canva-like editor and render images with code",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "The Cat API",
+    "url": "https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Get random images of cats",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com/developers",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Photography",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Wallhaven",
+    "url": "https://wallhaven.cc/help/api",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Wallpapers",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Webdam",
+    "url": "https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Images",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Woody API",
+    "url": "https://woody.cat",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Provides access to random woody images and information through a REST API.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "An API of Ice And Fire",
+    "url": "https://anapioficeandfire.com",
+    "auth": "No",
+    "category": "Video",
+    "description": "Game Of Thrones API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Bob's Burgers API",
+    "url": "https://bobsburgersapi.com/",
+    "auth": "No",
+    "category": "Video",
+    "description": "The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Breaking Bad Quotes",
+    "url": "https://github.com/shevabam/breaking-bad-quotes",
+    "auth": "No",
+    "category": "Video",
+    "description": "Breaking Bad TV show quotes database",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Buffy the Vampire Slayer and Angel",
+    "url": "https://github.com/Thatskat/btvs-angel-api",
+    "auth": "No",
+    "category": "Video",
+    "description": "Get episode, cast and crew data from Buffy the Vampire Slayer and Angel",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Catalogopolis",
+    "url": "https://api.catalogopolis.xyz/docs/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Doctor Who API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Czech Television",
+    "url": "http://www.ceskatelevize.cz/xml/tv-program",
+    "auth": "No",
+    "category": "Video",
+    "description": "TV programme of Czech TV",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Dailymotion",
+    "url": "https://developer.dailymotion.com/",
+    "auth": "OAuth",
+    "category": "Video",
+    "description": "Dailymotion Developer API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Dune",
+    "url": "https://github.com/ywalia01/dune-api",
+    "auth": "No",
+    "category": "Video",
+    "description": "Dune movie universe character and lore data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Eurovision Song Contest",
+    "url": "https://eurovisionapi.runasp.net/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Unofficial Eurovision Song Contest API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Extract Audio from Video API",
+    "url": "https://apyhub.com/utility/job-extract-video-audio",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "This API helps you extract audio from any video at scale",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Film API",
+    "url": "https://filmapi.vercel.app/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Provides detailed information on various photo camera films in 35mm and 120 formats including brand name, film model, ISO, availability in different formats, black & white or color specification, proc",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Final Space",
+    "url": "https://finalspaceapi.com/docs",
+    "auth": "No",
+    "category": "Video",
+    "description": "Final Space API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Free Movie Series DB",
+    "url": "https://github.com/TelegramPlayground/Free-Movie-Series-DB-API",
+    "auth": "No",
+    "category": "Video",
+    "description": "This API provides access to a wide range of movie and series information without requiring API keys. Users can fetch detailed movie data, including titles, genres, and descriptions efficiently and for",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "FreeTestAPI",
+    "url": "https://freetestapi.com/",
+    "auth": "No",
+    "category": "Video",
+    "description": "FreeTestAPI provides over 25 dummy APIs to streamline the process of API testing for developers. It allows users to access mock data for various applications, ensuring seamless workflow integration.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "FunisGo Streaming API",
+    "url": "https://funisgo.netlify.app/docpelis",
+    "auth": "No",
+    "category": "Video",
+    "description": "The FunisGo API provides a secure and structured way to access streaming content such as movies, series, and channels. It features both free and premium plans, with various usage limits and capabiliti",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Game of Thrones Quotes",
+    "url": "https://gameofthronesquotes.xyz",
+    "auth": "No",
+    "category": "Video",
+    "description": "Some Game of Thrones quotes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Gcore Streaming",
+    "url": "https://docs.gcore.com/streaming",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Scale to 100+ million viewers and beyond. Stream everything from online games to online events reliably in minutes instead of months.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Generate Thumbnail from video API",
+    "url": "https://apyhub.com/utility/thumbnail-from-video",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "This API generates image thumbnails from any input video file, in the desired size (pixels). The API supports multiple video formats including MP4, WEBM, FLV, AVI, MKV, MOV and 3GP",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "GIF from Video API",
+    "url": "https://apyhub.com/utility/gif-from-video",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "This API helps you generate GIF from any video",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Harry Potter Characters",
+    "url": "https://hp-api.onrender.com/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Harry Potter Characters Data with with imagery",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Hunt",
+    "url": "https://www.huntapi.com",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Video To API. Get video or audio and metadata for all video platforms with one provider.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "IMDb",
+    "url": "https://developer.imdb.com/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "API for receiving movie, serial and cast information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "IMDbOT",
+    "url": "https://github.com/SpEcHiDe/IMDbOT",
+    "auth": "No",
+    "category": "Video",
+    "description": "Unofficial IMDb Movie / Series Information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Lucifer Quotes",
+    "url": "https://github.com/shadowoff09/lucifer-quotes",
+    "auth": "No",
+    "category": "Video",
+    "description": "Returns Lucifer quotes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "MCU Countdown",
+    "url": "https://github.com/DiljotSG/MCU-Countdown",
+    "auth": "No",
+    "category": "Video",
+    "description": "A Countdown to the next MCU Film",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "movie-quote",
+    "url": "https://github.com/F4R4N/movie-quote",
+    "auth": "No",
+    "category": "Video",
+    "description": "Movie quotes and dialogue snippets",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Mux",
+    "url": "https://www.mux.com/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Mux Video is an API that enables developers to build unique live and on-demand video experiences",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "NEXARDA API",
+    "url": "https://github.com/NEXARDA/NEXARDA",
+    "auth": "No",
+    "category": "Video",
+    "description": "The NEXARDA API provides access to a video game price comparison service, allowing users to find deals from over 90 approved retailers. It enables developers to integrate price checks for video games,",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Oktias Bakery API",
+    "url": "https://beni.xo.je",
+    "auth": "No",
+    "category": "Video",
+    "description": "This API provides functionality for an online bakery store, enabling users to browse products, place orders, and manage a shopping cart. It is designed to streamline the shopping experience for cakes ",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Open Movie Database",
+    "url": "http://www.omdbapi.com/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Movie information",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Owen Wilson Wow",
+    "url": "https://owen-wilson-wow-api.onrender.com/",
+    "auth": "No",
+    "category": "Video",
+    "description": "API for actor Owen Wilson's \"wow\" exclamations in movies",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Potter DB",
+    "url": "https://potterdb.com",
+    "auth": "No",
+    "category": "Video",
+    "description": "Data from the Harry Potter Universe: Characters, Movies, Books, Spells and Potions",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Rendi",
+    "url": "https://rendi.dev",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "FFmpeg API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Ron Swanson Quotes",
+    "url": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api",
+    "auth": "No",
+    "category": "Video",
+    "description": "Parks and Recreation character quotes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Rules of Acquisition",
+    "url": "https://rulesofacquisition.herokuapp.com/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Ferengi Rules of Acquisition from Star Trek with episode references",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Shoof Aflam",
+    "url": "https://shoofaflam.tv/api-docs/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Arabic streaming guide — search 14,000+ movies/series, get platform availability across 18 services in the Arab world",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Shotstack",
+    "url": "https://shotstack.io/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Cloud-based video editing API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Shrek Quotes",
+    "url": "https://shrekofficial.com",
+    "auth": "No",
+    "category": "Video",
+    "description": "Shrek quotes and more, but mainly quotes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Simkl",
+    "url": "https://simkl.docs.apiary.io",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Movie, TV and Anime data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "South Park Quotes",
+    "url": "https://github.com/Thatskat/southpark-quotes-api",
+    "auth": "No",
+    "category": "Video",
+    "description": "Get some quotes from South Park, mmkay!",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Spider-Man Movies API",
+    "url": "https://imdb.iamidiotareyoutoo.com/search?q=Spiderman",
+    "auth": "No",
+    "category": "Video",
+    "description": "This API provides information about various Spider-Man movies, including titles, release years, and actor details. Users can access movie rankings and official IMDb links for more information.",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "STAPI",
+    "url": "http://stapi.co",
+    "auth": "No",
+    "category": "Video",
+    "description": "Information on all things Star Trek",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Star Wars Databank",
+    "url": "https://starwars-databank.vercel.app/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Info and data from the Star Wars databank in the form of an API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Stitch AI Design",
+    "url": "https://stitch.withgoogle.com/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Stitch is an API that generates user interfaces for mobile and web applications, streamlining the design process. It leverages artificial intelligence to assist designers in quickly ideating and creat",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Stranger Things Quotes",
+    "url": "https://github.com/shadowoff09/strangerthings-quotes",
+    "auth": "No",
+    "category": "Video",
+    "description": "Stranger Things quotes and character data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Stromberg Quotes",
+    "url": "https://stromberg-api.de",
+    "auth": "No",
+    "category": "Video",
+    "description": "Returns Stromberg quotes and more",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Supernatural Quotes",
+    "url": "https://lidiakovac.github.io/supernatural-api",
+    "auth": "No",
+    "category": "Video",
+    "description": "100+ Supernatural quotes",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "SWAPI",
+    "url": "https://swapi.dev",
+    "auth": "No",
+    "category": "Video",
+    "description": "All the Star Wars data you've ever wanted",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "SWAPI GraphQL",
+    "url": "https://graphql.org/swapi-graphql",
+    "auth": "No",
+    "category": "Video",
+    "description": "Star Wars GraphQL API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "The Lord of the Rings",
+    "url": "https://the-one-api.dev/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "The Lord of the Rings API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "url": "https://vampire-diaries-api.netlify.app/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "TV Show Data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "ThronesApi",
+    "url": "https://thronesapi.com",
+    "auth": "No",
+    "category": "Video",
+    "description": "Game Of Thrones Characters Data with imagery",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "TMDb",
+    "url": "https://www.themoviedb.org/documentation/api",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Community-based movie data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Trakt",
+    "url": "https://trakt.docs.apiary.io/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Movie and TV Data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "TVDB",
+    "url": "https://thetvdb.com/api-information",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Television data",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "uNoGS",
+    "url": "https://rapidapi.com/unogs/api/unogsng",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Unofficial Netflix Online Global Search, Search all netflix regions in one place",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Vimeo",
+    "url": "https://developer.vimeo.com/",
+    "auth": "OAuth",
+    "category": "Video",
+    "description": "Vimeo Developer API",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Watchmode",
+    "url": "https://api.watchmode.com/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "API for finding out the streaming availability of movies & shows",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "Web Series Quotes",
+    "url": "https://github.com/yogeshwaran01/web-series-quotes",
+    "auth": "No",
+    "category": "Video",
+    "description": "Popular web series quotes database",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://developers.google.com/youtube/",
+    "auth": "OAuth",
+    "category": "Video",
+    "description": "Add YouTube functionality to your sites and apps",
+    "service_pattern": "Content"
+  },
+  {
+    "name": "YouTube Video API",
+    "url": "https://abhi-api.vercel.app/api/search/yts?text=heat+waves",
+    "auth": "No",
+    "category": "Video",
+    "description": "This API provides data related to YouTube videos, including details such as views, upload date, duration, and descriptions. It allows developers to fetch comprehensive information about specific video",
+    "service_pattern": "Content"
+  }
+]

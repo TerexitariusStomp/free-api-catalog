@@ -1,0 +1,938 @@
+[
+  {
+    "name": "EVA Email Verification",
+    "url": "https://eva.pingutil.com/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "API for email verification.",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Kmail API",
+    "url": "https://github.com/l0v3m0n3y/kmail",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "The Kmail API provides a web interface for kmail.pw, a professional temporary email service. It is designed to protect user privacy and security while offering reliable and secure temporary email serv",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Taddy Podcasts",
+    "url": "https://taddy.org/developers/podcast-api",
+    "auth": "apiKey",
+    "category": "Audio",
+    "description": "Get details on podcasts & episodes, Podcast & Episode Search, Webhook notifications",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Steem",
+    "url": "https://developers.steem.io",
+    "auth": "No",
+    "category": "Blockchain",
+    "description": "Blockchain-based blogging and social media website",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "mailgun",
+    "url": "https://www.mailgun.com/",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Email Service",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "mailjet",
+    "url": "https://www.mailjet.com/",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Marketing email can be sent and mail templates made in MJML or HTML can be sent using API",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "NioLeads",
+    "url": "https://nioleads.com/apidoc",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "LinkedIn Email Finder and Email Verifier",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Tomba email finder",
+    "url": "https://tomba.io/api",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Email Finder for B2B sales and email marketing and email verifier",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "mailboxlayer",
+    "url": "https://mailboxlayer.com",
+    "auth": "No",
+    "category": "Data Validation",
+    "description": "Email address validation",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "US Extract",
+    "url": "https://www.smarty.com/products/apis/us-extract-api",
+    "auth": "apiKey",
+    "category": "Data Validation",
+    "description": "Extract postal addresses from any text including emails",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Abstract API",
+    "url": "https://www.abstractapi.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Suite of APIs including email validation, IP geolocation, phone validation, exchange rates and more",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Form2Channel",
+    "url": "https://form2channel.com/",
+    "auth": "No",
+    "category": "Development",
+    "description": "Send static html form submissions to Google Sheets, Email, Slack or Telegram",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "GETPing",
+    "url": "https://www.getping.info",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Trigger an email notification with a simple GET request",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "httpSMS",
+    "url": "https://docs.httpsms.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Use your Android phone as an SMS gateway to send and receive SMS messages via a simple HTTP API",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Hunter",
+    "url": "https://hunter.io/api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "API for domain search, professional email finder, author finder and email verifier",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "OneSignal",
+    "url": "https://documentation.onesignal.com/reference/rest-api-overview",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Pusher Beams",
+    "url": "https://pusher.com/beams",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Push notifications for Android & iOS",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Sent.dm",
+    "url": "https://sent.dm",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Sent is a unified API for messaging across SMS and apps\nlike WhatsApp",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Temp Mail API",
+    "url": "https://www.juheapi.com/api-catalog/temp-mail",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Temp Mail API allows developers to programmatically create disposable email addresses for enhanced privacy and testing. Users can send and receive messages without revealing their real email addre",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Webhook.site",
+    "url": "https://webhook.site",
+    "auth": "No",
+    "category": "Development",
+    "description": "Get a unique URL to inspect, test, and transform any HTTP request or email in real-time",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Abstract Email Validation",
+    "url": "https://www.abstractapi.com/email-verification-validation-api",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Validate email addresses for deliverability and spam",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Academic Email API",
+    "url": "https://apyhub.com/utility/validator-academic-email",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "This API allows you to verify whether an email belongs to a recognized educational institution",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Cloudmersive Validate",
+    "url": "https://cloudmersive.com/validate-api",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "DISIFY",
+    "url": "https://disify.com",
+    "auth": "No",
+    "category": "Email",
+    "description": "Validate and detect disposable and temporary email addresses",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "DropMail",
+    "url": "https://dropmail.me/api",
+    "auth": "No",
+    "category": "Email",
+    "description": "GraphQL API for creating and managing ephemeral e-mail inboxes",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Emailvalidation",
+    "url": "https://emailvalidation.io/email-validation-api/",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "E-Mail address validation",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Enveloop",
+    "url": "https://enveloop.com",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Design, host, and send emails and texts. All from one place - with a simple API",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Guerrilla Mail",
+    "url": "https://www.guerrillamail.com/GuerrillaMailAPI.html",
+    "auth": "No",
+    "category": "Email",
+    "description": "Disposable temporary Email addresses",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Heybounce",
+    "url": "https://www.heybounce.io/#email-verification-api",
+    "auth": "No",
+    "category": "Email",
+    "description": "Email Verification API",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "ImprovMX",
+    "url": "https://improvmx.com/api",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "API for free email forwarding service",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "IndiePitcher",
+    "url": "https://docs.indiepitcher.com/api-reference",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Everything email for your startup with markdown support",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Kickbox",
+    "url": "https://open.kickbox.com",
+    "auth": "No",
+    "category": "Email",
+    "description": "Email verification API",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "mail.gw",
+    "url": "https://docs.mail.gw",
+    "auth": "No",
+    "category": "Email",
+    "description": "10 Minute Mail",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "mail.tm",
+    "url": "https://docs.mail.tm",
+    "auth": "No",
+    "category": "Email",
+    "description": "Temporary Email Service",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "MailboxValidator",
+    "url": "https://www.mailboxvalidator.com/api-email-free",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Validate email address to improve deliverability",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "MailCheck.ai",
+    "url": "https://www.mailcheck.ai",
+    "auth": "No",
+    "category": "Email",
+    "description": "Prevent users to sign up with temporary email addresses",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Mailtrap",
+    "url": "https://mailtrap.docs.apiary.io/#",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "A service for the safe testing of emails sent from the development and staging environments",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "NoParam",
+    "url": "https://noparam.com",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Email validation API for real-time & bulk checking",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Notilify",
+    "url": "https://documenter.getpostman.com/view/32462468/2s9YsT6ong",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "A seamless messaging platform & API to send all types of SMS",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Proweblook Email Checker",
+    "url": "https://proweblook.com/email-verifier",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Validate email addresses without sending",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Resend",
+    "url": "https://resend.com/docs/",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Email API for developers",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Sendgrid",
+    "url": "https://docs.sendgrid.com/api-reference/",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "A cloud-based SMTP provider that allows you to send emails without having to maintain email servers",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Sendinblue",
+    "url": "https://developers.sendinblue.com/docs",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "A service that provides solutions relating to marketing and/or transactional email and/or SMS",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Sweego",
+    "url": "https://learn.sweego.io/docs/api-intro",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Self-serve multichannel notification platform for transactional email, SMS, push web& mobile, chat, in-app",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Sweep Emails",
+    "url": "https://sweepemails.com/",
+    "auth": "apikey",
+    "category": "Email",
+    "description": "Reliable email validation API with Free tier",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Temporary and Disposable emails API",
+    "url": "https://apyhub.com/utility/boomlify-temp-mail",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "This API provides temporary & disposable email addresses",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Trueguard",
+    "url": "https://trueguard.io",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Trueguard offers API for detecting temporary emails, free-tier abusers and automated bots",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "UserCheck",
+    "url": "https://www.usercheck.com/",
+    "auth": "No",
+    "category": "Email",
+    "description": "Email validation and verification service",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Verifier",
+    "url": "https://verifier.meetchopra.com/docs#/",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Verifies that a given email is real",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Zyntra",
+    "url": "https://docs.zyntra.app/",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Unlimited e-mail inboxes with API access. Catch OTPs, reset links, and sign-up emails in test flows",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Vdraw API",
+    "url": "https://github.com/l0v3m0n3y/Vdraw",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "The Vdraw API provides tools for generating funny content suitable for social media. It allows users to create unique usernames and includes features tailored for enhancing social media interactions.",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "BigDataCloud's Phone and Email Verification API",
+    "url": "https://www.bigdatacloud.com/phone-email-verification",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Syntax and Format Validation of Phone Number and Email address.",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Check e-mail or username for a data breach",
+    "url": "https://wiki.leakcheck.io/en/api/public",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "LeakCheck is a service that enables users and companies to ascertain whether their credentials have been compromised. By utilising this API, users can ascertain whether their email address or username",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Tempmail API",
+    "url": "https://api.tempmail.lol/v2/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The Tempmail API provides users with disposable email addresses that can be used for temporary registrations or verifications. It allows users to manage their temporary inboxes, retrieve emails, and p",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Throwaway Email API",
+    "url": "https://throwaway.cloud/api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The Throwaway Email API allows users to check if an email address is from a disposable domain. It provides endpoints to search by domain name or email address. This service is useful for validating an",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "temp mail api by boomlify",
+    "url": "https://boomlify.com/jaq/temp-mail-api-docs",
+    "auth": "No",
+    "category": "Other",
+    "description": "Boomlify is a powerful temporary email service that goes beyond ordinary temp mail tools. It offers unlimited free temporary emails, custom domain support, and a free Temp Mail API, making it perfect ",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Abstract Phone Validation",
+    "url": "https://www.abstractapi.com/phone-validation-api",
+    "auth": "apiKey",
+    "category": "Phone",
+    "description": "Validate phone numbers globally",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "NumlookupAPI",
+    "url": "https://numlookupapi.com",
+    "auth": "apiKey",
+    "category": "Phone",
+    "description": "Worldwide Phone Number Lookup & Verification API",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Phone Specifications API",
+    "url": "https://github.com/azharimm/phone-specs-api",
+    "auth": "No",
+    "category": "Phone",
+    "description": "Mobile phone hardware specs and comparison data",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Proweblook Phone Number Checker",
+    "url": "https://proweblook.com/phone-number-validator",
+    "auth": "apiKey",
+    "category": "Phone",
+    "description": "Phone number validation",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Proweblook Whatsapp Contact Checker",
+    "url": "https://proweblook.com/whatsapp-number-checker",
+    "auth": "apiKey",
+    "category": "Phone",
+    "description": "Whatsapp number validation",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Veriphone",
+    "url": "https://veriphone.io",
+    "auth": "apiKey",
+    "category": "Phone",
+    "description": "Phone number validation & carrier lookup",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "EmailRep",
+    "url": "https://docs.emailrep.io",
+    "auth": "No",
+    "category": "Security",
+    "description": "Email address threat and risk prediction",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "LeakInsight",
+    "url": "https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api/",
+    "auth": "apiKey",
+    "category": "Security",
+    "description": "Find leaked or exposed credentials by email, username, phone, domain, hash, or breach origin",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Ayrshare",
+    "url": "https://www.ayrshare.com",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Social media APIs to post, get analytics, and manage multiple users social media accounts",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Blogger",
+    "url": "https://developers.google.com/blogger/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "The Blogger APIs allows client applications to view and update Blogger content",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Buffer",
+    "url": "https://buffer.com/developers/api",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Access to pending and sent updates in Buffer",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Discord",
+    "url": "https://discord.com/developers/docs/intro",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Make bots for Discord, integrate Discord onto an external platform",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Disqus",
+    "url": "https://disqus.com/api/docs/auth/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Communicate with Disqus data",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Error Page API",
+    "url": "https://51-68-119-197.sslip.io/openapi/techstack",
+    "auth": "No",
+    "category": "Social",
+    "description": "This API provides information about network errors, including detailed messages and suggestions for resolution. It can be used to display error pages when the network is unreachable or when a certain ",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Facebook",
+    "url": "https://developers.facebook.com/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Facebook Login, Share on FB, Social Plugins, Analytics and more",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Fedora Messaging API",
+    "url": "https://apps.fedoraproject.org/datagrepper/",
+    "auth": "No",
+    "category": "Social",
+    "description": "Retrieve historical messages sent via Fedora Messaging using HTTP GET requests. Query by username, package, message source, topic, etc.",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "FinSignals API",
+    "url": "https://finsignals.ai/docs/",
+    "auth": "No",
+    "category": "Social",
+    "description": "The FinSignals API provides a RESTful interface for classifying financial social posts, including text from platforms like Reddit. It evaluates a post's sentiment, directionality, content quality, and",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Foursquare",
+    "url": "https://developer.foursquare.com/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc)",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Fuck Off as a Service",
+    "url": "https://www.foaas.com",
+    "auth": "No",
+    "category": "Social",
+    "description": "Asks someone to fuck off",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Full Contact",
+    "url": "https://docs.fullcontact.com/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Get Social Media profiles and contact Information",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Grass Touch API",
+    "url": "https://is-kim-playing-steam.up.railway.app",
+    "auth": "No",
+    "category": "Social",
+    "description": "This API provides information about whether Kim has touched grass or not. It also includes details about the last known status and message regarding Kim's outdoor activity.",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "HackerNews",
+    "url": "https://github.com/HackerNews/API",
+    "auth": "No",
+    "category": "Social",
+    "description": "Hacker News stories, comments, and user profiles",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Hano Snapchat Lens",
+    "url": "https://lens.snapchat.com/6c47a532fd034b93a4aa64b706cf0610?share_id=fYLE8bhrBH8&locale=en-US",
+    "auth": "No",
+    "category": "Social",
+    "description": "The Hano Lens by حنين العزاوي allows users to apply a unique and artistic filter to their selfies, enhancing facial features and adding a touch of creativity. This lens is ideal for makeup enthusiasts",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Hashnode",
+    "url": "https://hashnode.com",
+    "auth": "No",
+    "category": "Social",
+    "description": "A blogging platform built for developers",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://www.instagram.com/developer/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Instagram Login, Share on Instagram, Social Plugins and more",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Kakao",
+    "url": "https://developers.kakao.com/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Kakao Login, Share on KakaoTalk, Social Plugins and more",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Lanyard",
+    "url": "https://github.com/Phineas/lanyard",
+    "auth": "No",
+    "category": "Social",
+    "description": "Retrieve your presence on Discord through an HTTP REST API or WebSocket",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Line",
+    "url": "https://developers.line.biz/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Line Login, Share on Line, Social Plugins and more",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://docs.microsoft.com/en-us/linkedin/?context=linkedin/context",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "The foundation of all digital integrations with LinkedIn",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Meetup",
+    "url": "https://www.meetup.com/api/guide",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Data about Meetups from Meetup.com",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Microsoft Graph",
+    "url": "https://docs.microsoft.com/en-us/graph/api/overview",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "MySocialApp",
+    "url": "https://mysocialapp.io",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Seamless Social Networking features, API, SDK to any app",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "NAVER",
+    "url": "https://developers.naver.com/main/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "NAVER Login, Share on NAVER, Social Plugins and more",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Open Collective",
+    "url": "https://docs.opencollective.com/help/developers/api",
+    "auth": "No",
+    "category": "Social",
+    "description": "Get Open Collective data",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://developers.pinterest.com/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "The world's catalog of ideas",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Product Hunt",
+    "url": "https://api.producthunt.com/v2/docs",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "The best new products in tech",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "PWRTelegram bot",
+    "url": "https://pwrtelegram.xyz",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Boosted version of the Telegram bot API",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Reddit",
+    "url": "https://www.reddit.com/dev/api",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Homepage of the internet",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Reddit Stocks",
+    "url": "https://tradestie.com/apps/reddit/api/",
+    "auth": "No",
+    "category": "Social",
+    "description": "Get top 50 stocks discussed on Reddit subeddit - Wallstreetbets",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Revolt",
+    "url": "https://developers.revolt.chat",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Revolt open source Discord alternative",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Saidit",
+    "url": "https://www.saidit.net/dev/api",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Open Source Reddit Clone",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Slack",
+    "url": "https://api.slack.com/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Team Instant Messaging",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "SocialData API",
+    "url": "https://socialdata.tools",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Read Twitter data",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Sodeom AI Proxy",
+    "url": "https://sodeom.com/apis/ai",
+    "auth": "No",
+    "category": "Social",
+    "description": "This API serves as a proxy to an OpenAI-compatible API utilizing GitHub Models. It allows users to send queries or chat history and receive generated text responses, ensuring privacy and no tracking.",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "TamTam",
+    "url": "https://dev.tamtam.chat/",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Bot API to interact with TamTam",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Telegram Bot",
+    "url": "https://core.telegram.org/bots/api",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Simplified HTTP version of the MTProto API for bots",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Telegram Mailing Service",
+    "url": "https://app.telegasend.ru/swagger-ui",
+    "auth": "No",
+    "category": "Social",
+    "description": "This API allows users to create, manage, and track mailing lists within the Telegram platform. It provides endpoints to create new mailings, check their status, and cancel existing mailings.",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Telegram MTProto",
+    "url": "https://core.telegram.org/api#getting-started",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Read and write Telegram data",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Text Validation API",
+    "url": "https://abhi-api.vercel.app/api/search/ringtone?text=",
+    "auth": "No",
+    "category": "Social",
+    "description": "This API checks if the provided text parameters are valid and not empty. It returns an error message if the text is missing, ensuring that users provide necessary input.",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "TikTok",
+    "url": "https://developers.tiktok.com/doc/login-kit-web",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Fetches user info and user's video posts on TikTok platform",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Trash Nothing",
+    "url": "https://trashnothing.com/developer",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "A freecycling community with thousands of free items posted every day",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Tumblr",
+    "url": "https://www.tumblr.com/docs/en/api/v2",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Read and write Tumblr Data",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Twitch",
+    "url": "https://dev.twitch.tv/docs",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Game Streaming API",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Twitter",
+    "url": "https://developer.twitter.com/en/docs",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Read and write Twitter data",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "TwitterApi.IO",
+    "url": "https://twitterapi.io",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Access Twitter's Real-time & Historical Data with Unmatched Simplicity",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "vk",
+    "url": "https://vk.com/dev/sites",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Read and write vk data",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Webex",
+    "url": "https://developer.webex.com",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Team collaboration software",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Zoom",
+    "url": "https://developers.zoom.us/docs/api",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Video communication, web conferencing, chat, and webinars",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Mailsac",
+    "url": "https://mailsac.com/docs/api",
+    "auth": "apiKey",
+    "category": "Test Data",
+    "description": "Disposable Email",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "Dutch Customer Data API",
+    "url": "https://free.bedrijfsdata.nl/#phone",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Verify and standardize Dutch customer and business data, including addresses, phone numbers, emails, URLs, VAT, IBAN, Chamber of Commerce (KvK) numbers, and postal codes.",
+    "service_pattern": "Communication"
+  },
+  {
+    "name": "facha",
+    "url": "https://docs.api.facha.dev/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Aircraft Tracking, AIS Ship Tracking, Temporary Email Detection, IP GeoLocation, Package Tracking",
+    "service_pattern": "Communication"
+  }
+]
