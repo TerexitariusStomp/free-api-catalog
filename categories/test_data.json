@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Bacon Ipsum",
+    "url": "https://baconipsum.com/json-api",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "A Meatier Lorem Ipsum Generator"
+  },
+  {
+    "name": "Beeceptor's CRUD APIs",
+    "url": "https://beeceptor.com/crud-api/?ref=public-api-lists",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Free stateful CRUD APIs"
+  },
+  {
+    "name": "Dicebear Avatars",
+    "url": "https://avatars.dicebear.com",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate random pixel-art avatars"
+  },
+  {
+    "name": "DummyJSON",
+    "url": "https://dummyjson.com/",
+    "auth": "Yes",
+    "category": "Test Data",
+    "description": "Generate dummy data in JSON format"
+  },
+  {
+    "name": "English Random Words",
+    "url": "https://random-words-api.vercel.app/word",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate English Random Words with Pronunciation"
+  },
+  {
+    "name": "FakeJSON",
+    "url": "https://fakejson.com",
+    "auth": "apiKey",
+    "category": "Test Data",
+    "description": "Service to generate test and fake data"
+  },
+  {
+    "name": "Faker",
+    "url": "https://fakerjs.dev/",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate massive amounts of fake (but realistic) data for testing and development."
+  },
+  {
+    "name": "FakeStoreAPI",
+    "url": "https://fakestoreapi.com/",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Fake store rest API for your e-commerce or shopping website prototype"
+  },
+  {
+    "name": "GeneradorDNI",
+    "url": "https://api.generadordni.es",
+    "auth": "apiKey",
+    "category": "Test Data",
+    "description": "Data generator API. Profiles, vehicles, banks and cards, etc"
+  },
+  {
+    "name": "ItsThisForThat",
+    "url": "https://itsthisforthat.com/api.php",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate Random startup ideas"
+  },
+  {
+    "name": "JSONing",
+    "url": "https://jsoning.com/api/",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Fake REST API for prototyping"
+  },
+  {
+    "name": "Lorem API",
+    "url": "https://lorem-api.com/",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "The Ultimate Lorem Ipsum Generator"
+  },
+  {
+    "name": "Loripsum",
+    "url": "http://loripsum.net/",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "The \"lorem ipsum\" generator that doesn't suck"
+  },
+  {
+    "name": "Mailsac",
+    "url": "https://mailsac.com/docs/api",
+    "auth": "apiKey",
+    "category": "Test Data",
+    "description": "Disposable Email"
+  },
+  {
+    "name": "Metaphorsum",
+    "url": "http://metaphorpsum.com",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate demo paragraphs giving number of words and sentences"
+  },
+  {
+    "name": "Micro-Jaymock",
+    "url": "https://micro-jaymock.now.sh/",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Tiny API mocking microservice for generating fake JSON data"
+  },
+  {
+    "name": "Mockae",
+    "url": "https://mockae.com/",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Fake REST API powered by Lua"
+  },
+  {
+    "name": "Mockaroo",
+    "url": "https://www.mockaroo.com/docs",
+    "auth": "apiKey",
+    "category": "Test Data",
+    "description": "Generate fake data to JSON, CSV, TXT, SQL and XML"
+  },
+  {
+    "name": "Mockerito",
+    "url": "https://mockerito.com/?ref=public-api-lists",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Free mock REST APIs across different business domains"
+  },
+  {
+    "name": "Random Data",
+    "url": "https://random-data-api.com",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Random data generator"
+  },
+  {
+    "name": "Random Identity",
+    "url": "https://rapidapi.com/edualc1018/api/random-identity-generator",
+    "auth": "apiKey",
+    "category": "Test Data",
+    "description": "Random Identity Generator with custom response format"
+  },
+  {
+    "name": "Randommer",
+    "url": "https://randommer.io/randommer-api",
+    "auth": "apiKey",
+    "category": "Test Data",
+    "description": "Random data generator"
+  },
+  {
+    "name": "RoboHash",
+    "url": "https://robohash.org",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate random robot/alien avatars"
+  },
+  {
+    "name": "Short Id",
+    "url": "https://github.com/aguedo/idgen",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate unique short Ids"
+  },
+  {
+    "name": "Softwium",
+    "url": "https://softwium.com/fake-api",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "This free public API allows developers to easily obtain fake JSON data for testing and development. There is no need for registration, tokens, or authentication, simplifying the process of retrieving "
+  },
+  {
+    "name": "This Person Does not Exist",
+    "url": "https://thispersondoesnotexist.com",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generates real-life faces of people who do not exist"
+  },
+  {
+    "name": "UI Names",
+    "url": "https://github.com/thm/uinames",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate random fake names"
+  },
+  {
+    "name": "UUID Generator",
+    "url": "https://www.uuidtools.com/docs",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate UUIDs"
+  },
+  {
+    "name": "What The Commit",
+    "url": "https://whatthecommit.com/index.txt",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Funny random commit messages generator"
+  },
+  {
+    "name": "Yes No",
+    "url": "https://yesno.wtf/api",
+    "auth": "No",
+    "category": "Test Data",
+    "description": "Generate yes or no randomly"
+  }
+]

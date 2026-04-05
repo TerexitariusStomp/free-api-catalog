@@ -1,0 +1,401 @@
+[
+  {
+    "name": "AI Meeting Minutes Suite",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/ai-meeting-minutes-suite-summaries-templates-redaction",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Generate summaries, templates, and redact sensitive data from meeting notes"
+  },
+  {
+    "name": "Airtable",
+    "url": "https://airtable.com/api",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Integrate with Airtable"
+  },
+  {
+    "name": "Api2Convert",
+    "url": "https://www.api2convert.com/",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Online File Conversion API"
+  },
+  {
+    "name": "Asana",
+    "url": "https://developers.asana.com/docs",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Programmatic access to all data in your asana system"
+  },
+  {
+    "name": "ClickUp",
+    "url": "https://clickup.com/api",
+    "auth": "OAuth",
+    "category": "Productivity",
+    "description": "ClickUp is a robust, cloud-based project management tool for boosting productivity"
+  },
+  {
+    "name": "Clockify",
+    "url": "https://clockify.me/developers-api",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems"
+  },
+  {
+    "name": "CloudConvert",
+    "url": "https://cloudconvert.com/api/v2",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation"
+  },
+  {
+    "name": "Cloudmersive Document and Data Conversion",
+    "url": "https://cloudmersive.com/convert-api",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "HTML/URL to PDF/PNG, Office documents to PDF, image conversion"
+  },
+  {
+    "name": "Code::Stats",
+    "url": "https://codestats.net/api-docs",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Automatic time tracking for programmers"
+  },
+  {
+    "name": "Convert HTML to PDF API",
+    "url": "https://apyhub.com/utility/converter-html-pdf",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "This API converts any HTML (file, url, base64) to a PDF"
+  },
+  {
+    "name": "Convert RSS to JSON",
+    "url": "https://apyhub.com/utility/converter-rss-json",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Transform raw RSS data into structured JSON"
+  },
+  {
+    "name": "Convert Speech to Text API",
+    "url": "https://apyhub.com/utility/speech-to-text",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "This API converts any speech to text multiple languages and dialects"
+  },
+  {
+    "name": "Convert Word to PDF",
+    "url": "https://apyhub.com/utility/converter-doc-pdf",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Convert a Word document (doc, docx, or ODF formats) to a PDF document"
+  },
+  {
+    "name": "ConvertHub API",
+    "url": "https://converthub.com/api",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "File Conversion API for Developers - Powerful REST API for file conversion. Convert documents, images, ebooks, and more. Simple integration, dev-friendly pricing."
+  },
+  {
+    "name": "CraftMyPDF",
+    "url": "https://craftmypdf.com",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Generate PDF documents from templates with a drop-and-drop editor and a simple API"
+  },
+  {
+    "name": "CustomJS",
+    "url": "https://www.customjs.io",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs"
+  },
+  {
+    "name": "CV / Resume Parsing API",
+    "url": "https://apyhub.com/utility/sharpapi-ai-resume-parser",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points"
+  },
+  {
+    "name": "DynamicDocs",
+    "url": "https://advicement.io",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Generate dynamic PDFs with JSON to PDF API based on LaTeX"
+  },
+  {
+    "name": "ESI Documentation",
+    "url": "https://docs.esi.evetech.net/",
+    "auth": "No",
+    "category": "Productivity",
+    "description": "Official EVE Online API documentation"
+  },
+  {
+    "name": "FastApi Simple Calculator",
+    "url": "https://fastapi-calculadora.onrender.com/",
+    "auth": "No",
+    "category": "Productivity",
+    "description": "Math, Stadistics, Conversions, Currency and more"
+  },
+  {
+    "name": "File Conversions API",
+    "url": "https://apyhub.com/catalog/file-conversion",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "APIs to handle all your file transformations. Word to PDF, Markdown to HTML, CSV to JSON, audio and many more"
+  },
+  {
+    "name": "Flowdash",
+    "url": "https://docs.flowdash.com/docs/api-introduction",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Automate business workflows"
+  },
+  {
+    "name": "FUSSY API Documentation",
+    "url": "https://fussy-inc.github.io/docs/",
+    "auth": "No",
+    "category": "Productivity",
+    "description": "The FUSSY API allows users to access and manipulate data related to hobbies through a structured database. This API supports posting and retrieving data, enabling integration with external application"
+  },
+  {
+    "name": "fynk",
+    "url": "https://fynk.com",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Generate, update, and manage contracts from your own systems with a secure and scalable REST API"
+  },
+  {
+    "name": "Html2PDF",
+    "url": "https://html2pdf.app/",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "HTML/URL to PDF"
+  },
+  {
+    "name": "iLovePDF",
+    "url": "https://developer.ilovepdf.com/",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month"
+  },
+  {
+    "name": "Invoice Parsing API",
+    "url": "https://apyhub.com/utility/sharpapi-ai-invoice-parser",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Extract structured invoice data using AI with this API. Multiple formats supported"
+  },
+  {
+    "name": "JIRA",
+    "url": "https://developer.atlassian.com/server/jira/platform/rest-apis/",
+    "auth": "OAuth",
+    "category": "Productivity",
+    "description": "JIRA is a proprietary issue tracking product that allows bug tracking and agile project management"
+  },
+  {
+    "name": "Mattermost",
+    "url": "https://api.mattermost.com/",
+    "auth": "OAuth",
+    "category": "Productivity",
+    "description": "An open source platform for developer collaboration"
+  },
+  {
+    "name": "MConverter",
+    "url": "https://dev.mconverter.eu/",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "File converter and PDF compressor. Extract images from video, convert documents, Markdown and more"
+  },
+  {
+    "name": "Microlink API",
+    "url": "https://microlink.io/docs/api/getting-started/overview",
+    "auth": "No",
+    "category": "Productivity",
+    "description": "Powerful API for automating browser actions. Retrieve meta data, take screenshots, generate PDFs, get color palettes, embed content, identify technologies, and more."
+  },
+  {
+    "name": "Monday",
+    "url": "https://developer.monday.com/",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Programmatically access and update data inside a monday.com account"
+  },
+  {
+    "name": "Notion",
+    "url": "https://developers.notion.com/docs/getting-started",
+    "auth": "OAuth",
+    "category": "Productivity",
+    "description": "Integrate with Notion"
+  },
+  {
+    "name": "OCR AI",
+    "url": "https://ocrai.xyz",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Document validation API using OCR and AI. Automatically extracts data from documents  and compares it with user-provided data to verify consistency"
+  },
+  {
+    "name": "PandaDoc",
+    "url": "https://developers.pandadoc.com",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "DocGen and eSignatures API"
+  },
+  {
+    "name": "Paraphrase Text API",
+    "url": "https://apyhub.com/utility/sharpapi-paraphrase-text",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "The Paraphrase Text Generator API generates a paraphrased version of the provided text"
+  },
+  {
+    "name": "Pdfblocks",
+    "url": "https://pdfblocks.com",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Generate PDF documents using API"
+  },
+  {
+    "name": "PDFBolt",
+    "url": "https://pdfbolt.com/docs",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "HTML to PDF conversion with templates and AI generation"
+  },
+  {
+    "name": "PDFEndpoint",
+    "url": "https://pdfendpoint.com",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "HTML and URL to PDF API"
+  },
+  {
+    "name": "PDFGate",
+    "url": "https://pdfgate.com/html-to-pdf-api",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "HTML to PDF API with support for custom headers, footers, fillable form fields, and encryption"
+  },
+  {
+    "name": "pdflayer",
+    "url": "https://pdflayer.com",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "HTML/URL to PDF"
+  },
+  {
+    "name": "PhantomJsCloud API",
+    "url": "https://phantomjscloud.com/docs/",
+    "auth": "No",
+    "category": "Productivity",
+    "description": "PhantomJsCloud API offers a REST-like, JSON-based interface for web page rendering and automation. It allows you to submit page requests and receive various output formats like JPEG, PNG, and PDF whil"
+  },
+  {
+    "name": "Pocket",
+    "url": "https://getpocket.com/developer/",
+    "auth": "OAuth",
+    "category": "Productivity",
+    "description": "Bookmarking service"
+  },
+  {
+    "name": "Podio",
+    "url": "https://developers.podio.com",
+    "auth": "OAuth",
+    "category": "Productivity",
+    "description": "File sharing and productivity"
+  },
+  {
+    "name": "PrexView",
+    "url": "https://prexview.com",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Data from XML or JSON to PDF, HTML or Image"
+  },
+  {
+    "name": "QuanHau API Docs",
+    "url": "https://keyherlyswar.x10.mx/",
+    "auth": "No",
+    "category": "Productivity",
+    "description": "This API documentation serves as a comprehensive guide for developers to understand and integrate with the services offered by QuanHau, a fullstack web developer. It includes detailed endpoints, reque"
+  },
+  {
+    "name": "RenderPDF.io",
+    "url": "https://renderpdf.io",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "HTML to PDF crazy fast, 500 pdfs/month + CDN-ready"
+  },
+  {
+    "name": "Restpack",
+    "url": "https://restpack.io/",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Provides screenshot, HTML to PDF and content extraction APIs"
+  },
+  {
+    "name": "Todoist",
+    "url": "https://developer.todoist.com",
+    "auth": "OAuth",
+    "category": "Productivity",
+    "description": "Todo Lists"
+  },
+  {
+    "name": "Unix Converter API",
+    "url": "https://unixonvert.api/v1/",
+    "auth": "No",
+    "category": "Productivity",
+    "description": "The Unix Converter API allows users to convert between various Unix time formats and human-readable date formats. It provides easy methods for timestamp conversion, time zone adjustments, and date for"
+  },
+  {
+    "name": "URL to Markdown",
+    "url": "https://github.com/macsplit/urltomarkdown",
+    "auth": "No",
+    "category": "Productivity",
+    "description": "Convert web page to MarkDown"
+  },
+  {
+    "name": "Vector Express v2.0",
+    "url": "https://vector.express",
+    "auth": "No",
+    "category": "Productivity",
+    "description": "Free vector file converting API"
+  },
+  {
+    "name": "Vertopal",
+    "url": "https://www.vertopal.com/en/developer/api/introduction",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Convert your files to a variety of formats using Vertopal API"
+  },
+  {
+    "name": "WakaTime",
+    "url": "https://wakatime.com/developers",
+    "auth": "No",
+    "category": "Productivity",
+    "description": "Automated time tracking leaderboards for programmers"
+  },
+  {
+    "name": "WAV to MP3 API",
+    "url": "https://apyhub.com/utility/audio-converter-wav-mp3",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "This API lets you convert wav files to mp3"
+  },
+  {
+    "name": "WebPDF",
+    "url": "https://webpdf.xyz/",
+    "auth": "apiKey",
+    "category": "Productivity",
+    "description": "Work with PDF files via API"
+  },
+  {
+    "name": "Zube",
+    "url": "https://zube.io/docs/api",
+    "auth": "OAuth",
+    "category": "Productivity",
+    "description": "Full stack project management"
+  }
+]

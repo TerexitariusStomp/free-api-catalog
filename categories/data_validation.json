@@ -1,0 +1,135 @@
+[
+  {
+    "name": "API Adresse",
+    "url": "https://adresse.data.gouv.fr/api-doc/adresse",
+    "auth": "No",
+    "category": "Data Validation",
+    "description": "Official French address validation service"
+  },
+  {
+    "name": "Brevo Suit",
+    "url": "https://developers.brevo.com/",
+    "auth": "apiKey",
+    "category": "Data Validation",
+    "description": "Connection for brevo CRM suite"
+  },
+  {
+    "name": "languagelayer",
+    "url": "https://languagelayer.com",
+    "auth": "No",
+    "category": "Data Validation",
+    "description": "Language detection"
+  },
+  {
+    "name": "Lob.com",
+    "url": "https://lob.com/",
+    "auth": "apiKey",
+    "category": "Data Validation",
+    "description": "US Address Verification"
+  },
+  {
+    "name": "mailboxlayer",
+    "url": "https://mailboxlayer.com",
+    "auth": "No",
+    "category": "Data Validation",
+    "description": "Email address validation"
+  },
+  {
+    "name": "Nonprofit Check Plus",
+    "url": "https://pactman.org/nonprofitcheckplus-api/landing",
+    "auth": "apiKey",
+    "category": "Data Validation",
+    "description": "Verify charities via EIN using IRS, PUB78, BMF & OFAC data for compliance and legitimacy"
+  },
+  {
+    "name": "NumValidate",
+    "url": "https://numvalidate.com",
+    "auth": "No",
+    "category": "Data Validation",
+    "description": "Open Source phone number validation"
+  },
+  {
+    "name": "numverify",
+    "url": "https://numverify.com",
+    "auth": "No",
+    "category": "Data Validation",
+    "description": "Phone number validation"
+  },
+  {
+    "name": "Postman Echo",
+    "url": "https://www.postman-echo.com",
+    "auth": "No",
+    "category": "Data Validation",
+    "description": "Test api server to receive and return value from HTTP method"
+  },
+  {
+    "name": "PurgoMalum",
+    "url": "http://www.purgomalum.com",
+    "auth": "No",
+    "category": "Data Validation",
+    "description": "Content validator against profanity & obscenity"
+  },
+  {
+    "name": "PurgoMalum Profanity Filter",
+    "url": "https://www.purgomalum.com",
+    "auth": "No",
+    "category": "Data Validation",
+    "description": "Content filtering service for profanity detection"
+  },
+  {
+    "name": "Trestle",
+    "url": "https://trestleiq.com/phone-validation-api/",
+    "auth": "apiKey",
+    "category": "Data Validation",
+    "description": "Validates the phone number and provides phone metadata"
+  },
+  {
+    "name": "US Autocomplete",
+    "url": "https://www.smarty.com/docs/cloud/us-autocomplete-pro-api",
+    "auth": "apiKey",
+    "category": "Data Validation",
+    "description": "Enter address data quickly with real-time address suggestions"
+  },
+  {
+    "name": "US Extract",
+    "url": "https://www.smarty.com/products/apis/us-extract-api",
+    "auth": "apiKey",
+    "category": "Data Validation",
+    "description": "Extract postal addresses from any text including emails"
+  },
+  {
+    "name": "US Street Address",
+    "url": "https://www.smarty.com/docs/cloud/us-street-api",
+    "auth": "apiKey",
+    "category": "Data Validation",
+    "description": "Validate and append data for any US postal address"
+  },
+  {
+    "name": "Validate UK Postcodes",
+    "url": "https://apyhub.com/utility/data-postcodes-uk",
+    "auth": "apiKey",
+    "category": "Data Validation",
+    "description": "This API validates postal codes within UK"
+  },
+  {
+    "name": "VatcheckAPI",
+    "url": "https://vatcheckapi.com",
+    "auth": "apiKey",
+    "category": "Data Validation",
+    "description": "VAT Number Validation & Lookup REST API"
+  },
+  {
+    "name": "vatlayer",
+    "url": "https://vatlayer.com",
+    "auth": "No",
+    "category": "Data Validation",
+    "description": "VAT number validation"
+  },
+  {
+    "name": "VerifyEd",
+    "url": "https://verifyed.org/docs",
+    "auth": "apiKey",
+    "category": "Data Validation",
+    "description": "Verify academic credentials — 912K+ schools, 2,592 diploma mills"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "EPO",
+    "url": "https://developers.epo.org/",
+    "auth": "OAuth",
+    "category": "Patent",
+    "description": "European patent search system api"
+  },
+  {
+    "name": "PatentsView",
+    "url": "https://patentsview.org/apis/purpose",
+    "auth": "No",
+    "category": "Patent",
+    "description": "API is intended to explore and visualize trends/patterns across the US innovation landscape"
+  },
+  {
+    "name": "TIPO",
+    "url": "https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00",
+    "auth": "apiKey",
+    "category": "Patent",
+    "description": "Taiwan patent search system api"
+  },
+  {
+    "name": "USPTO",
+    "url": "https://www.uspto.gov/learning-and-resources/open-data-and-mobility",
+    "auth": "No",
+    "category": "Patent",
+    "description": "USA patent api services"
+  }
+]

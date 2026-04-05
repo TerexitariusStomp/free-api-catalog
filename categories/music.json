@@ -1,0 +1,331 @@
+[
+  {
+    "name": "7digital",
+    "url": "https://docs.7digital.com/reference",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Api of Music store 7digital"
+  },
+  {
+    "name": "AcousticBrainz API",
+    "url": "https://acousticbrainz.org/data",
+    "auth": "No",
+    "category": "Music",
+    "description": "The AcousticBrainz API provides access to music feature data, including low-level and high-level semantic descriptors derived from audio files. It allows users to retrieve information about musical ch"
+  },
+  {
+    "name": "AI Mastering",
+    "url": "https://aimastering.com/api_docs/",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Automated Music Mastering"
+  },
+  {
+    "name": "Audiomack",
+    "url": "https://www.audiomack.com/data-api/docs",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Api of the streaming music hub Audiomack"
+  },
+  {
+    "name": "Bandcamp",
+    "url": "https://bandcamp.com/developer",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "API of Music store Bandcamp"
+  },
+  {
+    "name": "Bandsintown",
+    "url": "https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0",
+    "auth": "No",
+    "category": "Music",
+    "description": "Music Events"
+  },
+  {
+    "name": "Chocomilk API",
+    "url": "https://chocomilk.amira.us.kg",
+    "auth": "No",
+    "category": "Music",
+    "description": "Chocomilk API provides a user-friendly interface for accessing various multimedia resources. With features like video downloading, music playback, and image manipulation, developers can easily integra"
+  },
+  {
+    "name": "Crun API Overview",
+    "url": "https://docs.crun.ai/",
+    "auth": "No",
+    "category": "Music",
+    "description": "The Crun API provides access to a wide range of AI models for tasks such as image generation, video creation, and audio processing through a unified platform. Developers can easily integrate these cap"
+  },
+  {
+    "name": "Deezer",
+    "url": "https://developers.deezer.com/api",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Music"
+  },
+  {
+    "name": "Discogs",
+    "url": "https://www.discogs.com/developers",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Music"
+  },
+  {
+    "name": "Energy Radio Stations",
+    "url": "https://energy.ch/stations/energy-bern/playlist",
+    "auth": "No",
+    "category": "Music",
+    "description": "Provides various radio stations with different music genres and themes."
+  },
+  {
+    "name": "ForzaMusic API",
+    "url": "https://forzamusic-api-official.vercel.app/",
+    "auth": "No",
+    "category": "Music",
+    "description": "The ForzaMusic API provides access to a massive collection of over 50 million songs, along with detailed metadata such as lyrics and album information. It enables developers to create engaging music a"
+  },
+  {
+    "name": "Free Music API",
+    "url": "https://www.theaudiodb.com/free_music_api",
+    "auth": "No",
+    "category": "Music",
+    "description": "TheAudioDB provides a free music API to use in test or development environments."
+  },
+  {
+    "name": "Freesound",
+    "url": "https://freesound.org/docs/api/",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Music Samples"
+  },
+  {
+    "name": "Gaana",
+    "url": "https://github.com/cyberboysumanjay/GaanaAPI",
+    "auth": "No",
+    "category": "Music",
+    "description": "API to retrieve song information from Gaana"
+  },
+  {
+    "name": "Genius",
+    "url": "https://docs.genius.com",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Crowdsourced lyrics and music knowledge"
+  },
+  {
+    "name": "Genrenator",
+    "url": "https://binaryjazz.us/genrenator-api",
+    "auth": "No",
+    "category": "Music",
+    "description": "Music genre generator"
+  },
+  {
+    "name": "iTunes Search",
+    "url": "https://itunes.apple.com/search",
+    "auth": "No",
+    "category": "Music",
+    "description": "iTunes Search data service"
+  },
+  {
+    "name": "Jamendo",
+    "url": "https://developer.jamendo.com/v3.0/docs",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Music"
+  },
+  {
+    "name": "JioSaavn",
+    "url": "https://github.com/cyberboysumanjay/JioSaavnAPI",
+    "auth": "No",
+    "category": "Music",
+    "description": "API to retrieve song information, album meta data and many more from JioSaavn"
+  },
+  {
+    "name": "KKBOX",
+    "url": "https://developer.kkbox.com",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Get music libraries, playlists, charts, and perform out of KKBOX's platform"
+  },
+  {
+    "name": "LastFm",
+    "url": "https://www.last.fm/api",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Music"
+  },
+  {
+    "name": "ListenFree API",
+    "url": "https://listenfree.in/",
+    "auth": "No",
+    "category": "Music",
+    "description": "ListenFree API provides a platform for fast, ad-free music streaming, allowing users to create smart playlists, enjoy collaborative listening rooms, and access video previews of songs. The API support"
+  },
+  {
+    "name": "LRCLIB",
+    "url": "https://lrclib.net/docs",
+    "auth": "No",
+    "category": "Music",
+    "description": "Crowdsourced lyrics"
+  },
+  {
+    "name": "Lyrics.ovh",
+    "url": "https://lyricsovh.docs.apiary.io",
+    "auth": "No",
+    "category": "Music",
+    "description": "Simple API to retrieve the lyrics of a song"
+  },
+  {
+    "name": "Mixcloud",
+    "url": "https://www.mixcloud.com/developers/",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "Music"
+  },
+  {
+    "name": "Mubert AI Music API",
+    "url": "https://landing.mubert.com",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Integrate AI music into your app, game or service"
+  },
+  {
+    "name": "MusicBrainz API",
+    "url": "https://musicbrainz.org/doc/MusicBrainz_API",
+    "auth": "No",
+    "category": "Music",
+    "description": "Open music encyclopedia with track, artist, and album metadata"
+  },
+  {
+    "name": "MusicGPT",
+    "url": "https://musicgpt.com/api",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "AI Music Generator with text-to-speech, voice changer, remix & 20+ music features."
+  },
+  {
+    "name": "Musixmatch",
+    "url": "https://developer.musixmatch.com/",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Music"
+  },
+  {
+    "name": "Napster",
+    "url": "https://developer.napster.com/api/v2.2",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Music"
+  },
+  {
+    "name": "Openwhyd",
+    "url": "https://openwhyd.github.io/openwhyd/API",
+    "auth": "No",
+    "category": "Music",
+    "description": "Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)"
+  },
+  {
+    "name": "Phishin",
+    "url": "https://phish.in/api-docs",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "A web-based archive of legal live audio recordings of the improvisational rock band Phish"
+  },
+  {
+    "name": "Pony API",
+    "url": "https://ponyapi.net/",
+    "auth": "No",
+    "category": "Music",
+    "description": "The Pony API provides access to detailed information about characters, episodes, songs, and comics from the animated series My Little Pony: Friendship is Magic. This RESTful API allows users to search"
+  },
+  {
+    "name": "Radio Basilisk",
+    "url": "https://www.basilisk.ch/",
+    "auth": "No",
+    "category": "Music",
+    "description": "Radio Basilisk provides daily information and entertainment to 100,000 listeners in the Basel region. This API shows the last played songs on Radio Basilisk."
+  },
+  {
+    "name": "Radio Browser",
+    "url": "https://api.radio-browser.info",
+    "auth": "No",
+    "category": "Music",
+    "description": "List of internet radio stations"
+  },
+  {
+    "name": "Radio SRF 1",
+    "url": "https://www.srf.ch/radio-srf-1/gespielte-musik",
+    "auth": "No",
+    "category": "Music",
+    "description": "API providing information about currently played music on Radio SRF 1 including song titles and artists."
+  },
+  {
+    "name": "Radiorecord API",
+    "url": "https://github.com/l0v3m0n3y/radiorecord",
+    "auth": "No",
+    "category": "Music",
+    "description": "This API provides a JavaScript library for interacting with radiorecord.ru, allowing users to access charts, tracks, and other resources related to music streaming. It simplifies the integration of ra"
+  },
+  {
+    "name": "SearchLy",
+    "url": "https://www.github.com/AlbertSuarez/searchly",
+    "auth": "No",
+    "category": "Music",
+    "description": "Similarities search based on song lyrics"
+  },
+  {
+    "name": "Songkick",
+    "url": "https://www.songkick.com/developer/",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Music Events"
+  },
+  {
+    "name": "Songlink / Odesli",
+    "url": "https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Get all the services on which a song is available"
+  },
+  {
+    "name": "Songsterr",
+    "url": "https://www.songsterr.com/a/wa/api/",
+    "auth": "No",
+    "category": "Music",
+    "description": "Provides guitar, bass and drums tabs and chords"
+  },
+  {
+    "name": "SoundCloud",
+    "url": "https://developers.soundcloud.com/docs/api/guide",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "With SoundCloud API you can build applications that will give more power to control your content"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://beta.developer.spotify.com/documentation/web-api/",
+    "auth": "OAuth",
+    "category": "Music",
+    "description": "View Spotify music catalog, manage users' libraries, get recommendations and more"
+  },
+  {
+    "name": "TasteDive",
+    "url": "https://tastedive.com/read/api",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Similar artist API (also works for movies and TV shows)"
+  },
+  {
+    "name": "TheAudioDB",
+    "url": "https://www.theaudiodb.com/api_guide.php",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Music"
+  },
+  {
+    "name": "Vagalume",
+    "url": "https://api.vagalume.com.br/docs/",
+    "auth": "apiKey",
+    "category": "Music",
+    "description": "Crowdsourced lyrics and music knowledge"
+  }
+]

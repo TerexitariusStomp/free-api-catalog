@@ -1,0 +1,233 @@
+[
+  {
+    "name": "API2NEWS Endpoint",
+    "url": "https://documenter.getpostman.com/view/13902582/2sA3rxrZcC?ref=producthunt",
+    "auth": "No",
+    "category": "News",
+    "description": "The API2NEWS Endpoint provides access to the latest news stories from various sources, including BBC, TechCrunch, and CNN. Users can retrieve articles by making GET requests to specific endpoints for "
+  },
+  {
+    "name": "APITube News API",
+    "url": "https://apitube.io/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Monitor news sources from around the world in real-time. Get the latest news articles from more than 500,000 news sources in 60 languages."
+  },
+  {
+    "name": "Associated Press",
+    "url": "https://developer.ap.org/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Search for news and metadata from Associated Press"
+  },
+  {
+    "name": "Chronicling America",
+    "url": "http://chroniclingamerica.loc.gov/about/api/",
+    "auth": "No",
+    "category": "News",
+    "description": "Provides access to millions of pages of historic US newspapers from the Library of Congress"
+  },
+  {
+    "name": "Currents",
+    "url": "https://currentsapi.services/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Latest news published in various news sources, blogs and forums"
+  },
+  {
+    "name": "Dictum API",
+    "url": "https://quoterism.com",
+    "auth": "No",
+    "category": "News",
+    "description": "This API provides access to a collection of inspiring expressions gathered throughout history. It enables users to retrieve quotes from various categories and authors, fostering motivation and reflect"
+  },
+  {
+    "name": "eLife Sciences API",
+    "url": "https://api.elifesciences.org/documentation/",
+    "auth": "No",
+    "category": "News",
+    "description": "The eLife Sciences API provides access to various resources related to scientific articles, annotations, reports, and more. It allows users to retrieve, search, and manage scholarly content, emphasizi"
+  },
+  {
+    "name": "Feedbin",
+    "url": "https://github.com/feedbin/feedbin-api",
+    "auth": "OAuth",
+    "category": "News",
+    "description": "RSS reader"
+  },
+  {
+    "name": "Finlight",
+    "url": "https://finlight.me",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Realtime financial news with sentiment and article content"
+  },
+  {
+    "name": "FIRST News API",
+    "url": "https://api.first.org/v1/get-news",
+    "auth": "No",
+    "category": "News",
+    "description": "Public query for FIRST News with additional parameters for filtering results. No credentials required."
+  },
+  {
+    "name": "GNews",
+    "url": "https://gnews.io/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Search for news from various sources"
+  },
+  {
+    "name": "HackerNews Node",
+    "url": "https://github.com/EdixonAlberto/api-hackernews-node",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Api to get related articles about Node.js in Hacker News"
+  },
+  {
+    "name": "HasData: Structured Web Data APIs",
+    "url": "https://hasdata.com",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Real-time Google News, SERP, and Web Scraping APIs. Extract structured public data from any news outlet or search engine at scale without blocks"
+  },
+  {
+    "name": "Inshorts News",
+    "url": "https://github.com/cyberboysumanjay/Inshorts-News-API",
+    "auth": "No",
+    "category": "News",
+    "description": "Provides news from inshorts"
+  },
+  {
+    "name": "MarketAux",
+    "url": "https://www.marketaux.com/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Live stock market news with tagged tickers + sentiment and stats JSON API"
+  },
+  {
+    "name": "Math Function Parser",
+    "url": "https://math.oglimmer.com/swagger/ui",
+    "auth": "No",
+    "category": "News",
+    "description": "This API provides functionalities to parse and resolve mathematical expressions. It includes endpoints to tokenize expressions, resolve them, and return their abstract syntax tree (AST)."
+  },
+  {
+    "name": "New York Times",
+    "url": "https://developer.nytimes.com/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "The New York Times Developer Network"
+  },
+  {
+    "name": "News Public API",
+    "url": "https://news-public-api.onrender.com/",
+    "auth": "No",
+    "category": "News",
+    "description": "This API provides access to the latest news articles, allowing users to fetch and retrieve news data programmatically. It is built using Python REST Framework and is available for public use."
+  },
+  {
+    "name": "NewsAPI",
+    "url": "https://newsapi.org",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Headlines currently published on a range of news sources and blogs"
+  },
+  {
+    "name": "NewsAPI.ai",
+    "url": "https://www.newsapi.ai/documentation",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "News API access to real-time and archive news content"
+  },
+  {
+    "name": "NewsDataHub",
+    "url": "https://newsdatahub.com",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "NewsDataHub provides a production-ready REST API delivering near-real-time global news data at scale"
+  },
+  {
+    "name": "NewsMesh",
+    "url": "https://newsmesh.co",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Access the news articles from trusted sources with real-time updates & powerful search capabilities"
+  },
+  {
+    "name": "NewsX",
+    "url": "https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Get or Search Latest Breaking News with ML Powered Summaries 🤖"
+  },
+  {
+    "name": "OkSurf",
+    "url": "https://ok.surf/",
+    "auth": "No",
+    "category": "News",
+    "description": "Free Google News with OG Images"
+  },
+  {
+    "name": "RiskSentinel",
+    "url": "https://risksentinel.ai",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "AI-powered news intelligence API delivering structured events with risk assessment, sentiment analysis, company impacts, geo tagging, ai generated summary and more"
+  },
+  {
+    "name": "Spaceflight News",
+    "url": "https://spaceflightnewsapi.net",
+    "auth": "No",
+    "category": "News",
+    "description": "Spaceflight news articles aggregated"
+  },
+  {
+    "name": "Substack API Wrapper",
+    "url": "https://github.com/NHagar/substack_api",
+    "auth": "No",
+    "category": "News",
+    "description": "Substack's newsletter platform now has an API wrapper, for easy access to latest posts"
+  },
+  {
+    "name": "The Guardian",
+    "url": "http://open-platform.theguardian.com/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Access all the content the Guardian creates, categorised by tags and section"
+  },
+  {
+    "name": "The Old Reader",
+    "url": "https://github.com/theoldreader/api",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "RSS reader"
+  },
+  {
+    "name": "TheNews",
+    "url": "https://www.thenewsapi.com/",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Aggregated headlines, top story and live news JSON API"
+  },
+  {
+    "name": "Top News API",
+    "url": "https://worldnewsapi.com/docs/top-news/",
+    "auth": "No",
+    "category": "News",
+    "description": "This API provides the top news articles from a specified country in a specific language for a given date. The news articles are aggregated from multiple sources, and the ranking is based on the number"
+  },
+  {
+    "name": "Trove",
+    "url": "https://trove.nla.gov.au/about/create-something/using-api",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Search through the National Library of Australia collection of 1000s of digitised newspapers"
+  },
+  {
+    "name": "World News",
+    "url": "https://worldnewsapi.com",
+    "auth": "apiKey",
+    "category": "News",
+    "description": "Search through millions of semantically tagged worldwide news"
+  }
+]

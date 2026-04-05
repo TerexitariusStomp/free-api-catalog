@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Affirmations",
+    "url": "https://www.affirmations.dev",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API provides inspirational affirmations to boost positivity and self-esteem. Users can retrieve random affirmations to enhance their mental wellness and motivation."
+  },
+  {
+    "name": "Agify / Genderize / Nationalize",
+    "url": "https://api.agify.io",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Predict age/gender/nationality from name"
+  },
+  {
+    "name": "Alan Perlis Quotes",
+    "url": "https://perl.is/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API provides random epigrams by Alan Perlis, a notable figure in computer science. Users can programmatically access a variety of his thought-provoking quotes to enhance their applications or for"
+  },
+  {
+    "name": "Buddha Quotes API",
+    "url": "https://buddha-api.com/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API provides access to a collection of inspirational quotes from Buddhist figures including Buddha, Dogen, and Thich Nhat Hanh. Users can retrieve random quotes as well as specific quotes for tod"
+  },
+  {
+    "name": "Cat Fact API",
+    "url": "https://alexwohlbruck.github.io/cat-facts/docs/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "An API that shows different Cat Facts!"
+  },
+  {
+    "name": "chucknorris.io",
+    "url": "https://api.chucknorris.io",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "JSON API for hand curated Chuck Norris jokes"
+  },
+  {
+    "name": "Corporate BS Generator",
+    "url": "https://github.com/sameerkumar18/corporate-bs-generator-api",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Random corporate joke text generator"
+  },
+  {
+    "name": "elonmu.sh",
+    "url": "https://elonmu.sh/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Get random news article featuring Elon Musk"
+  },
+  {
+    "name": "Fun Fact",
+    "url": "https://api.aakhilv.me",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "A simple HTTPS api that can randomly select and return a fact from the FFA database"
+  },
+  {
+    "name": "Imgflip",
+    "url": "https://imgflip.com/api",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Gets an array of popular memes"
+  },
+  {
+    "name": "JokeAPI",
+    "url": "https://v2.jokeapi.dev",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Programmable jokes with safe-mode and categories"
+  },
+  {
+    "name": "Keanu Reeves Whoa",
+    "url": "https://whoa.onrender.com/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "JSON API for every \"whoa\" said by actor Keanu Reeves in his movies"
+  },
+  {
+    "name": "Kimi Quotes API",
+    "url": "https://kimiquotes.pages.dev/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "The Kimi Quotes API provides access to a collection of quotes from Finnish Formula 1 driver Kimi Räikkönen, including team radio snippets and interview quotes. Users can easily retrieve random quotes "
+  },
+  {
+    "name": "Meme Maker",
+    "url": "https://mememaker.github.io/API",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "REST API for create your own meme"
+  },
+  {
+    "name": "Multilingual AI Zodiac",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/multilingual-ai-zodiac-customized-horoscopes-for-all-signs",
+    "auth": "apiKey",
+    "category": "Entertainment",
+    "description": "Personalized daily horoscopes and zodiac insights in 100+ languages"
+  },
+  {
+    "name": "NaMoMemes",
+    "url": "https://github.com/theIYD/NaMoMemes",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Indian political meme content API"
+  },
+  {
+    "name": "No-as-a-Service",
+    "url": "https://no.lavx.hu",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API provides random, creative, and humorous rejection reasons for various scenarios where a graceful decline is necessary. With a simple GET request, users can retrieve a witty response formatted"
+  },
+  {
+    "name": "No-as-a-Service API",
+    "url": "https://github.com/hotheadhacker/no-as-a-service",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style."
+  },
+  {
+    "name": "Official Joke",
+    "url": "https://official-joke-api.appspot.com/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "API for random and programming jokes"
+  },
+  {
+    "name": "Pokefact API",
+    "url": "https://pokefacts.vercel.app",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "API chooses a random Pokemon fact and displays it to the user."
+  },
+  {
+    "name": "Quotes API",
+    "url": "https://motivational-spark-api.vercel.app/api/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "The Quotes API provides access to a collection of motivational quotes. Users can retrieve all quotes, a random quote, multiple random quotes, or a specific quote by index."
+  },
+  {
+    "name": "Random Dad Joke",
+    "url": "https://icanhazdadjoke.com/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "API for largest selection of dad jokes on the internet"
+  },
+  {
+    "name": "Random Fox API",
+    "url": "https://randomfox.ca/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Shows a random fox"
+  },
+  {
+    "name": "Random Useless Facts",
+    "url": "https://uselessfacts.jsph.pl",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Get useless, but true facts"
+  },
+  {
+    "name": "Strictly Better API",
+    "url": "https://www.strictlybetter.eu/api-guide",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API allows users to retrieve and search for obsolete cards in JSON format. Users can also find functional reprints and access various endpoints with a limit on the number of results per request."
+  },
+  {
+    "name": "Studio Ghibli",
+    "url": "https://ghibliapi.herokuapp.com",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "Films, characters, species, vehicles from Studio Ghibli movies"
+  },
+  {
+    "name": "Techy",
+    "url": "https://techy-api.vercel.app",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "JSON and Plaintext API for tech-savvy sounding phrases"
+  },
+  {
+    "name": "Teehee Joke API",
+    "url": "https://teehee.dev/",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "The Teehee.dev API provides a simple way to retrieve random jokes curated by Jesse G. Donat. Users can make a GET request to receive a joke along with its ID, question, answer, and a permalink for ref"
+  },
+  {
+    "name": "TVMaze",
+    "url": "https://www.tvmaze.com/api",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "TV show information and schedules"
+  },
+  {
+    "name": "Unsolicited Advice API",
+    "url": "https://kk-advice.koyeb.app/api",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API provides access to a collection of unsolicited advice from Kevin Kelly. Users can retrieve random advice, all available advice, or specific advice based on its ID."
+  },
+  {
+    "name": "Vdraw API",
+    "url": "https://github.com/l0v3m0n3y/Vdraw",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "The Vdraw API provides tools for generating funny content suitable for social media. It allows users to create unique usernames and includes features tailored for enhancing social media interactions."
+  },
+  {
+    "name": "World Fun Facts (RapidAPI)",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/world-fun-facts-all-languages-support",
+    "auth": "apiKey",
+    "category": "Entertainment",
+    "description": "Fun and interesting facts with multi-language support"
+  },
+  {
+    "name": "Yes-as-a-Service",
+    "url": "https://yes.lavx.hu",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "This API provides random, creative, and amusing affirmations in JSON format, allowing users to receive positive responses for various scenarios. It is perfect for applications requiring a light-hearte"
+  },
+  {
+    "name": "YoMomma",
+    "url": "https://github.com/beanboi7/yomomma-apiv2",
+    "auth": "No",
+    "category": "Entertainment",
+    "description": "REST API for Yo Momma Jokes"
+  }
+]

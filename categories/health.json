@@ -1,0 +1,219 @@
+[
+  {
+    "name": "BMI Calculator API",
+    "url": "https://bmicalculatorapi.vercel.app/api/",
+    "auth": "No",
+    "category": "Health",
+    "description": "This API calculates the Body Mass Index (BMI) based on a user's weight and height. It provides details such as the BMI value and the corresponding health category based on the calculated BMI."
+  },
+  {
+    "name": "CMS.gov",
+    "url": "https://data.cms.gov/provider-data/",
+    "auth": "apiKey",
+    "category": "Health",
+    "description": "Access to the data from the CMS - medicare.gov"
+  },
+  {
+    "name": "Coronavirus",
+    "url": "https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme",
+    "auth": "No",
+    "category": "Health",
+    "description": "HTTP API for Latest Covid-19 Data"
+  },
+  {
+    "name": "Coronavirus in the UK",
+    "url": "https://coronavirus.data.gov.uk/details/developers-guide",
+    "auth": "No",
+    "category": "Health",
+    "description": "UK Government coronavirus data, including deaths and cases by region"
+  },
+  {
+    "name": "Covid Tracking Project",
+    "url": "https://covidtracking.com/data/api/version-2",
+    "auth": "No",
+    "category": "Health",
+    "description": "Covid-19  data for the US"
+  },
+  {
+    "name": "Covid-19",
+    "url": "https://github.com/M-Media-Group/Covid-19-API",
+    "auth": "No",
+    "category": "Health",
+    "description": "Covid 19 cases, deaths and recovery per country"
+  },
+  {
+    "name": "Covid-19 Datenhub",
+    "url": "https://npgeo-corona-npgeo-de.hub.arcgis.com",
+    "auth": "No",
+    "category": "Health",
+    "description": "Maps, datasets, applications and more in the context of COVID-19"
+  },
+  {
+    "name": "Covid-19 Government Response",
+    "url": "https://covidtracker.bsg.ox.ac.uk",
+    "auth": "No",
+    "category": "Health",
+    "description": "Government measures tracker to fight against the Covid-19 pandemic"
+  },
+  {
+    "name": "Covid-19 India",
+    "url": "https://data.covid19india.org",
+    "auth": "No",
+    "category": "Health",
+    "description": "Covid 19 statistics state and district wise about cases, vaccinations, recovery within India"
+  },
+  {
+    "name": "Covid-19 JHU CSSE",
+    "url": "https://nuttaphat.com/covid19-api",
+    "auth": "No",
+    "category": "Health",
+    "description": "Open-source API for exploring Covid19 cases based on JHU CSSE"
+  },
+  {
+    "name": "Covid-19 Live Data",
+    "url": "https://github.com/mathdroid/covid-19-api",
+    "auth": "No",
+    "category": "Health",
+    "description": "Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths"
+  },
+  {
+    "name": "Covid-19 Philippines",
+    "url": "https://github.com/Simperfy/Covid-19-API-Philippines-DOH",
+    "auth": "No",
+    "category": "Health",
+    "description": "Unofficial Covid-19 Web API for Philippines from data collected by DOH"
+  },
+  {
+    "name": "COVID-19 Tracker Canada",
+    "url": "https://api.covid19tracker.ca/docs/1.0/overview",
+    "auth": "No",
+    "category": "Health",
+    "description": "Details on Covid-19 cases across Canada"
+  },
+  {
+    "name": "COVID-19 Tracker Sri Lanka",
+    "url": "https://www.hpb.health.gov.lk/en/api-documentation",
+    "auth": "No",
+    "category": "Health",
+    "description": "Provides situation of the COVID-19 patients reported in Sri Lanka"
+  },
+  {
+    "name": "Dataflow Kit COVID-19",
+    "url": "https://covid-19.dataflowkit.com",
+    "auth": "No",
+    "category": "Health",
+    "description": "COVID-19 live statistics into sites per hour"
+  },
+  {
+    "name": "Diabetes",
+    "url": "http://predictbgl.com/api/",
+    "auth": "No",
+    "category": "Health",
+    "description": "Logging and retrieving diabetes information"
+  },
+  {
+    "name": "Disease.sh",
+    "url": "https://disease.sh",
+    "auth": "No",
+    "category": "Health",
+    "description": "API for Current cases and more stuff about COVID-19 and Influenza"
+  },
+  {
+    "name": "FoodData Central",
+    "url": "https://fdc.nal.usda.gov/",
+    "auth": "apiKey",
+    "category": "Health",
+    "description": "National Nutrient Database for Standard Reference"
+  },
+  {
+    "name": "Healthcare.gov",
+    "url": "https://www.healthcare.gov/developers",
+    "auth": "No",
+    "category": "Health",
+    "description": "Educational content about the US Health Insurance Marketplace"
+  },
+  {
+    "name": "Humanitarian Data Exchange",
+    "url": "https://data.humdata.org",
+    "auth": "No",
+    "category": "Health",
+    "description": "Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations"
+  },
+  {
+    "name": "ICD-10 Codes",
+    "url": "https://clinicaltables.nlm.nih.gov/apidoc/icd10cm/v3/doc.html",
+    "auth": "No",
+    "category": "Health",
+    "description": "List of all healthcare diagnosis codes"
+  },
+  {
+    "name": "Infermedica",
+    "url": "https://developer.infermedica.com/docs/",
+    "auth": "apiKey",
+    "category": "Health",
+    "description": "NLP based symptom checker and patient triage API for health diagnosis from text"
+  },
+  {
+    "name": "LAPIS",
+    "url": "https://cov-spectrum.ethz.ch/public",
+    "auth": "No",
+    "category": "Health",
+    "description": "SARS-CoV-2 genomic sequences from public sources"
+  },
+  {
+    "name": "Lexigram",
+    "url": "https://docs.lexigram.io/",
+    "auth": "apiKey",
+    "category": "Health",
+    "description": "NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology"
+  },
+  {
+    "name": "Makeup",
+    "url": "http://makeup-api.herokuapp.com",
+    "auth": "No",
+    "category": "Health",
+    "description": "Makeup Information"
+  },
+  {
+    "name": "MyVaccination",
+    "url": "https://documenter.getpostman.com/view/16605343/Tzm8GG7u",
+    "auth": "No",
+    "category": "Health",
+    "description": "Vaccination data for Malaysia"
+  },
+  {
+    "name": "NPPES",
+    "url": "https://npiregistry.cms.hhs.gov/registry/help-api",
+    "auth": "No",
+    "category": "Health",
+    "description": "National Plan & Provider Enumeration System, info on healthcare providers registered in US"
+  },
+  {
+    "name": "NPPES NPI Registry",
+    "url": "https://npiregistry.cms.hhs.gov/api-page",
+    "auth": "No",
+    "category": "Health",
+    "description": "The NPPES API provides a real-time alternative to accessing NPPES public data, allowing users to retrieve detailed information about healthcare providers using their National Provider Identifier (NPI)"
+  },
+  {
+    "name": "Nutritionix",
+    "url": "https://developer.nutritionix.com/",
+    "auth": "apiKey",
+    "category": "Health",
+    "description": "Worlds largest verified nutrition database"
+  },
+  {
+    "name": "Open Data NHS Scotland",
+    "url": "https://www.opendata.nhs.scot",
+    "auth": "No",
+    "category": "Health",
+    "description": "Medical reference data and statistics by Public Health Scotland"
+  },
+  {
+    "name": "openFDA",
+    "url": "https://open.fda.gov",
+    "auth": "apiKey",
+    "category": "Health",
+    "description": "Public FDA data about drugs, devices and foods"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "name": "1pt",
+    "url": "https://github.com/1pt-co/api/blob/main/README.md",
+    "auth": "No",
+    "category": "URL Shorteners",
+    "description": "URL shortening service with analytics"
+  },
+  {
+    "name": "Bitly",
+    "url": "http://dev.bitly.com/get_started.html",
+    "auth": "OAuth",
+    "category": "URL Shorteners",
+    "description": "URL shortener and link management"
+  },
+  {
+    "name": "Bly.to",
+    "url": "https://blyto.com/docs",
+    "auth": "apiKey",
+    "category": "URL Shorteners",
+    "description": "URL shortening service with analytics and tracking capabilities"
+  },
+  {
+    "name": "CleanURI",
+    "url": "https://cleanuri.com/docs",
+    "auth": "No",
+    "category": "URL Shorteners",
+    "description": "URL shortener service"
+  },
+  {
+    "name": "Cutt.ly",
+    "url": "https://cutt.ly/api-documentation/cuttly-links-api",
+    "auth": "apiKey",
+    "category": "URL Shorteners",
+    "description": "URL shortener service"
+  },
+  {
+    "name": "Drivet URL Shortener",
+    "url": "https://wiki.drivet.xyz/en/url-shortener/add-links",
+    "auth": "No",
+    "category": "URL Shorteners",
+    "description": "Shorten a long URL easily and fast"
+  },
+  {
+    "name": "Free Url Shortener",
+    "url": "https://ulvis.net/developer.html",
+    "auth": "No",
+    "category": "URL Shorteners",
+    "description": "Free URL Shortener offers a powerful API to interact with other sites"
+  },
+  {
+    "name": "Git.io",
+    "url": "https://github.blog/2011-11-10-git-io-github-url-shortener",
+    "auth": "No",
+    "category": "URL Shorteners",
+    "description": "Git.io URL shortener"
+  },
+  {
+    "name": "GoTiny API",
+    "url": "https://github.com/robvanbakel/gotiny-api",
+    "auth": "No",
+    "category": "URL Shorteners",
+    "description": "Lightweight URL shortening service"
+  },
+  {
+    "name": "Kutt",
+    "url": "https://docs.kutt.it/",
+    "auth": "apiKey",
+    "category": "URL Shorteners",
+    "description": "Free Modern URL Shortener"
+  },
+  {
+    "name": "Manyapis.com",
+    "url": "https://manyapis.com/products/short-url",
+    "auth": "Yes",
+    "category": "URL Shorteners",
+    "description": "Free URL shortener API with up to 50 requests per day"
+  },
+  {
+    "name": "Mgnet.me",
+    "url": "http://mgnet.me/api.html",
+    "auth": "No",
+    "category": "URL Shorteners",
+    "description": "Torrent URL shorten API"
+  },
+  {
+    "name": "Ogli",
+    "url": "https://app.ogli.sh",
+    "auth": "apiKey",
+    "category": "URL Shorteners",
+    "description": "Generate short links like any other shortener but with custom OG/meta tags for perfect previews. Ideal for SPAs, apps, and anyone who wants control over what gets shared."
+  },
+  {
+    "name": "Rebrandly",
+    "url": "https://developers.rebrandly.com/v1/docs",
+    "auth": "apiKey",
+    "category": "URL Shorteners",
+    "description": "Custom URL shortener for sharing branded links"
+  },
+  {
+    "name": "Shrtcode",
+    "url": "https://shrtco.de/docs",
+    "auth": "No",
+    "category": "URL Shorteners",
+    "description": "URl Shortener with multiple Domains"
+  },
+  {
+    "name": "Spoo.me",
+    "url": "https://spoo.me/api",
+    "auth": "No",
+    "category": "URL Shorteners",
+    "description": "Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support"
+  },
+  {
+    "name": "T.LY",
+    "url": "https://t.ly/docs",
+    "auth": "apiKey",
+    "category": "URL Shorteners",
+    "description": "URL shortener and link management service"
+  },
+  {
+    "name": "TinyURL",
+    "url": "https://tinyurl.com/app/dev",
+    "auth": "apiKey",
+    "category": "URL Shorteners",
+    "description": "Shorten long URLs"
+  },
+  {
+    "name": "urlfy",
+    "url": "https://urlfy.org/api-doc",
+    "auth": "No",
+    "category": "URL Shorteners",
+    "description": "A simple and fast URL shortening service"
+  },
+  {
+    "name": "Urlix",
+    "url": "https://app.urlix.me/api",
+    "auth": "apiKey",
+    "category": "URL Shorteners",
+    "description": "Free URL Shortener with a powerful API"
+  },
+  {
+    "name": "Urlmskr",
+    "url": "https://github.com/Axorax/urlmskr#urlmskr-api",
+    "auth": "No",
+    "category": "URL Shorteners",
+    "description": "Easy and fast masked, shortened link creation"
+  }
+]

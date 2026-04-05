@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Countly",
+    "url": "https://api.count.ly/reference",
+    "auth": "No",
+    "category": "Open Source Projects",
+    "description": "Countly web analytics"
+  },
+  {
+    "name": "Creative Commons Catalog",
+    "url": "https://api.creativecommons.engineering/",
+    "auth": "OAuth",
+    "category": "Open Source Projects",
+    "description": "Search among openly licensed and public domain works"
+  },
+  {
+    "name": "Drupal.org",
+    "url": "https://www.drupal.org/drupalorg/docs/api",
+    "auth": "No",
+    "category": "Open Source Projects",
+    "description": "Drupal.org"
+  },
+  {
+    "name": "Evil Insult Generator",
+    "url": "https://evilinsult.com/api",
+    "auth": "No",
+    "category": "Open Source Projects",
+    "description": "Evil Insults"
+  },
+  {
+    "name": "GitHub Contribution Chart Generator",
+    "url": "https://github-contributions.vercel.app",
+    "auth": "No",
+    "category": "Open Source Projects",
+    "description": "Create an image of your GitHub contributions"
+  },
+  {
+    "name": "GitHub ReadMe Stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "auth": "No",
+    "category": "Open Source Projects",
+    "description": "Add dynamically generated statistics to your GitHub profile ReadMe"
+  },
+  {
+    "name": "Metabase",
+    "url": "https://www.metabase.com",
+    "auth": "No",
+    "category": "Open Source Projects",
+    "description": "An open source Business Intelligence server to share data and analytics inside your company"
+  },
+  {
+    "name": "Shields",
+    "url": "https://shields.io/",
+    "auth": "No",
+    "category": "Open Source Projects",
+    "description": "Concise, consistent, and legible badges in SVG and raster format"
+  },
+  {
+    "name": "The Odin Project",
+    "url": "https://github.com/theodinproject",
+    "auth": "No",
+    "category": "Open Source Projects",
+    "description": "theodinproject.com"
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "name": "7Timer",
+    "url": "http://www.7timer.info/doc.php",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Weather, especially for Astroweather"
+  },
+  {
+    "name": "Aare.guru API",
+    "url": "https://aareguru.existenz.ch/",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Public API for Aare river data including temperature, flow rate, weather forecasts, and more. Non-commercial use allowed with customizable app and version parameters."
+  },
+  {
+    "name": "AccuWeather",
+    "url": "https://developer.accuweather.com/apis",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather and forecast data"
+  },
+  {
+    "name": "Aemet",
+    "url": "https://opendata.aemet.es/centrodedescargas/inicio",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather and forecast data from Spain"
+  },
+  {
+    "name": "Air Quality API",
+    "url": "https://open-meteo.com/en/docs/air-quality-api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Hourly/daily weather forecast + 80-yr historical data, air quality, marine, climate, and flood — no key"
+  },
+  {
+    "name": "APIXU",
+    "url": "https://www.apixu.com/doc/request.aspx",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather"
+  },
+  {
+    "name": "AQICN",
+    "url": "https://aqicn.org/api/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Air Quality Index Data for over 1000 cities"
+  },
+  {
+    "name": "Automatic Weather Stations",
+    "url": "https://opendatadocs.meteoswiss.ch/a-data-groundbased/a1-automatic-weather-stations",
+    "auth": "No",
+    "category": "Weather",
+    "description": "The Automatic Weather Stations API provides access to data from around 160 automatic measurement stations within the SwissMetNet network. It delivers vital meteorological data including temperature, p"
+  },
+  {
+    "name": "Aviation Weather",
+    "url": "https://aviationweather.gov/data/api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "This API provides machine-to-machine access to aviation weather data, including METARs, TAFs, AIRMETs, and SIGMETs. It enables users to fetch up-to-date weather information for flight planning and ope"
+  },
+  {
+    "name": "AviationWeather",
+    "url": "https://www.aviationweather.gov/dataserver",
+    "auth": "No",
+    "category": "Weather",
+    "description": "NOAA aviation weather forecasts and observations"
+  },
+  {
+    "name": "ColorfulClouds",
+    "url": "https://open.caiyunapp.com/ColorfulClouds_Weather_API",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather"
+  },
+  {
+    "name": "Data Commons",
+    "url": "https://datacommons.org/disasters",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Open source initiative from Google. Global disaster events and statistics data"
+  },
+  {
+    "name": "DWD API",
+    "url": "https://dwd.api.bund.dev/",
+    "auth": "No",
+    "category": "Weather",
+    "description": "API of the German Weather Service (DWD): weather data, data from specific weather stations, warnings (local, coast, sea, alps)"
+  },
+  {
+    "name": "Euskalmet",
+    "url": "https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Meteorological data of the Basque Country"
+  },
+  {
+    "name": "Foreca",
+    "url": "https://developer.foreca.com",
+    "auth": "OAuth",
+    "category": "Weather",
+    "description": "Weather"
+  },
+  {
+    "name": "Free UV Index API",
+    "url": "https://currentuvindex.com/api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Provides real-time UV Index and 5 day Hourly UV Index Forecast globally without API Key. Single endpoint for current UV Index and forecast based on latitude/longitude."
+  },
+  {
+    "name": "GISTDA",
+    "url": "https://disaster.gistda.or.th/services/open-api",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Thailand natural disaster information"
+  },
+  {
+    "name": "Glax Weather API",
+    "url": "https://dragon.best/api/glax_weather/",
+    "auth": "No",
+    "category": "Weather",
+    "description": "This API provides current weather data for a specified location, presenting information visually through Glax. Users can retrieve data in JSON or PNG formats and customize their queries with parameter"
+  },
+  {
+    "name": "Global Flood API",
+    "url": "https://open-meteo.com/en/docs/flood-api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Hourly/daily weather forecast + 80-yr historical data, air quality, marine, climate, and flood — no key"
+  },
+  {
+    "name": "GribStream",
+    "url": "https://gribstream.com/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Global weather forecast API for any use. Leverage the NBM and GFS models. Great for bulk pulls"
+  },
+  {
+    "name": "HG Weather",
+    "url": "https://hgbrasil.com/status/weather",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Provides weather forecast data for cities in Brazil"
+  },
+  {
+    "name": "Hong Kong Obervatory",
+    "url": "https://www.hko.gov.hk/en/abouthko/opendata_intro.htm",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Provide weather information, earthquake information, and climate data"
+  },
+  {
+    "name": "Indoor Environmental Monitoring",
+    "url": "https://databrowser.opendatahub.com/dataset-overview/fad6ba99-2f71-425a-8466-10c5d78475f6",
+    "auth": "No",
+    "category": "Weather",
+    "description": "This API provides access to environmental monitoring data, including key parameters such as humidity, temperature, and carbon dioxide levels, from selected areas within NOI Techpark Bolzano and Brunic"
+  },
+  {
+    "name": "Korea Meteorological Administration",
+    "url": "https://apihub.kma.go.kr/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather and climate data from KMA"
+  },
+  {
+    "name": "Met Office DataPoint",
+    "url": "https://www.metoffice.gov.uk/services/data/datapoint/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather data for the UK"
+  },
+  {
+    "name": "Meteoblue",
+    "url": "https://content.meteoblue.com/en/business-solutions/weather-apis",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Global weather data with 100+ weather variables, 14 days ahead and 4 days of history data."
+  },
+  {
+    "name": "Meteoprog Weather API",
+    "url": "https://billing.meteoprog.com/documentation",
+    "auth": "No",
+    "category": "Weather",
+    "description": "The Meteoprog Weather API provides comprehensive weather data, allowing integration of fast and accurate weather forecasts into various applications and websites. It offers endpoints for current weath"
+  },
+  {
+    "name": "Meteorologisk Institutt",
+    "url": "https://api.met.no/weatherapi/documentation",
+    "auth": "User-Agent",
+    "category": "Weather",
+    "description": "Weather and climate data"
+  },
+  {
+    "name": "Meteosource",
+    "url": "https://www.meteosource.com/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Global weather forecasts based on machine learning and historical data"
+  },
+  {
+    "name": "National Weather Service",
+    "url": "https://www.weather.gov/documentation/services-web-api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "US weather forecasts and alerts"
+  },
+  {
+    "name": "NDBC Buoy Data API",
+    "url": "https://surftruths.com/api.html",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Description: Access real-time buoy readings and information from the National Data Buoy Center (NDBC) with this API. Currently under development, it provides essential data for ocean and weather monit"
+  },
+  {
+    "name": "NOAA Climate Data",
+    "url": "https://www.ncdc.noaa.gov/cdo-web/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather and climate data"
+  },
+  {
+    "name": "NOAA NGDC",
+    "url": "https://www.ngdc.noaa.gov/",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Natural hazards data including earthquakes, tsunamis, and volcanic eruptions"
+  },
+  {
+    "name": "ODWeather",
+    "url": "https://api.oceandrivers.com/static/docs.html",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Ocean and marine weather data"
+  },
+  {
+    "name": "Oikolab",
+    "url": "https://docs.oikolab.com",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "70+ years of global, hourly historical and forecast weather data from NOAA and ECMWF"
+  },
+  {
+    "name": "Open-Meteo",
+    "url": "https://open-meteo.com",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Hourly/daily weather forecast + 80-yr historical data, air quality, marine, climate, and flood — no key"
+  },
+  {
+    "name": "openSenseMap",
+    "url": "https://api.opensensemap.org",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Data from Personal Weather Stations called senseBoxes"
+  },
+  {
+    "name": "OpenUV",
+    "url": "https://www.openuv.io",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Real-time UV Index Forecast"
+  },
+  {
+    "name": "OpenWeatherMap",
+    "url": "https://openweathermap.org/api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Weather, forecasts, one call alerts"
+  },
+  {
+    "name": "QWeather",
+    "url": "https://dev.qweather.com/en/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Location-based weather data"
+  },
+  {
+    "name": "RainViewer",
+    "url": "https://www.rainviewer.com/api.html",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Radar data collected from different websites across the Internet"
+  },
+  {
+    "name": "Realtime Weather (Singapore)",
+    "url": "https://data.gov.sg/collections/1459/view",
+    "auth": "No",
+    "category": "Weather",
+    "description": "This API provides real-time readings of temperature, humidity, precipitation, and wind conditions across various weather stations in Singapore at intervals of up to one minute. Managed by the National"
+  },
+  {
+    "name": "Storm Glass",
+    "url": "https://stormglass.io/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Global marine weather from multiple sources"
+  },
+  {
+    "name": "Stormglass",
+    "url": "https://docs.stormglass.io/#/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather forecasts & historical data from the world’s most trusted meteorological institutions in one single API"
+  },
+  {
+    "name": "Tomorrow",
+    "url": "https://docs.tomorrow.io",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather API Powered by Proprietary Technology"
+  },
+  {
+    "name": "Visual Crossing",
+    "url": "https://www.visualcrossing.com/weather-api",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Global historical and weather forecast data"
+  },
+  {
+    "name": "Weather Data API",
+    "url": "https://api.openweathermap.org/data/2.5/weather",
+    "auth": "No",
+    "category": "Weather",
+    "description": "This API provides weather data, including current conditions, forecasts, and historical weather information. It allows users to access weather information for various locations worldwide."
+  },
+  {
+    "name": "Weather Forecast API",
+    "url": "https://www.baguette-radar.com/",
+    "auth": "No",
+    "category": "Weather",
+    "description": "This API provides real-time weather data, including temperature, humidity, and forecasts for various locations. Users can access detailed meteorological information to integrate into their application"
+  },
+  {
+    "name": "Weather Hacks",
+    "url": "http://weather.livedoor.com/weather_hacks/",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Weather, for Japan"
+  },
+  {
+    "name": "weather-api",
+    "url": "https://github.com/robertoduessmann/weather-api",
+    "auth": "No",
+    "category": "Weather",
+    "description": "Simple weather data from multiple sources without API key"
+  },
+  {
+    "name": "Weatherbit",
+    "url": "https://www.weatherbit.io/api",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Weather"
+  },
+  {
+    "name": "wttr.in",
+    "url": "https://github.com/chubin/wttr.in",
+    "auth": "No",
+    "category": "Weather",
+    "description": "wttr.in is a console-oriented weather forecast service that supports various information representation methods like terminal-oriented ANSI-sequences for console HTTP clients (curl, httpie, or wget), "
+  },
+  {
+    "name": "Yandex.Weather",
+    "url": "https://yandex.com/dev/weather/",
+    "auth": "apiKey",
+    "category": "Weather",
+    "description": "Assesses weather condition in specific locations"
+  }
+]

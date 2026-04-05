@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Advice Slip",
+    "url": "https://api.adviceslip.com",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Random advice and life tips generator API"
+  },
+  {
+    "name": "akshaykumar-rest",
+    "url": "https://akshaykumar-rest.vercel.app/",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Akshay Kumar for every HTTP status code"
+  },
+  {
+    "name": "Dev.to",
+    "url": "https://developers.forem.com/api",
+    "auth": "apiKey",
+    "category": "Personality",
+    "description": "Access Forem articles, users and other resources via API"
+  },
+  {
+    "name": "Echoes",
+    "url": "https://echoes.soferity.com",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Quotes From Around The World"
+  },
+  {
+    "name": "FavQs.com",
+    "url": "https://favqs.com/api",
+    "auth": "apiKey",
+    "category": "Personality",
+    "description": "FavQs allows you to collect, discover and share your favorite quotes"
+  },
+  {
+    "name": "FOAAS",
+    "url": "http://www.foaas.com",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Fuck Off As A Service"
+  },
+  {
+    "name": "Forismatic",
+    "url": "http://forismatic.com/en/api",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Inspirational Quotes"
+  },
+  {
+    "name": "Hindi Quotes",
+    "url": "https://hindi-quotes.vercel.app/",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Get random Hindi quotes of different categories."
+  },
+  {
+    "name": "icanhazdadjoke",
+    "url": "https://icanhazdadjoke.com/api",
+    "auth": "No",
+    "category": "Personality",
+    "description": "The largest selection of dad jokes on the internet"
+  },
+  {
+    "name": "Indian Quotes",
+    "url": "https://indian-quotes-api.vercel.app/",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Curated quotes from India's most successful entrepreneurs"
+  },
+  {
+    "name": "Joke Father",
+    "url": "https://jokefather.com/api/jokes/random",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Ultimate collection of dad jokes"
+  },
+  {
+    "name": "kanye.rest",
+    "url": "https://kanye.rest",
+    "auth": "No",
+    "category": "Personality",
+    "description": "REST API for random Kanye West quotes"
+  },
+  {
+    "name": "kimiquotes",
+    "url": "https://kimiquotes.pages.dev/docs",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen"
+  },
+  {
+    "name": "Medium",
+    "url": "https://github.com/Medium/medium-api-docs",
+    "auth": "OAuth",
+    "category": "Personality",
+    "description": "Community of readers and writers offering unique perspectives on ideas"
+  },
+  {
+    "name": "Meme",
+    "url": "https://github.com/D3vd/Meme_Api",
+    "auth": "No",
+    "category": "Personality",
+    "description": "JSON API for a random meme scraped from reddit"
+  },
+  {
+    "name": "Programming Quotes",
+    "url": "https://github.com/mudroljub/programming-quotes-api",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Programming-related quotes and wisdom"
+  },
+  {
+    "name": "Quotable",
+    "url": "https://github.com/lukePeavey/quotable",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Quote database with author and tag information"
+  },
+  {
+    "name": "Quote Garden",
+    "url": "https://pprathameshmore.github.io/QuoteGarden/",
+    "auth": "No",
+    "category": "Personality",
+    "description": "REST API for more than 5000 famous quotes"
+  },
+  {
+    "name": "Quoterism",
+    "url": "https://www.quoterism.com/developer",
+    "auth": "No",
+    "category": "Personality",
+    "description": "The Web's Largest Collection of Human Inspiration"
+  },
+  {
+    "name": "Quotes on Design",
+    "url": "https://quotesondesign.com/api",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Inspirational Quotes"
+  },
+  {
+    "name": "Riddles API",
+    "url": "https://riddles-api.vercel.app/",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Get random riddles on every API call."
+  },
+  {
+    "name": "Sentino Personality API",
+    "url": "https://sentino.org/api/",
+    "auth": "apiKey",
+    "category": "Personality",
+    "description": "AI-powered personality profiling and psychology analysis using NLP and Big 5, NEO, HEXACO, DISC inventories"
+  },
+  {
+    "name": "Stoicism Quote",
+    "url": "https://github.com/tlcheah2/stoic-quote-lambda-public-api",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Quotes about Stoicism"
+  },
+  {
+    "name": "They Said So Quotes",
+    "url": "https://theysaidso.com/api",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Quotes Trusted by many fortune brands around the world"
+  },
+  {
+    "name": "Traitify",
+    "url": "https://app.traitify.com/developer",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Assess, collect and analyze Personality"
+  },
+  {
+    "name": "Udemy(instructor)",
+    "url": "https://www.udemy.com/developers/instructor/",
+    "auth": "apiKey",
+    "category": "Personality",
+    "description": "API for instructors on Udemy"
+  },
+  {
+    "name": "Vadivelu HTTP Codes",
+    "url": "https://vadivelu.anoram.com/",
+    "auth": "No",
+    "category": "Personality",
+    "description": "On demand HTTP Codes with images"
+  },
+  {
+    "name": "Zen Quotes",
+    "url": "https://zenquotes.io",
+    "auth": "No",
+    "category": "Personality",
+    "description": "Large collection of Zen quotes for inspiration"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Abstract Public Holidays",
+    "url": "https://www.abstractapi.com/holidays-api",
+    "auth": "apiKey",
+    "category": "Calendar",
+    "description": "Data on national, regional, and religious holidays via API"
+  },
+  {
+    "name": "Byabbe",
+    "url": "https://byabbe.se/on-this-day/#/default/get__month___day__events_json",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Seach histories from wikipedia for a particular day"
+  },
+  {
+    "name": "Calendar Index",
+    "url": "https://www.calendarindex.com/",
+    "auth": "apiKey",
+    "category": "Calendar",
+    "description": "Worldwide Holidays and Working Days"
+  },
+  {
+    "name": "Calendarific",
+    "url": "https://calendarific.com/",
+    "auth": "apiKey",
+    "category": "Calendar",
+    "description": "Worldwide Holidays"
+  },
+  {
+    "name": "Church Calendar",
+    "url": "http://calapi.inadiutorium.cz",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Catholic liturgical calendar"
+  },
+  {
+    "name": "Czech Namedays Calendar",
+    "url": "https://svatky.adresa.info",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Lookup for a name and returns nameday date"
+  },
+  {
+    "name": "DigiDates",
+    "url": "https://digidates.de/en/",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Various date and time calculations"
+  },
+  {
+    "name": "Eventbrite",
+    "url": "https://www.eventbrite.com/platform/api/",
+    "auth": "OAuth",
+    "category": "Calendar",
+    "description": "Find events"
+  },
+  {
+    "name": "Festivo Public Holidays",
+    "url": "https://docs.getfestivo.com/docs/products/public-holidays-api/intro",
+    "auth": "apiKey",
+    "category": "Calendar",
+    "description": "Fastest and most advanced public holiday and observance service on the market"
+  },
+  {
+    "name": "Generate iCAL",
+    "url": "https://apyhub.com/utility/generator-ical",
+    "auth": "apiKey",
+    "category": "Calendar",
+    "description": "Generates iCal calendar events that can be used across calendar applications"
+  },
+  {
+    "name": "Google Calendar",
+    "url": "https://developers.google.com/google-apps/calendar/",
+    "auth": "OAuth",
+    "category": "Calendar",
+    "description": "Display, create and modify Google calendar events"
+  },
+  {
+    "name": "Hebcal Zmanim",
+    "url": "https://www.hebcal.com/home/1663/zmanim-halachic-times-api",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Jewish calendar, holiday dates, and halachic times"
+  },
+  {
+    "name": "Hebrew Calendar",
+    "url": "https://www.hebcal.com/home/developer-apis",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc"
+  },
+  {
+    "name": "Holidays",
+    "url": "https://holidayapi.com/",
+    "auth": "apiKey",
+    "category": "Calendar",
+    "description": "Historical data regarding holidays"
+  },
+  {
+    "name": "ICSDB",
+    "url": "https://github.com/gadael/icsdb",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Public holiday calendar database in ICS format"
+  },
+  {
+    "name": "isDayOff",
+    "url": "https://www.isdayoff.ru",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Check if today is a working day or holiday for any country"
+  },
+  {
+    "name": "LectServe",
+    "url": "http://www.lectserve.com",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Protestant liturgical calendar"
+  },
+  {
+    "name": "Nager.Date",
+    "url": "https://date.nager.at",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Public holidays for more than 90 countries"
+  },
+  {
+    "name": "Namedays Calendar",
+    "url": "https://nameday.abalin.net",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Provides namedays for multiple countries"
+  },
+  {
+    "name": "Non-Working Days",
+    "url": "https://isdayoff.ru",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other"
+  },
+  {
+    "name": "OpenHolidays API",
+    "url": "https://www.openholidaysapi.org/",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Public and school holidays for many countries via an open REST API"
+  },
+  {
+    "name": "Russian Calendar",
+    "url": "https://github.com/egno/work-calendar",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Check if a date is a Russian holiday or not"
+  },
+  {
+    "name": "SeatGeek",
+    "url": "https://platform.seatgeek.com/",
+    "auth": "apiKey",
+    "category": "Calendar",
+    "description": "Search events, venues and performers"
+  },
+  {
+    "name": "Ticketmaster",
+    "url": "http://developer.ticketmaster.com/products-and-docs/apis/getting-started/",
+    "auth": "apiKey",
+    "category": "Calendar",
+    "description": "Search events, attractions, or venues"
+  },
+  {
+    "name": "TimeZones iCal Library",
+    "url": "https://tz.add-to-calendar-technology.com/",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Database of official time zones and corresponding iCal VTIMEZONE blocks"
+  },
+  {
+    "name": "UK Bank Holidays",
+    "url": "https://www.gov.uk/bank-holidays.json",
+    "auth": "No",
+    "category": "Calendar",
+    "description": "Bank holidays in England and Wales, Scotland and Northern Ireland"
+  }
+]

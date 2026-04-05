@@ -1,0 +1,464 @@
+[
+  {
+    "name": "18F",
+    "url": "http://18f.github.io/API-All-the-X/",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Unofficial US Federal Government API Development"
+  },
+  {
+    "name": "API Setu",
+    "url": "https://www.apisetu.gov.in",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "An Indian Government platform that provides a lot of APIS for KYC, business, education & employment"
+  },
+  {
+    "name": "Archive.org",
+    "url": "https://archive.readme.io/docs",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "The Internet Archive"
+  },
+  {
+    "name": "ArgentinaDatos",
+    "url": "https://argentinadatos.com/",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Unofficial Argentinian data API"
+  },
+  {
+    "name": "Black History Facts",
+    "url": "https://www.blackhistoryapi.io/docs",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Contribute or search one of the largest black history fact databases on the web"
+  },
+  {
+    "name": "BotsArchive",
+    "url": "https://botsarchive.com/docs.html",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "JSON formatted details about Telegram Bots available in database"
+  },
+  {
+    "name": "Callook.info",
+    "url": "https://callook.info",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "United States ham radio callsigns"
+  },
+  {
+    "name": "CARTO",
+    "url": "https://carto.com/",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Location Information Prediction"
+  },
+  {
+    "name": "CivicFeed",
+    "url": "https://developers.civicfeed.com/",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "News articles and public datasets"
+  },
+  {
+    "name": "CollegeScoreCard.ed.gov",
+    "url": "https://collegescorecard.ed.gov/data",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Data on higher education institutions in the United States"
+  },
+  {
+    "name": "Copernicus Sentinel Hub",
+    "url": "https://dataspace.copernicus.eu",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Sentinel-1/2/3/5P imagery"
+  },
+  {
+    "name": "Danish Energi Data",
+    "url": "https://api.energidataservice.dk",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Open energy market data: spot prices, grid load, CO2 forecasts from Denmark"
+  },
+  {
+    "name": "DataStream",
+    "url": "https://github.com/datastreamapp/api-docs",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "An open access platform for sharing Canadian water quality data"
+  },
+  {
+    "name": "Enigma Public",
+    "url": "https://developers.enigma.com/docs",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Broadest collection of public data"
+  },
+  {
+    "name": "EPA APIs",
+    "url": "https://epa.gov/data/api",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Facility compliance, air/water/waste data, toxic releases, environmental monitoring from US EPA"
+  },
+  {
+    "name": "fonoApi",
+    "url": "https://fonoapi.freshpixl.com/",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Mobile Device Description"
+  },
+  {
+    "name": "French Address Search",
+    "url": "https://geo.api.gouv.fr/adresse",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Address search via the French Government"
+  },
+  {
+    "name": "Fruits",
+    "url": "https://fruits-api.netlify.app/graphql",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Information of fruit trees of the world"
+  },
+  {
+    "name": "GBIF API",
+    "url": "https://gbif.org/developer/summary",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "3B+ species occurrence records, taxonomy, registry, and tile maps from biodiversity providers worldwide"
+  },
+  {
+    "name": "Generate Link Preview (including checking for malicious links)",
+    "url": "https://apyhub.com/utility/link-preview",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Fetches metadata from any URL passed to it, including Open Graph tags."
+  },
+  {
+    "name": "GENESIS",
+    "url": "https://www.destatis.de/EN/Service/OpenData/api-webservice.html",
+    "auth": "OAuth",
+    "category": "Open Data",
+    "description": "Federal Statistical Office Germany"
+  },
+  {
+    "name": "Global Fishing Watch",
+    "url": "https://globalfishingwatch.org/our-apis",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Vessel tracking, fishing effort, marine protected areas"
+  },
+  {
+    "name": "ICPSR",
+    "url": "https://www.icpsr.umich.edu/web/ICPSR",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Inter-university Consortium for Political and Social Research"
+  },
+  {
+    "name": "Joshua Project",
+    "url": "https://api.joshuaproject.net/",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "People groups of the world with the fewest followers of Christ"
+  },
+  {
+    "name": "Kaggle",
+    "url": "https://www.kaggle.com/docs/api",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Create and interact with Datasets, Notebooks, and connect with Kaggle"
+  },
+  {
+    "name": "LinkPreview",
+    "url": "https://www.linkpreview.net",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Get JSON formatted summary with title, description and preview image for any requested URL"
+  },
+  {
+    "name": "Lowy Asia Power Index",
+    "url": "https://github.com/0x0is1/lowy-index-api-docs",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Get measure resources and influence to rank the relative power of states in Asia"
+  },
+  {
+    "name": "Microlink.io",
+    "url": "https://microlink.io",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Extract structured data from any website"
+  },
+  {
+    "name": "NASA Earthdata",
+    "url": "https://earthdata.nasa.gov",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Satellite products: MODIS, MERRA-2, GPM"
+  },
+  {
+    "name": "NASA POWER API",
+    "url": "https://power.larc.nasa.gov/docs/services/api",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Solar irradiance, meteorology, and 30-year climatology data at any lat/lon from NASA POWER"
+  },
+  {
+    "name": "Nasdaq Data Link",
+    "url": "https://docs.data.nasdaq.com/",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Stock market data"
+  },
+  {
+    "name": "Natural Flows Database",
+    "url": "https://rivers.codefornature.org",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "California river natural flow patterns and alteration metrics"
+  },
+  {
+    "name": "NOAA CDO",
+    "url": "https://ncdc.noaa.gov/cdo-web/webservices/v2",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Historical climate data"
+  },
+  {
+    "name": "NOAA NWS API",
+    "url": "https://api.weather.gov",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Real-time weather observations, forecasts, alerts, and radar via GeoJSON"
+  },
+  {
+    "name": "Nobel Prize",
+    "url": "https://www.nobelprize.org/about/developer-zone-2",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Open data about nobel prizes and events"
+  },
+  {
+    "name": "OBIS API",
+    "url": "https://api.obis.org",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "100M+ marine biodiversity records and ocean species observation data from OBIS"
+  },
+  {
+    "name": "Open Data Minneapolis",
+    "url": "https://opendata.minneapolismn.gov",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Spatial (GIS) and non-spatial city data for Minneapolis"
+  },
+  {
+    "name": "openAFRICA",
+    "url": "https://africaopendata.org",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Large datasets repository of African open data"
+  },
+  {
+    "name": "OpenAQ API",
+    "url": "https://api.openaq.org",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Real-time and historical air quality data (PM2.5, PM10, NO2, O3, CO, SO2) across 10,000+ stations in 100+ countries"
+  },
+  {
+    "name": "OpenCorporates",
+    "url": "http://api.opencorporates.com/documentation/API-Reference",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Data on corporate entities and directors in many countries"
+  },
+  {
+    "name": "OpenLandMap",
+    "url": "https://openlandmap.org",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Global soil, land cover, vegetation, climate layers"
+  },
+  {
+    "name": "OpenSanctions",
+    "url": "https://www.opensanctions.org/api",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Sanctions and politically exposed persons data"
+  },
+  {
+    "name": "OpenStreetMap Overpass",
+    "url": "https://overpass-api.de",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Query all OSM data: roads, buildings, land use, amenities via Overpass QL"
+  },
+  {
+    "name": "OpenWeather",
+    "url": "https://openweathermap.org/api",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Current weather, forecasts, air quality"
+  },
+  {
+    "name": "PM2.5 Open Data",
+    "url": "https://pm25.lass-net.org",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Low-cost PM2.5 sensor network data (Asia-Pacific)"
+  },
+  {
+    "name": "Quandl",
+    "url": "https://www.quandl.com/",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Stock Market Data"
+  },
+  {
+    "name": "Recreation Information Database",
+    "url": "https://ridb.recreation.gov/",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)"
+  },
+  {
+    "name": "Scoop.it",
+    "url": "http://www.scoop.it/dev",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Content Curation Service"
+  },
+  {
+    "name": "Smithsonian Open Access",
+    "url": "https://api.si.edu",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Smithsonian museum collections, artifacts, images, and historical metadata"
+  },
+  {
+    "name": "Socrata",
+    "url": "https://dev.socrata.com/",
+    "auth": "OAuth",
+    "category": "Open Data",
+    "description": "Access to Open Data from Governments, Non-profits and NGOs around the world"
+  },
+  {
+    "name": "Sofiaplan",
+    "url": "https://sofiaplan.bg/api/",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Access to urban research data for the Bulgarian capital Sofia"
+  },
+  {
+    "name": "Teleport",
+    "url": "https://developers.teleport.org/",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Quality of Life Data"
+  },
+  {
+    "name": "Udemy Coupons, Courses & Instructors Data",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/udemy-coupons-courses-instructors-data-api",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Retrieve Udemy courses, coupons, instructors, and metadata"
+  },
+  {
+    "name": "Umeå Open Data",
+    "url": "https://opendata.umea.se/api",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Open data of the city Umeå in northern Sweden"
+  },
+  {
+    "name": "UN Data",
+    "url": "https://data.un.org",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "UN statistics and indicators"
+  },
+  {
+    "name": "UniDb",
+    "url": "https://unidbapi.com",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "Data that helps people gain useful insight into universities in the United Kingdom"
+  },
+  {
+    "name": "Universities List",
+    "url": "https://github.com/Hipo/university-domains-list",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "University names, countries and domains"
+  },
+  {
+    "name": "University of Oslo",
+    "url": "https://data.uio.no",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)"
+  },
+  {
+    "name": "UPC database",
+    "url": "https://upcdatabase.org/api",
+    "auth": "apiKey",
+    "category": "Open Data",
+    "description": "More than 1.5 million barcode numbers from all around the world"
+  },
+  {
+    "name": "Urban Observatory",
+    "url": "https://urbanobservatory.ac.uk",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "The largest set of publicly available real time urban data in the UK"
+  },
+  {
+    "name": "USDA NASS Quick Stats",
+    "url": "https://quickstats.nass.usda.gov/api",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "U.S. agricultural statistics: crops, livestock, acreage"
+  },
+  {
+    "name": "Water Quality Portal",
+    "url": "https://www.waterqualitydata.us/webservices",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Millions of discrete water-quality records from USGS/EPA"
+  },
+  {
+    "name": "Wikidata",
+    "url": "https://www.wikidata.org/w/api.php?action=help",
+    "auth": "OAuth",
+    "category": "Open Data",
+    "description": "Structured knowledge graph: entities, statements, linked data via SPARQL endpoint"
+  },
+  {
+    "name": "Wikidata API / SPARQL",
+    "url": "https://wikidata.org/wiki/Wikidata:Data_access",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Structured knowledge graph: entities, statements, linked data via SPARQL endpoint"
+  },
+  {
+    "name": "Wikipedia API",
+    "url": "https://mediawiki.org/wiki/API:Main_page",
+    "auth": "No",
+    "category": "Open Data",
+    "description": "Full Wikipedia article content, search, categories, links, and page revisions"
+  },
+  {
+    "name": "Yelp",
+    "url": "https://www.yelp.com/developers",
+    "auth": "OAuth",
+    "category": "Open Data",
+    "description": "Find Local Business"
+  }
+]

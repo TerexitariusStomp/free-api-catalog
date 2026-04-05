@@ -1,0 +1,303 @@
+[
+  {
+    "name": "Amazing Endemic Species",
+    "url": "https://aes.shenlu.me",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Amazing endemic species all over the world"
+  },
+  {
+    "name": "Axolotl",
+    "url": "https://theaxolotlapi.netlify.app",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Collection of axolotl pictures and facts"
+  },
+  {
+    "name": "Bored API",
+    "url": "https://boredapi.com/api",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Get random activities based on type, participants, price, and accessibility ranges."
+  },
+  {
+    "name": "Cat Facts",
+    "url": "https://alexwohlbruck.github.io/cat-facts",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Daily cat facts"
+  },
+  {
+    "name": "Cataas",
+    "url": "https://cataas.com",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Cat as a Service - random cat images and GIFs"
+  },
+  {
+    "name": "Cats",
+    "url": "https://developers.thecatapi.com/",
+    "auth": "apiKey",
+    "category": "Animals",
+    "description": "Pictures of cats from Tumblr"
+  },
+  {
+    "name": "Data.gov CKAN API",
+    "url": "https://data.gov/developers/apis/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Provides metadata about datasets in the data.gov catalog powered by CKAN, including URLs and descriptions, but not the actual data within each dataset."
+  },
+  {
+    "name": "Dog CEO",
+    "url": "https://dog.ceo/dog-api",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Pictures of dogs based on the Stanford Dogs Dataset"
+  },
+  {
+    "name": "Dog Facts",
+    "url": "https://kinduff.github.io/dog-api",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random dog facts API"
+  },
+  {
+    "name": "Dogs",
+    "url": "https://dogapi.dog/docs/api-v2",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random facts and breed information about dogs"
+  },
+  {
+    "name": "eBird",
+    "url": "https://documenter.getpostman.com/view/664302/S1ENwy59",
+    "auth": "apiKey",
+    "category": "Animals",
+    "description": "Retrieve recent or notable birding observations within a region"
+  },
+  {
+    "name": "EVA Email Verification",
+    "url": "https://eva.pingutil.com/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "API for email verification."
+  },
+  {
+    "name": "Extinct Animals API",
+    "url": "https://cheba-apis.vercel.app/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "This API provides information about animals that became extinct in the last 11,650 years, known as the Holocene extinction. It gathers data from Wikipedia and individual animal pages, allowing users t"
+  },
+  {
+    "name": "FastAPI",
+    "url": "https://realip.cc/docs",
+    "auth": "No",
+    "category": "Animals",
+    "description": "FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. It allows for easy creation of applications while ensuring validatio"
+  },
+  {
+    "name": "FishWatch",
+    "url": "https://www.fishwatch.gov/developers",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Information and pictures about individual fish species"
+  },
+  {
+    "name": "Free Birds API",
+    "url": "https://freetestapi.com/apis/birds",
+    "auth": "No",
+    "category": "Animals",
+    "description": "The Free Birds API offers accessible endpoints to retrieve and manage various bird data ideal for development purposes. It supports multiple features including searching, sorting, and limiting results"
+  },
+  {
+    "name": "Global Shark Attack API",
+    "url": "https://public.opendatasoft.com/explore/dataset/global-shark-attack",
+    "auth": "No",
+    "category": "Animals",
+    "description": "The Global Shark Attack File (GSAF) API offers access to a comprehensive dataset of human-shark interactions, including detailed incident reports categorized by type, such as unprovoked, provoked, boa"
+  },
+  {
+    "name": "Hong Kong CSDI",
+    "url": "https://portal.csdi.gov.hk/csdi-webpage/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "The Hong Kong CSDI Portal provides access to a range of geospatial data and applications aimed at supporting data sharing and government initiatives. It centralizes resources for spatial data, making "
+  },
+  {
+    "name": "HTTP Cat",
+    "url": "https://http.cat",
+    "auth": "No",
+    "category": "Animals",
+    "description": "HTTP status codes with cat images"
+  },
+  {
+    "name": "HTTP Dog",
+    "url": "https://http.dog",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Dogs for every HTTP response status code"
+  },
+  {
+    "name": "Insult API",
+    "url": "https://insult.mattbas.org/api/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "The Insult API generates humorous and creative insults in various formats, allowing users to specify language and templates. It supports multiple languages, including English and corporate jargon, cat"
+  },
+  {
+    "name": "IUCN",
+    "url": "http://apiv3.iucnredlist.org/api/v3/docs",
+    "auth": "apiKey",
+    "category": "Animals",
+    "description": "IUCN Red List of Threatened Species"
+  },
+  {
+    "name": "Meow Facts",
+    "url": "https://github.com/wh-iterabb-it/meowfacts",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random cat facts API"
+  },
+  {
+    "name": "MeowFacts",
+    "url": "https://meowfacts.herokuapp.com",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random cat facts"
+  },
+  {
+    "name": "Motivational API",
+    "url": "https://github.com/GomezMig03/MotivationalAPI",
+    "auth": "No",
+    "category": "Animals",
+    "description": "This API provides a collection of catholic and secular motivational phrases to help users overcome their challenges. It is intended to be utilized in applications focused on motivation and support, li"
+  },
+  {
+    "name": "MoveBank",
+    "url": "https://github.com/movebank/movebank-api-doc",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Animal movement and tracking data for wildlife research"
+  },
+  {
+    "name": "NID Application System",
+    "url": "https://services.nidw.gov.bd/nid-pub/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "The Bangladesh NID Application System API allows users to register for a national identity card, claim their accounts, and manage related services through a web-based platform. It provides functionali"
+  },
+  {
+    "name": "NID Correction Portal",
+    "url": "https://cms-card-management-system-nid-cms-steel.vercel.app/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "This API provides a platform for users to manage and review National ID (NID) correction requests. Users can log in, search for requests, view details, approve or reject applications, and track status"
+  },
+  {
+    "name": "Open Dog Registry",
+    "url": "https://registry.dog/",
+    "auth": "OAuth",
+    "category": "Animals",
+    "description": "Adoption"
+  },
+  {
+    "name": "PageSpeed API",
+    "url": "https://developers.google.com/speed/docs/insights/rest/v5/pagespeedapi/runpagespeed",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Runs PageSpeed analysis on a specified URL, providing scores, suggestions for faster loading, and other data. Supports different categories, locales, and strategies."
+  },
+  {
+    "name": "Petfinder",
+    "url": "https://www.petfinder.com/developers/",
+    "auth": "apiKey",
+    "category": "Animals",
+    "description": "Petfinder is dedicated to helping pets find homes, another resource to get pets adopted"
+  },
+  {
+    "name": "PlaceBear",
+    "url": "https://placebear.com",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Placeholder bear pictures"
+  },
+  {
+    "name": "PlaceDog",
+    "url": "https://place.dog",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Placeholder Dog pictures"
+  },
+  {
+    "name": "RandomDog",
+    "url": "https://random.dog/woof.json",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random pictures of dogs"
+  },
+  {
+    "name": "RandomDuck",
+    "url": "https://random-d.uk/api",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random pictures of ducks"
+  },
+  {
+    "name": "RandomFox",
+    "url": "https://randomfox.ca/floof",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Random pictures of foxes"
+  },
+  {
+    "name": "RescueGroups",
+    "url": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Adoption"
+  },
+  {
+    "name": "Search Notice API",
+    "url": "https://api.adviceslip.com/advice/search/try1",
+    "auth": "No",
+    "category": "Animals",
+    "description": "This API allows users to search for specific notice slips within a given database. It provides information regarding the results of search queries, indicating if there are matching slips or not."
+  },
+  {
+    "name": "The Dog",
+    "url": "https://thedogapi.com/",
+    "auth": "apiKey",
+    "category": "Animals",
+    "description": "A public service all about Dogs, free to use when making your fancy new App, Website or Service"
+  },
+  {
+    "name": "Trivia API",
+    "url": "https://opentdb.com/api.php?amount=10",
+    "auth": "No",
+    "category": "Animals",
+    "description": "The Open Trivia Database provides a completely free JSON API for use in programming projects. Use of this API does not require a API Key, just generate the URL below use it in your own application to "
+  },
+  {
+    "name": "World Cup Qualification",
+    "url": "https://api.football-data.org/v4/competitions/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "This API provides detailed information about the qualification process for the FIFA World Cup for different confederations around the world. It includes tournament structures, match schedules, and res"
+  },
+  {
+    "name": "WoRMS",
+    "url": "https://www.marinespecies.org/rest/",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Authoritative list of marine species names and taxonomy"
+  },
+  {
+    "name": "xeno-canto",
+    "url": "https://xeno-canto.org/explore/api",
+    "auth": "No",
+    "category": "Animals",
+    "description": "Bird recordings from around the world"
+  }
+]

@@ -1,0 +1,807 @@
+[
+  {
+    "name": "5e SRD",
+    "url": "https://5e-bits.github.io/docs",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Dungeons & Dragons 5th Edition System Reference Data"
+  },
+  {
+    "name": "AmiiboAPI",
+    "url": "https://amiiboapi.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Nintendo Amiibo Information"
+  },
+  {
+    "name": "Atlas Academy",
+    "url": "https://api.atlasacademy.io/docs",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "API for Fate/Grand Order game data"
+  },
+  {
+    "name": "Autochess VNG",
+    "url": "https://github.com/namakurohman93/autochess-vng-api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Autochess game stats, items, and player data"
+  },
+  {
+    "name": "Barter.vg",
+    "url": "https://github.com/bartervg/barter.vg/wiki",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Provides information about Game, DLC, Bundles, Giveaways, Trading"
+  },
+  {
+    "name": "Battle.net",
+    "url": "https://develop.battle.net/documentation/guides/getting-started",
+    "auth": "OAuth",
+    "category": "Games & Comics",
+    "description": "Diablo III, Hearthstone, StarCraft II and World of Warcraft game data APIs"
+  },
+  {
+    "name": "Blue Archive",
+    "url": "https://github.com/arufars/api-blue-archive",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Provides Blue Archive characters information"
+  },
+  {
+    "name": "Board Game Geek",
+    "url": "https://boardgamegeek.com/wiki/page/BGG_XML_API2",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Board games, RPG and videogames"
+  },
+  {
+    "name": "Brawl Stars",
+    "url": "https://developer.brawlstars.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Brawl Stars Game Information"
+  },
+  {
+    "name": "Call of Duty",
+    "url": "https://codapi.dev/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Unofficial wrapper for the Call of Duty API with multi-language support."
+  },
+  {
+    "name": "CheapShark",
+    "url": "https://www.cheapshark.com/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Steam/PC Game Prices and Deals"
+  },
+  {
+    "name": "Chess.com",
+    "url": "https://www.chess.com/news/view/published-data-api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Chess.com read-only REST API"
+  },
+  {
+    "name": "Chuck Norris Database",
+    "url": "http://www.icndb.com/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Jokes"
+  },
+  {
+    "name": "Clash of Clans",
+    "url": "https://developer.clashofclans.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Clash of Clans Game Information"
+  },
+  {
+    "name": "Clash Royale",
+    "url": "https://developer.clashroyale.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Clash Royale Game Information"
+  },
+  {
+    "name": "Comic Vine",
+    "url": "https://comicvine.gamespot.com/api/documentation",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Comics"
+  },
+  {
+    "name": "Crafatar",
+    "url": "https://crafatar.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "API for Minecraft skins and faces"
+  },
+  {
+    "name": "Crisis Core Fusion API",
+    "url": "https://github.com/RayMathew/crisis-core-materia-fusion-api/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "This API simulates the fusion of materia from the game 'Crisis Core: Final Fantasy VII'. It provides endpoints to input materia types and retrieves possible fusion outcomes based on complex rules gove"
+  },
+  {
+    "name": "Cross Universe",
+    "url": "https://crossuniverse.psychpsyo.com/apiDocs.html",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Cross Universe Card Data"
+  },
+  {
+    "name": "CSGO",
+    "url": "https://bymykel.github.io/CSGO-API/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "An unofficial JSON API for Counter-Strike: Global Offensive"
+  },
+  {
+    "name": "Deck of Cards",
+    "url": "https://deckofcardsapi.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Deck of cards simulator API"
+  },
+  {
+    "name": "Destiny The Game",
+    "url": "https://bungie-net.github.io/multi/index.html",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Bungie Platform API"
+  },
+  {
+    "name": "Digimon Information",
+    "url": "https://digimon-api.vercel.app",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Provides information about digimon creatures"
+  },
+  {
+    "name": "Digimon TCG",
+    "url": "https://documenter.getpostman.com/view/14059948/TzecB4fH",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Search for Digimon cards in digimoncard.io"
+  },
+  {
+    "name": "Disney",
+    "url": "https://disneyapi.dev",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Information of Disney characters"
+  },
+  {
+    "name": "Dota 2",
+    "url": "https://docs.opendota.com/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Provides information about Player stats, Match stats, Rankings for Dota 2"
+  },
+  {
+    "name": "Dungeons and Dragons",
+    "url": "https://www.dnd5eapi.co/docs",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Reference for 5th edition spells, classes, monsters, and more"
+  },
+  {
+    "name": "Dungeons and Dragons (Alternate)",
+    "url": "https://open5e.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Includes all monsters and spells from the SRD (System Reference Document) as well as a search API"
+  },
+  {
+    "name": "Eight Ball",
+    "url": "https://eightballapi.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Fortune-telling API with random, sentiment-biased, and multi-language responses"
+  },
+  {
+    "name": "Eve Online",
+    "url": "https://esi.evetech.net/ui",
+    "auth": "OAuth",
+    "category": "Games & Comics",
+    "description": "Third-Party Developer Documentation"
+  },
+  {
+    "name": "Fantasy Role Playing API",
+    "url": "https://set.world",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Set API allows users to query and generate entities within a fantasy role-playing world. It supports various actions such as rolling items and characters via HTTP GET requests, making it easily access"
+  },
+  {
+    "name": "FFXIV Collect",
+    "url": "https://ffxivcollect.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Final Fantasy XIV data on collectables"
+  },
+  {
+    "name": "Final Fantasy XIV",
+    "url": "https://xivapi.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Final Fantasy XIV Game data API"
+  },
+  {
+    "name": "Flyff Game API",
+    "url": "https://api.flyff.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "All Game Data from Flyff"
+  },
+  {
+    "name": "Fortnite",
+    "url": "https://fortniteapi.com/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Fortnite Stats & Cosmetics"
+  },
+  {
+    "name": "FreeToGame API",
+    "url": "https://freetogame.com/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "FreeToGame API data service"
+  },
+  {
+    "name": "FunTranslations",
+    "url": "https://api.funtranslations.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Translate Text into funny languages"
+  },
+  {
+    "name": "Game Brain",
+    "url": "https://gamebrain.co/api",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Search and discover video games with AI"
+  },
+  {
+    "name": "GamerPower",
+    "url": "https://www.gamerpower.com/api-read",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Free video game deals and giveaways tracker"
+  },
+  {
+    "name": "GDBrowser",
+    "url": "https://gdbrowser.com/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Easy way to use the Geometry Dash Servers"
+  },
+  {
+    "name": "Geek-Jokes",
+    "url": "https://github.com/sameerkumar18/geek-joke-api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Fetch a random geeky/programming related joke for use in all sorts of applications"
+  },
+  {
+    "name": "Genshin Impact",
+    "url": "https://genshin.dev",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Genshin Impact game data"
+  },
+  {
+    "name": "Giant Bomb",
+    "url": "https://www.giantbomb.com/api/documentation",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Video Games"
+  },
+  {
+    "name": "GraphQL PokeAPI",
+    "url": "https://github.com/mazipan/graphql-pokeapi",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Pokemon data accessible via GraphQL queries"
+  },
+  {
+    "name": "GraphQL Pokémon",
+    "url": "https://github.com/favware/graphql-pokemon",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "GraphQL powered Pokemon API. Supports generations 1 through 8"
+  },
+  {
+    "name": "Guild Wars 2",
+    "url": "https://wiki.guildwars2.com/wiki/API:Main",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Guild Wars 2 Game Information"
+  },
+  {
+    "name": "GW2Spidy",
+    "url": "https://github.com/rubensayshi/gw2spidy/wiki",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "GW2Spidy API, Items data on the Guild Wars 2 Trade Market"
+  },
+  {
+    "name": "Halo",
+    "url": "https://developer.haloapi.com/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Halo 5 and Halo Wars 2 Information"
+  },
+  {
+    "name": "Hearthstone",
+    "url": "http://hearthstoneapi.com/",
+    "auth": "X-Mashape-Key",
+    "category": "Games & Comics",
+    "description": "Hearthstone Cards Information"
+  },
+  {
+    "name": "Humble Bundle",
+    "url": "https://rapidapi.com/Ziggoto/api/humble-bundle",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Humble Bundle's current bundles"
+  },
+  {
+    "name": "Humor",
+    "url": "https://humorapi.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Humor, Jokes, and Memes"
+  },
+  {
+    "name": "Hypixel",
+    "url": "https://api.hypixel.net/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Hypixel player stats"
+  },
+  {
+    "name": "Hyrule Compendium",
+    "url": "https://github.com/gadhagod/Hyrule-Compendium-API",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Data on all interactive items from The Legend of Zelda: BOTW"
+  },
+  {
+    "name": "IGDB.com",
+    "url": "https://api-docs.igdb.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Video Game Database"
+  },
+  {
+    "name": "Italian Jokes",
+    "url": "https://italian-jokes.vercel.app/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "JSON API for getting jokes about Italians"
+  },
+  {
+    "name": "Jokes",
+    "url": "https://github.com/15Dkatz/official_joke_api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Programming and general jokes"
+  },
+  {
+    "name": "Jokes One",
+    "url": "https://jokes.one/api/joke/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Joke of the day and large category of jokes accessible via REST API"
+  },
+  {
+    "name": "Jservice",
+    "url": "http://jservice.io",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Jeopardy Question Database"
+  },
+  {
+    "name": "Lichess",
+    "url": "https://lichess.org/api",
+    "auth": "OAuth",
+    "category": "Games & Comics",
+    "description": "Access to all data of users, games, puzzles and etc on Lichess"
+  },
+  {
+    "name": "LotteryData.io",
+    "url": "https://lotterydata.io/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Powerball, MegaMillions, and more results (live + historical) games"
+  },
+  {
+    "name": "Magic The Gathering",
+    "url": "http://magicthegathering.io",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Magic The Gathering Game Information"
+  },
+  {
+    "name": "Marvel",
+    "url": "http://developer.marvel.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Marvel Comics"
+  },
+  {
+    "name": "Minecraft Server Status",
+    "url": "https://api.mcsrvstat.us",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "API to get Information about a Minecraft Server"
+  },
+  {
+    "name": "MMO Games",
+    "url": "https://www.mmobomb.com/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "MMO Games Database, News and Giveaways"
+  },
+  {
+    "name": "mod.io",
+    "url": "https://docs.mod.io",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Cross Platform Mod API"
+  },
+  {
+    "name": "Mojang",
+    "url": "https://wiki.vg/Mojang_API",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Mojang / Minecraft API"
+  },
+  {
+    "name": "Monster Hunter World",
+    "url": "https://docs.mhw-db.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Monster Hunter World data"
+  },
+  {
+    "name": "moogleAPI",
+    "url": "https://www.moogleapi.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Final Fantasy franchise data"
+  },
+  {
+    "name": "Multilingual Truth or Dare Game",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/multilingual-truth-or-dare-party-date-game-api",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Truth or Dare party/date game with multilingual support and random challenges"
+  },
+  {
+    "name": "Open Trivia",
+    "url": "https://opentdb.com/api_config.php",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Trivia Questions"
+  },
+  {
+    "name": "PandaScore",
+    "url": "https://developers.pandascore.co/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "E-sports games and results"
+  },
+  {
+    "name": "Path of Exile",
+    "url": "https://www.pathofexile.com/developer/docs",
+    "auth": "OAuth",
+    "category": "Games & Comics",
+    "description": "Path of Exile Game Information"
+  },
+  {
+    "name": "PlayerDB",
+    "url": "https://playerdb.co",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Query Minecraft, Steam and XBox Accounts"
+  },
+  {
+    "name": "PlayerUnknown's Battlegrounds",
+    "url": "https://tracker.gg/developers",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "PUBG Stats"
+  },
+  {
+    "name": "Poker Odds Equity EV Calculator & Advice",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/poker-odds-equity-ev-calculator-advice-api",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Poker odds, equity & EV calculator with hand/decision advice"
+  },
+  {
+    "name": "Pokéapi",
+    "url": "https://pokeapi.co",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Pokémon data, including imagery"
+  },
+  {
+    "name": "Pokémon TCG",
+    "url": "https://pokemontcg.io",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Pokémon TCG Information"
+  },
+  {
+    "name": "Pokémon-3D-api",
+    "url": "https://documenter.getpostman.com/view/29725199/2sAYX8KMU8",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "3D Pokémon models for ThreeJS"
+  },
+  {
+    "name": "Psychonauts",
+    "url": "https://psychonauts-api.netlify.app",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Psychonauts World Characters Information and PSI Powers"
+  },
+  {
+    "name": "PUBG",
+    "url": "https://developer.pubg.com/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Access in-game PUBG data"
+  },
+  {
+    "name": "PuyoDB (Deno)",
+    "url": "https://github.com/deltadex7/puyodb-api-deno",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Puyo Puyo information from Puyo Nexus Wiki"
+  },
+  {
+    "name": "quizapi.io",
+    "url": "https://quizapi.io/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Access to various kind of quiz questions"
+  },
+  {
+    "name": "Raider",
+    "url": "https://raider.io/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft"
+  },
+  {
+    "name": "Random Facts",
+    "url": "https://fungenerators.com/api/facts/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Random Facts from hundreds of categories"
+  },
+  {
+    "name": "RAWG.io",
+    "url": "https://rawg.io/apidocs",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "500,000+ games for 50 platforms including mobiles"
+  },
+  {
+    "name": "Rick and Morty",
+    "url": "https://rickandmortyapi.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "All the Rick and Morty information, including images"
+  },
+  {
+    "name": "Riot Games",
+    "url": "https://developer.riotgames.com/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "League of Legends, Teamfight Tactics, Legends of Runetera and Valorant information"
+  },
+  {
+    "name": "RuneScape",
+    "url": "https://runescape.wiki/w/Application_programming_interface",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "RuneScape and OSRS RPGs information"
+  },
+  {
+    "name": "Sakura CardCaptor",
+    "url": "https://github.com/JessVel/sakura-card-captor-api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Sakura CardCaptor Cards Information"
+  },
+  {
+    "name": "Scoresaber",
+    "url": "https://scoresaber.com/api/documentation",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Scoresaber Stats"
+  },
+  {
+    "name": "Scryfall",
+    "url": "https://scryfall.com/docs/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Magic: The Gathering database"
+  },
+  {
+    "name": "SpaceTradersAPI",
+    "url": "https://spacetraders.io?rel=pub-apis",
+    "auth": "OAuth",
+    "category": "Games & Comics",
+    "description": "A playable inter-galactic space trading MMOAPI"
+  },
+  {
+    "name": "Steam",
+    "url": "https://steamapi.xpaw.me/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Steam Web API documentation"
+  },
+  {
+    "name": "SteamWebAPI",
+    "url": "https://github.com/Revadike/InternalSteamWebAPI/wiki",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Steam player profiles, game libraries, and achievements"
+  },
+  {
+    "name": "SuperHeroes",
+    "url": "https://superheroapi.com",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "All SuperHeroes and Villains data from all universes under a single API"
+  },
+  {
+    "name": "TCGdex",
+    "url": "https://tcgdex.dev",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Pokemon TCG card database with multilingual support"
+  },
+  {
+    "name": "Tebex",
+    "url": "https://docs.tebex.io/plugin/",
+    "auth": "X-Mashape-Key",
+    "category": "Games & Comics",
+    "description": "Tebex API for information about game purchases"
+  },
+  {
+    "name": "TETR.IO",
+    "url": "https://tetr.io/about/api/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "TETR.IO Tetra Channel API"
+  },
+  {
+    "name": "TheGamestracker",
+    "url": "https://thegamestracker.com/server-info-api",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Game servers informations in JSON format"
+  },
+  {
+    "name": "Traveller Map",
+    "url": "https://travellermap.com/doc/api",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "[Traveller TTRPG](https://www.mongoosepublishing.com/collections/traveller-rpgs) map world, sub sector and sector information in json, PDF and other formats"
+  },
+  {
+    "name": "Tronald Dump",
+    "url": "https://www.tronalddump.io",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Api & web archive for the things Donald Trump has said"
+  },
+  {
+    "name": "Universalis",
+    "url": "https://universalis.app/docs/index.html",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Final Fantasy XIV market board data"
+  },
+  {
+    "name": "Valorant (non-official)",
+    "url": "https://valorant-api.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "An extensive API containing data of most Valorant in-game items, assets and more"
+  },
+  {
+    "name": "Valorant API",
+    "url": "https://dash.valorant-api.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "The Valorant API provides extensive data related to in-game items, assets, and other game features, sourced directly from the Valorant game files. This API automatically updates with each game patch, "
+  },
+  {
+    "name": "Warface (non-official)",
+    "url": "https://api.wfstats.cf",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Official API proxy with better data structure and more features"
+  },
+  {
+    "name": "Wargaming.net",
+    "url": "https://developers.wargaming.net/",
+    "auth": "apiKey",
+    "category": "Games & Comics",
+    "description": "Wargaming.net info and stats"
+  },
+  {
+    "name": "When is next MCU film",
+    "url": "https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Upcoming MCU film information"
+  },
+  {
+    "name": "Wynncraft",
+    "url": "https://docs.wynncraft.com/",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Wynncraft Information"
+  },
+  {
+    "name": "XIVAPI",
+    "url": "https://v2.xivapi.com",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Final Fantasy XIV game data and item database"
+  },
+  {
+    "name": "xkcd",
+    "url": "https://xkcd.com/json.html",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Retrieve xkcd comics as JSON"
+  },
+  {
+    "name": "YAML Yugi",
+    "url": "https://github.com/DawnbrandBots/yaml-yugi",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "API providing a comprehensive, machine-readable database of Yu-Gi-Oh! Trading Card Game, Official Card Game, Master Duel, Rush Duel, and Speed Duel. It supports fetching individual cards in JSON or YA"
+  },
+  {
+    "name": "YGOPRODeck",
+    "url": "https://ygoprodeck.com/api-guide",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Yu-Gi-Oh! card database with images and pricing"
+  },
+  {
+    "name": "Yu-Gi-Oh!",
+    "url": "https://db.ygoprodeck.com/api-guide",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "Yu-Gi-Oh! TCG Information"
+  },
+  {
+    "name": "Yugi Limit Regulation API",
+    "url": "https://github.com/DawnbrandBots/yaml-yugi-limit-regulation",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "The API provides access to the Yu-Gi-Oh! Forbidden and Limited Lists, also known as banlists, in a JSON format. It includes lists for various formats such as the Trading Card Game (TCG), Official Card"
+  },
+  {
+    "name": "Zelda",
+    "url": "https://docs.zelda.fanapis.com/docs",
+    "auth": "No",
+    "category": "Games & Comics",
+    "description": "The Legend of Zelda franchise data"
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Abstract VAT Validation",
+    "url": "https://www.abstractapi.com/vat-validation-rates-api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Validate VAT numbers and calculate VAT rates"
+  },
+  {
+    "name": "Aletheia",
+    "url": "https://aletheiaapi.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Insider trading data, earnings call analysis, financial statements, and more"
+  },
+  {
+    "name": "Alpha Vantage",
+    "url": "https://alphavantage.co",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Stocks, forex, crypto, technical indicators"
+  },
+  {
+    "name": "ArgentoFX",
+    "url": "https://fastapiproject-1-eziw.onrender.com/docs",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Real-time foreign exchange rates for Argentina"
+  },
+  {
+    "name": "Banco do Brasil",
+    "url": "https://developers.bb.com.br",
+    "auth": "OAuth",
+    "category": "Finance",
+    "description": "All Banco do Brasil financial transaction APIs"
+  },
+  {
+    "name": "Barchart OnDemand",
+    "url": "https://www.barchartondemand.com/free",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Stock, Futures and Forex Market Data"
+  },
+  {
+    "name": "Billplz",
+    "url": "https://www.billplz.com/api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Payment platform"
+  },
+  {
+    "name": "Binance Public API",
+    "url": "https://api.binance.com/api/v3",
+    "auth": "No",
+    "category": "Finance",
+    "description": "24hr tickers, order books, market stats"
+  },
+  {
+    "name": "Binlist",
+    "url": "https://binlist.net",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Public access to a database of IIN/BIN information"
+  },
+  {
+    "name": "Boleto.Cloud",
+    "url": "https://boleto.cloud/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "A api to generate boletos in Brazil"
+  },
+  {
+    "name": "Bullbear Advisors",
+    "url": "https://rapidapi.com/otha1920/api/bullbear-advisor",
+    "auth": "No",
+    "category": "Finance",
+    "description": "See strong buy and sell signals the day they occur. Get today's stocks that closed with a strong Bullish or Bearish candlestick."
+  },
+  {
+    "name": "Citi",
+    "url": "https://sandbox.developerhub.citi.com/api-catalog-list",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "All Citigroup account and statement data APIs"
+  },
+  {
+    "name": "CoinDesk BPI",
+    "url": "https://api.coindesk.com/v1/bpi",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Bitcoin Price Index and historical data"
+  },
+  {
+    "name": "CommodityPriceAPI",
+    "url": "https://commoditypriceapi.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real-time & historical commodity prices (metals, energy, etc)"
+  },
+  {
+    "name": "DolarAPI",
+    "url": "https://dolarapi.com/docs/",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Real-time exchange rates for Latin American currencies"
+  },
+  {
+    "name": "Earnings Feed",
+    "url": "https://earningsfeed.com/api/docs",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "SEC filings, insider transactions, institutional holdings"
+  },
+  {
+    "name": "Econdb",
+    "url": "https://www.econdb.com/api",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Global macroeconomic data"
+  },
+  {
+    "name": "EIA Open Data",
+    "url": "https://www.eia.gov/opendata",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Electricity, renewables, emissions, fuel prices"
+  },
+  {
+    "name": "Ethereum",
+    "url": "https://ethereum.org/en/developers/docs",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Access Ethereum blockchain data"
+  },
+  {
+    "name": "Fed Treasury",
+    "url": "https://fiscaldata.treasury.gov/api-documentation",
+    "auth": "No",
+    "category": "Finance",
+    "description": "U.S. Department of the Treasury Data"
+  },
+  {
+    "name": "Finage",
+    "url": "https://finage.co.uk",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider"
+  },
+  {
+    "name": "Financial Data",
+    "url": "https://financialdata.net/documentation",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Stock market and financial data"
+  },
+  {
+    "name": "Financial Modeling Prep",
+    "url": "https://site.financialmodelingprep.com/developer/docs",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Realtime and historical stock data"
+  },
+  {
+    "name": "FinFeedAPI",
+    "url": "https://finfeedapi.com",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Developer-first market data API"
+  },
+  {
+    "name": "Finnhub",
+    "url": "https://finnhub.io",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real-time financial data, crypto, forex (freemium)"
+  },
+  {
+    "name": "Finturest IBAN",
+    "url": "https://finturest.com/products/iban-api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Fast, accurate IBAN validation and generation"
+  },
+  {
+    "name": "FRED",
+    "url": "https://fred.stlouisfed.org/docs/api/api_key.html",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "800K+ economic time series"
+  },
+  {
+    "name": "Front Accounting APIs",
+    "url": "https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule",
+    "auth": "OAuth",
+    "category": "Finance",
+    "description": "Front accounting is multilingual and multicurrency software for small businesses"
+  },
+  {
+    "name": "FXMacroData",
+    "url": "https://fxmacrodata.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real-time forex macroeconomic API for all major currency pairs sourced from central bank announcements"
+  },
+  {
+    "name": "IEX",
+    "url": "https://iextrading.com/developer/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Realtime stock data"
+  },
+  {
+    "name": "IEX Cloud",
+    "url": "https://iexcloud.io/docs/api/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Realtime & Historical Stock and Market Data"
+  },
+  {
+    "name": "IG",
+    "url": "https://labs.ig.com/gettingstarted",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Spreadbetting and CFD Market Data"
+  },
+  {
+    "name": "IIN API",
+    "url": "https://iinapi.com",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "IIN API allows you to accurately identify the issuing bank, card type, country of origin, and other details from a credit or debit card number. This is essential for fraud prevention, payment processing, and customer verification."
+  },
+  {
+    "name": "Indian Bank Data API",
+    "url": "https://github.com/kaustubhk24/Indian-Banks-Data",
+    "auth": "No",
+    "category": "Finance",
+    "description": "All Banks IFSC Code data,Search by IFSc or other details"
+  },
+  {
+    "name": "Indian Mutual Fund",
+    "url": "https://www.mfapi.in",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Get complete history of India Mutual Funds Data"
+  },
+  {
+    "name": "Intrinio",
+    "url": "https://intrinio.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "A wide selection of financial data feeds"
+  },
+  {
+    "name": "KeepRule",
+    "url": "https://github.com/henu-wang/keeprule-api",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Investment principles and quotes from Buffett, Munger & more"
+  },
+  {
+    "name": "Kite Connect",
+    "url": "https://kite.trade/docs/connect/v3/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Stock market investment and trading platform"
+  },
+  {
+    "name": "Klarna",
+    "url": "https://docs.klarna.com/klarna-payments/api/payments-api/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Klarna payment and shopping service"
+  },
+  {
+    "name": "Mboum API",
+    "url": "https://docs.mboum.com",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real-time Stock market and Options Data"
+  },
+  {
+    "name": "Mboum Finance",
+    "url": "https://mboum.com/api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Stock, options, market fundamentals (freemium)"
+  },
+  {
+    "name": "MercadoPago",
+    "url": "https://www.mercadopago.com.br/developers/es/reference",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Mercado Pago API reference - all the information you need to develop your integrations"
+  },
+  {
+    "name": "Mono",
+    "url": "https://mono.co/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Connect with users’ bank accounts and access transaction data in Africa"
+  },
+  {
+    "name": "Moov",
+    "url": "https://docs.moov.io/api/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "The Moov API makes it simple for platforms to send, receive, and store money"
+  },
+  {
+    "name": "OpenFIGI",
+    "url": "https://www.openfigi.com/api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Equity, index, futures, options symbology from Bloomberg LP"
+  },
+  {
+    "name": "ParityVend",
+    "url": "https://www.ambeteco.com/ParityVend/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Globalize your business by auto-adapting pricing for each visitor with Purchasing Power Parity"
+  },
+  {
+    "name": "Plaid",
+    "url": "https://plaid.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Connect with user's bank accounts and access transaction data"
+  },
+  {
+    "name": "Polygon",
+    "url": "https://polygon.io/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Historical stock market data"
+  },
+  {
+    "name": "Polygon.io",
+    "url": "https://polygon.io/docs/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real-time and historical stock market data, crypto and forex"
+  },
+  {
+    "name": "Portfolio Optimizer",
+    "url": "https://portfoliooptimizer.io",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Portfolio analysis and optimization"
+  },
+  {
+    "name": "PredScope",
+    "url": "https://predscope.com/api/markets.json",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Free prediction market odds and analytics data from Polymarket"
+  },
+  {
+    "name": "Razorpay IFSC",
+    "url": "https://razorpay.com/docs",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Indian Financial Systems Code (Bank Branch Codes)"
+  },
+  {
+    "name": "Razorpay Payments",
+    "url": "https://razorpay.com/docs/#home-payments",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Indian payment gateway API integration"
+  },
+  {
+    "name": "Real Time Finance",
+    "url": "https://github.com/Real-time-finance/finance-websocket-API/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Websocket API to access realtime stock data"
+  },
+  {
+    "name": "Realie Property Data API",
+    "url": "https://www.realie.ai/real-estate-data-api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Realie's property data is directly sourced from local municipalities and contains over 100 data fields. Realie covers the entire USA with 180 million parcels."
+  },
+  {
+    "name": "RentCast",
+    "url": "https://developers.rentcast.io",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Retrieve real-time property and rental data for real estate in the United States"
+  },
+  {
+    "name": "SEC EDGAR Data",
+    "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+    "auth": "No",
+    "category": "Finance",
+    "description": "API to access annual reports of public US companies"
+  },
+  {
+    "name": "SmartAPI",
+    "url": "https://smartapi.angelbroking.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Gain access to set of  <SmartAPI>  and create end-to-end broking services"
+  },
+  {
+    "name": "Stock Sentiment",
+    "url": "https://api.adanos.org/docs",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Reddit & X/Twitter sentiment analysis for stocks with buzz scores"
+  },
+  {
+    "name": "StockData",
+    "url": "https://www.StockData.org",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real-Time, Intraday & Historical Market Data, News and Sentiment API"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://stripe.com/docs/api",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Payment processing, subscriptions, and financial management"
+  },
+  {
+    "name": "TradeWatch",
+    "url": "https://tradewatch.io/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Real time financial market data"
+  },
+  {
+    "name": "Tradier",
+    "url": "https://developer.tradier.com",
+    "auth": "OAuth",
+    "category": "Finance",
+    "description": "US equity/option market data (delayed, intraday, historical)"
+  },
+  {
+    "name": "Twelve Data",
+    "url": "https://twelvedata.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Stock market data (real-time & historical)"
+  },
+  {
+    "name": "Validate IBAN API",
+    "url": "https://apyhub.com/utility/finance-validator-iban",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "This API lets you quickly validate IBAN bank codes"
+  },
+  {
+    "name": "Validate Swift/BIC",
+    "url": "https://apyhub.com/utility/finance-validator-bic",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Validates BIC/SWIFT code"
+  },
+  {
+    "name": "ValueRay",
+    "url": "https://www.valueray.com/api",
+    "auth": "No",
+    "category": "Finance",
+    "description": "Quantitative and sentiment data for stocks and ETFs"
+  },
+  {
+    "name": "WallstreetBets",
+    "url": "https://dashboard.nbshare.io/apps/reddit/api/",
+    "auth": "No",
+    "category": "Finance",
+    "description": "WallstreetBets Stock Comments Sentiment Analysis"
+  },
+  {
+    "name": "World Trading Data",
+    "url": "https://www.worldtradingdata.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Market data provider"
+  },
+  {
+    "name": "xChangeApi",
+    "url": "https://xchangeapi.com/",
+    "auth": "apiKey",
+    "category": "Finance",
+    "description": "Exchange rates & real time market data"
+  },
+  {
+    "name": "YNAB",
+    "url": "https://api.youneedabudget.com/",
+    "auth": "OAuth",
+    "category": "Finance",
+    "description": "Budgeting & Planning"
+  },
+  {
+    "name": "Zoho Books",
+    "url": "https://www.zoho.com/books/api/v3/",
+    "auth": "OAuth",
+    "category": "Finance",
+    "description": "Online accounting software, built for your business"
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "name": "AI Presentation Generator",
+    "url": "https://www.pi.inc/docs/384227635738616?t=7aefee826938a456421c80cda9fe00c9#",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API allows users to create professional and visually appealing presentations using AI technology. By simply inputting content, users can generate presentations instantly with customizable themes "
+  },
+  {
+    "name": "APIC Agent",
+    "url": "https://www.apicagent.com/docs",
+    "auth": "No",
+    "category": "Other",
+    "description": "Free REST API to detect browser, OS, device from user agent string. Provides easy-to-use API to avoid user-agent parsing libraries."
+  },
+  {
+    "name": "Avatar",
+    "url": "https://sampleapis.com/api-list/avatar",
+    "auth": "No",
+    "category": "Other",
+    "description": "If you are an Avatar fan, then this api is for you. Here you can find everything from Episodes to Characters to Trivia Questions and more."
+  },
+  {
+    "name": "Berufsbildung Daten Exporte",
+    "url": "https://data.tg.ch/explore/dataset/dek-abb-1/information/",
+    "auth": "No",
+    "category": "Other",
+    "description": "API zur Exportierung von Daten zu Lehrverträgen und Abschlüssen der Berufsbildung seit 2017, einschließlich Anzahl der Lehrverträge, neu registrierten Lehrverträgen und Abschlüssen der Qualifikationsv"
+  },
+  {
+    "name": "Bleach Poems API",
+    "url": "https://codeberg.org/b_n_b/bleach-poems",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API provides a JSON representation of all poems from the Bleach series, encompassing volumes 1 to 74. Additionally, it features a simple web server that allows users to access poems by volume or "
+  },
+  {
+    "name": "BoneQuest API",
+    "url": "https://github.com/bonequest/api",
+    "auth": "No",
+    "category": "Other",
+    "description": "The BoneQuest API provides access to episode data, allowing users to fetch details about episodes, including dialogue and metadata. It returns structured JSON responses for easy integration and use by"
+  },
+  {
+    "name": "California State Portal",
+    "url": "https://www.ca.gov/",
+    "auth": "No",
+    "category": "Other",
+    "description": "CA.gov serves as the official website for the State of California, providing access to various government services and resources for residents and visitors. Users can find information related to state"
+  },
+  {
+    "name": "Carbon Intensity API",
+    "url": "https://api.carbonintensity.org.uk/",
+    "auth": "No",
+    "category": "Other",
+    "description": "Official API for Carbon Intensity in Great Britain provided by National Grid. Allows access to current and historical carbon intensity data for different regions and time periods."
+  },
+  {
+    "name": "CelesTrak GP Data",
+    "url": "https://celestrak.org/NORAD/documentation/gp-data-formats.php",
+    "auth": "No",
+    "category": "Other",
+    "description": "CelesTrak provides access to General Perturbations (GP) orbital data, including Two-Line Element Sets (TLEs) and newer formats like XML and JSON. This data is crucial for tracking objects in space and"
+  },
+  {
+    "name": "CEORater API",
+    "url": "https://ceorater-api.onrender.com/docs",
+    "auth": "No",
+    "category": "Other",
+    "description": "The CEORater API provides programmatic access to CEO performance metrics, compensation efficiency, and detailed company data. Users can retrieve information on companies, search for specific data, and"
+  },
+  {
+    "name": "CEPiK API",
+    "url": "https://api.cepik.gov.pl/doc",
+    "auth": "No",
+    "category": "Other",
+    "description": "The CEPiK API provides access to various datasets related to vehicles, driving licenses, permissions to drive vehicles, and statistical information about these entities. It includes methods for retrie"
+  },
+  {
+    "name": "Checktica API",
+    "url": "https://api.checktica.com/v1/docs",
+    "auth": "No",
+    "category": "Other",
+    "description": "Checktica API detects if a text was written by AI or a human with over 99% accuracy. It is free to use, requires no API key, and has no text length limitations."
+  },
+  {
+    "name": "Chinese Holiday Calendar",
+    "url": "https://api.jiejiariapi.com/v1/holidays/2024",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API provides a comprehensive listing of public holidays in China for the year 2024. It includes the date, name of the holiday, and whether it is an off day or not."
+  },
+  {
+    "name": "COVID-19 Data API",
+    "url": "https://disease.sh/v3/covid-19/historical/all?lastdays=all",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API provides comprehensive data on COVID-19 cases, deaths, and recoveries across various dates, offering users access to historical trends and real-time statistics. Users can query the API for sp"
+  },
+  {
+    "name": "CVEDB API",
+    "url": "https://cvedb.shodan.io/",
+    "auth": "No",
+    "category": "Other",
+    "description": "The CVEDB API provides a quick and efficient way to look up information about vulnerabilities associated with specific CVE-IDs or CPE23 strings. It allows users to access detailed data on vulnerabilit"
+  },
+  {
+    "name": "Digimon API",
+    "url": "https://digi-api.com/#docs",
+    "auth": "No",
+    "category": "Other",
+    "description": "Free Digimon API using data from official and fan-based sources like Wikimon.net. Not affiliated with Bandai."
+  },
+  {
+    "name": "Exchange Rate API",
+    "url": "https://www.exchangerate-api.com/docs/free",
+    "auth": "No",
+    "category": "Other",
+    "description": "ExchangeRate-API provides a free and open-access API for real-time currency conversion and exchange rate data without the need for an API key. It supports various currency pairs and allows users to ob"
+  },
+  {
+    "name": "Forex Trading API",
+    "url": "https://www.swissquote.com/en-ch/private/trade/products/forex",
+    "auth": "No",
+    "category": "Other",
+    "description": "The Forex Trading API allows users to access the foreign exchange market for trading currencies and precious metals. It facilitates trading over 80 currency pairs with comprehensive trading options an"
+  },
+  {
+    "name": "GitHub Project Issues",
+    "url": "https://ironoc.net/swagger-ui/index.html",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API allows you to retrieve issues associated with a specific GitHub repository using the owner's username and the repository name. It supports queries to get detailed information about different "
+  },
+  {
+    "name": "Gregorian Lunar Calendar",
+    "url": "https://data.gov.hk/en-data/dataset/hk-hko-rss-gregorian-lunar-calendar-conversion-table",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API provides conversion between Gregorian and Lunar dates. Users can fetch the Lunar date corresponding to a specified Gregorian date through a simple query."
+  },
+  {
+    "name": "Heat Stress Warning API",
+    "url": "https://data.gov.hk/en-data/dataset/hk-ld-ohs-ohs-heat-stress-at-work-warning",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API provides the latest information regarding heat stress warnings at work in different languages including English, Traditional Chinese, and Simplified Chinese. Users can access datasets in vari"
+  },
+  {
+    "name": "Homepage Screenshot API",
+    "url": "https://screenshotof.com",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API provides fast and efficient screenshots of specified web pages. Users can request screenshots for various dates, sizes, and formats, making it ideal for web monitoring and analysis."
+  },
+  {
+    "name": "Jojo's Bizarre API",
+    "url": "https://jojos-bizarre-api.netlify.app/",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API provides access to detailed information about characters and stands from the Jojo's Bizarre Adventure series. Users can retrieve data on all characters, individual characters by ID, all stand"
+  },
+  {
+    "name": "Kanji Data API",
+    "url": "https://kanjiapi.dev/",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API provides JSON endpoints for accessing an extensive kanji dictionary with information on over 13,000 kanji. Users can retrieve data such as readings, meanings, and stroke counts to facilitate "
+  },
+  {
+    "name": "KeyVal API",
+    "url": "https://keyval.org",
+    "auth": "No",
+    "category": "Other",
+    "description": "A super simple key value database with APIs for setting and getting key/value pairs."
+  },
+  {
+    "name": "Korean JSON API",
+    "url": "https://koreanjson.com/",
+    "auth": "No",
+    "category": "Other",
+    "description": "Super simple JSON API in Korean for GET, POST, PUT, DELETE actions providing JSON data in Korean for prototyping projects."
+  },
+  {
+    "name": "Metropolitano de Lisboa",
+    "url": "https://www.metrolisboa.pt/",
+    "auth": "No",
+    "category": "Other",
+    "description": "The Lisbon Metro API provides access to comprehensive data on the Lisbon Metro system, including historical and current information about stations, lines, schedules, and passenger statistics. The API "
+  },
+  {
+    "name": "Municipal Finance API",
+    "url": "https://municipaldata.treasury.gov.za/docs#general",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API provides access to current and historical financial data from South African municipalities, enabling users to gather insights about municipal finances. It includes data sets covering various "
+  },
+  {
+    "name": "Nationalize API",
+    "url": "https://nationalize.io/documentation",
+    "auth": "No",
+    "category": "Other",
+    "description": "A simple API that estimates the nationality of a person based on a last name."
+  },
+  {
+    "name": "Neugeborenen Vornamen Kanton St.Gallen",
+    "url": "https://daten.sg.ch/explore/dataset/vornamen-der-neugeborenen-kanton-stgallen-seit-1987/api/?disjunctive.geschlecht&disjunctive.geschlecht_label&disjunctive.vorname",
+    "auth": "No",
+    "category": "Other",
+    "description": "Provides dataset of newborn first names in the Canton of St.Gallen since 1987, based on official registry data from the Federal Office for Civil Status. Names with less than five occurrences per year "
+  },
+  {
+    "name": "Nextbike API",
+    "url": "https://api.nextbike.net/api/doc.php",
+    "auth": "No",
+    "category": "Other",
+    "description": "Nextbike Bikesharing API"
+  },
+  {
+    "name": "OEC Pro API",
+    "url": "https://oec.world/en/resources/documentation",
+    "auth": "No",
+    "category": "Other",
+    "description": "The OEC Pro API allows users to access a wide range of international trade data through various endpoints. It provides the ability to construct specific data queries and retrieve meaningful insights f"
+  },
+  {
+    "name": "Ogli Link Shortener",
+    "url": "https://app.ogli.sh/openapi.yaml",
+    "auth": "No",
+    "category": "Other",
+    "description": "The Ogli API allows users to create and manage short links with customizable Open Graph meta tags for optimal social media previews. It provides endpoints for creating, retrieving, updating, and delet"
+  },
+  {
+    "name": "Open-Elevation API",
+    "url": "https://www.open-elevation.com/",
+    "auth": "No",
+    "category": "Other",
+    "description": "Open-Elevation is a free and open-source elevation API that provides elevation data for geographical points. Users can easily access elevation information over a broad dataset, offering a reliable alt"
+  },
+  {
+    "name": "OpenAQ Platform",
+    "url": "https://docs.openaq.org/docs/introduction",
+    "auth": "No",
+    "category": "Other",
+    "description": "Largest open-source air quality data platform aggregating historical and real-time air quality data globally."
+  },
+  {
+    "name": "OpenF1 Car Data",
+    "url": "https://openf1.org/",
+    "auth": "No",
+    "category": "Other",
+    "description": "Provides real-time and historical Formula 1 car data at a sample rate of about 3.7 Hz, including lap timings, car telemetry, and more."
+  },
+  {
+    "name": "Parkhaus Basel API",
+    "url": "https://data.bs.ch/explore/dataset/100088/information/?disjunctive.title&sort=published",
+    "auth": "No",
+    "category": "Other",
+    "description": "Provides minute-by-minute occupancy data for public parking garages in Basel, Switzerland, sourced from the RSS feed of the Basel parking guidance system."
+  },
+  {
+    "name": "Parkleitsystem API",
+    "url": "https://www.stadt-zuerich.ch/portal/de/index/ogd/anwendungen/2015/parkleitsystem_api_ch.html",
+    "auth": "No",
+    "category": "Other",
+    "description": "Provides real-time information on available parking spaces in connected parking garages in cities like Basel, Zurich, Bern, Luzern, St.Gallen, and Zug. Developed by Simon Jenny for the Pebble.Parking-"
+  },
+  {
+    "name": "Parlament Open Data",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/fakten-und-zahlen/open-data-web-services/code-livestream",
+    "auth": "No",
+    "category": "Other",
+    "description": "Provides machine-readable data on parliamentary activities in Switzerland."
+  },
+  {
+    "name": "Profanity Checker API",
+    "url": "https://www.profanity.dev/#api",
+    "auth": "No",
+    "category": "Other",
+    "description": "Check text for profanity (filter out bad words)"
+  },
+  {
+    "name": "Public Holiday API",
+    "url": "https://date.nager.at/Api",
+    "auth": "No",
+    "category": "Other",
+    "description": "An API for public holiday data. Supports over 100 countries. Provides information on holidays and long weekends."
+  },
+  {
+    "name": "REST API Beispiele",
+    "url": "https://www.predic8.de/post-put-patch-beispiel.htm",
+    "auth": "No",
+    "category": "Other",
+    "description": "Dieses API bietet Beispiele für REST API Aufrufe, insbesondere für die HTTP Methoden POST, PUT und PATCH. Es dient als Anleitung, um Ressourcen zu erstellen, zu aktualisieren oder zu löschen, wobei ei"
+  },
+  {
+    "name": "Satellite TLE Data",
+    "url": "https://tle.ivanstanojevic.me/api/tle/",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API provides access to Two-Line Element (TLE) data for various satellites. It allows users to retrieve the latest orbital information for tracking satellites in real-time."
+  },
+  {
+    "name": "sharedmobility.ch API",
+    "url": "https://github.com/SFOE/sharedmobility/blob/main/Sharedmobility.ch-API.md",
+    "auth": "No",
+    "category": "Other",
+    "description": "Access sharedmobility.ch data via RESTful API with endpoints for attributes, find, identify, providers, and regions."
+  },
+  {
+    "name": "Single-use Key Registry",
+    "url": "https://blooms-production.up.railway.app/about",
+    "auth": "No",
+    "category": "Other",
+    "description": "Blooms is a public API that allows users to register and check single-use keys for serverless apps, browser extensions, and software. Keys are hashed locally to ensure privacy, and no raw values are t"
+  },
+  {
+    "name": "SLA Uptime Calculator",
+    "url": "https://uptime.is/about#api",
+    "auth": "No",
+    "category": "Other",
+    "description": "The SLA Uptime Calculator API provides calculations for expected downtime based on specified uptime percentages. It supports both simple and complex calculations, allowing users to input downtime dura"
+  },
+  {
+    "name": "Sodeom Search API",
+    "url": "https://sodeom.com/apis/search",
+    "auth": "No",
+    "category": "Other",
+    "description": "The Sodeom Search API enables users to perform private searches without any tracking, returning results in a structured JSON format. It supports pagination and allows users to query using specific sea"
+  },
+  {
+    "name": "Stadt Land Fluss",
+    "url": "https://github.com/slftool/slftool.github.io/tree/master",
+    "auth": "No",
+    "category": "Other",
+    "description": "Compact solution for Stadt Land Fluss in German"
+  },
+  {
+    "name": "Tarot Card Meanings",
+    "url": "https://app.swaggerhub.com/apis/ekswagger/tarot-api/1.3#/list/get_cards",
+    "auth": "No",
+    "category": "Other",
+    "description": "Card names, descriptions, and divinatory meanings based on AE Waite's Pictorial Key to the Tarot (1910) for the Rider-Waite-Smith deck. Access via REST API with endpoints for getting cards and documen"
+  },
+  {
+    "name": "temp mail api by boomlify",
+    "url": "https://boomlify.com/jaq/temp-mail-api-docs",
+    "auth": "No",
+    "category": "Other",
+    "description": "Boomlify is a powerful temporary email service that goes beyond ordinary temp mail tools. It offers unlimited free temporary emails, custom domain support, and a free Temp Mail API, making it perfect "
+  },
+  {
+    "name": "The Office API",
+    "url": "https://theofficeapi.dev",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API provides access to detailed information regarding the popular television show 'The Office.' Users can retrieve data about seasons, characters, and episodes, including air dates and descriptio"
+  },
+  {
+    "name": "Thurgau Population Data",
+    "url": "https://data.tg.ch/explore/dataset/sk-stat-56/information/",
+    "auth": "No",
+    "category": "Other",
+    "description": "API providing data on the permanent population of the Thurgau canton since 2007. Includes information on residents with main residence in Thurgau and specific considerations for foreign population."
+  },
+  {
+    "name": "Truth or Dare API",
+    "url": "https://docs.truthordarebot.xyz/api-docs",
+    "auth": "No",
+    "category": "Other",
+    "description": "API for truth, dare, would you rather, never have I ever, and paranoia questions with different ratings available."
+  },
+  {
+    "name": "User Agent Lookup API",
+    "url": "https://www.useragentlookup.com/",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API allows users to parse and retrieve information about user agents for free. It has no limitations or rate limiting, enabling unlimited requests by simply calling the appropriate endpoint with "
+  },
+  {
+    "name": "UserAgent Parser API",
+    "url": "https://useragent.app/api_specs.yaml",
+    "auth": "No",
+    "category": "Other",
+    "description": "This API parses user agent strings, providing structured information about the client's browser, operating system, and device type. Users can retrieve detailed data by submitting their user agent stri"
+  },
+  {
+    "name": "Virenmonitoring API",
+    "url": "https://data.bs.ch/pages/abwassermonitoring-dashboard/?flg=de-ch",
+    "auth": "No",
+    "category": "Other",
+    "description": "Provides data on RNA copies of specified viruses in the wastewater of ARA Basel, along with corresponding case numbers. Data is updated weekly and includes information on SARS-CoV-2, RSV, Influenza A,"
+  },
+  {
+    "name": "Visitor Frequencies  Lucerne (CH)",
+    "url": "https://opendata.swiss/de/dataset/besucherfrequenzen-im-offentlichen-raum-api/resource/f5ee2f59-07fc-4142-b2be-416e3f4666eb",
+    "auth": "No",
+    "category": "Other",
+    "description": "Live visitor frequencies in public spaces in Lucerne, Switzerland."
+  },
+  {
+    "name": "Water Quality Archive",
+    "url": "https://environment.data.gov.uk/water-quality/view/landing",
+    "auth": "No",
+    "category": "Other",
+    "description": "The Water Quality Archive provides comprehensive data on water quality measurements from various sampling points across England including coastal, river, lake, and groundwater sources. It supports com"
+  },
+  {
+    "name": "Website Analysis APIs",
+    "url": "https://51-68-119-197.sslip.io/api",
+    "auth": "No",
+    "category": "Other",
+    "description": "This suite of six free REST APIs provides tools for analyzing websites, including dead link checking, SEO audits, screenshot capturing, performance measurement, tech stack detection, and SSL certifica"
+  },
+  {
+    "name": "World Time API",
+    "url": "https://worldtimeapi.org/pages/examples",
+    "auth": "No",
+    "category": "Other",
+    "description": "Simple JSON/plain-text API to obtain the current time in, and related data about, a timezone."
+  },
+  {
+    "name": "World Wonders",
+    "url": "https://www.world-wonders-api.org/v0/docs",
+    "auth": "No",
+    "category": "Other",
+    "description": "Free and open source API providing information about world wonders"
+  },
+  {
+    "name": "Yande.re API v2",
+    "url": "https://yande.re/wiki/show?title=api_v2",
+    "auth": "No",
+    "category": "Other",
+    "description": "Version 2 API for /post that returns responses in json only. Provides additional information over the standard API with features like tag searches, limiting responses, including tag types, votes, and "
+  },
+  {
+    "name": "国会会議録検索API",
+    "url": "https://kokkai.ndl.go.jp/api.html",
+    "auth": "No",
+    "category": "Other",
+    "description": "国会会議録検索システムに登録されているデータを検索するためのAPIです。HTTPのGETメソッドを使用して、指定された条件で会議録や発言情報をXMLまたはJSON形式で取得できます。検索結果は、会議開催日の新しい順にソートされます。"
+  }
+]

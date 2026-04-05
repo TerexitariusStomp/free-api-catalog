@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Abstract Email Validation",
+    "url": "https://www.abstractapi.com/email-verification-validation-api",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Validate email addresses for deliverability and spam"
+  },
+  {
+    "name": "Academic Email API",
+    "url": "https://apyhub.com/utility/validator-academic-email",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "This API allows you to verify whether an email belongs to a recognized educational institution"
+  },
+  {
+    "name": "Cloudmersive Validate",
+    "url": "https://cloudmersive.com/validate-api",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Validate email addresses, phone numbers, VAT numbers and domain names"
+  },
+  {
+    "name": "DISIFY",
+    "url": "https://disify.com",
+    "auth": "No",
+    "category": "Email",
+    "description": "Validate and detect disposable and temporary email addresses"
+  },
+  {
+    "name": "DropMail",
+    "url": "https://dropmail.me/api",
+    "auth": "No",
+    "category": "Email",
+    "description": "GraphQL API for creating and managing ephemeral e-mail inboxes"
+  },
+  {
+    "name": "Emailvalidation",
+    "url": "https://emailvalidation.io/email-validation-api/",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "E-Mail address validation"
+  },
+  {
+    "name": "Enveloop",
+    "url": "https://enveloop.com",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Design, host, and send emails and texts. All from one place - with a simple API"
+  },
+  {
+    "name": "Guerrilla Mail",
+    "url": "https://www.guerrillamail.com/GuerrillaMailAPI.html",
+    "auth": "No",
+    "category": "Email",
+    "description": "Disposable temporary Email addresses"
+  },
+  {
+    "name": "Heybounce",
+    "url": "https://www.heybounce.io/#email-verification-api",
+    "auth": "No",
+    "category": "Email",
+    "description": "Email Verification API"
+  },
+  {
+    "name": "ImprovMX",
+    "url": "https://improvmx.com/api",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "API for free email forwarding service"
+  },
+  {
+    "name": "IndiePitcher",
+    "url": "https://docs.indiepitcher.com/api-reference",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Everything email for your startup with markdown support"
+  },
+  {
+    "name": "Kickbox",
+    "url": "https://open.kickbox.com",
+    "auth": "No",
+    "category": "Email",
+    "description": "Email verification API"
+  },
+  {
+    "name": "mail.gw",
+    "url": "https://docs.mail.gw",
+    "auth": "No",
+    "category": "Email",
+    "description": "10 Minute Mail"
+  },
+  {
+    "name": "mail.tm",
+    "url": "https://docs.mail.tm",
+    "auth": "No",
+    "category": "Email",
+    "description": "Temporary Email Service"
+  },
+  {
+    "name": "MailboxValidator",
+    "url": "https://www.mailboxvalidator.com/api-email-free",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Validate email address to improve deliverability"
+  },
+  {
+    "name": "MailCheck.ai",
+    "url": "https://www.mailcheck.ai",
+    "auth": "No",
+    "category": "Email",
+    "description": "Prevent users to sign up with temporary email addresses"
+  },
+  {
+    "name": "Mailtrap",
+    "url": "https://mailtrap.docs.apiary.io/#",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "A service for the safe testing of emails sent from the development and staging environments"
+  },
+  {
+    "name": "NoParam",
+    "url": "https://noparam.com",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Email validation API for real-time & bulk checking"
+  },
+  {
+    "name": "Notilify",
+    "url": "https://documenter.getpostman.com/view/32462468/2s9YsT6ong",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "A seamless messaging platform & API to send all types of SMS"
+  },
+  {
+    "name": "Proweblook Email Checker",
+    "url": "https://proweblook.com/email-verifier",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Validate email addresses without sending"
+  },
+  {
+    "name": "Resend",
+    "url": "https://resend.com/docs/",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Email API for developers"
+  },
+  {
+    "name": "Sendgrid",
+    "url": "https://docs.sendgrid.com/api-reference/",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "A cloud-based SMTP provider that allows you to send emails without having to maintain email servers"
+  },
+  {
+    "name": "Sendinblue",
+    "url": "https://developers.sendinblue.com/docs",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "A service that provides solutions relating to marketing and/or transactional email and/or SMS"
+  },
+  {
+    "name": "Sweego",
+    "url": "https://learn.sweego.io/docs/api-intro",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Self-serve multichannel notification platform for transactional email, SMS, push web& mobile, chat, in-app"
+  },
+  {
+    "name": "Sweep Emails",
+    "url": "https://sweepemails.com/",
+    "auth": "apikey",
+    "category": "Email",
+    "description": "Reliable email validation API with Free tier"
+  },
+  {
+    "name": "Temporary and Disposable emails API",
+    "url": "https://apyhub.com/utility/boomlify-temp-mail",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "This API provides temporary & disposable email addresses"
+  },
+  {
+    "name": "Trueguard",
+    "url": "https://trueguard.io",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Trueguard offers API for detecting temporary emails, free-tier abusers and automated bots"
+  },
+  {
+    "name": "UserCheck",
+    "url": "https://www.usercheck.com/",
+    "auth": "No",
+    "category": "Email",
+    "description": "Email validation and verification service"
+  },
+  {
+    "name": "Verifier",
+    "url": "https://verifier.meetchopra.com/docs#/",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Verifies that a given email is real"
+  },
+  {
+    "name": "Zyntra",
+    "url": "https://docs.zyntra.app/",
+    "auth": "apiKey",
+    "category": "Email",
+    "description": "Unlimited e-mail inboxes with API access. Catch OTPs, reset links, and sign-up emails in test flows"
+  }
+]

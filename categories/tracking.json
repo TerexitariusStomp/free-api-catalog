@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Aftership",
+    "url": "https://developers.aftership.com/reference/quick-start",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "API to update, manage and track shipment efficiently"
+  },
+  {
+    "name": "Correios",
+    "url": "https://cws.correios.com.br/ajuda",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "Integration to provide information and prepare shipments using Correio's services"
+  },
+  {
+    "name": "IndianPincodes",
+    "url": "https://www.indianpincodes.co.in",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "API for getting Pincode details in India"
+  },
+  {
+    "name": "Pixela",
+    "url": "https://pixe.la",
+    "auth": "X-Mashape-Key",
+    "category": "Tracking",
+    "description": "API for recording and tracking habits or effort, routines"
+  },
+  {
+    "name": "PostalPinCode",
+    "url": "http://www.postalpincode.in/Api-Details",
+    "auth": "No",
+    "category": "Tracking",
+    "description": "API for getting Pincode details in India"
+  },
+  {
+    "name": "Postmon",
+    "url": "http://postmon.com.br",
+    "auth": "No",
+    "category": "Tracking",
+    "description": "An API to query Brazilian ZIP codes and orders easily, quickly and free"
+  },
+  {
+    "name": "PostNord",
+    "url": "https://developer.postnord.com/apis",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "Provides information about parcels in transport for Sweden and Denmark"
+  },
+  {
+    "name": "Sweden",
+    "url": "https://developer.postnord.com/docs2",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "Provides information about parcels in transport"
+  },
+  {
+    "name": "UPS",
+    "url": "https://www.ups.com/upsdeveloperkit",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "Shipment and Address information"
+  },
+  {
+    "name": "WeCanTrack",
+    "url": "https://docs.wecantrack.com",
+    "auth": "apiKey",
+    "category": "Tracking",
+    "description": "Automatically place subids in affiliate links to attribute affiliate conversions to click data"
+  },
+  {
+    "name": "WhatPulse",
+    "url": "https://developer.whatpulse.org",
+    "auth": "No",
+    "category": "Tracking",
+    "description": "Small application that measures your keyboard/mouse usage"
+  }
+]

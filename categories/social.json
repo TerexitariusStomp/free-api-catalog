@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Ayrshare",
+    "url": "https://www.ayrshare.com",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Social media APIs to post, get analytics, and manage multiple users social media accounts"
+  },
+  {
+    "name": "Blogger",
+    "url": "https://developers.google.com/blogger/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "The Blogger APIs allows client applications to view and update Blogger content"
+  },
+  {
+    "name": "Buffer",
+    "url": "https://buffer.com/developers/api",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Access to pending and sent updates in Buffer"
+  },
+  {
+    "name": "Discord",
+    "url": "https://discord.com/developers/docs/intro",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Make bots for Discord, integrate Discord onto an external platform"
+  },
+  {
+    "name": "Disqus",
+    "url": "https://disqus.com/api/docs/auth/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Communicate with Disqus data"
+  },
+  {
+    "name": "Error Page API",
+    "url": "https://51-68-119-197.sslip.io/openapi/techstack",
+    "auth": "No",
+    "category": "Social",
+    "description": "This API provides information about network errors, including detailed messages and suggestions for resolution. It can be used to display error pages when the network is unreachable or when a certain "
+  },
+  {
+    "name": "Facebook",
+    "url": "https://developers.facebook.com/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Facebook Login, Share on FB, Social Plugins, Analytics and more"
+  },
+  {
+    "name": "Fedora Messaging API",
+    "url": "https://apps.fedoraproject.org/datagrepper/",
+    "auth": "No",
+    "category": "Social",
+    "description": "Retrieve historical messages sent via Fedora Messaging using HTTP GET requests. Query by username, package, message source, topic, etc."
+  },
+  {
+    "name": "FinSignals API",
+    "url": "https://finsignals.ai/docs/",
+    "auth": "No",
+    "category": "Social",
+    "description": "The FinSignals API provides a RESTful interface for classifying financial social posts, including text from platforms like Reddit. It evaluates a post's sentiment, directionality, content quality, and"
+  },
+  {
+    "name": "Foursquare",
+    "url": "https://developer.foursquare.com/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc)"
+  },
+  {
+    "name": "Fuck Off as a Service",
+    "url": "https://www.foaas.com",
+    "auth": "No",
+    "category": "Social",
+    "description": "Asks someone to fuck off"
+  },
+  {
+    "name": "Full Contact",
+    "url": "https://docs.fullcontact.com/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Get Social Media profiles and contact Information"
+  },
+  {
+    "name": "Grass Touch API",
+    "url": "https://is-kim-playing-steam.up.railway.app",
+    "auth": "No",
+    "category": "Social",
+    "description": "This API provides information about whether Kim has touched grass or not. It also includes details about the last known status and message regarding Kim's outdoor activity."
+  },
+  {
+    "name": "HackerNews",
+    "url": "https://github.com/HackerNews/API",
+    "auth": "No",
+    "category": "Social",
+    "description": "Hacker News stories, comments, and user profiles"
+  },
+  {
+    "name": "Hano Snapchat Lens",
+    "url": "https://lens.snapchat.com/6c47a532fd034b93a4aa64b706cf0610?share_id=fYLE8bhrBH8&locale=en-US",
+    "auth": "No",
+    "category": "Social",
+    "description": "The Hano Lens by حنين العزاوي allows users to apply a unique and artistic filter to their selfies, enhancing facial features and adding a touch of creativity. This lens is ideal for makeup enthusiasts"
+  },
+  {
+    "name": "Hashnode",
+    "url": "https://hashnode.com",
+    "auth": "No",
+    "category": "Social",
+    "description": "A blogging platform built for developers"
+  },
+  {
+    "name": "Hashtag",
+    "url": "https://mukeshsolanki.gitbook.io/hashtag-api/",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Generate Hashtags using a keyword or an Image"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://www.instagram.com/developer/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Instagram Login, Share on Instagram, Social Plugins and more"
+  },
+  {
+    "name": "Instagram Posts Generator",
+    "url": "https://instagram-posts-generator.vercel.app/",
+    "auth": "No",
+    "category": "Social",
+    "description": "Generate posts with templates from popular instagram pages."
+  },
+  {
+    "name": "Kakao",
+    "url": "https://developers.kakao.com/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Kakao Login, Share on KakaoTalk, Social Plugins and more"
+  },
+  {
+    "name": "Lanyard",
+    "url": "https://github.com/Phineas/lanyard",
+    "auth": "No",
+    "category": "Social",
+    "description": "Retrieve your presence on Discord through an HTTP REST API or WebSocket"
+  },
+  {
+    "name": "Line",
+    "url": "https://developers.line.biz/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Line Login, Share on Line, Social Plugins and more"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://docs.microsoft.com/en-us/linkedin/?context=linkedin/context",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "The foundation of all digital integrations with LinkedIn"
+  },
+  {
+    "name": "Meetup",
+    "url": "https://www.meetup.com/api/guide",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Data about Meetups from Meetup.com"
+  },
+  {
+    "name": "Microsoft Graph",
+    "url": "https://docs.microsoft.com/en-us/graph/api/overview",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility"
+  },
+  {
+    "name": "MySocialApp",
+    "url": "https://mysocialapp.io",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Seamless Social Networking features, API, SDK to any app"
+  },
+  {
+    "name": "NAVER",
+    "url": "https://developers.naver.com/main/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "NAVER Login, Share on NAVER, Social Plugins and more"
+  },
+  {
+    "name": "Open Collective",
+    "url": "https://docs.opencollective.com/help/developers/api",
+    "auth": "No",
+    "category": "Social",
+    "description": "Get Open Collective data"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://developers.pinterest.com/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "The world's catalog of ideas"
+  },
+  {
+    "name": "Product Hunt",
+    "url": "https://api.producthunt.com/v2/docs",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "The best new products in tech"
+  },
+  {
+    "name": "PWRTelegram bot",
+    "url": "https://pwrtelegram.xyz",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Boosted version of the Telegram bot API"
+  },
+  {
+    "name": "Reddit",
+    "url": "https://www.reddit.com/dev/api",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Homepage of the internet"
+  },
+  {
+    "name": "Reddit Stocks",
+    "url": "https://tradestie.com/apps/reddit/api/",
+    "auth": "No",
+    "category": "Social",
+    "description": "Get top 50 stocks discussed on Reddit subeddit - Wallstreetbets"
+  },
+  {
+    "name": "Revolt",
+    "url": "https://developers.revolt.chat",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Revolt open source Discord alternative"
+  },
+  {
+    "name": "Saidit",
+    "url": "https://www.saidit.net/dev/api",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Open Source Reddit Clone"
+  },
+  {
+    "name": "Slack",
+    "url": "https://api.slack.com/",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Team Instant Messaging"
+  },
+  {
+    "name": "SocialData API",
+    "url": "https://socialdata.tools",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Read Twitter data"
+  },
+  {
+    "name": "Sodeom AI Proxy",
+    "url": "https://sodeom.com/apis/ai",
+    "auth": "No",
+    "category": "Social",
+    "description": "This API serves as a proxy to an OpenAI-compatible API utilizing GitHub Models. It allows users to send queries or chat history and receive generated text responses, ensuring privacy and no tracking."
+  },
+  {
+    "name": "TamTam",
+    "url": "https://dev.tamtam.chat/",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Bot API to interact with TamTam"
+  },
+  {
+    "name": "Telegram Bot",
+    "url": "https://core.telegram.org/bots/api",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Simplified HTTP version of the MTProto API for bots"
+  },
+  {
+    "name": "Telegram Mailing Service",
+    "url": "https://app.telegasend.ru/swagger-ui",
+    "auth": "No",
+    "category": "Social",
+    "description": "This API allows users to create, manage, and track mailing lists within the Telegram platform. It provides endpoints to create new mailings, check their status, and cancel existing mailings."
+  },
+  {
+    "name": "Telegram MTProto",
+    "url": "https://core.telegram.org/api#getting-started",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Read and write Telegram data"
+  },
+  {
+    "name": "Text Validation API",
+    "url": "https://abhi-api.vercel.app/api/search/ringtone?text=",
+    "auth": "No",
+    "category": "Social",
+    "description": "This API checks if the provided text parameters are valid and not empty. It returns an error message if the text is missing, ensuring that users provide necessary input."
+  },
+  {
+    "name": "TikTok",
+    "url": "https://developers.tiktok.com/doc/login-kit-web",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Fetches user info and user's video posts on TikTok platform"
+  },
+  {
+    "name": "Trash Nothing",
+    "url": "https://trashnothing.com/developer",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "A freecycling community with thousands of free items posted every day"
+  },
+  {
+    "name": "Tumblr",
+    "url": "https://www.tumblr.com/docs/en/api/v2",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Read and write Tumblr Data"
+  },
+  {
+    "name": "Twitch",
+    "url": "https://dev.twitch.tv/docs",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Game Streaming API"
+  },
+  {
+    "name": "Twitter",
+    "url": "https://developer.twitter.com/en/docs",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Read and write Twitter data"
+  },
+  {
+    "name": "TwitterApi.IO",
+    "url": "https://twitterapi.io",
+    "auth": "apiKey",
+    "category": "Social",
+    "description": "Access Twitter's Real-time & Historical Data with Unmatched Simplicity"
+  },
+  {
+    "name": "vk",
+    "url": "https://vk.com/dev/sites",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Read and write vk data"
+  },
+  {
+    "name": "Webex",
+    "url": "https://developer.webex.com",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Team collaboration software"
+  },
+  {
+    "name": "Zoom",
+    "url": "https://developers.zoom.us/docs/api",
+    "auth": "OAuth",
+    "category": "Social",
+    "description": "Video communication, web conferencing, chat, and webinars"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "iTunes",
+    "url": "https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html#//apple_ref/doc/uid/TP40017632-CH3-SW1",
+    "auth": "No",
+    "category": "Audio",
+    "description": "Apple Podcasts Directory"
+  },
+  {
+    "name": "PodcastIndex",
+    "url": "https://podcastindex-org.github.io/docs-api/",
+    "auth": "apiKey",
+    "category": "Audio",
+    "description": "Get details on podcasts & episodes, Podcast Search"
+  },
+  {
+    "name": "Taddy Podcasts",
+    "url": "https://taddy.org/developers/podcast-api",
+    "auth": "apiKey",
+    "category": "Audio",
+    "description": "Get details on podcasts & episodes, Podcast & Episode Search, Webhook notifications"
+  }
+]

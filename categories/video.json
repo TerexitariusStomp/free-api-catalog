@@ -1,0 +1,450 @@
+[
+  {
+    "name": "An API of Ice And Fire",
+    "url": "https://anapioficeandfire.com",
+    "auth": "No",
+    "category": "Video",
+    "description": "Game Of Thrones API"
+  },
+  {
+    "name": "Bob's Burgers API",
+    "url": "https://bobsburgersapi.com/",
+    "auth": "No",
+    "category": "Video",
+    "description": "The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show"
+  },
+  {
+    "name": "Breaking Bad Quotes",
+    "url": "https://github.com/shevabam/breaking-bad-quotes",
+    "auth": "No",
+    "category": "Video",
+    "description": "Breaking Bad TV show quotes database"
+  },
+  {
+    "name": "Buffy the Vampire Slayer and Angel",
+    "url": "https://github.com/Thatskat/btvs-angel-api",
+    "auth": "No",
+    "category": "Video",
+    "description": "Get episode, cast and crew data from Buffy the Vampire Slayer and Angel"
+  },
+  {
+    "name": "Catalogopolis",
+    "url": "https://api.catalogopolis.xyz/docs/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Doctor Who API"
+  },
+  {
+    "name": "Compress Video API",
+    "url": "https://apyhub.com/utility/job-compress-video",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks"
+  },
+  {
+    "name": "Czech Television",
+    "url": "http://www.ceskatelevize.cz/xml/tv-program",
+    "auth": "No",
+    "category": "Video",
+    "description": "TV programme of Czech TV"
+  },
+  {
+    "name": "Dailymotion",
+    "url": "https://developer.dailymotion.com/",
+    "auth": "OAuth",
+    "category": "Video",
+    "description": "Dailymotion Developer API"
+  },
+  {
+    "name": "Dune",
+    "url": "https://github.com/ywalia01/dune-api",
+    "auth": "No",
+    "category": "Video",
+    "description": "Dune movie universe character and lore data"
+  },
+  {
+    "name": "Eurovision Song Contest",
+    "url": "https://eurovisionapi.runasp.net/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Unofficial Eurovision Song Contest API"
+  },
+  {
+    "name": "Extract Audio from Video API",
+    "url": "https://apyhub.com/utility/job-extract-video-audio",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "This API helps you extract audio from any video at scale"
+  },
+  {
+    "name": "Film API",
+    "url": "https://filmapi.vercel.app/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Provides detailed information on various photo camera films in 35mm and 120 formats including brand name, film model, ISO, availability in different formats, black & white or color specification, proc"
+  },
+  {
+    "name": "Final Space",
+    "url": "https://finalspaceapi.com/docs",
+    "auth": "No",
+    "category": "Video",
+    "description": "Final Space API"
+  },
+  {
+    "name": "Free Movie Series DB",
+    "url": "https://github.com/TelegramPlayground/Free-Movie-Series-DB-API",
+    "auth": "No",
+    "category": "Video",
+    "description": "This API provides access to a wide range of movie and series information without requiring API keys. Users can fetch detailed movie data, including titles, genres, and descriptions efficiently and for"
+  },
+  {
+    "name": "FreeTestAPI",
+    "url": "https://freetestapi.com/",
+    "auth": "No",
+    "category": "Video",
+    "description": "FreeTestAPI provides over 25 dummy APIs to streamline the process of API testing for developers. It allows users to access mock data for various applications, ensuring seamless workflow integration."
+  },
+  {
+    "name": "FunisGo Streaming API",
+    "url": "https://funisgo.netlify.app/docpelis",
+    "auth": "No",
+    "category": "Video",
+    "description": "The FunisGo API provides a secure and structured way to access streaming content such as movies, series, and channels. It features both free and premium plans, with various usage limits and capabiliti"
+  },
+  {
+    "name": "Game of Thrones Quotes",
+    "url": "https://gameofthronesquotes.xyz",
+    "auth": "No",
+    "category": "Video",
+    "description": "Some Game of Thrones quotes"
+  },
+  {
+    "name": "Gcore Streaming",
+    "url": "https://docs.gcore.com/streaming",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Scale to 100+ million viewers and beyond. Stream everything from online games to online events reliably in minutes instead of months."
+  },
+  {
+    "name": "Generate Thumbnail from video API",
+    "url": "https://apyhub.com/utility/thumbnail-from-video",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "This API generates image thumbnails from any input video file, in the desired size (pixels). The API supports multiple video formats including MP4, WEBM, FLV, AVI, MKV, MOV and 3GP"
+  },
+  {
+    "name": "GIF from Video API",
+    "url": "https://apyhub.com/utility/gif-from-video",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "This API helps you generate GIF from any video"
+  },
+  {
+    "name": "Harry Potter Characters",
+    "url": "https://hp-api.onrender.com/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Harry Potter Characters Data with with imagery"
+  },
+  {
+    "name": "Hunt",
+    "url": "https://www.huntapi.com",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Video To API. Get video or audio and metadata for all video platforms with one provider."
+  },
+  {
+    "name": "IMDb",
+    "url": "https://developer.imdb.com/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "API for receiving movie, serial and cast information"
+  },
+  {
+    "name": "IMDbOT",
+    "url": "https://github.com/SpEcHiDe/IMDbOT",
+    "auth": "No",
+    "category": "Video",
+    "description": "Unofficial IMDb Movie / Series Information"
+  },
+  {
+    "name": "JSON2Video",
+    "url": "https://json2video.com",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations"
+  },
+  {
+    "name": "Lucifer Quotes",
+    "url": "https://github.com/shadowoff09/lucifer-quotes",
+    "auth": "No",
+    "category": "Video",
+    "description": "Returns Lucifer quotes"
+  },
+  {
+    "name": "MCU Countdown",
+    "url": "https://github.com/DiljotSG/MCU-Countdown",
+    "auth": "No",
+    "category": "Video",
+    "description": "A Countdown to the next MCU Film"
+  },
+  {
+    "name": "movie-quote",
+    "url": "https://github.com/F4R4N/movie-quote",
+    "auth": "No",
+    "category": "Video",
+    "description": "Movie quotes and dialogue snippets"
+  },
+  {
+    "name": "Mux",
+    "url": "https://www.mux.com/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Mux Video is an API that enables developers to build unique live and on-demand video experiences"
+  },
+  {
+    "name": "NEXARDA API",
+    "url": "https://github.com/NEXARDA/NEXARDA",
+    "auth": "No",
+    "category": "Video",
+    "description": "The NEXARDA API provides access to a video game price comparison service, allowing users to find deals from over 90 approved retailers. It enables developers to integrate price checks for video games,"
+  },
+  {
+    "name": "Oktias Bakery API",
+    "url": "https://beni.xo.je",
+    "auth": "No",
+    "category": "Video",
+    "description": "This API provides functionality for an online bakery store, enabling users to browse products, place orders, and manage a shopping cart. It is designed to streamline the shopping experience for cakes "
+  },
+  {
+    "name": "Open Movie Database",
+    "url": "http://www.omdbapi.com/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Movie information"
+  },
+  {
+    "name": "Owen Wilson Wow",
+    "url": "https://owen-wilson-wow-api.onrender.com/",
+    "auth": "No",
+    "category": "Video",
+    "description": "API for actor Owen Wilson's \"wow\" exclamations in movies"
+  },
+  {
+    "name": "Potter DB",
+    "url": "https://potterdb.com",
+    "auth": "No",
+    "category": "Video",
+    "description": "Data from the Harry Potter Universe: Characters, Movies, Books, Spells and Potions"
+  },
+  {
+    "name": "Rendi",
+    "url": "https://rendi.dev",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "FFmpeg API"
+  },
+  {
+    "name": "Ron Swanson Quotes",
+    "url": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api",
+    "auth": "No",
+    "category": "Video",
+    "description": "Parks and Recreation character quotes"
+  },
+  {
+    "name": "Rules of Acquisition",
+    "url": "https://rulesofacquisition.herokuapp.com/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Ferengi Rules of Acquisition from Star Trek with episode references"
+  },
+  {
+    "name": "Shoof Aflam",
+    "url": "https://shoofaflam.tv/api-docs/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Arabic streaming guide — search 14,000+ movies/series, get platform availability across 18 services in the Arab world"
+  },
+  {
+    "name": "Shotstack",
+    "url": "https://shotstack.io/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Cloud-based video editing API"
+  },
+  {
+    "name": "Shrek Quotes",
+    "url": "https://shrekofficial.com",
+    "auth": "No",
+    "category": "Video",
+    "description": "Shrek quotes and more, but mainly quotes"
+  },
+  {
+    "name": "Simkl",
+    "url": "https://simkl.docs.apiary.io",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Movie, TV and Anime data"
+  },
+  {
+    "name": "South Park Quotes",
+    "url": "https://github.com/Thatskat/southpark-quotes-api",
+    "auth": "No",
+    "category": "Video",
+    "description": "Get some quotes from South Park, mmkay!"
+  },
+  {
+    "name": "Spider-Man Movies API",
+    "url": "https://imdb.iamidiotareyoutoo.com/search?q=Spiderman",
+    "auth": "No",
+    "category": "Video",
+    "description": "This API provides information about various Spider-Man movies, including titles, release years, and actor details. Users can access movie rankings and official IMDb links for more information."
+  },
+  {
+    "name": "STAPI",
+    "url": "http://stapi.co",
+    "auth": "No",
+    "category": "Video",
+    "description": "Information on all things Star Trek"
+  },
+  {
+    "name": "Star Wars Databank",
+    "url": "https://starwars-databank.vercel.app/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Info and data from the Star Wars databank in the form of an API"
+  },
+  {
+    "name": "Stitch AI Design",
+    "url": "https://stitch.withgoogle.com/",
+    "auth": "No",
+    "category": "Video",
+    "description": "Stitch is an API that generates user interfaces for mobile and web applications, streamlining the design process. It leverages artificial intelligence to assist designers in quickly ideating and creat"
+  },
+  {
+    "name": "Stranger Things Quotes",
+    "url": "https://github.com/shadowoff09/strangerthings-quotes",
+    "auth": "No",
+    "category": "Video",
+    "description": "Stranger Things quotes and character data"
+  },
+  {
+    "name": "Stromberg Quotes",
+    "url": "https://stromberg-api.de",
+    "auth": "No",
+    "category": "Video",
+    "description": "Returns Stromberg quotes and more"
+  },
+  {
+    "name": "Supernatural Quotes",
+    "url": "https://lidiakovac.github.io/supernatural-api",
+    "auth": "No",
+    "category": "Video",
+    "description": "100+ Supernatural quotes"
+  },
+  {
+    "name": "SWAPI",
+    "url": "https://swapi.dev",
+    "auth": "No",
+    "category": "Video",
+    "description": "All the Star Wars data you've ever wanted"
+  },
+  {
+    "name": "SWAPI GraphQL",
+    "url": "https://graphql.org/swapi-graphql",
+    "auth": "No",
+    "category": "Video",
+    "description": "Star Wars GraphQL API"
+  },
+  {
+    "name": "The Lord of the Rings",
+    "url": "https://the-one-api.dev/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "The Lord of the Rings API"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "url": "https://vampire-diaries-api.netlify.app/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "TV Show Data"
+  },
+  {
+    "name": "ThronesApi",
+    "url": "https://thronesapi.com",
+    "auth": "No",
+    "category": "Video",
+    "description": "Game Of Thrones Characters Data with imagery"
+  },
+  {
+    "name": "TMDb",
+    "url": "https://www.themoviedb.org/documentation/api",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Community-based movie data"
+  },
+  {
+    "name": "Trakt",
+    "url": "https://trakt.docs.apiary.io/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Movie and TV Data"
+  },
+  {
+    "name": "TVDB",
+    "url": "https://thetvdb.com/api-information",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Television data"
+  },
+  {
+    "name": "uNoGS",
+    "url": "https://rapidapi.com/unogs/api/unogsng",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Unofficial Netflix Online Global Search, Search all netflix regions in one place"
+  },
+  {
+    "name": "Video Thumbnail API",
+    "url": "https://apyhub.com/utility/job-video-thumbnail",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "Create Video Thumbnails from any video or URL"
+  },
+  {
+    "name": "Vimeo",
+    "url": "https://developer.vimeo.com/",
+    "auth": "OAuth",
+    "category": "Video",
+    "description": "Vimeo Developer API"
+  },
+  {
+    "name": "Watchmode",
+    "url": "https://api.watchmode.com/",
+    "auth": "apiKey",
+    "category": "Video",
+    "description": "API for finding out the streaming availability of movies & shows"
+  },
+  {
+    "name": "Web Series Quotes",
+    "url": "https://github.com/yogeshwaran01/web-series-quotes",
+    "auth": "No",
+    "category": "Video",
+    "description": "Popular web series quotes database"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://developers.google.com/youtube/",
+    "auth": "OAuth",
+    "category": "Video",
+    "description": "Add YouTube functionality to your sites and apps"
+  },
+  {
+    "name": "YouTube Video API",
+    "url": "https://abhi-api.vercel.app/api/search/yts?text=heat+waves",
+    "auth": "No",
+    "category": "Video",
+    "description": "This API provides data related to YouTube videos, including details such as views, upload date, duration, and descriptions. It allows developers to fetch comprehensive information about specific video"
+  }
+]

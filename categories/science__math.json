@@ -1,0 +1,254 @@
+[
+  {
+    "name": "arcsecond.io",
+    "url": "https://api.arcsecond.io",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Multiple astronomy data sources"
+  },
+  {
+    "name": "arXiv",
+    "url": "https://arxiv.org/help/api",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Curated research-sharing platform: physics, mathematics, quantitative finance, and economics"
+  },
+  {
+    "name": "Bootprint",
+    "url": "https://bootprint.space/",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Random facts and images of space"
+  },
+  {
+    "name": "Crossref",
+    "url": "https://github.com/CrossRef/rest-api-doc",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Books & Articles Metadata"
+  },
+  {
+    "name": "Exoplanet Archive",
+    "url": "https://exoplanetarchive.ipac.caltech.edu/docs/program_interfaces.html",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Data repository of exoplanets"
+  },
+  {
+    "name": "iDigBio",
+    "url": "https://github.com/idigbio/idigbio-search-api/wiki",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Access millions of museum specimens from organizations around the world"
+  },
+  {
+    "name": "inspirehep.net",
+    "url": "https://github.com/inspirehep/rest-api-doc",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "High Energy Physics info. system"
+  },
+  {
+    "name": "isEven (humor)",
+    "url": "https://isevenapi.xyz",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Check if a number is even"
+  },
+  {
+    "name": "ISRO",
+    "url": "https://isro.vercel.app",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "ISRO Space Crafts Information"
+  },
+  {
+    "name": "ISRO Statistics",
+    "url": "https://isrostats.in/apis",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "ISRO Launches and Spacecrafts details"
+  },
+  {
+    "name": "ITIS",
+    "url": "https://www.itis.gov/ws_description.html",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Integrated Taxonomic Information System"
+  },
+  {
+    "name": "Launch Library",
+    "url": "https://launchlibrary.net/docs/1.3/api.html",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Upcoming Space Launches"
+  },
+  {
+    "name": "Launch Library 2",
+    "url": "https://thespacedevs.com/llapi",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Spaceflight launches and events database"
+  },
+  {
+    "name": "Materials Platform for Data Science",
+    "url": "https://mpds.io",
+    "auth": "apiKey",
+    "category": "Science & Math",
+    "description": "Curated experimental data for materials science"
+  },
+  {
+    "name": "Minor Planet Center",
+    "url": "http://www.asterank.com/mpc",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Asterank.com Information"
+  },
+  {
+    "name": "NASA ADS",
+    "url": "https://ui.adsabs.harvard.edu/help/api/api-docs.html",
+    "auth": "OAuth",
+    "category": "Science & Math",
+    "description": "NASA Astrophysics Data System"
+  },
+  {
+    "name": "NASA Open APIs",
+    "url": "https://api.nasa.gov",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Astronomy Picture of the Day, Near-Earth Objects, Mars weather, Earth images"
+  },
+  {
+    "name": "Newton API",
+    "url": "https://newton.now.sh/api/v2",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Advanced math computations: factor, simplify, derive, integrate"
+  },
+  {
+    "name": "Noctua",
+    "url": "https://api.noctuasky.com/api/v1/swaggerdoc",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "REST API used to access NoctuaSky features"
+  },
+  {
+    "name": "Numbers",
+    "url": "https://math.tools/api/numbers/",
+    "auth": "apiKey",
+    "category": "Science & Math",
+    "description": "Number of the day, random number, number facts and anything else you want to do with numbers"
+  },
+  {
+    "name": "NumPy",
+    "url": "https://numpy.org/devdocs",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "NumPy API documentation"
+  },
+  {
+    "name": "Open Notify",
+    "url": "http://open-notify.org/Open-Notify-API",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "ISS astronauts, current location, etc"
+  },
+  {
+    "name": "Open Science Framework",
+    "url": "https://developer.osf.io",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Repository and archive for study designs, research materials, data, manuscripts, etc"
+  },
+  {
+    "name": "PubChem",
+    "url": "https://api.pubchem.ncbi.nlm.nih.gov/rest/pug",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Chemical compounds, properties, structures, bioassays"
+  },
+  {
+    "name": "Purple Air",
+    "url": "https://www2.purpleair.com",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Real Time Air Quality Monitoring"
+  },
+  {
+    "name": "Satellite Passes",
+    "url": "https://sat.terrestre.ar",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Find satellite passes"
+  },
+  {
+    "name": "SHARE",
+    "url": "https://share.osf.io/api/v2",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "A free, open, dataset about research and scholarly activities"
+  },
+  {
+    "name": "SpaceX",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Company, vehicle, launchpad and launch data"
+  },
+  {
+    "name": "Sunrise-Sunset",
+    "url": "https://sunrise-sunset.org/api",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Sunset and sunrise times for a given latitude and longitude"
+  },
+  {
+    "name": "TheSpaceDevs",
+    "url": "https://ll.thespacedevs.com/2.2.0",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Global launch schedules and events"
+  },
+  {
+    "name": "Times Adder",
+    "url": "https://github.com/FranP-code/API-Times-Adder",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "With this API you can add each of the times introduced in the array sent"
+  },
+  {
+    "name": "TLE",
+    "url": "https://tle.ivanstanojevic.me",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Satellite information"
+  },
+  {
+    "name": "Unusual Units Converter",
+    "url": "https://api.unusualunits.com/",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Unit converter for standard and uncommon units"
+  },
+  {
+    "name": "USGS Earthquake Hazards Program",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Earthquakes data real-time"
+  },
+  {
+    "name": "USGS Water Services",
+    "url": "https://waterservices.usgs.gov",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "Water quality and level info for rivers and lakes"
+  },
+  {
+    "name": "World Bank",
+    "url": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589",
+    "auth": "No",
+    "category": "Science & Math",
+    "description": "World Data"
+  }
+]

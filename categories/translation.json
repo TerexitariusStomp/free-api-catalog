@@ -1,0 +1,9 @@
+[
+  {
+    "name": "MyMemory",
+    "url": "https://mymemory.translated.net/doc/spec.php",
+    "auth": "No",
+    "category": "Translation",
+    "description": "Translation memory API with 150+ billion words aligned"
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Adzuna",
+    "url": "https://developer.adzuna.com/overview",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Job board aggregator"
+  },
+  {
+    "name": "Arbeitnow",
+    "url": "https://documenter.getpostman.com/view/18545278/UVJbJdKh",
+    "auth": "No",
+    "category": "Jobs",
+    "description": "Tech job listings API focused on European market"
+  },
+  {
+    "name": "Arbeitsamt",
+    "url": "https://jobsuche.api.bund.dev/",
+    "auth": "OAuth",
+    "category": "Jobs",
+    "description": "API for the \"Arbeitsamt\", which is a german Job board aggregator"
+  },
+  {
+    "name": "Careerjet",
+    "url": "https://www.careerjet.com/partners/api/",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Job search engine"
+  },
+  {
+    "name": "CV - Job match score API",
+    "url": "https://apyhub.com/utility/sharpapi-resume-job-match-score",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "This API use multiple criteria to evaluate how well a candidate fits a job position"
+  },
+  {
+    "name": "DevITjobs",
+    "url": "https://devitjobs.us/api/jobsLight",
+    "auth": "No",
+    "category": "Jobs",
+    "description": "Jobs for software developers"
+  },
+  {
+    "name": "DevITjobs UK",
+    "url": "https://devitjobs.uk/job_feed.xml",
+    "auth": "No",
+    "category": "Jobs",
+    "description": "Jobs with GraphQL"
+  },
+  {
+    "name": "Fantastic.jobs",
+    "url": "https://fantastic.jobs/api",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Access over 8 million jobs per month using our APIs. ATS, LinkedIn, Upwork, and more."
+  },
+  {
+    "name": "Findwork",
+    "url": "https://findwork.dev/developers/",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Job board"
+  },
+  {
+    "name": "Himalayas",
+    "url": "https://himalayas.app/api",
+    "auth": "No",
+    "category": "Jobs",
+    "description": "Remote job board and search engine"
+  },
+  {
+    "name": "Indeed",
+    "url": "https://www.indeed.com/publisher",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Job board aggregator"
+  },
+  {
+    "name": "jobdata API",
+    "url": "https://jobdataapi.com/",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Simple Job Data API"
+  },
+  {
+    "name": "Jobicy",
+    "url": "https://jobicy.com/jobs-rss-feed",
+    "auth": "No",
+    "category": "Jobs",
+    "description": "Remote Jobs API Feed"
+  },
+  {
+    "name": "Jobs2Careers",
+    "url": "http://api.jobs2careers.com/api/spec.pdf",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Job aggregator"
+  },
+  {
+    "name": "Jooble",
+    "url": "https://jooble.org/api/about",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Job search engine"
+  },
+  {
+    "name": "Juju",
+    "url": "http://www.juju.com/publisher/spec/",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Job search engine"
+  },
+  {
+    "name": "OkJob",
+    "url": "https://okjob.io/api",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "4 day week job board"
+  },
+  {
+    "name": "Reed",
+    "url": "https://www.reed.co.uk/developers",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Job board aggregator"
+  },
+  {
+    "name": "Remote OK Jobs API",
+    "url": "https://www.remoteok.com",
+    "auth": "No",
+    "category": "Jobs",
+    "description": "Remote OK is the #1 remote-only jobs board on the web. It has over 30,000+ remote job listings, adding new ones every day. With this API, now you can build apps with our data feed which covers 80% of "
+  },
+  {
+    "name": "RemoteOK",
+    "url": "https://remoteok.io",
+    "auth": "No",
+    "category": "Jobs",
+    "description": "Remote tech job listings"
+  },
+  {
+    "name": "Search.gov Jobs",
+    "url": "https://search.gov/developer/jobs.html",
+    "auth": "No",
+    "category": "Jobs",
+    "description": "Tap into a list of current jobs openings with the United States government"
+  },
+  {
+    "name": "Techmap's Job Postings",
+    "url": "https://jobdatafeeds.com/job-api",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "API for International Job postings"
+  },
+  {
+    "name": "The Muse",
+    "url": "https://www.themuse.com/developers/api/v2",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Job board and company profiles"
+  },
+  {
+    "name": "TheirStack's Job Postings",
+    "url": "https://theirstack.com/en/job-posting-api",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Access simultaneously to jobs from Linkedin, Glassdoor, Indeed and 16+ other job sites"
+  },
+  {
+    "name": "Upwork",
+    "url": "https://developers.upwork.com",
+    "auth": "OAuth",
+    "category": "Jobs",
+    "description": "Freelance job board and management system"
+  },
+  {
+    "name": "USAJOBS",
+    "url": "https://developer.usajobs.gov/",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "US government job board"
+  },
+  {
+    "name": "WhatJobs",
+    "url": "https://www.whatjobs.com/affiliates",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Job search engine"
+  },
+  {
+    "name": "Workforce",
+    "url": "https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview",
+    "auth": "No",
+    "category": "Jobs",
+    "description": "Workforce skills taxonomy and classification data"
+  },
+  {
+    "name": "ZipRecruiter",
+    "url": "https://www.ziprecruiter.com/publishers",
+    "auth": "apiKey",
+    "category": "Jobs",
+    "description": "Job search app and website"
+  }
+]

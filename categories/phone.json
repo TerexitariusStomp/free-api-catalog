@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Abstract Phone Validation",
+    "url": "https://www.abstractapi.com/phone-validation-api",
+    "auth": "apiKey",
+    "category": "Phone",
+    "description": "Validate phone numbers globally"
+  },
+  {
+    "name": "NumlookupAPI",
+    "url": "https://numlookupapi.com",
+    "auth": "apiKey",
+    "category": "Phone",
+    "description": "Worldwide Phone Number Lookup & Verification API"
+  },
+  {
+    "name": "Phone Specifications API",
+    "url": "https://github.com/azharimm/phone-specs-api",
+    "auth": "No",
+    "category": "Phone",
+    "description": "Mobile phone hardware specs and comparison data"
+  },
+  {
+    "name": "Proweblook Phone Number Checker",
+    "url": "https://proweblook.com/phone-number-validator",
+    "auth": "apiKey",
+    "category": "Phone",
+    "description": "Phone number validation"
+  },
+  {
+    "name": "Proweblook Whatsapp Contact Checker",
+    "url": "https://proweblook.com/whatsapp-number-checker",
+    "auth": "apiKey",
+    "category": "Phone",
+    "description": "Whatsapp number validation"
+  },
+  {
+    "name": "Veriphone",
+    "url": "https://veriphone.io",
+    "auth": "apiKey",
+    "category": "Phone",
+    "description": "Phone number validation & carrier lookup"
+  }
+]

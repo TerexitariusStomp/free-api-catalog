@@ -1,0 +1,2235 @@
+[
+  {
+    "name": "24 Pull Requests",
+    "url": "https://24pullrequests.com/api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Project to promote open source collaboration during December"
+  },
+  {
+    "name": "Abacus",
+    "url": "https://abacus.jasoncameron.dev/",
+    "auth": "No",
+    "category": "Development",
+    "description": "Free and simple counting service. You can use it to track page hits and specific events"
+  },
+  {
+    "name": "Abstract API",
+    "url": "https://www.abstractapi.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Suite of APIs including email validation, IP geolocation, phone validation, exchange rates and more"
+  },
+  {
+    "name": "Abstract Screenshot",
+    "url": "https://www.abstractapi.com/website-screenshot-api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Take programmatic screenshots of web pages from any website"
+  },
+  {
+    "name": "addr.zone",
+    "url": "https://addr.zone",
+    "auth": "No",
+    "category": "Development",
+    "description": "IP Classification and Intelligence API. Detect Proxies, Datacenter, Malicious IPs, ..."
+  },
+  {
+    "name": "Agify.io",
+    "url": "https://agify.io",
+    "auth": "No",
+    "category": "Development",
+    "description": "Estimates the age from a first name"
+  },
+  {
+    "name": "AI Text Moderation, Toxicity & Sentiment Analyzer",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/ai-text-moderation-toxicity-aspects-sentiment-analyzer",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Detect sentiment, toxicity, and emotional aspects in text with AI moderation"
+  },
+  {
+    "name": "AI Translate text API",
+    "url": "https://apyhub.com/utility/sharpapi-translate-text",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "The Text Translation API translates text into any of the 80 supported languages, providing accurate and context-aware translations"
+  },
+  {
+    "name": "Analyse Keywords API",
+    "url": "https://apyhub.com/utility/analyse-keywords",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "This API lets you extract high-frequency keywords, key phrases and latent semantic keywords from any URL"
+  },
+  {
+    "name": "AnonFiles",
+    "url": "https://anonfiles.com/docs/api",
+    "auth": "No",
+    "category": "Development",
+    "description": "File Sharing and Storage"
+  },
+  {
+    "name": "API Grátis",
+    "url": "https://apigratis.com.br",
+    "auth": "No",
+    "category": "Development",
+    "description": "Multiples services and public APIs"
+  },
+  {
+    "name": "API League",
+    "url": "https://apileague.com",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "World-class APIs in a single hub"
+  },
+  {
+    "name": "API Snap",
+    "url": "https://api-snap.com",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Free utility API platform. QR codes, screenshots, PDFs, image resize, hashing, and more"
+  },
+  {
+    "name": "API Status Check",
+    "url": "https://apistatuscheck.com/api/status",
+    "auth": "No",
+    "category": "Development",
+    "description": "Real-time status monitoring for 270+ APIs and services"
+  },
+  {
+    "name": "API Tools",
+    "url": "https://api.apitools.workers.dev/",
+    "auth": "No",
+    "category": "Development",
+    "description": "API Tools – Access over 30+ REST APIs, all completely free with no usage limits. Explore a wide range of tools designed for everyone, no sign-up or restrictions required!"
+  },
+  {
+    "name": "ApicAgent",
+    "url": "https://www.apicagent.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Extract device details from user-agent string"
+  },
+  {
+    "name": "ApiFlash",
+    "url": "https://apiflash.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Chrome based screenshot API for developers"
+  },
+  {
+    "name": "APIFreaks",
+    "url": "https://apifreaks.com/docs",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "API hub with DNS, WHOIS, Screenshot, IP Geolocation, Weather, Commodity & Currency APIs"
+  },
+  {
+    "name": "APIs.guru",
+    "url": "https://apis.guru/api-doc",
+    "auth": "No",
+    "category": "Development",
+    "description": "Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs"
+  },
+  {
+    "name": "ApyHub: A Complete API Catalog",
+    "url": "https://apyhub.com/catalog",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Build and ship applications that scale using certified APIs for every use case"
+  },
+  {
+    "name": "ArulJohn.com",
+    "url": "https://api.aruljohn.com/ip/json",
+    "auth": "No",
+    "category": "Development",
+    "description": "A simple IP Address API in JSON"
+  },
+  {
+    "name": "AutoChangelog",
+    "url": "https://autochangelog.com",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Automatically creates changelog entries from deployments by analyzing pull requests, commits, and code diffs across your GitHub repositories"
+  },
+  {
+    "name": "Autom",
+    "url": "https://www.autom.dev",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Our SERP API delivers lightning-fast Google search results at unbeatable prices. Built for developers who need reliable, scalable access to search data without the complexity of web scraping or CAPTCHA challenges."
+  },
+  {
+    "name": "Aylien Text Analysis",
+    "url": "https://docs.aylien.com/textapi/#getting-started",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "A collection of information retrieval and natural language APIs"
+  },
+  {
+    "name": "Azure DevOps",
+    "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "The Azure DevOps basic components of a REST API request/response pair"
+  },
+  {
+    "name": "Azure DevOps Health",
+    "url": "https://docs.microsoft.com/en-us/rest/api/resourcehealth",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Resource health helps you diagnose and get support when an Azure issue impacts your resources"
+  },
+  {
+    "name": "Beeceptor",
+    "url": "https://beeceptor.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Build a mock Rest API endpoint in seconds"
+  },
+  {
+    "name": "BetterMeta",
+    "url": "http://bettermeta.io",
+    "auth": "X-Mashape-Key",
+    "category": "Development",
+    "description": "Return a site's meta tags in JSON format"
+  },
+  {
+    "name": "BioMed Central API",
+    "url": "https://api.biomedcentral.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Latest articles, editors picks, subjects, and bibliographic search from BioMed Central journals"
+  },
+  {
+    "name": "Bitbucket",
+    "url": "https://developer.atlassian.com/bitbucket/api/2/reference/",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Bitbucket API"
+  },
+  {
+    "name": "Bitrise",
+    "url": "https://api-docs.bitrise.io/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Build tool and processes integrations to create efficient development pipelines"
+  },
+  {
+    "name": "Blitapp",
+    "url": "https://blitapp.com/api/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Schedule screenshots of web pages and sync them to your cloud"
+  },
+  {
+    "name": "Blynk-Cloud",
+    "url": "https://blynkapi.docs.apiary.io/#",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Control IoT Devices from Blynk IoT Cloud"
+  },
+  {
+    "name": "Box",
+    "url": "https://developer.box.com/",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "File Sharing and Storage"
+  },
+  {
+    "name": "Brainshop.ai",
+    "url": "https://brainshop.ai/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Make A Free A.I Brain"
+  },
+  {
+    "name": "Brand.dev",
+    "url": "https://www.brand.dev/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "API to personalize your product with logos, colors, and company info from any domain"
+  },
+  {
+    "name": "Brave Search API",
+    "url": "https://brave.com/search/api/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "An index of billions of pages in a single call"
+  },
+  {
+    "name": "BrowserCat",
+    "url": "https://www.browsercat.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Headless browser API for automation, scraping, and more"
+  },
+  {
+    "name": "Browshot",
+    "url": "https://browshot.com/api/documentation",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Easily make screenshots of web pages in any screen size, as any device"
+  },
+  {
+    "name": "Buddy",
+    "url": "https://buddy.works/docs/api/getting-started/overview",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "The fastest continuous integration and continuous delivery platform"
+  },
+  {
+    "name": "Cache Horse",
+    "url": "https://cache.horse",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Combine/batch & cache multiple HTTP requests to save on API quotas, speed up & simplify your app"
+  },
+  {
+    "name": "CDNJS",
+    "url": "https://api.cdnjs.com/libraries/jquery",
+    "auth": "No",
+    "category": "Development",
+    "description": "Library info on CDNJS"
+  },
+  {
+    "name": "Changelogs.md",
+    "url": "https://changelogs.md",
+    "auth": "No",
+    "category": "Development",
+    "description": "Structured changelog metadata from open source projects"
+  },
+  {
+    "name": "Chatpdf",
+    "url": "https://chatpdf.so/api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Chat with pdf using GPT4 and ChatGPT"
+  },
+  {
+    "name": "ChatterBox",
+    "url": "https://chatter-box.io/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "One API for meeting bots on Zoom, Meet & Teams"
+  },
+  {
+    "name": "Chinese Character Web",
+    "url": "http://ccdb.hemiola.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Chinese character definitions and pronunciations"
+  },
+  {
+    "name": "Chinese Text Project",
+    "url": "https://ctext.org/tools/api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Online open-access digital library for pre-modern Chinese texts"
+  },
+  {
+    "name": "Ciprand",
+    "url": "https://github.com/polarspetroll/ciprand",
+    "auth": "No",
+    "category": "Development",
+    "description": "Secure random string generator"
+  },
+  {
+    "name": "CircleCI",
+    "url": "https://circleci.com/docs/api/v1-reference/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Automate the software development process using continuous integration and continuous delivery"
+  },
+  {
+    "name": "Claude API",
+    "url": "https://platform.claude.com/settings/keys",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Claude API enables developers to integrate advanced AI capabilities into their applications. It allows users to access the latest Claude models, including Opus, Sonnet, and Haiku, and provides a v"
+  },
+  {
+    "name": "Cloudflare Trace",
+    "url": "https://github.com/fawazahmed0/cloudflare-trace-api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More"
+  },
+  {
+    "name": "Cloudmersive Natural Language Processing",
+    "url": "https://www.cloudmersive.com/nlp-api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Natural language processing and text analysis"
+  },
+  {
+    "name": "Code Detection API",
+    "url": "https://codedetectionapi.runtime.dev",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Detect, label, format and enrich the code in your app or in your data pipeline"
+  },
+  {
+    "name": "Codeforces",
+    "url": "https://codeforces.com/apiHelp",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Get access to Codeforces data"
+  },
+  {
+    "name": "Codeship",
+    "url": "https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Codeship is a Continuous Integration Platform in the cloud"
+  },
+  {
+    "name": "Codex",
+    "url": "https://github.com/Jaagrav/CodeX",
+    "auth": "No",
+    "category": "Development",
+    "description": "Online Compiler for Various Languages"
+  },
+  {
+    "name": "Collins",
+    "url": "https://api.collinsdictionary.com/api/v1/documentation/html/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Bilingual Dictionary and Thesaurus Data"
+  },
+  {
+    "name": "Contentful Images",
+    "url": "https://www.contentful.com/developers/docs/references/images-api/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Used to retrieve and apply transformations to images"
+  },
+  {
+    "name": "Convert Text to Speech API",
+    "url": "https://apyhub.com/utility/text-to-speech/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "This API converts any text to speech automatically"
+  },
+  {
+    "name": "CORE",
+    "url": "https://core.ac.uk/services#api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Access the world's Open Access research papers"
+  },
+  {
+    "name": "CORS Proxy",
+    "url": "https://github.com/burhanuday/cors-proxy",
+    "auth": "No",
+    "category": "Development",
+    "description": "Get around the dreaded CORS error by using this proxy as a middle man"
+  },
+  {
+    "name": "Corsfix",
+    "url": "https://corsfix.com/docs/cors-proxy/api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Corsfix lets you fetch any resource and bypass CORS errors, free for development environment"
+  },
+  {
+    "name": "Crossref REST API",
+    "url": "https://api.crossref.org",
+    "auth": "No",
+    "category": "Development",
+    "description": "Metadata for 150M+ scholarly works with DOIs, publishers, citation counts, and funder data"
+  },
+  {
+    "name": "CSC to JSON API",
+    "url": "https://apyhub.com/utility/converter-csv-json",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Convert CSV files to JSON with this API. Ideal for developers who want to automate data workflows and integrate structured data"
+  },
+  {
+    "name": "Current Affairs",
+    "url": "https://rapidapi.com/malaithiru370/api/current-affairs-of-india",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Current International Affairs, quizzes and more"
+  },
+  {
+    "name": "Databricks",
+    "url": "https://docs.databricks.com/api/workspace/introduction",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Manage Databricks workspaces, clusters, jobs, and notebooks via a Rest API"
+  },
+  {
+    "name": "Datamuse",
+    "url": "https://www.datamuse.com/api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Word-finding query engine"
+  },
+  {
+    "name": "ddownload",
+    "url": "https://ddownload.com/api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "File Sharing and Storage"
+  },
+  {
+    "name": "Debian",
+    "url": "https://udd.debian.org",
+    "auth": "No",
+    "category": "Development",
+    "description": "Debian Linux distribution data"
+  },
+  {
+    "name": "Delta Lake",
+    "url": "https://docs.delta.io/latest/delta-apidoc.html",
+    "auth": "No",
+    "category": "Development",
+    "description": "Open-source storage framework enabling Lakehouse architecture with Spark, PrestoDB, Flink, Trino, Hive, and APIs"
+  },
+  {
+    "name": "Detect Language",
+    "url": "https://detectlanguage.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Detects text language"
+  },
+  {
+    "name": "DiceBear",
+    "url": "https://api.dicebear.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Avatar library with multiple styles"
+  },
+  {
+    "name": "DigitalOcean Status",
+    "url": "https://status.digitalocean.com/api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Status of all DigitalOcean services"
+  },
+  {
+    "name": "DISCARD API",
+    "url": "https://discardapi.dpdns.org",
+    "auth": "No",
+    "category": "Development",
+    "description": "DISCARD API is a fast and reliable REST API platform built with Go, designed to facilitate seamless interactions for developers. It supports multiple endpoint methods like GET, POST, and more, ensurin"
+  },
+  {
+    "name": "Docker Hub",
+    "url": "https://docs.docker.com/docker-hub/api/latest/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Interact with Docker Hub"
+  },
+  {
+    "name": "Doczillla",
+    "url": "https://www.doczilla.app/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code"
+  },
+  {
+    "name": "DomainDb Info",
+    "url": "https://api.domainsdb.info",
+    "auth": "No",
+    "category": "Development",
+    "description": "Domain name search to find all domains containing particular words/phrases/etc"
+  },
+  {
+    "name": "Dropbox",
+    "url": "https://www.dropbox.com/developers",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "File Sharing and Storage"
+  },
+  {
+    "name": "EC2.shop API",
+    "url": "https://github.com/yeo/ec2.shop",
+    "auth": "No",
+    "category": "Development",
+    "description": "Get AWS service price right from your terminal"
+  },
+  {
+    "name": "ELI",
+    "url": "https://nlp.insightera.co.th/docs/v1.0",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Natural Language Processing Tools for Thai Language"
+  },
+  {
+    "name": "emptychair.dev",
+    "url": "https://emptychair.dev/api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Free developer utility APIs: text, hash, JSON, random, time, regex"
+  },
+  {
+    "name": "Error Handling API",
+    "url": "https://abhi-api.vercel.app/api/logo/neon?text=",
+    "auth": "No",
+    "category": "Development",
+    "description": "This API provides standardized error messages and status codes for various requests. It helps developers understand and fix issues by providing specific feedback when requests fail."
+  },
+  {
+    "name": "Euro Rates API",
+    "url": "https://euroratesapi.dev/documentation",
+    "auth": "No",
+    "category": "Development",
+    "description": "This API provides free access to real-time exchange rates for EUR from the European Central Bank. It allows developers to retrieve official currency conversion data efficiently and seamlessly integrat"
+  },
+  {
+    "name": "Europaplus API",
+    "url": "https://github.com/l0v3m0n3y/europaplus",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Europaplus API is a JavaScript library designed to interact with the Europaplus radio service in Russia. It allows developers to access various functionalities such as retrieving schedules and oth"
+  },
+  {
+    "name": "Europe PMC REST API",
+    "url": "https://europepmc.org/RestfulWebService",
+    "auth": "No",
+    "category": "Development",
+    "description": "42M+ biomedical and life sciences full-text articles and abstracts — European PubMed Central"
+  },
+  {
+    "name": "Exchange Rates API",
+    "url": "https://docs.exchangeratesapi.com.au/",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Exchange Rates API is a developer-friendly data service providing official Reserve Bank of Australia (RBA) exchange rate data through clean, modern REST API endpoints. We transform publicly availa"
+  },
+  {
+    "name": "ExtendsClass JSON Storage",
+    "url": "https://extendsclass.com/json-storage.html",
+    "auth": "No",
+    "category": "Development",
+    "description": "A simple JSON store API"
+  },
+  {
+    "name": "Faceplusplus",
+    "url": "https://www.faceplusplus.com/",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "A tool to detect face"
+  },
+  {
+    "name": "File.io",
+    "url": "https://www.file.io",
+    "auth": "No",
+    "category": "Development",
+    "description": "Super simple file sharing, convenient, anonymous and secure"
+  },
+  {
+    "name": "FontDownloader",
+    "url": "https://fontdownloader.org/#API",
+    "auth": "No",
+    "category": "Development",
+    "description": "A hassle free API for managing web fonts provided by Google Fonts"
+  },
+  {
+    "name": "Footer Year Update",
+    "url": "https://getfullyear.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "This API automatically retrieves the current year for website footers, eliminating the need for manual updates each January. Designed for developers, it ensures that the displayed year is accurate and"
+  },
+  {
+    "name": "Form Creation API",
+    "url": "https://apyhub.com/utility/reformify-form-api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Create and manage customizable forms within your applications"
+  },
+  {
+    "name": "Form2Channel",
+    "url": "https://form2channel.com/",
+    "auth": "No",
+    "category": "Development",
+    "description": "Send static html form submissions to Google Sheets, Email, Slack or Telegram"
+  },
+  {
+    "name": "Format JSON Online Dummy API",
+    "url": "https://formatjsononline.com/dummy-api",
+    "auth": "No",
+    "category": "Development",
+    "description": "A free tool to generate dummy JSON data for testing and prototyping."
+  },
+  {
+    "name": "Free Dictionary API",
+    "url": "https://dictionaryapi.dev",
+    "auth": "No",
+    "category": "Development",
+    "description": "Definitions, phonetics, pronounciations, parts of speech, examples, synonyms"
+  },
+  {
+    "name": "Free Public APIs",
+    "url": "https://www.freepublicapis.com/api.php",
+    "auth": "No",
+    "category": "Development",
+    "description": "This API provides access to a collection of 489 free public APIs that are valuable for students and developers alike. Each API is tested daily to ensure reliability and accuracy."
+  },
+  {
+    "name": "Fuzzy Text Search API",
+    "url": "https://apyhub.com/utility/search-fuzzy-text",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "The Fuzzy Text Search API finds close matches for user queries, handling typos and partial inputs to deliver relevant results quickly and accurately"
+  },
+  {
+    "name": "Gawrshdarn",
+    "url": "https://api.gawrshdarn.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Profanity detection, filtering, and playful word replacement"
+  },
+  {
+    "name": "Gcore CDN",
+    "url": "https://docs.gcore.com/cdn",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Make your app fast and responsive for a global audience with Gcore CDN."
+  },
+  {
+    "name": "Gcore Cloud",
+    "url": "https://docs.gcore.com/cloud",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Scalable, secure, and reliable hybrid cloud services anywhere in the world."
+  },
+  {
+    "name": "Gcore DNS",
+    "url": "https://docs.gcore.com/dns",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Fast and resilient DNS hosting service by Gcore. Improve the performance and availability of your online business."
+  },
+  {
+    "name": "Gcore Storage",
+    "url": "https://docs.gcore.com/storage",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "S3-Compatible Object Storage is a fast and scalable cloud storage system by Gcore that gives you an opportunity to store and retrieve any amount of data at any time. High-performance storage for use as a CDN origin."
+  },
+  {
+    "name": "Genderize.io",
+    "url": "https://genderize.io",
+    "auth": "No",
+    "category": "Development",
+    "description": "Estimates a gender from a first name"
+  },
+  {
+    "name": "Generate Full Webpage Screenshot",
+    "url": "https://apyhub.com/utility/generate-webpage-screenshot",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Dynamically capture full page screenshots of websites."
+  },
+  {
+    "name": "GeoNet API",
+    "url": "https://geonet.shodan.io/",
+    "auth": "No",
+    "category": "Development",
+    "description": "The GeoNet API allows developers to run common network tools from servers located around the world, facilitating the identification of network behavior based on user region. It includes functionalitie"
+  },
+  {
+    "name": "GETPing",
+    "url": "https://www.getping.info",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Trigger an email notification with a simple GET request"
+  },
+  {
+    "name": "Ghost",
+    "url": "https://ghost.org/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Get Published content into your Website, App or other embedded media"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://docs.github.com/en/free-pro-team@latest/rest",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Make use of GitHub repositories, code and user info programmatically"
+  },
+  {
+    "name": "GitHub REST API",
+    "url": "https://docs.github.com/en/rest",
+    "auth": "No",
+    "category": "Development",
+    "description": "The GitHub REST API allows developers to create integrations, retrieve data, and automate workflows on the GitHub platform. It provides access to various functionalities, enabling interaction with rep"
+  },
+  {
+    "name": "Gitlab",
+    "url": "https://docs.gitlab.com/ee/api/",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Automate GitLab interaction programmatically"
+  },
+  {
+    "name": "Gitter",
+    "url": "https://github.com/gitterHQ/docs",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Chat for GitHub"
+  },
+  {
+    "name": "Glitterly",
+    "url": "https://developers.glitterly.app",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Image generation API"
+  },
+  {
+    "name": "GoFile",
+    "url": "https://gofile.io/api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Unlimited size file uploads for free"
+  },
+  {
+    "name": "Google Cloud Natural",
+    "url": "https://cloud.google.com/natural-language/docs/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Natural language understanding technology, including sentiment, entity and syntax analysis"
+  },
+  {
+    "name": "Google Docs",
+    "url": "https://developers.google.com/docs/api/reference/rest",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "API to read, write, and format Google Docs documents"
+  },
+  {
+    "name": "Google Drive",
+    "url": "https://developers.google.com/drive/",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "File Sharing and Storage"
+  },
+  {
+    "name": "Google Firebase",
+    "url": "https://firebase.google.com/docs",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Google's mobile application development platform that helps build, improve, and grow app"
+  },
+  {
+    "name": "Google Fonts",
+    "url": "https://developers.google.com/fonts/docs/developer_api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Metadata for all families served by Google Fonts"
+  },
+  {
+    "name": "Google Keep",
+    "url": "https://developers.google.com/keep/api/reference/rest",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "API to read, write, and format Google Keep notes"
+  },
+  {
+    "name": "Google Sheets",
+    "url": "https://developers.google.com/sheets/api/reference/rest",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "API to read, write, and format Google Sheets data"
+  },
+  {
+    "name": "Google Slides",
+    "url": "https://developers.google.com/slides/api/reference/rest",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "API to read, write, and format Google Slides presentations"
+  },
+  {
+    "name": "Gorest",
+    "url": "https://gorest.co.in/",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Online REST API for Testing and Prototyping"
+  },
+  {
+    "name": "Gyazo",
+    "url": "https://gyazo.com/api/docs",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Save & Share screen captures instantly"
+  },
+  {
+    "name": "Hackerearth",
+    "url": "https://www.hackerearth.com/docs/wiki/developers/v4",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "For compiling and running code in several languages"
+  },
+  {
+    "name": "Hasura",
+    "url": "https://hasura.io/opensource/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "GraphQL and REST API Engine with built in Authorization"
+  },
+  {
+    "name": "Heroku",
+    "url": "https://devcenter.heroku.com/articles/platform-api-reference/",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "REST API to programmatically create apps, provision add-ons and perform other task on Heroku"
+  },
+  {
+    "name": "Hoppscotch",
+    "url": "https://hoppscotch.io/",
+    "auth": "No",
+    "category": "Development",
+    "description": "A lightweight, fast, and customizable app for testing and designing APIs. A free, fast, and beautiful"
+  },
+  {
+    "name": "host-t.com",
+    "url": "https://host-t.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Basic DNS query via HTTP GET request"
+  },
+  {
+    "name": "Host.io",
+    "url": "https://host.io",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Domains Data API for Developers"
+  },
+  {
+    "name": "HTML Creator API",
+    "url": "https://html-creator.en.uptodown.com/android",
+    "auth": "No",
+    "category": "Development",
+    "description": "The HTML Creator API allows users to create and edit HTML code with an intuitive interface, supporting advanced JavaScript functionality. It is designed for web developers looking for a user-friendly "
+  },
+  {
+    "name": "HTTP2.Pro",
+    "url": "https://http2.pro/doc/api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Test endpoints for client and server HTTP/2 protocol support"
+  },
+  {
+    "name": "httpbin",
+    "url": "https://httpbin.org",
+    "auth": "No",
+    "category": "Development",
+    "description": "HTTP request and response service for testing"
+  },
+  {
+    "name": "HTTPie",
+    "url": "https://httpie.io",
+    "auth": "No",
+    "category": "Development",
+    "description": "a free command-line HTTP client for the API era"
+  },
+  {
+    "name": "httpSMS",
+    "url": "https://docs.httpsms.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Use your Android phone as an SMS gateway to send and receive SMS messages via a simple HTTP API"
+  },
+  {
+    "name": "Hunter",
+    "url": "https://hunter.io/api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "API for domain search, professional email finder, author finder and email verifier"
+  },
+  {
+    "name": "IBM Text to Speech",
+    "url": "https://cloud.ibm.com/docs/text-to-speech/getting-started.html",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Convert text to speech"
+  },
+  {
+    "name": "Icanhazepoch",
+    "url": "https://icanhazepoch.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Get Epoch time"
+  },
+  {
+    "name": "Icanhazip",
+    "url": "https://major.io/icanhazip-com-faq",
+    "auth": "No",
+    "category": "Development",
+    "description": "IP Address API"
+  },
+  {
+    "name": "iDigBio Search API",
+    "url": "https://search.idigbio.org/v2/search/records",
+    "auth": "No",
+    "category": "Development",
+    "description": "Millions of digitized museum specimens from organizations worldwide — taxonomy, occurrences, georeferences"
+  },
+  {
+    "name": "IFTTT",
+    "url": "https://platform.ifttt.com/docs/connect_api",
+    "auth": "No",
+    "category": "Development",
+    "description": "IFTTT Connect API"
+  },
+  {
+    "name": "Image-Charts",
+    "url": "https://documentation.image-charts.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Generate charts, QR codes and graph images"
+  },
+  {
+    "name": "Imgbb",
+    "url": "https://api.imgbb.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Simple and quick private image sharing"
+  },
+  {
+    "name": "import.io",
+    "url": "http://api.docs.import.io/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Retrieve structured data from a website or RSS feed"
+  },
+  {
+    "name": "Insomnia",
+    "url": "https://insomnia.rest/",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "A free API client that allows you to design, debug, test, and mock APIs locally, on Git, or cloud."
+  },
+  {
+    "name": "IP Details API",
+    "url": "https://rapidapi.com/Bluehatcoders/api/ip-details-api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Geographic location of an IP address or any domain name along with some other useful information"
+  },
+  {
+    "name": "IP Intelligence API",
+    "url": "https://addr.zone/docs",
+    "auth": "No",
+    "category": "Development",
+    "description": "The addr.zone API provides fast and precise IP intelligence, allowing developers to analyze visitor origins and identify network types, such as mobile networks, datacenters, VPNs, and proxies. It offe"
+  },
+  {
+    "name": "ip-fast.com",
+    "url": "https://ip-fast.com/docs",
+    "auth": "No",
+    "category": "Development",
+    "description": "IP address, country and city"
+  },
+  {
+    "name": "IP2WHOIS Information Lookup",
+    "url": "https://www.ip2whois.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "WHOIS domain name lookup"
+  },
+  {
+    "name": "ipapi.is",
+    "url": "https://ipapi.is/developers.html",
+    "auth": "No",
+    "category": "Development",
+    "description": "Public IP Address API with company, ASN and hosting detection support"
+  },
+  {
+    "name": "ipfind.io",
+    "url": "https://ipfind.io",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Geographic location of an IP address or any domain name along with some other useful information"
+  },
+  {
+    "name": "IPFinder",
+    "url": "https://ipfinder.io/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API"
+  },
+  {
+    "name": "IPify",
+    "url": "https://www.ipify.org",
+    "auth": "No",
+    "category": "Development",
+    "description": "A simple IP Address API"
+  },
+  {
+    "name": "IPinfo",
+    "url": "https://ipinfo.io/developers",
+    "auth": "No",
+    "category": "Development",
+    "description": "Another simple IP Address API"
+  },
+  {
+    "name": "IPLocate",
+    "url": "https://www.iplocate.io/",
+    "auth": "No",
+    "category": "Development",
+    "description": "IP geolocation and threat data API"
+  },
+  {
+    "name": "IPLocate.io",
+    "url": "https://www.iplocate.io/docs",
+    "auth": "No",
+    "category": "Development",
+    "description": "Fast, free, accurate IP geolocation and threat data (proxy/VPN/hosting detection) API"
+  },
+  {
+    "name": "IPQuery",
+    "url": "https://ipquery.io",
+    "auth": "No",
+    "category": "Development",
+    "description": "A free IP Geolocation and proxy/tor/VPN detection API"
+  },
+  {
+    "name": "Jenkins",
+    "url": "https://www.jenkins.io/doc/book/using/remote-access-api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Jenkins CI API"
+  },
+  {
+    "name": "JMESPath",
+    "url": "https://noteapiconnector.com/jmespath-free-api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Run JMESPath queries on JSON data for filtering, transforming, and extracting results"
+  },
+  {
+    "name": "Joke Delivery API",
+    "url": "https://official-joke-api.appspot.com/random_joke",
+    "auth": "No",
+    "category": "Development",
+    "description": "This API provides random jokes, making it easy for developers to integrate humor into their applications. With a simple request, you can receive various types of jokes to engage users with lighthearte"
+  },
+  {
+    "name": "jsDelivr",
+    "url": "https://github.com/jsdelivr/data.jsdelivr.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Package info and download stats on jsDelivr CDN"
+  },
+  {
+    "name": "JSON 2 JSONP",
+    "url": "https://json2jsonp.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript"
+  },
+  {
+    "name": "JSONbin.io",
+    "url": "https://jsonbin.io",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps"
+  },
+  {
+    "name": "JSONPlaceholder",
+    "url": "https://jsonplaceholder.typicode.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Free fake REST API for testing and prototyping"
+  },
+  {
+    "name": "JSONsilo.com",
+    "url": "https://jsonsilo.com",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Hassle-free JSON hosting. Convert your JSON file to an API in minutes at no cost."
+  },
+  {
+    "name": "Judge0 CE",
+    "url": "https://ce.judge0.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Online code execution system"
+  },
+  {
+    "name": "Kroki",
+    "url": "https://kroki.io",
+    "auth": "No",
+    "category": "Development",
+    "description": "Creates diagrams from textual descriptions"
+  },
+  {
+    "name": "LanguageTool",
+    "url": "https://languagetool.org/http-api/",
+    "auth": "No",
+    "category": "Development",
+    "description": "Style and Grammar Checker for 25+ Languages"
+  },
+  {
+    "name": "Lecto Translation",
+    "url": "https://rapidapi.com/lecto-lecto-default/api/lecto-translation/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Translation API with free tier and reasonable prices"
+  },
+  {
+    "name": "Let's Count",
+    "url": "https://letscountapi.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Create, retrieve, update, increment, and decrement counters identified by namespace and key"
+  },
+  {
+    "name": "Let's Validate",
+    "url": "https://github.com/letsvalidate/api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Uncovers the technologies used on websites and URL to thumbnail"
+  },
+  {
+    "name": "License-API",
+    "url": "https://github.com/cmccandless/license-api/blob/master/README.md",
+    "auth": "No",
+    "category": "Development",
+    "description": "Unofficial REST API for choosealicense.com"
+  },
+  {
+    "name": "Lingua Robot",
+    "url": "https://www.linguarobot.io",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Word definitions, pronunciations, synonyms, antonyms and others"
+  },
+  {
+    "name": "Lua Decompiler",
+    "url": "https://lua-decompiler.ferib.dev/",
+    "auth": "No",
+    "category": "Development",
+    "description": "Online Lua 5.1 Decompiler"
+  },
+  {
+    "name": "MAC address vendor lookup",
+    "url": "https://macaddress.io/api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Retrieve vendor details and other information regarding a given MAC address or an OUI"
+  },
+  {
+    "name": "Magic 8-Ball API",
+    "url": "https://www.eightballapi.com/docs",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Magic 8-Ball API provides mystical yes/no responses to user questions through a simple, RESTful interface. It allows developers to integrate fortune-telling features into their applications easily"
+  },
+  {
+    "name": "Magic Eight Ball API",
+    "url": "https://github.com/abunchofapis/magic-eight-ball",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Magic Eight Ball API allows users to receive random fortune-telling responses typically associated with the toy. It's useful for developers looking to add a playful predictive element to their app"
+  },
+  {
+    "name": "MapleStory API",
+    "url": "https://maplestory.io",
+    "auth": "No",
+    "category": "Development",
+    "description": "This API provides access to various resources related to MapleStory, a popular MMORPG. It includes functionalities for character data, items, mobs, quests, and more, catering to developers creating to"
+  },
+  {
+    "name": "Markdown to HTML API",
+    "url": "https://apyhub.com/utility/converter-md-html",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "This API lets you upload and transform a Markdown file to HTML"
+  },
+  {
+    "name": "Markdown to JSON API",
+    "url": "https://apyhub.com/utility/converter-markdown-json",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Upload Markdown and get JSON with one API call"
+  },
+  {
+    "name": "Mega.nz",
+    "url": "https://mega.io/developers",
+    "auth": "No",
+    "category": "Development",
+    "description": "File Sharing And Storage"
+  },
+  {
+    "name": "Merriam-Webster",
+    "url": "https://dictionaryapi.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Dictionary and Thesaurus Data"
+  },
+  {
+    "name": "Meta Generator",
+    "url": "https://meta-api.fzr.ai",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Generate SEO meta tags, Open Graph and Twitter Cards from any URL or text"
+  },
+  {
+    "name": "MetaScrape",
+    "url": "https://metascrape.shanecode.org",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Extract metadata, Open Graph tags, and structured data from any URL"
+  },
+  {
+    "name": "MicroENV",
+    "url": "https://microenv.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Fake Rest API for developers"
+  },
+  {
+    "name": "MLB GUMBO API",
+    "url": "https://github.com/MajorLeagueBaseball/google-cloud-mlb-hackathon",
+    "auth": "No",
+    "category": "Development",
+    "description": "The MLB GUMBO API provides real-time access to comprehensive Major League Baseball data, including live game information and player statistics. Developers can utilize this API to create applications t"
+  },
+  {
+    "name": "MobileAPI",
+    "url": "https://mobileapi.dev/docs/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Smartphone, tablet, and wearable device specifications, images, and pricing"
+  },
+  {
+    "name": "Mock API Service",
+    "url": "https://docs.dummyapi.online/",
+    "auth": "No",
+    "category": "Development",
+    "description": "The DummyAPI provides a free mock API for developers to simulate HTTP requests and responses in their applications. It allows users to quickly set up endpoints and test their applications without need"
+  },
+  {
+    "name": "Mocky",
+    "url": "https://designer.mocky.io/",
+    "auth": "No",
+    "category": "Development",
+    "description": "Mock user defined test JSON for REST API endpoints"
+  },
+  {
+    "name": "Moonton API",
+    "url": "https://en.moonton.com/games/index.html'",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Moonton API provides access to various game-related functionalities, allowing developers to fetch game data, player statistics, and manage in-game transactions. It aims to enhance user engagement "
+  },
+  {
+    "name": "MY IP",
+    "url": "https://www.myip.com/api-docs",
+    "auth": "No",
+    "category": "Development",
+    "description": "Get IP address information"
+  },
+  {
+    "name": "MyJSON.online",
+    "url": "https://myjson.online",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "A RESTful API for flexible storage of JSON data"
+  },
+  {
+    "name": "MySQL Visual EXPLAIN",
+    "url": "https://api.mysqlexplain.com/",
+    "auth": "No",
+    "category": "Development",
+    "description": "Transform MySQL EXPLAIN output to interactive graphs"
+  },
+  {
+    "name": "Nationalize.io",
+    "url": "https://nationalize.io",
+    "auth": "No",
+    "category": "Development",
+    "description": "Estimate the nationality of a first name"
+  },
+  {
+    "name": "NationNode",
+    "url": "https://nationnode.vercel.app",
+    "auth": "No",
+    "category": "Development",
+    "description": "Used to fetch the specific details about a country"
+  },
+  {
+    "name": "Netlify",
+    "url": "https://docs.netlify.com/api/get-started/",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Netlify is a hosting service for the programmable web"
+  },
+  {
+    "name": "NetworkCalc",
+    "url": "https://networkcalc.com/api/docs",
+    "auth": "No",
+    "category": "Development",
+    "description": "Network calculators, including subnets, DNS, binary, and security tools"
+  },
+  {
+    "name": "npm",
+    "url": "https://docs.npmjs.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Node.js package registry API"
+  },
+  {
+    "name": "npm Registry",
+    "url": "https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md",
+    "auth": "No",
+    "category": "Development",
+    "description": "Query information about your favorite Node.js libraries programmatically"
+  },
+  {
+    "name": "npm Trends",
+    "url": "https://www.npmtrends.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "NPM package comparison data"
+  },
+  {
+    "name": "Olostep",
+    "url": "https://www.olostep.com",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "AI-native web search, scraping, and crawling API that delivers clean, structured, real-time web data. Used by top AI companies"
+  },
+  {
+    "name": "OneDrive",
+    "url": "https://developer.microsoft.com/onedrive",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "File Sharing and Storage"
+  },
+  {
+    "name": "OneSignal",
+    "url": "https://documentation.onesignal.com/reference/rest-api-overview",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App"
+  },
+  {
+    "name": "OOPSpam",
+    "url": "https://oopspam.com/",
+    "auth": "No",
+    "category": "Development",
+    "description": "Multiple spam filtering service"
+  },
+  {
+    "name": "Open Government Portal",
+    "url": "https://search.open.canada.ca/opendata/",
+    "auth": "No",
+    "category": "Development",
+    "description": "This API allows users to search and access datasets from the Government of Canada. It facilitates learning how to work with datasets and provides insights into how government data has been utilized."
+  },
+  {
+    "name": "Open Page Rank",
+    "url": "https://www.domcop.com/openpagerank/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "API for calculating and comparing metrics of different websites using Page Rank algorithm"
+  },
+  {
+    "name": "OpenAlex",
+    "url": "https://developers.openalex.org",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "250M+ scholarly works, authors, venues"
+  },
+  {
+    "name": "OpenAPIHub",
+    "url": "https://hub.openapihub.com/",
+    "auth": "X-Mashape-Key",
+    "category": "Development",
+    "description": "The All-in-one API Platform"
+  },
+  {
+    "name": "Openverse API",
+    "url": "https://api.openverse.org/v1/",
+    "auth": "No",
+    "category": "Development",
+    "description": "Openverse is a search engine for openly-licensed media. The Openverse API enables programmatic access to public domain digital media, allowing developers to integrate and utilize a vast collection of "
+  },
+  {
+    "name": "Oxford",
+    "url": "https://developer.oxforddictionaries.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Dictionary Data"
+  },
+  {
+    "name": "oyyi",
+    "url": "https://oyyi.xyz/docs/1.0",
+    "auth": "No",
+    "category": "Development",
+    "description": "API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation"
+  },
+  {
+    "name": "Pantry",
+    "url": "https://getpantry.cloud",
+    "auth": "No",
+    "category": "Development",
+    "description": "Free JSON storage for small projects"
+  },
+  {
+    "name": "Pastebin",
+    "url": "https://pastebin.com/doc_api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Plain Text Storage"
+  },
+  {
+    "name": "PayUs-as-a-Service (PUaaS)",
+    "url": "https://github.com/sticknologic/payus-as-a-service",
+    "auth": "No",
+    "category": "Development",
+    "description": "A self-hostable API that returns randomized messages for past-due invoices"
+  },
+  {
+    "name": "PHPhub",
+    "url": "https://phphub.net/linter/",
+    "auth": "No",
+    "category": "Development",
+    "description": "PHP syntax checker"
+  },
+  {
+    "name": "Piloterr",
+    "url": "https://www.piloterr.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Piloterr web scraping API handles headless browsers, rotates proxies for you, and offers json-parsed data extraction"
+  },
+  {
+    "name": "Pinata",
+    "url": "https://docs.pinata.cloud/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "IPFS Pinning Services API"
+  },
+  {
+    "name": "PipeDream",
+    "url": "https://docs.pipedream.com",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Pipedream is the fastest way to build powerful applications that connect all the services in your stack"
+  },
+  {
+    "name": "Placehold",
+    "url": "https://placehold.co",
+    "auth": "No",
+    "category": "Development",
+    "description": "Placeholder image service"
+  },
+  {
+    "name": "PLOS",
+    "url": "https://api.plos.org",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Full metadata and text for PLOS journals"
+  },
+  {
+    "name": "Postman",
+    "url": "https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Tool for testing APIs"
+  },
+  {
+    "name": "Postman Public APIs",
+    "url": "https://www.postman.com/explore",
+    "auth": "No",
+    "category": "Development",
+    "description": "API discovery platform"
+  },
+  {
+    "name": "Proofread and Grammar Check API",
+    "url": "https://apyhub.com/utility/sharpapi-proofread-grammer-check",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors"
+  },
+  {
+    "name": "Proxed AI",
+    "url": "https://proxed.ai/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Secure AI APIs in iOS - No SDK, Just Change Your API URL"
+  },
+  {
+    "name": "Proxmox VE API",
+    "url": "https://pve.proxmox.com/pve-docs/api-viewer/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "API of self-hosted Proxmox VE. Address: https://your.server:8006/api2/json/ (configuring in installation process)"
+  },
+  {
+    "name": "ProxyCrawl",
+    "url": "https://proxycrawl.com",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Scraping and crawling anticaptcha service"
+  },
+  {
+    "name": "ProxyKingdom",
+    "url": "https://proxykingdom.com",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Rotating Proxy API that produces a working proxy on every request"
+  },
+  {
+    "name": "Public APIs API",
+    "url": "https://api.publicapis.org/entries",
+    "auth": "No",
+    "category": "Development",
+    "description": "A RESTful API for the public-apis collection itself -- search and filter free public APIs"
+  },
+  {
+    "name": "Public APIs Database",
+    "url": "https://www.freepublicapis.com/new",
+    "auth": "No",
+    "category": "Development",
+    "description": "This API provides a comprehensive collection of free public APIs suitable for students and developers. It features endpoints for various functionalities, allowing users to easily access and integrate "
+  },
+  {
+    "name": "PubMed / NCBI",
+    "url": "https://ncbi.nlm.nih.gov/books/NBK25501",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "35M+ biomedical citations"
+  },
+  {
+    "name": "Pusher Beams",
+    "url": "https://pusher.com/beams",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Push notifications for Android & iOS"
+  },
+  {
+    "name": "Pusher Channels",
+    "url": "https://pusher.com/channels",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Realtime features"
+  },
+  {
+    "name": "PyPI",
+    "url": "https://warehouse.pypa.io/api-reference",
+    "auth": "No",
+    "category": "Development",
+    "description": "Python Package Index API"
+  },
+  {
+    "name": "Pythonium",
+    "url": "https://pythonium.net/linter",
+    "auth": "No",
+    "category": "Development",
+    "description": "Validate Python code syntax"
+  },
+  {
+    "name": "QR code Generator",
+    "url": "https://docs.openqr.io/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Static and Dynamic QR code generator with custom and unique QR code design"
+  },
+  {
+    "name": "QR Server",
+    "url": "http://goqr.me/api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Generate, decode, and read QR code graphics via HTTP API"
+  },
+  {
+    "name": "QR Tag",
+    "url": "https://www.qrtag.net/api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Create an easy to read QR code and URL shortener"
+  },
+  {
+    "name": "Qrcode Monkey",
+    "url": "https://www.qrcode-monkey.com/qr-code-api-with-logo",
+    "auth": "No",
+    "category": "Development",
+    "description": "Integrate custom and unique looking QR codes into your system or workflow"
+  },
+  {
+    "name": "QuickChart",
+    "url": "https://quickchart.io",
+    "auth": "No",
+    "category": "Development",
+    "description": "Generate chart and graph images"
+  },
+  {
+    "name": "Quip",
+    "url": "https://quip.com/dev/automation/documentation",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "File Sharing and Storage for groups"
+  },
+  {
+    "name": "Random User",
+    "url": "https://randomuser.me",
+    "auth": "No",
+    "category": "Development",
+    "description": "Random user data generation API"
+  },
+  {
+    "name": "Real REST API",
+    "url": "https://restful-api.dev/",
+    "auth": "No",
+    "category": "Development",
+    "description": "This API is designed to handle your HTTP requests 24/7 for free, supporting various methods like GET, POST, PUT, DELETE, and PATCH. It is ideal for demo projects, testing, learning, or educational pur"
+  },
+  {
+    "name": "Rejax",
+    "url": "https://rejax.io/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Reverse AJAX service to notify clients"
+  },
+  {
+    "name": "Render API",
+    "url": "https://render.com/docs/api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Lets you programmatically manage your Render services (web apps, APIs, and static sites) including deployments, scaling, and configuration"
+  },
+  {
+    "name": "ReqRes",
+    "url": "https://reqres.in",
+    "auth": "No",
+    "category": "Development",
+    "description": "A hosted REST-API ready to respond to your AJAX requests"
+  },
+  {
+    "name": "RSS feed to JSON",
+    "url": "https://rss-to-json-serverless-api.vercel.app",
+    "auth": "No",
+    "category": "Development",
+    "description": "Returns RSS feed in JSON format using feed URL"
+  },
+  {
+    "name": "RSS to JSON",
+    "url": "https://github.com/ayusharma/RSS-to-JSON",
+    "auth": "No",
+    "category": "Development",
+    "description": "Returns RSS feed in JSON format using feed URL"
+  },
+  {
+    "name": "Safe text",
+    "url": "https://rapidapi.com/bacloud14/api/safe-text",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Clean short and long texts. It is probably world most complete text-cleaner API! Providing very fast and accurate results."
+  },
+  {
+    "name": "ScrapeNinja",
+    "url": "https://scrapeninja.net",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Scraping API with Chrome fingerprint and residential proxies"
+  },
+  {
+    "name": "ScraperApi",
+    "url": "https://www.scraperapi.com",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Easily build scalable web scrapers"
+  },
+  {
+    "name": "scraperBox",
+    "url": "https://scraperbox.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Undetectable web scraping API"
+  },
+  {
+    "name": "Scrapfly",
+    "url": "https://scrapfly.io",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Scrapfly is an enterprise-grade solution providing Web Scraping API that aims to simplify the scraping process by managing everything: real browser rendering, rotating proxies, and fingerprints (TLS, HTTP, browser) to bypass all major anti-bots."
+  },
+  {
+    "name": "ScrapingAnt",
+    "url": "https://scrapingant.com",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Headless Chrome scraping with a simple API"
+  },
+  {
+    "name": "ScrapingDog",
+    "url": "https://www.scrapingdog.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Proxy API for Web scraping"
+  },
+  {
+    "name": "Screenshot Scout",
+    "url": "https://screenshotscout.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Screenshot API for developers that captures any URL in one HTTP request with predictable output"
+  },
+  {
+    "name": "ScreenshotAPI.net",
+    "url": "https://screenshotapi.net/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Create pixel-perfect website screenshots"
+  },
+  {
+    "name": "Screenshotbase",
+    "url": "https://screenshotbase.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Screenshot API, 1000 free requests per month"
+  },
+  {
+    "name": "ScreenshotOne.com",
+    "url": "https://screenshotone.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Convert URLs, HTML, or Markdown into PNG, JPEG, WebP, or PDF with a simple screenshot API"
+  },
+  {
+    "name": "ScreenURL",
+    "url": "https://screenurl.com/docs",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Capture screenshots and PDFs of any webpage via REST API"
+  },
+  {
+    "name": "Scrnify",
+    "url": "https://scrnify.com/docs",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Screenshot and video capture API to transform any URL into high-quality images and recordings"
+  },
+  {
+    "name": "SearchApi",
+    "url": "https://www.searchapi.io/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Real-Time Google SERP API"
+  },
+  {
+    "name": "Secrets-APi",
+    "url": "https://secrets-api.appbrewery.com/",
+    "auth": "All",
+    "category": "Development",
+    "description": "Used For Learning purpose Learn all security types with this api"
+  },
+  {
+    "name": "Semantic Scholar",
+    "url": "https://semanticscholar.org/product/api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "200M+ papers, citation graph"
+  },
+  {
+    "name": "Semantria",
+    "url": "https://semantria.readme.io/docs",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Text Analytics with sentiment analysis, categorization & named entity extraction"
+  },
+  {
+    "name": "Sent.dm",
+    "url": "https://sent.dm",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Sent is a unified API for messaging across SMS and apps\nlike WhatsApp"
+  },
+  {
+    "name": "SEO Tags Generator API",
+    "url": "https://apyhub.com/utility/sharpapi-generate-seo-tags",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "The Generate SEO Tags API generates all the most important META tags based on any content"
+  },
+  {
+    "name": "Serialif Color",
+    "url": "https://color.serialif.com",
+    "auth": "No",
+    "category": "Development",
+    "description": "Color conversion, complementary, grayscale and contrasted text"
+  },
+  {
+    "name": "SERP Rank Checker",
+    "url": "https://apyhub.com/utility/serp-rank",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Check realtime Google SERP Rank of any keywords"
+  },
+  {
+    "name": "SerpApi - Search API",
+    "url": "https://serpapi.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "SerpApi's Search API makes it easy and fast to scrape Google and other search engines"
+  },
+  {
+    "name": "Shadify",
+    "url": "https://github.com/cheatsnake/shadify",
+    "auth": "No",
+    "category": "Development",
+    "description": "Service for generating data and executing logic to create various games and puzzles"
+  },
+  {
+    "name": "Sheet2API",
+    "url": "https://sheet2api.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Easy Google Sheets and Excel Online API"
+  },
+  {
+    "name": "Sheetsu",
+    "url": "https://sheetsu.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Easy google sheets integration"
+  },
+  {
+    "name": "SHOUTCLOUD",
+    "url": "http://shoutcloud.io",
+    "auth": "No",
+    "category": "Development",
+    "description": "ALL-CAPS AS A SERVICE"
+  },
+  {
+    "name": "Simpsons Character API",
+    "url": "https://thesimpsonsapi.com/",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Simpsons Character API provides detailed information about characters from The Simpsons universe, including their age, occupation, and famous quotes. It's designed for developers who want to creat"
+  },
+  {
+    "name": "Smash",
+    "url": "https://api.fromsmash.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Upload large files on websites, mobile apps, SaaS solutions and custom workflows"
+  },
+  {
+    "name": "Sonar",
+    "url": "https://github.com/Cgboal/SonarSearch",
+    "auth": "No",
+    "category": "Development",
+    "description": "Project Sonar DNS Enumeration API"
+  },
+  {
+    "name": "SonarQube",
+    "url": "https://sonarcloud.io/web_api",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "SonarQube REST APIs to detect bugs, code smells & security vulnerabilities"
+  },
+  {
+    "name": "SourceForge",
+    "url": "https://sourceforge.net/p/forge/documentation/API",
+    "auth": "No",
+    "category": "Development",
+    "description": "Open source project hosting API"
+  },
+  {
+    "name": "Spack",
+    "url": "https://packages.spack.io",
+    "auth": "No",
+    "category": "Development",
+    "description": "Package manager API"
+  },
+  {
+    "name": "Springer Nature OA",
+    "url": "https://dev.springernature.com",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "1.5M+ open access articles"
+  },
+  {
+    "name": "SQLable",
+    "url": "https://sqlable.com/csv-to-jsonl/",
+    "auth": "No",
+    "category": "Development",
+    "description": "CSV to JSONL conversion API"
+  },
+  {
+    "name": "StackExchange",
+    "url": "https://api.stackexchange.com/",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Q&A forum for developers"
+  },
+  {
+    "name": "Statically",
+    "url": "https://statically.io",
+    "auth": "No",
+    "category": "Development",
+    "description": "A free CDN for developers"
+  },
+  {
+    "name": "Storj",
+    "url": "https://docs.storj.io/dcs/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Decentralized Open-Source Cloud Storage"
+  },
+  {
+    "name": "Sumo API",
+    "url": "https://www.sumo-api.com/api-guide",
+    "auth": "No",
+    "category": "Development",
+    "description": "Free API for accessing sumo database including rikishi, basho, banzuke, torikumi, hoshitori, matches, and more. Explore sumo data, learn about sumo history, and check match results."
+  },
+  {
+    "name": "Supadata",
+    "url": "https://supadata.ai",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Scrape YouTube, web, and files into text. Get AI-ready, clean data for your next project."
+  },
+  {
+    "name": "Supportivekoala",
+    "url": "https://developers.supportivekoala.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Autogenerate images with template"
+  },
+  {
+    "name": "Svix",
+    "url": "https://www.svix.com",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Webhooks as a Service"
+  },
+  {
+    "name": "Synonyms",
+    "url": "https://www.synonyms.com/synonyms_api.php",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Synonyms, thesaurus and antonyms information for any given word"
+  },
+  {
+    "name": "Temp Mail API",
+    "url": "https://www.juheapi.com/api-catalog/temp-mail",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Temp Mail API allows developers to programmatically create disposable email addresses for enhanced privacy and testing. Users can send and receive messages without revealing their real email addre"
+  },
+  {
+    "name": "The Null Pointer",
+    "url": "https://0x0.st",
+    "auth": "No",
+    "category": "Development",
+    "description": "No-bullshit file hosting and URL shortening service"
+  },
+  {
+    "name": "Tisane",
+    "url": "https://tisane.ai/",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Text Analytics with focus on detection of abusive content and law enforcement applications"
+  },
+  {
+    "name": "Tolgee",
+    "url": "https://tolgee.io",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Open-source localization (i18n) platform enabling you to translate you app fast"
+  },
+  {
+    "name": "Travis CI",
+    "url": "https://docs.travis-ci.com/api/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Sync your GitHub projects with Travis CI to test your code in minutes"
+  },
+  {
+    "name": "Tyk",
+    "url": "https://tyk.io/open-source/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Api and service management platform"
+  },
+  {
+    "name": "Unpaywall API",
+    "url": "https://unpaywall.org/products/api",
+    "auth": "No",
+    "category": "Development",
+    "description": "Open-access status and PDF location for 30M+ scholarly papers by DOI — find free full-text research"
+  },
+  {
+    "name": "UserAgent",
+    "url": "https://useragent.app",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "User agent parsing API is designed to help you better understand and interact with your users. By identifying browser, device, and OS data from user agent strings, this API empowers you with accurate, real-time insights into your audience."
+  },
+  {
+    "name": "USPTO API Catalog",
+    "url": "https://developer.uspto.gov/api-catalog",
+    "auth": "No",
+    "category": "Development",
+    "description": "The USPTO API Catalog provides developers with access to various APIs related to intellectual property. It includes information about registering, searching, and managing patents and trademarks, allow"
+  },
+  {
+    "name": "V.gd API",
+    "url": "https://github.com/l0v3m0n3y/v_gd",
+    "auth": "No",
+    "category": "Development",
+    "description": "The V.gd API provides a simple interface for shortening URLs through its JavaScript library. It allows developers to create custom short links, track their usage, and integrate URL shortening capabili"
+  },
+  {
+    "name": "v.recipes DNS Accelerator",
+    "url": "https://v.recipes/dns/",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Accelerator variant can be used to test & accelerate any DoH providers"
+  },
+  {
+    "name": "v.recipes Get IP",
+    "url": "https://v.recipes/get-ip",
+    "auth": "No",
+    "category": "Development",
+    "description": "A simple API to get information such as IP, ISP name, Location, etc. based on user request"
+  },
+  {
+    "name": "Wandbox",
+    "url": "https://github.com/melpon/wandbox/blob/master/kennel/API.md",
+    "auth": "No",
+    "category": "Development",
+    "description": "Code compiler supporting 35+ languages mentioned at wandbox.org"
+  },
+  {
+    "name": "Watson Natural Language Understanding",
+    "url": "https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding",
+    "auth": "OAuth",
+    "category": "Development",
+    "description": "Natural language processing for advanced text analysis"
+  },
+  {
+    "name": "Wayback Machine API",
+    "url": "https://archive.org/help/wayback_api.php",
+    "auth": "No",
+    "category": "Development",
+    "description": "The Wayback Machine API enables developers to check if a specific URL has been archived and is accessible in the Wayback Machine. It provides a simple interface to retrieve information about archived "
+  },
+  {
+    "name": "Web Scraping API",
+    "url": "https://apyhub.com/utility/sharpapi-web-scraping-api",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Extract structured data from any public URL"
+  },
+  {
+    "name": "Web3 Storage",
+    "url": "https://web3.storage/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "File Sharing and Storage for Free with 1TB Space"
+  },
+  {
+    "name": "WebCrawlerAPI",
+    "url": "https://webcrawlerapi.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Easily extract content from websites"
+  },
+  {
+    "name": "Webhook.site",
+    "url": "https://webhook.site",
+    "auth": "No",
+    "category": "Development",
+    "description": "Get a unique URL to inspect, test, and transform any HTTP request or email in real-time"
+  },
+  {
+    "name": "WebScraping.AI",
+    "url": "https://webscraping.ai/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Web Scraping API with built-in proxies and JS rendering"
+  },
+  {
+    "name": "WeTransfer",
+    "url": "https://developers.wetransfer.com",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "File Sharing"
+  },
+  {
+    "name": "Wiktionary",
+    "url": "https://en.wiktionary.org/w/api.php",
+    "auth": "No",
+    "category": "Development",
+    "description": "Collaborative dictionary data"
+  },
+  {
+    "name": "Wordnik",
+    "url": "https://developer.wordnik.com",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Dictionary Data"
+  },
+  {
+    "name": "Words",
+    "url": "https://www.wordsapi.com/docs/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Definitions and synonyms for more than 150,000 words"
+  },
+  {
+    "name": "XMLable",
+    "url": "https://xmlable.com/validator/",
+    "auth": "No",
+    "category": "Development",
+    "description": "Validate XML"
+  },
+  {
+    "name": "YADG",
+    "url": "https://yadg.cc/api/v2/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "An API that scrapes music release data and renders it using different templates"
+  },
+  {
+    "name": "YAMLine",
+    "url": "https://yamline.com/json/",
+    "auth": "No",
+    "category": "Development",
+    "description": "Convert YAML to JSON (on-the-fly)"
+  },
+  {
+    "name": "Yomi",
+    "url": "https://github.com/ookii-tsuki/yomi",
+    "auth": "No",
+    "category": "Development",
+    "description": "Japanese tokenizer and morphological analysis web API"
+  },
+  {
+    "name": "Zenodo REST API",
+    "url": "https://developers.zenodo.org",
+    "auth": "No",
+    "category": "Development",
+    "description": "Published research datasets, software, and preprints (100M+ deposits via CERN)"
+  },
+  {
+    "name": "ZenRows",
+    "url": "https://www.zenrows.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies"
+  },
+  {
+    "name": "Zuplo",
+    "url": "https://zuplo.com/",
+    "auth": "apiKey",
+    "category": "Development",
+    "description": "API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast"
+  }
+]

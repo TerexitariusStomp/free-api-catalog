@@ -1,0 +1,198 @@
+[
+  {
+    "name": "1Forge",
+    "url": "https://1forge.com/forex-data-api/api-documentation",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Forex currency market data"
+  },
+  {
+    "name": "Amdoren",
+    "url": "https://www.amdoren.com/currency-api/",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Free currency API with over 150 currencies"
+  },
+  {
+    "name": "Bank of Russia",
+    "url": "https://www.cbr.ru/development/SXML",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Exchange rates and currency conversion"
+  },
+  {
+    "name": "Coinnect",
+    "url": "https://coinnect.bot/docs",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Open money transfer routing across fiat, crypto and P2P networks"
+  },
+  {
+    "name": "Convert Currency to Multiple Currencies",
+    "url": "https://apyhub.com/utility/currency-conversion-multiple",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Convert currencies from a source currency to multiple target currencies."
+  },
+  {
+    "name": "Currencyapi",
+    "url": "https://currencyapi.com",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Currency Conversion API and cryptocurrency prices, updated minutely"
+  },
+  {
+    "name": "CurrencyFreaks",
+    "url": "https://currencyfreaks.com/",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Provides current and historical currency exchange rates with free plan 1K requests/month"
+  },
+  {
+    "name": "Currencylayer",
+    "url": "https://currencylayer.com/documentation",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Exchange rates and currency conversion"
+  },
+  {
+    "name": "CurrencyScoop",
+    "url": "https://currencyscoop.com/api-documentation",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Real-time and historical currency rates JSON API"
+  },
+  {
+    "name": "Czech National Bank",
+    "url": "https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "A collection of exchange rates"
+  },
+  {
+    "name": "Economia.Awesome",
+    "url": "https://docs.awesomeapi.com.br/api-de-moedas",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Portuguese free currency prices and conversion with no rate limits"
+  },
+  {
+    "name": "EuroRates",
+    "url": "https://euroratesapi.dev/",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Exchange rates for EUR pairs, historical and real-time data"
+  },
+  {
+    "name": "ExchangeRate-API",
+    "url": "https://www.exchangerate-api.com",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Free currency conversion"
+  },
+  {
+    "name": "Exchangerate.host",
+    "url": "https://exchangerate.host",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Free foreign exchange & crypto rates API"
+  },
+  {
+    "name": "Exchangeratesapi.io",
+    "url": "https://exchangeratesapi.io",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Exchange rates with currency conversion"
+  },
+  {
+    "name": "Fixer.io",
+    "url": "http://fixer.io",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Exchange rates and currency conversion"
+  },
+  {
+    "name": "Frankfurter",
+    "url": "https://www.frankfurter.app/docs",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Exchange rates, currency conversion and time series"
+  },
+  {
+    "name": "FreeForexAPI",
+    "url": "https://freeforexapi.com/Home/Api",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Real-time foreign exchange rates for major currency pairs"
+  },
+  {
+    "name": "FxFeed.io",
+    "url": "https://fxfeed.io",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Foreign exchange rates, currency conversion and time series data"
+  },
+  {
+    "name": "FxRatesAPI",
+    "url": "https://fxratesapi.com/",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Real-time exchange rates, historical rates and currency conversion"
+  },
+  {
+    "name": "FyGraph",
+    "url": "https://fygraph.com",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "GraphQL API of latest 1.000+ crypto and 167+ fiat updated every minute"
+  },
+  {
+    "name": "Manyapis",
+    "url": "https://manyapis.com/products/currency/usd-to-eur-rate",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Exchange rates and currency conversion with free plan 50 requests/day"
+  },
+  {
+    "name": "MetalpriceAPI",
+    "url": "https://metalpriceapi.com",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Real-time and historical exchange rates and currency conversion API"
+  },
+  {
+    "name": "National Bank of Poland",
+    "url": "http://api.nbp.pl/en.html",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "A collection of currency exchange rates (data in XML and JSON)"
+  },
+  {
+    "name": "ratesapi",
+    "url": "https://ratesapi.io",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Free exchange rates and historical rates"
+  },
+  {
+    "name": "RBA Exchange Rates API",
+    "url": "https://www.exchangeratesapi.com.au",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Real-time and historical Reserve Bank of Australia (RBA) exchange rates API"
+  },
+  {
+    "name": "Unirate",
+    "url": "https://unirateapi.com",
+    "auth": "apiKey",
+    "category": "Currency Exchange",
+    "description": "Free Exchange Rates and Currency Conversion"
+  },
+  {
+    "name": "VATComply.com",
+    "url": "https://www.vatcomply.com/documentation",
+    "auth": "No",
+    "category": "Currency Exchange",
+    "description": "Exchange rates, geolocation and VAT number validation"
+  }
+]

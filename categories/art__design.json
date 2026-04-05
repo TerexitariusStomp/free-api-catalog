@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Art Institute of Chicago",
+    "url": "https://api.artic.edu/docs",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Art collection and data"
+  },
+  {
+    "name": "Art Search",
+    "url": "https://artsearch.io",
+    "auth": "apiKey",
+    "category": "Art & Design",
+    "description": "Search and discover art with semantic AI search"
+  },
+  {
+    "name": "Behance",
+    "url": "https://www.behance.net/dev",
+    "auth": "apiKey",
+    "category": "Art & Design",
+    "description": "Design"
+  },
+  {
+    "name": "Cleveland Museum of Art",
+    "url": "https://openaccess-api.clevelandart.org",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Cleveland Museum of Art data service"
+  },
+  {
+    "name": "Close Approach Data",
+    "url": "https://ssd-api.jpl.nasa.gov/doc/cad.html",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "This API provides current close-approach data for all asteroids and comets within JPL’s Small-Body Database. It allows users to obtain detailed information about near-Earth objects and their proximity"
+  },
+  {
+    "name": "ColorMagic",
+    "url": "https://colormagic.app/api",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Color Palette Generator"
+  },
+  {
+    "name": "Colormind",
+    "url": "http://colormind.io/api-access",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Color scheme generator"
+  },
+  {
+    "name": "ColourLovers",
+    "url": "http://www.colourlovers.com/api",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Get various patterns, palettes and images"
+  },
+  {
+    "name": "Cooper Hewitt",
+    "url": "https://collection.cooperhewitt.org/api",
+    "auth": "apiKey",
+    "category": "Art & Design",
+    "description": "Smithsonian Design Museum"
+  },
+  {
+    "name": "Dorognoe API",
+    "url": "https://github.com/l0v3m0n3y/Dorognoe",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "This API provides a web interface for the Dorognoe radio station site. It allows users to access various features and data related to the radio station, such as city lists. The API is designed for int"
+  },
+  {
+    "name": "Dribbble",
+    "url": "https://developer.dribbble.com",
+    "auth": "OAuth",
+    "category": "Art & Design",
+    "description": "Discover the world’s top designers & creatives"
+  },
+  {
+    "name": "EmojiHub",
+    "url": "https://github.com/cheatsnake/emojihub",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Searchable emoji collection with categories"
+  },
+  {
+    "name": "Energy-Charts API",
+    "url": "https://api.energy-charts.info/",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Provides access to energy data. Allows users to retrieve and analyze energy consumption information."
+  },
+  {
+    "name": "Europeana",
+    "url": "https://pro.europeana.eu/resources/apis/search",
+    "auth": "apiKey",
+    "category": "Art & Design",
+    "description": "European Museum and Galleries content"
+  },
+  {
+    "name": "Free Elevation API",
+    "url": "https://www.elevation-api.eu/",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "This API provides access to elevation data for any point on Earth without any cost. Users can retrieve elevation information by making GET requests with latitude and longitude parameters."
+  },
+  {
+    "name": "Freepik",
+    "url": "https://freepik.com/api",
+    "auth": "apiKey",
+    "category": "Art & Design",
+    "description": "Stock resources(Icons, videos, photos), AI image generation and editing tools"
+  },
+  {
+    "name": "Harvard Art Museums",
+    "url": "https://github.com/harvardartmuseums/api-docs",
+    "auth": "apiKey",
+    "category": "Art & Design",
+    "description": "Art"
+  },
+  {
+    "name": "Icon Horse",
+    "url": "https://icon.horse",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Favicons for any website, with fallbacks"
+  },
+  {
+    "name": "Iconfinder",
+    "url": "https://developer.iconfinder.com",
+    "auth": "apiKey",
+    "category": "Art & Design",
+    "description": "Icons"
+  },
+  {
+    "name": "Icons8",
+    "url": "https://img.icons8.com",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Icons (find \"search icon\" hyperlink in page)"
+  },
+  {
+    "name": "Invoice Extraction API",
+    "url": "https://invoiceextract.com.mx/#docs",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "The Invoice Extraction API is designed to process and extract data from invoices submitted in various formats. It parses key information such as vendor details, amounts, items, and dates, enabling int"
+  },
+  {
+    "name": "Kmail API",
+    "url": "https://github.com/l0v3m0n3y/kmail",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "The Kmail API provides a web interface for kmail.pw, a professional temporary email service. It is designed to protect user privacy and security while offering reliable and secure temporary email serv"
+  },
+  {
+    "name": "Logotypes",
+    "url": "https://logotypes.dev/",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Logotypes of the world in multiples format"
+  },
+  {
+    "name": "Lordicon",
+    "url": "https://lordicon.com/docs/api/documentation",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Animated icon library with API access"
+  },
+  {
+    "name": "Metropolitan Museum of Art",
+    "url": "https://metmuseum.github.io",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Collection search and object details"
+  },
+  {
+    "name": "Noun Project",
+    "url": "http://api.thenounproject.com/index.html",
+    "auth": "OAuth",
+    "category": "Art & Design",
+    "description": "Icons"
+  },
+  {
+    "name": "OpenSanctum API",
+    "url": "https://www.opensanctum.com",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "OpenSanctum API provides detailed information about various places of worship and religious traditions around the world. It is designed for users interested in exploring sacred sites, spiritual practi"
+  },
+  {
+    "name": "PHP-Noise",
+    "url": "https://php-noise.com",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Noise Background Image Generator"
+  },
+  {
+    "name": "Pika",
+    "url": "https://pika.style/image-generation-api",
+    "auth": "apiKey",
+    "category": "Art & Design",
+    "description": "Image Generation API"
+  },
+  {
+    "name": "PubliBike Stations API",
+    "url": "https://api.publibike.ch/v1/static/api.html",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Provides information about PubliBike stations, their states, positions, and available vehicles. Includes endpoints to get all stations, a specific station with vehicles, and all stations for partners."
+  },
+  {
+    "name": "Rijksmuseum",
+    "url": "https://data.rijksmuseum.nl/object-metadata/api/",
+    "auth": "apiKey",
+    "category": "Art & Design",
+    "description": "RijksMuseum Data"
+  },
+  {
+    "name": "svg.new",
+    "url": "https://svg.new",
+    "auth": "apiKey",
+    "category": "Art & Design",
+    "description": "AI-powered image to SVG vectorization"
+  },
+  {
+    "name": "Swiss Federal Railways (SBB)",
+    "url": "https://data.sbb.ch/explore/dataset/ist-daten-sbb/api/?flg=de-ch",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "This API provides departure, delay, and cancellation data from the Swiss Federal Railways (SBB) for the previous day. It compares scheduled (soll) vs. actual (ist) operations."
+  },
+  {
+    "name": "The Color",
+    "url": "https://www.thecolorapi.com/",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Swiss army knife for color"
+  },
+  {
+    "name": "TikTok Engagement Bot",
+    "url": "https://github.com/xtekky/zefoy",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "The Zefoy API allows users to automate interactions on TikTok, providing tools for gaining likes, followers, shares, and views quickly. It is designed to help increase engagement metrics for TikTok ac"
+  },
+  {
+    "name": "Vogelwarte Schweiz",
+    "url": "https://www.vogelwarte.ch/",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Reverse-Engineered Vogel-Datenbank der Schweiz mit verschiedenen Endpoints"
+  },
+  {
+    "name": "Word Cloud",
+    "url": "https://wordcloudapi.com/",
+    "auth": "apiKey",
+    "category": "Art & Design",
+    "description": "Easily create word clouds"
+  },
+  {
+    "name": "xColors",
+    "url": "https://github.com/cheatsnake/xColors-api",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "Generate & convert colors"
+  },
+  {
+    "name": "Yadore Publisher API",
+    "url": "https://docs.yadore.com/",
+    "auth": "No",
+    "category": "Art & Design",
+    "description": "The Yadore Publisher API provides endpoints for accessing product offers, deeplinks, and smartlinks from various merchants. It supports functionalities such as searching for offers, retrieving lists o"
+  }
+]

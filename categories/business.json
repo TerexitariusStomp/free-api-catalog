@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Apache Superset",
+    "url": "https://superset.apache.org/docs/api",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "API to manage your BI dashboards and data sources on Superset"
+  },
+  {
+    "name": "App Store Metadata API",
+    "url": "https://app-store-metadata-api.kula.app",
+    "auth": "No",
+    "category": "Business",
+    "description": "The App Store Metadata API provides reliable access to real-time metadata about iOS apps, including app details, ratings, and reviews. It eliminates the need for scraping by delivering stable endpoint"
+  },
+  {
+    "name": "ArvanCloud",
+    "url": "https://www.arvancloud.ir/en/dev/sdk",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Enables you to use ArvanCloud services"
+  },
+  {
+    "name": "Bank Logos API",
+    "url": "https://bankconv.com/bank-logos-api#doc",
+    "auth": "No",
+    "category": "Business",
+    "description": "The Bank Logos API provides high-resolution logos for thousands of banks worldwide with a single API call, perfect for financial apps and fintech solutions. It enables users to transform confusing ban"
+  },
+  {
+    "name": "Charity Search",
+    "url": "http://charityapi.orghunter.com/",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Non-profit charity data"
+  },
+  {
+    "name": "Clearbit Logo",
+    "url": "https://clearbit.com/docs#logo-api",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Search for company logos and embed them in your projects"
+  },
+  {
+    "name": "Clientsbee",
+    "url": "https://clientsbee.com",
+    "auth": "apikey",
+    "category": "Business",
+    "description": "Free leads for bussiness and technographics data"
+  },
+  {
+    "name": "CompanyEnrich",
+    "url": "https://companyenrich.com",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "API for B2B company data enrichment, domain enrichment, and website enrichment"
+  },
+  {
+    "name": "Domainsdb.info",
+    "url": "https://domainsdb.info",
+    "auth": "No",
+    "category": "Business",
+    "description": "Registered Domain Names Search"
+  },
+  {
+    "name": "Fake Store API",
+    "url": "https://fakestoreapi.com/docs",
+    "auth": "No",
+    "category": "Business",
+    "description": "Fake store rest api for your ecommerce or shopping website prototype."
+  },
+  {
+    "name": "Favicon.im",
+    "url": "https://favicon.im",
+    "auth": "No",
+    "category": "Business",
+    "description": "Instantly fetch and display the favicon for any website"
+  },
+  {
+    "name": "Freelancer",
+    "url": "https://developers.freelancer.com",
+    "auth": "OAuth",
+    "category": "Business",
+    "description": "Hire freelancers to get work done"
+  },
+  {
+    "name": "Gmail",
+    "url": "https://developers.google.com/gmail/api/",
+    "auth": "OAuth",
+    "category": "Business",
+    "description": "Flexible, RESTful access to the user's inbox"
+  },
+  {
+    "name": "Google Analytics",
+    "url": "https://developers.google.com/analytics/",
+    "auth": "OAuth",
+    "category": "Business",
+    "description": "Collect, configure and analyze your data to reach the right audience"
+  },
+  {
+    "name": "Instatus",
+    "url": "https://instatus.com/help/api",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Post to and update maintenance and incidents on your status page through an HTTP REST API"
+  },
+  {
+    "name": "Logo.dev",
+    "url": "https://www.logo.dev",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Automated company logo API that updates daily. Transform any domain or company name into verified logos."
+  },
+  {
+    "name": "LogoKit",
+    "url": "https://docs.logokit.com",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Logo API for brands, stocks, and cryptocurrencies"
+  },
+  {
+    "name": "Mailchimp",
+    "url": "https://mailchimp.com/developer/",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Send marketing campaigns and transactional mails"
+  },
+  {
+    "name": "mailgun",
+    "url": "https://www.mailgun.com/",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Email Service"
+  },
+  {
+    "name": "mailjet",
+    "url": "https://www.mailjet.com/",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Marketing email can be sent and mail templates made in MJML or HTML can be sent using API"
+  },
+  {
+    "name": "Markbase",
+    "url": "https://markbase.co",
+    "auth": "No",
+    "category": "Business",
+    "description": "Search 14M+ USPTO trademarks with fuzzy search and autocomplete"
+  },
+  {
+    "name": "markerapi",
+    "url": "https://markerapi.com",
+    "auth": "No",
+    "category": "Business",
+    "description": "Trademark Search"
+  },
+  {
+    "name": "NioLeads",
+    "url": "https://nioleads.com/apidoc",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "LinkedIn Email Finder and Email Verifier"
+  },
+  {
+    "name": "Playstation Store API",
+    "url": "https://olegshulyakov.github.io/psn-swagger/?utm_source=chatgpt.com#/Games/GetGame",
+    "auth": "No",
+    "category": "Business",
+    "description": "This API allows users to access game information and related services from the Playstation Store. Users can query details about games, including regional availability, language settings, and various c"
+  },
+  {
+    "name": "Redash",
+    "url": "https://redash.io/help/user-guide/integrations-and-api/api",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Access your queries and dashboards on Redash"
+  },
+  {
+    "name": "Smartsheet",
+    "url": "https://smartsheet.redoc.ly/",
+    "auth": "OAuth",
+    "category": "Business",
+    "description": "Allows you to programmatically access and Smartsheet data and account information"
+  },
+  {
+    "name": "Square",
+    "url": "https://developer.squareup.com/reference/square",
+    "auth": "OAuth",
+    "category": "Business",
+    "description": "Easy way to take payments, manage refunds, and help customers checkout online"
+  },
+  {
+    "name": "SwiftKanban",
+    "url": "https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity"
+  },
+  {
+    "name": "Tenders in Hungary",
+    "url": "https://tenders.guru/hu/api",
+    "auth": "No",
+    "category": "Business",
+    "description": "Get data for procurements in Hungary in JSON format"
+  },
+  {
+    "name": "Tenders in Poland",
+    "url": "https://tenders.guru/pl/api",
+    "auth": "No",
+    "category": "Business",
+    "description": "Get data for procurements in Poland in JSON format"
+  },
+  {
+    "name": "Tenders in Romania",
+    "url": "https://tenders.guru/ro/api",
+    "auth": "No",
+    "category": "Business",
+    "description": "Get data for procurements in Romania in JSON format"
+  },
+  {
+    "name": "Tenders in Spain",
+    "url": "https://tenders.guru/es/api",
+    "auth": "No",
+    "category": "Business",
+    "description": "Get data for procurements in Spain in JSON format"
+  },
+  {
+    "name": "Tenders in Ukraine",
+    "url": "https://tenders.guru/ua/api",
+    "auth": "No",
+    "category": "Business",
+    "description": "Get data for procurements in Ukraine in JSON format"
+  },
+  {
+    "name": "Tomba email finder",
+    "url": "https://tomba.io/api",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Email Finder for B2B sales and email marketing and email verifier"
+  },
+  {
+    "name": "Trello",
+    "url": "https://developers.trello.com/",
+    "auth": "OAuth",
+    "category": "Business",
+    "description": "Boards, lists and cards to help you organize and prioritize your projects"
+  },
+  {
+    "name": "USPTO Trademark",
+    "url": "https://rapidapi.com/pentium10/api/uspto-trademark",
+    "auth": "apiKey",
+    "category": "Business",
+    "description": "Trademark keyword search, availability, owner, serial search, attorney info, MCP ready"
+  }
+]

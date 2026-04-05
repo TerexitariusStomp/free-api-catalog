@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ensembl",
+    "url": "https://rest.ensembl.org",
+    "auth": "No",
+    "category": "Bioinformatics",
+    "description": "Genomic data for Homo Sapiens and other organisms - mutations, DNA, transcripts, proteins"
+  },
+  {
+    "name": "MyVariant.info",
+    "url": "https://myvariant.info/v1/api",
+    "auth": "No",
+    "category": "Bioinformatics",
+    "description": "Genetic variation data for ~1 billion DNA loci"
+  }
+]

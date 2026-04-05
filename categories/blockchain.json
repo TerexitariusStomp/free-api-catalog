@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Bitquery",
+    "url": "https://graphql.bitquery.io/ide",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Onchain GraphQL APIs & DEX APIs"
+  },
+  {
+    "name": "Bscscan",
+    "url": "https://bscscan.com/apis",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Binance Smart Chain explorer API"
+  },
+  {
+    "name": "Chainlink",
+    "url": "https://chain.link/developer-resources",
+    "auth": "No",
+    "category": "Blockchain",
+    "description": "Build hybrid smart contracts with Chainlink"
+  },
+  {
+    "name": "Chainpoint",
+    "url": "https://tierion.com/chainpoint",
+    "auth": "No",
+    "category": "Blockchain",
+    "description": "Chainpoint is a global network for anchoring data to the Bitcoin blockchain"
+  },
+  {
+    "name": "Covalent",
+    "url": "https://www.covalenthq.com/docs/api/",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Multi-blockchain data aggregator platform"
+  },
+  {
+    "name": "Etherscan",
+    "url": "https://etherscan.io/apis",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Ethereum explorer API"
+  },
+  {
+    "name": "GetBlock",
+    "url": "https://getblock.io/",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Blockchain RPC Node provider that supports over 50 multiple blockchains"
+  },
+  {
+    "name": "Helium",
+    "url": "https://docs.helium.com/api/blockchain/introduction",
+    "auth": "No",
+    "category": "Blockchain",
+    "description": "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage"
+  },
+  {
+    "name": "Layer4",
+    "url": "https://www.layer4.app/api-docs",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Layer4 is a blockchain integration platform that supports no-code and API use"
+  },
+  {
+    "name": "Nownodes",
+    "url": "https://nownodes.io/",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Blockchain-as-a-service solution that provides high-quality connection via API"
+  },
+  {
+    "name": "Steem",
+    "url": "https://developers.steem.io",
+    "auth": "No",
+    "category": "Blockchain",
+    "description": "Blockchain-based blogging and social media website"
+  },
+  {
+    "name": "The Graph",
+    "url": "https://thegraph.com",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Indexing protocol for querying networks like Ethereum with GraphQL"
+  },
+  {
+    "name": "Watchdata",
+    "url": "https://docs.watchdata.io",
+    "auth": "apiKey",
+    "category": "Blockchain",
+    "description": "Provide simple and reliable API access to Ethereum blockchain"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "name": "TheOddsAPI",
+    "url": "https://the-odds-api.com",
+    "auth": "apiKey",
+    "category": "Sports Betting",
+    "description": "Live odds from 30+ bookmakers (free tier)"
+  }
+]

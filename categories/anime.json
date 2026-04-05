@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Abhi API",
+    "url": "https://abhi-api.vercel.app",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Abhi API offers a variety of free APIs for different purposes including anime data, downloads, fun facts, games, logo generation, and tools for tasks like shortening URLs and text-to-speech functional"
+  },
+  {
+    "name": "AniDB",
+    "url": "https://wiki.anidb.net/HTTP_API_Definition",
+    "auth": "apiKey",
+    "category": "Anime",
+    "description": "Anime Database"
+  },
+  {
+    "name": "AniList",
+    "url": "https://github.com/AniList/ApiV2-GraphQL-Docs",
+    "auth": "OAuth",
+    "category": "Anime",
+    "description": "Anime discovery & tracking"
+  },
+  {
+    "name": "AnimeChan",
+    "url": "https://github.com/RocktimSaikia/anime-chan",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Anime quotes from popular anime series"
+  },
+  {
+    "name": "AnimeFacts",
+    "url": "https://chandan-02.github.io/anime-facts-rest-api",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Anime Facts (over 100+)"
+  },
+  {
+    "name": "AnimeNewsNetwork",
+    "url": "https://www.animenewsnetwork.com/encyclopedia/api.php",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Anime industry news"
+  },
+  {
+    "name": "AOT quotes",
+    "url": "https://attackontitanquotes.vercel.app/",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Attack on Titan Quotes API"
+  },
+  {
+    "name": "Attack on Titan API",
+    "url": "https://www.attackontitanapi.com/",
+    "auth": "No",
+    "category": "Anime",
+    "description": "A RESTful API that provides access to a wide range of data related to the popular anime and manga series 'Attack on Titan'. Users can retrieve information about characters, episodes, locations, organi"
+  },
+  {
+    "name": "Catboy",
+    "url": "https://catboys.com/api",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Neko images, funny GIFs & more"
+  },
+  {
+    "name": "Danbooru Anime",
+    "url": "https://danbooru.donmai.us/wiki_pages/help:api",
+    "auth": "apiKey",
+    "category": "Anime",
+    "description": "Thousands of anime artist database to find good anime art"
+  },
+  {
+    "name": "Dattebayo API",
+    "url": "https://api-dattebayo.vercel.app/",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Dattebayo: Your Ultimate Naruto Anime API"
+  },
+  {
+    "name": "Demon Slayer API",
+    "url": "https://www.demonslayer-api.com/",
+    "auth": "No",
+    "category": "Anime",
+    "description": "The Demon Slayer API provides developers with structured data related to the popular anime series, including character details, combat styles, and affiliations. It allows users to access information a"
+  },
+  {
+    "name": "Dragon Ball",
+    "url": "https://web.dragonball-api.com",
+    "auth": "No",
+    "category": "Anime",
+    "description": "An easy to use Dragon Ball API"
+  },
+  {
+    "name": "Jikan",
+    "url": "https://jikan.moe",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Unofficial MyAnimeList API - anime, manga, character data"
+  },
+  {
+    "name": "Jikan REST API",
+    "url": "https://docs.api.jikan.moe/",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Unofficial MyAnimeList REST API for anime and manga data."
+  },
+  {
+    "name": "Kitsu",
+    "url": "https://kitsu.docs.apiary.io/",
+    "auth": "OAuth",
+    "category": "Anime",
+    "description": "Anime discovery platform"
+  },
+  {
+    "name": "MangaDex",
+    "url": "https://api.mangadex.org/docs/",
+    "auth": "apiKey",
+    "category": "Anime",
+    "description": "Manga Database and Community"
+  },
+  {
+    "name": "Mangapi",
+    "url": "https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/",
+    "auth": "apiKey",
+    "category": "Anime",
+    "description": "Translate manga pages from one language to another"
+  },
+  {
+    "name": "MyAnimeList",
+    "url": "https://myanimelist.net/clubs.php?cid=13727",
+    "auth": "OAuth",
+    "category": "Anime",
+    "description": "Anime and Manga Database and Community"
+  },
+  {
+    "name": "Naruto Character API",
+    "url": "https://narutodb.xyz/",
+    "auth": "No",
+    "category": "Anime",
+    "description": "The NarutoDB API offers a detailed database of characters, clans, villages, and more from the Naruto anime and manga series. Users can access comprehensive information about each character, including "
+  },
+  {
+    "name": "Nekos API",
+    "url": "https://nekosapi.com/docs",
+    "auth": "OAuth",
+    "category": "Anime",
+    "description": "Anime images with lots of metadata"
+  },
+  {
+    "name": "NekosBest",
+    "url": "https://docs.nekos.best",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Neko Images & Anime roleplaying GIFs"
+  },
+  {
+    "name": "Nekosia API",
+    "url": "https://nekosia.cat",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Anime API with cute random images. Dominated colors & compressed images & avoiding duplicates."
+  },
+  {
+    "name": "Nekosia Neko API",
+    "url": "https://nekosia.cat/documentation?page=introduction",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Nekosia is a free API designed for integrating anime content, specifically featuring cute Neko images. It includes a dedicated Booru for browsing and adding images, enhancing project content with a va"
+  },
+  {
+    "name": "One Piece API",
+    "url": "https://api-onepiece.com/en/documentation",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Access information about the One Piece manga, including sagas, fruits, chapters, volumes, episodes, and more. Explore details about characters, crews, locations, and various elements from the One Piec"
+  },
+  {
+    "name": "Shikimori",
+    "url": "https://shikimori.one/api/doc",
+    "auth": "OAuth",
+    "category": "Anime",
+    "description": "Anime discovery, tracking, forum, rates"
+  },
+  {
+    "name": "Trace Moe",
+    "url": "https://soruly.github.io/trace.moe-api",
+    "auth": "No",
+    "category": "Anime",
+    "description": "A useful tool to get the exact scene of an anime from a screenshot"
+  },
+  {
+    "name": "Waifu.im",
+    "url": "https://waifu.im/docs",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Get waifu pictures from an archive of over 4000 images and multiple tags"
+  },
+  {
+    "name": "Waifu.it",
+    "url": "https://docs.waifu.it",
+    "auth": "apiKey",
+    "category": "Anime",
+    "description": "Free RESTful API for Anime Quotes, Facts, Emotes, Gifs, Nekos, Waifus and More!"
+  },
+  {
+    "name": "Waifu.pics",
+    "url": "https://waifu.pics/docs",
+    "auth": "No",
+    "category": "Anime",
+    "description": "Image sharing platform for anime images"
+  },
+  {
+    "name": "YummyAnime API",
+    "url": "https://github.com/l0v3m0n3y/yummyanime",
+    "auth": "No",
+    "category": "Anime",
+    "description": "The YummyAnime API is a JavaScript library designed for accessing and interacting with the yummyani.me platform. It allows developers to search for anime content and retrieve detailed information abou"
+  }
+]

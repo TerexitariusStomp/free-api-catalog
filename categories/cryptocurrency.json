@@ -1,0 +1,485 @@
+[
+  {
+    "name": "1inch",
+    "url": "https://1inch.io/api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "API for querying decentralize exchange"
+  },
+  {
+    "name": "Agent Gateway API",
+    "url": "https://agent-gateway-kappa.vercel.app",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Agent Gateway API provides a unified interface to over 39 production-ready services designed for AI agents. These services include crypto wallets, DeFi trading, file storage, code execution, and more,"
+  },
+  {
+    "name": "Alchemy Ethereum",
+    "url": "https://docs.alchemy.com/alchemy/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Ethereum Node-as-a-Service Provider"
+  },
+  {
+    "name": "Binance",
+    "url": "https://github.com/binance/binance-spot-api-docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Exchange for Trading Cryptocurrencies based in China"
+  },
+  {
+    "name": "BitcoinAverage",
+    "url": "https://apiv2.bitcoinaverage.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Digital Asset Price Data for the blockchain industry"
+  },
+  {
+    "name": "Bitfinex",
+    "url": "https://docs.bitfinex.com/docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform"
+  },
+  {
+    "name": "Bithumb",
+    "url": "https://apidocs.bithumb.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform"
+  },
+  {
+    "name": "Bitmex",
+    "url": "https://www.bitmex.com/app/apiOverview",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Real-Time Cryptocurrency derivatives trading platform based in Hong Kong"
+  },
+  {
+    "name": "Block",
+    "url": "https://block.io/docs/basic",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin Payment, Wallet & Transaction Data"
+  },
+  {
+    "name": "BlockBee",
+    "url": "https://docs.blockbee.io/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Payment Processor"
+  },
+  {
+    "name": "Blockchain",
+    "url": "https://www.blockchain.com/api",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin Payment, Wallet & Transaction Data"
+  },
+  {
+    "name": "Blockchain.info",
+    "url": "https://blockchain.info/api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin blockchain explorer"
+  },
+  {
+    "name": "BlockFacts",
+    "url": "https://blockfacts.io/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Real-time crypto data from multiple exchanges via a single unified API, and much more"
+  },
+  {
+    "name": "blockfrost Cardano",
+    "url": "https://blockfrost.io/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Interaction with the Cardano mainnet and several testnets"
+  },
+  {
+    "name": "Brave NewCoin",
+    "url": "https://bravenewcoin.com/developers",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Real-time and historic crypto data from more than 200+ exchanges"
+  },
+  {
+    "name": "BtcTurk",
+    "url": "https://docs.btcturk.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Real-time cryptocurrency data, graphs and API that allows buy&sell"
+  },
+  {
+    "name": "Bybit",
+    "url": "https://bybit-exchange.github.io/docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency data feed and algorithmic trading"
+  },
+  {
+    "name": "CoinAPI",
+    "url": "https://docs.coinapi.io/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "All Currency Exchanges integrate under a single api"
+  },
+  {
+    "name": "Coinbase",
+    "url": "https://developers.coinbase.com",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices"
+  },
+  {
+    "name": "Coinbase Pro",
+    "url": "https://docs.pro.coinbase.com/#api",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform"
+  },
+  {
+    "name": "CoinCap",
+    "url": "https://docs.coincap.io/",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Real time Cryptocurrency prices through a RESTful API"
+  },
+  {
+    "name": "CoinDCX",
+    "url": "https://docs.coindcx.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform"
+  },
+  {
+    "name": "CoinDesk",
+    "url": "http://www.coindesk.com/api/",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin Price Index"
+  },
+  {
+    "name": "CoinGecko API",
+    "url": "https://api.coingecko.com/api/v3",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency prices, market caps, volumes (10,000+ assets)"
+  },
+  {
+    "name": "Coinigy",
+    "url": "https://coinigy.docs.apiary.io",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Interacting with Coinigy Accounts and Exchange Directly"
+  },
+  {
+    "name": "CoinLayer",
+    "url": "https://coinlayer.com",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Real-time Crypto Currency Exchange Rates"
+  },
+  {
+    "name": "Coinlib",
+    "url": "https://coinlib.io/apidocs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Crypto Currency Prices"
+  },
+  {
+    "name": "Coinlore",
+    "url": "https://www.coinlore.com/cryptocurrency-data-api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies prices, volume and more"
+  },
+  {
+    "name": "CoinMarketCap",
+    "url": "https://coinmarketcap.com/api/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Prices"
+  },
+  {
+    "name": "Coinpaprika",
+    "url": "https://api.coinpaprika.com",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies prices, volume and more"
+  },
+  {
+    "name": "CoinRanking",
+    "url": "https://developers.coinranking.com/api/documentation",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Live Cryptocurrency data"
+  },
+  {
+    "name": "Coinremitter",
+    "url": "https://coinremitter.com/docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Payment & Prices"
+  },
+  {
+    "name": "CoinStats",
+    "url": "https://coinstats.app/api-docs/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Blockchain and DeFi across 120+ chains, market, historical data, portfolio tracking, news, sentiment, MCP, and agent skills"
+  },
+  {
+    "name": "CryptAPI",
+    "url": "https://docs.cryptapi.io",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Payment Processor"
+  },
+  {
+    "name": "CryptoCompare",
+    "url": "https://www.cryptocompare.com/api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Comparison"
+  },
+  {
+    "name": "CryptoLabel API",
+    "url": "https://cryptolabel.io/docs",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "The CryptoLabel API allows users to resolve blockchain addresses, identify their types, and retrieve associated labels and metadata. It supports several blockchains including Ethereum, Bitcoin, and Tr"
+  },
+  {
+    "name": "CryptoMarket",
+    "url": "https://api.exchange.cryptomkt.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Trading platform"
+  },
+  {
+    "name": "Currency Exchange API",
+    "url": "https://www.juheapi.com/api-catalog/exchange-rate",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Provides daily currency exchange rates and performs conversions between a wide range of global currencies and cryptos. This API allows applications to access real-time foreign exchange data, making it"
+  },
+  {
+    "name": "DexPaprika",
+    "url": "https://api.dexpaprika.com",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Free DEX and DeFi data — pools, tokens, OHLCV, and trades across all chains"
+  },
+  {
+    "name": "dYdX",
+    "url": "https://docs.dydx.exchange/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Decentralized cryptocurrency exchange"
+  },
+  {
+    "name": "Ethplorer",
+    "url": "https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures"
+  },
+  {
+    "name": "EXMO",
+    "url": "https://documenter.getpostman.com/view/10287440/SzYXWKPi",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies exchange based in UK"
+  },
+  {
+    "name": "Gateio",
+    "url": "https://www.gate.io/api2",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "API provides spot, margin and futures trading operations"
+  },
+  {
+    "name": "Gemini",
+    "url": "https://docs.gemini.com/rest-api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Exchange"
+  },
+  {
+    "name": "Huobi",
+    "url": "https://huobiapi.github.io/docs/spot/v1/en/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Seychelles based cryptocurrency exchange"
+  },
+  {
+    "name": "Indodax",
+    "url": "https://github.com/btcid/indodax-official-api-docs",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Trade your Bitcoin and other assets with rupiah"
+  },
+  {
+    "name": "INFURA Ethereum",
+    "url": "https://www.infura.io/product/ethereum",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Interaction with the Ethereum mainnet and several testnets"
+  },
+  {
+    "name": "Kekkai Currency API",
+    "url": "https://kekkai.redume.su/docs",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Kekkai is an open-source API that allows you to collect and save historical currency data from various sources. It supports both cryptocurrencies and fiat currencies, enabling users to create exchange"
+  },
+  {
+    "name": "Kraken",
+    "url": "https://docs.kraken.com/rest/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Exchange"
+  },
+  {
+    "name": "KuCoin",
+    "url": "https://docs.kucoin.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Trading Platform"
+  },
+  {
+    "name": "Localbitcoins",
+    "url": "https://localbitcoins.com/api-docs",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "P2P platform to buy and sell Bitcoins"
+  },
+  {
+    "name": "Mempool",
+    "url": "https://mempool.space/api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin API Service focusing on the transaction fee"
+  },
+  {
+    "name": "MercadoBitcoin",
+    "url": "https://api.mercadobitcoin.net/api/v4/docs",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Brazilian Cryptocurrency Information"
+  },
+  {
+    "name": "Messari",
+    "url": "https://messari.io/api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Provides API endpoints for thousands of crypto assets"
+  },
+  {
+    "name": "MEXC Global",
+    "url": "https://www.mexc.com/mexc-api",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Crypto asset exchange for trading Marketplace"
+  },
+  {
+    "name": "N.exchange",
+    "url": "https://nexchange2.docs.apiary.io",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency exchange rates and swap service"
+  },
+  {
+    "name": "NiceHash",
+    "url": "https://docs.nicehash.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Largest Crypto Mining Marketplace"
+  },
+  {
+    "name": "NovaDax",
+    "url": "https://doc.novadax.com/en-US/#introduction",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "NovaDAX API to access all market data, trading management endpoints"
+  },
+  {
+    "name": "OKEx",
+    "url": "https://okx.com/okx-api",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency exchange based in Seychelles"
+  },
+  {
+    "name": "OpenSea",
+    "url": "https://docs.opensea.io/reference/api-overview",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "The Largest NFT Marketplace"
+  },
+  {
+    "name": "Poloniex",
+    "url": "https://docs.poloniex.com",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "US based digital asset exchange"
+  },
+  {
+    "name": "Solana RPC",
+    "url": "https://docs.solana.com/developing/clients/jsonrpc-api",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Provides various endpoints to interact with the Solana Blockchain"
+  },
+  {
+    "name": "Technical Analysis",
+    "url": "https://technical-analysis-api.com",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency prices and technical analysis"
+  },
+  {
+    "name": "Trading View",
+    "url": "https://www.tradingview.com/rest-api-spec/",
+    "auth": "OAuth",
+    "category": "Cryptocurrency",
+    "description": "Market price, data, graph for brokers and traders"
+  },
+  {
+    "name": "Tron Network",
+    "url": "https://developers.tron.network/reference/api-key",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Provides various endpoints to interact with the Tron Blockchain"
+  },
+  {
+    "name": "VALR",
+    "url": "https://docs.valr.com/",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrency Exchange based in South Africa"
+  },
+  {
+    "name": "WorldCoinIndex",
+    "url": "https://www.worldcoinindex.com/apiservice",
+    "auth": "apiKey",
+    "category": "Cryptocurrency",
+    "description": "Cryptocurrencies Prices"
+  },
+  {
+    "name": "Yahoo Finance API",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Yahoo finance API to access current and historical crypto and finance data."
+  },
+  {
+    "name": "ZMOK",
+    "url": "https://zmok.io",
+    "auth": "No",
+    "category": "Cryptocurrency",
+    "description": "Ethereum JSON RPC API and Web3 provider"
+  }
+]

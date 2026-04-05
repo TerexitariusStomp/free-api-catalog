@@ -1,0 +1,205 @@
+[
+  {
+    "name": "BaconMockup",
+    "url": "https://baconmockup.com",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Resizable bacon placeholder images"
+  },
+  {
+    "name": "Beverage Mixing API",
+    "url": "https://abhi-api.vercel.app/api/game/dare",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "This API provides recommendations for mixing various beverages with specific ingredients. It can suggest drink combinations based on user input, enhancing the beverage experience."
+  },
+  {
+    "name": "BoozeAPI",
+    "url": "https://boozeapi.com/",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "REST API Cocktail Recipes"
+  },
+  {
+    "name": "Chomp",
+    "url": "https://chompthis.com/api/",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Data about various grocery products and foods"
+  },
+  {
+    "name": "Coffee",
+    "url": "https://coffee.alexflipnote.dev",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Random pictures of coffee"
+  },
+  {
+    "name": "Edamam",
+    "url": "https://developer.edamam.com/",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Recipe Search"
+  },
+  {
+    "name": "Edamam nutrition",
+    "url": "https://developer.edamam.com/edamam-docs-nutrition-api",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Nutrition Analysis"
+  },
+  {
+    "name": "Edamam recipes",
+    "url": "https://developer.edamam.com/edamam-docs-recipe-api",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Recipe Search"
+  },
+  {
+    "name": "Food Hygiene Rating API",
+    "url": "https://www.food.gov.uk/uk-food-hygiene-rating-data-api",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "The UK Food Hygiene Rating Data API provides access to food hygiene ratings issued to various food establishments across the UK. It allows users to obtain data in XML and JSON formats, featuring geolo"
+  },
+  {
+    "name": "Foodish",
+    "url": "https://github.com/surhud004/Foodish#readme",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Random food images for developers"
+  },
+  {
+    "name": "Fruityvice",
+    "url": "https://www.fruityvice.com",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "API for fruit data retrieval and addition. Provides information about various fruits based on 100 grams. Users can also contribute by adding new fruits."
+  },
+  {
+    "name": "Give Food API",
+    "url": "https://www.givefood.org.uk/api/",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "This API provides access to the largest public database of food banks in the UK, including details about their locations and the items they need donated. Users can retrieve this data in various format"
+  },
+  {
+    "name": "Jelly Belly Wiki",
+    "url": "https://jelly-belly-wiki.netlify.app/",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Data about Jelly Belly beans- flavores, facts, history and more endpoints"
+  },
+  {
+    "name": "Kroger",
+    "url": "https://developer.kroger.com/reference",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Supermarket Data"
+  },
+  {
+    "name": "LCBO",
+    "url": "https://lcbo.dev/",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Alcohol"
+  },
+  {
+    "name": "Open Brewery DB",
+    "url": "https://www.openbrewerydb.org",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Breweries, Cideries and Craft Beer Bottle Shops"
+  },
+  {
+    "name": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/data",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Open-source food product database"
+  },
+  {
+    "name": "PunkAPI",
+    "url": "https://github.com/alxiw/punkapi",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "BrewDog's DIY Dog beer catalogue as an API"
+  },
+  {
+    "name": "Spoonacular",
+    "url": "https://spoonacular.com/food-api",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Recipes, Food Products, and Meal Planning"
+  },
+  {
+    "name": "Status Pizza",
+    "url": "https://status.pizza",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Pizza for every HTTP Status"
+  },
+  {
+    "name": "TacoFancy",
+    "url": "https://github.com/evz/tacofancy-api",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Open taco recipe database and data collection"
+  },
+  {
+    "name": "Tasty",
+    "url": "https://rapidapi.com/apidojo/api/tasty/",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "API to query data about recipe, plan, ingredients"
+  },
+  {
+    "name": "TheCocktailDB",
+    "url": "https://www.thecocktaildb.com/api/json/v1/1",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "TheCocktailDB data service"
+  },
+  {
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/api/json/v1/1",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "TheMealDB data service"
+  },
+  {
+    "name": "TheReportOfTheWeek",
+    "url": "https://github.com/andyklimczak/TheReportOfTheWeek-API",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Food and drink review API"
+  },
+  {
+    "name": "Untappd",
+    "url": "https://untappd.com/api/docs",
+    "auth": "OAuth",
+    "category": "Food & Drink",
+    "description": "Social beer sharing"
+  },
+  {
+    "name": "What's on the menu?",
+    "url": "http://nypl.github.io/menus-api/",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "NYPL human-transcribed historical menu collection"
+  },
+  {
+    "name": "WhiskyHunter",
+    "url": "https://whiskyhunter.net/api",
+    "auth": "No",
+    "category": "Food & Drink",
+    "description": "Past online whisky auctions statistical data"
+  },
+  {
+    "name": "Zestful",
+    "url": "https://zestfuldata.com/",
+    "auth": "apiKey",
+    "category": "Food & Drink",
+    "description": "Parse recipe ingredients"
+  }
+]

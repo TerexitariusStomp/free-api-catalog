@@ -1,0 +1,9 @@
+[
+  {
+    "name": "SteadyAPI",
+    "url": "https://docs.steadyapi.com",
+    "auth": "apiKey",
+    "category": "Multi-Service",
+    "description": "Stocks, social, crypto, real estate, sports data"
+  }
+]

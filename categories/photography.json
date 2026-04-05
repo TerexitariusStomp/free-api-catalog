@@ -1,0 +1,338 @@
+[
+  {
+    "name": "AI Background Remover",
+    "url": "https://www.aibackgroundremover.site/",
+    "auth": "No",
+    "category": "Photography",
+    "description": "This API allows users to instantly remove backgrounds from images using advanced AI technology. The tool is designed to be secure, fast, and user-friendly, providing high-quality results without the n"
+  },
+  {
+    "name": "APITemplate.io",
+    "url": "https://apitemplate.io",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Dynamically generate images and PDFs from templates with a simple API"
+  },
+  {
+    "name": "Cartoons",
+    "url": "https://sampleapis.com/api-list/cartoons",
+    "auth": "No",
+    "category": "Photography",
+    "description": "If cartoons is what you like then boy do we have a full list of all the cartoons from the past and present and all their details including a amazingly sourced image to showcase"
+  },
+  {
+    "name": "Change Image Background API",
+    "url": "https://apyhub.com/utility/image-processor-change-background",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "This API helps you change the background of any image"
+  },
+  {
+    "name": "CheetahO",
+    "url": "https://cheetaho.com/docs/getting-started",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Photo optimization and resize"
+  },
+  {
+    "name": "Civitai API",
+    "url": "https://developer.civitai.com/docs/api/public-rest",
+    "auth": "No",
+    "category": "Photography",
+    "description": "REST API for accessing Civitai creators, images, models, model versions, and tags. Provides endpoints for retrieving specific resources like models by ID or model versions by hash."
+  },
+  {
+    "name": "Convert Images to PDF API",
+    "url": "https://apyhub.com/utility/converter-image-pdf",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Convert any image to a PDF without losing quality with one API call"
+  },
+  {
+    "name": "Dagpi",
+    "url": "https://dagpi.xyz",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Image manipulation and processing"
+  },
+  {
+    "name": "Data Dragon API",
+    "url": "https://riot-api-libraries.readthedocs.io/en/latest/ddragon.html",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Data Dragon is a static data API providing information and images related to champions, runes, and items in League of Legends. It allows developers to access and download data files, enabling them to "
+  },
+  {
+    "name": "Duply",
+    "url": "https://app.duply.co/docs",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Generate, Edit, Scale and Manage Images and Videos Smarter & Faster"
+  },
+  {
+    "name": "DynaPictures",
+    "url": "https://dynapictures.com/docs/",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Generate Hundreds of Personalized Images in Minutes"
+  },
+  {
+    "name": "Flickr",
+    "url": "https://www.flickr.com/services/api/",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Flickr Services"
+  },
+  {
+    "name": "Generate Image Thumbnails API",
+    "url": "https://apyhub.com/utility/image-processor-thumbnail",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Generate and optimise Image Thumbnails from any image with this API and save hours of image editing"
+  },
+  {
+    "name": "Getty Images",
+    "url": "http://developers.gettyimages.com/en/",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Build applications using the world's most powerful imagery"
+  },
+  {
+    "name": "Giphy",
+    "url": "https://developers.giphy.com/docs/",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Get all your gifs"
+  },
+  {
+    "name": "Google Photos",
+    "url": "https://developers.google.com/photos",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Integrate Google Photos with your apps or devices"
+  },
+  {
+    "name": "Image Placeholder Generator",
+    "url": "https://bifindr.com/placeholder/",
+    "auth": "No",
+    "category": "Photography",
+    "description": "This API allows developers to create customizable SVG placeholder images for their web projects. Users can specify dimensions, background and text colors, and custom text, making it an efficient tool "
+  },
+  {
+    "name": "Image Transformation API",
+    "url": "https://image.pollinations.ai/prompt/transform%20this%20image?model=kontext&image=",
+    "auth": "No",
+    "category": "Photography",
+    "description": "This API allows users to apply various transformations to images, enabling modifications such as filtering, resizing, and style transfer. It is designed for developers looking to enhance visual conten"
+  },
+  {
+    "name": "Imgur",
+    "url": "https://apidocs.imgur.com/",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Images"
+  },
+  {
+    "name": "LaunchPics API",
+    "url": "https://launch.pics/api/",
+    "auth": "No",
+    "category": "Photography",
+    "description": "The LaunchPics API allows users to upload, store, and manage images efficiently. It provides features such as image resizing, format conversion, and easy retrieval of images via a unique URL."
+  },
+  {
+    "name": "Lorem Picsum",
+    "url": "https://picsum.photos",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Images from Unsplash"
+  },
+  {
+    "name": "Nebulum Mars Rovers API",
+    "url": "https://rovers.nebulum.one/",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Access real-time photos taken by Mars rovers Perseverance and Curiosity through NASA missions. Developers can retrieve images based on unique photo IDs, Earth dates, or Martian sols. This API offers e"
+  },
+  {
+    "name": "ObjectCut",
+    "url": "https://objectcut.com/",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Image Background removal"
+  },
+  {
+    "name": "Pexels",
+    "url": "https://www.pexels.com/api",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Free Stock Photos and Videos"
+  },
+  {
+    "name": "PhotoRoom",
+    "url": "https://www.photoroom.com/api/",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Remove background from images"
+  },
+  {
+    "name": "Pixabay",
+    "url": "https://pixabay.com/sk/service/about/api/",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Photography"
+  },
+  {
+    "name": "Placeholder Image API",
+    "url": "https://sodeom.com/apis/placeholder",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Provides downloadable placeholder images with caching capabilities. Users can fetch a binary image or a plain text URL based on specific keywords."
+  },
+  {
+    "name": "PlaceKeanu",
+    "url": "https://placekeanu.com",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Resizable Keanu Reeves placeholder images with grayscale and young Keanu options"
+  },
+  {
+    "name": "PlaceKitten",
+    "url": "https://placekitten.com/",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Resizable kitten placeholder images"
+  },
+  {
+    "name": "Pollinations AI",
+    "url": "https://pollinations.ai/",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Pollinations AI is an open-source platform providing simple text and image generation APIs without the need for sign-ups or API keys. It emphasizes user privacy and encourages creative exploration wit"
+  },
+  {
+    "name": "Poof",
+    "url": "https://poof.bg",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Image & video background removal API"
+  },
+  {
+    "name": "Railway Station Photos",
+    "url": "https://api.railway-stations.org/openapi.yaml",
+    "auth": "No",
+    "category": "Photography",
+    "description": "OpenData project to collect railway station photos from many countries. More and more countries are added over time. Most photos are CC0 licensed and can be used freely.\nThe railway stations with thei"
+  },
+  {
+    "name": "Readme typing SVG",
+    "url": "https://github.com/DenverCoder1/readme-typing-svg",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Customizable typing and deleting text SVG"
+  },
+  {
+    "name": "Remove Background from Images API",
+    "url": "https://apyhub.com/utility/image-processor-remove-background",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "This API helps you remove background from any image"
+  },
+  {
+    "name": "Remove.bg",
+    "url": "https://www.remove.bg/api",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Image Background removal"
+  },
+  {
+    "name": "ReSmush.it",
+    "url": "https://resmush.it/api",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Photo optimization"
+  },
+  {
+    "name": "Screenshotlayer",
+    "url": "https://screenshotlayer.com",
+    "auth": "No",
+    "category": "Photography",
+    "description": "URL to screenshot"
+  },
+  {
+    "name": "ShotOG",
+    "url": "https://shotog.2214962083.workers.dev/docs",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Open-source OG image generation with 8 templates, custom fonts, and batch generation"
+  },
+  {
+    "name": "shutterstock",
+    "url": "https://api-reference.shutterstock.com/",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Stock Photos and Videos"
+  },
+  {
+    "name": "Sirv",
+    "url": "https://apidocs.sirv.com/",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Image management solutions like optimization, manipulation, hosting"
+  },
+  {
+    "name": "Smart Adaptive Ultra-Fast Image Compressor & Converter",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/smart-adaptive-ultra-fast-image-compressor-converter",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Compress, convert, and optimize images automatically with adaptive AI tuning"
+  },
+  {
+    "name": "Telegram Channel API",
+    "url": "https://t.me/n9he1",
+    "auth": "No",
+    "category": "Photography",
+    "description": "This API allows interaction with Telegram channels, enabling users to view channel details, images, and descriptions. It helps manage subscriptions and engage with content in a seamless way."
+  },
+  {
+    "name": "Templated",
+    "url": "https://templated.io",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Generate images and PDFs with a simple API. Design in a Canva-like editor and render images with code"
+  },
+  {
+    "name": "The Cat API",
+    "url": "https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Get random images of cats"
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com/developers",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Photography"
+  },
+  {
+    "name": "Wallhaven",
+    "url": "https://wallhaven.cc/help/api",
+    "auth": "apiKey",
+    "category": "Photography",
+    "description": "Wallpapers"
+  },
+  {
+    "name": "Webdam",
+    "url": "https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API",
+    "auth": "OAuth",
+    "category": "Photography",
+    "description": "Images"
+  },
+  {
+    "name": "Woody API",
+    "url": "https://woody.cat",
+    "auth": "No",
+    "category": "Photography",
+    "description": "Provides access to random woody images and information through a REST API."
+  }
+]

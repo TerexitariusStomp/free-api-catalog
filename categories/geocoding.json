@@ -1,0 +1,954 @@
+[
+  {
+    "name": "Abstract IP Geolocation",
+    "url": "https://www.abstractapi.com/ip-geolocation-api",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Geolocate website visitors from their IPs"
+  },
+  {
+    "name": "Actinia Grass GIS",
+    "url": "https://actinia.mundialis.de/api_docs/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Actinia is an open source REST API for geographical data that uses GRASS GIS"
+  },
+  {
+    "name": "Address Lookup Service",
+    "url": "https://data.gov.hk/en-data/dataset/hk-dpo-als_01-als/resource/210c2cc9-1172-4529-a82b-f10107513e9c",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The Address Lookup Service API provides a means for users to retrieve address records based on input address information. Users can submit both GET and POST requests to search for address details usin"
+  },
+  {
+    "name": "administrative-divisons-db",
+    "url": "https://github.com/kamikazechaser/administrative-divisions-db",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get all administrative divisions of a country"
+  },
+  {
+    "name": "adresse.data.gouv.fr",
+    "url": "https://adresse.data.gouv.fr",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Address database of France, geocoding and reverse"
+  },
+  {
+    "name": "Airtel IP",
+    "url": "https://aether.epias.ltd/ip2country/1.1.1.1/?full=true",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "IP Geolocation API. Collecting data from multiple sources"
+  },
+  {
+    "name": "Apiip",
+    "url": "https://apiip.net/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Get location information by IP address"
+  },
+  {
+    "name": "ArcGIS Hub - World Countries Generalized",
+    "url": "https://hub.arcgis.com/datasets/2b93b06dc0dc4e809d3c8db5cb96ba69_0/about",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The World Countries Generalized layer provides a simplified representation of global country boundaries, optimized for performance and visibility at broader scales (1:5,000,000 and beyond). Developed "
+  },
+  {
+    "name": "Arul's IP API",
+    "url": "https://aruljohn.com/api/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get your IP Address using this API"
+  },
+  {
+    "name": "Battuta",
+    "url": "http://battuta.medunes.net",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "A (country/region/city) in-cascade location API"
+  },
+  {
+    "name": "BigDataCloud's Free API",
+    "url": "https://www.bigdatacloud.com//free-api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get free client-side reverse geocoding API and Client Info API. No account creation and API key required."
+  },
+  {
+    "name": "BigDataCloud's IP Geolocation API",
+    "url": "https://www.bigdatacloud.com/ip-geolocation",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Provides fast and accurate IP geolocation APIs along with security checks and confidence area."
+  },
+  {
+    "name": "BigDataCloud's Network Engineering API",
+    "url": "https://www.bigdatacloud.com/network-engineering",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Get detailed ASN and Network lookup of an IP address."
+  },
+  {
+    "name": "BigDataCloud's Phone and Email Verification API",
+    "url": "https://www.bigdatacloud.com/phone-email-verification",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Syntax and Format Validation of Phone Number and Email address."
+  },
+  {
+    "name": "BigDataCloud's Reverse Geocoding API",
+    "url": "https://www.bigdatacloud.com/reverse-geocoding",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Get rich locality information from the geographical coordinates."
+  },
+  {
+    "name": "Bing Maps",
+    "url": "https://www.microsoft.com/maps/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Create/customize digital maps based on Bing Maps data"
+  },
+  {
+    "name": "bng2latlong",
+    "url": "https://www.getthedata.com/bng2latlong",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude"
+  },
+  {
+    "name": "Cartes.io",
+    "url": "https://github.com/M-Media-Group/Cartes.io/wiki/API",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Create maps and markers for anything"
+  },
+  {
+    "name": "Cep.la",
+    "url": "http://cep.la",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states"
+  },
+  {
+    "name": "Check e-mail or username for a data breach",
+    "url": "https://wiki.leakcheck.io/en/api/public",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "LeakCheck is a service that enables users and companies to ascertain whether their credentials have been compromised. By utilising this API, users can ascertain whether their email address or username"
+  },
+  {
+    "name": "CitySDK",
+    "url": "http://www.citysdk.eu/citysdk-toolkit",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Open APIs for select European cities"
+  },
+  {
+    "name": "Company Search API",
+    "url": "https://recherche-entreprises.api.gouv.fr/docs/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The Company Search API allows users to find a company, association, or public service in France using various search criteria such as name, address, and leaders or elected officials. The API is fully "
+  },
+  {
+    "name": "Countries & Cities API",
+    "url": "https://documenter.getpostman.com/view/1134062/T1LJjU52",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Provides population and geographical data for countries and cities. Use it to get detailed information on populations, locations, flags, currencies, capitals, and more. Access endpoints to retrieve si"
+  },
+  {
+    "name": "Country",
+    "url": "http://country.is",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get your visitor's country from their IP"
+  },
+  {
+    "name": "CountryStateCity",
+    "url": "https://countrystatecity.in/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format"
+  },
+  {
+    "name": "Daum Maps",
+    "url": "http://apis.map.daum.net/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Daum Maps provide multiple APIs for Korean maps"
+  },
+  {
+    "name": "Ducks Unlimited",
+    "url": "https://gis.ducks.org/datasets/du-university-chapters/api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "API explorer that gives a query URL with a JSON response of locations and cities"
+  },
+  {
+    "name": "Elering Dashboard API",
+    "url": "https://dashboard.elering.ee/assets/api-doc.html",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides access to various data sets related to the Elering power and gas systems, including balancing data and capacity information. It offers endpoints for retrieving real-time data, histor"
+  },
+  {
+    "name": "Free Jobs API",
+    "url": "https://docs.joinrise.co/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The Free Jobs API provides access to a comprehensive database of job listings across various industries. It allows users to retrieve job details, including title, location, salary, and requirements, h"
+  },
+  {
+    "name": "FreeGeoIP",
+    "url": "https://freegeoip.app/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Free geo ip information, no registration required. 15k/hour rate limit"
+  },
+  {
+    "name": "GeoAdmin Search API",
+    "url": "https://docs.geo.admin.ch/access-data/search.html",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API allows users to search for locations, layers, or features using either text search or bounding box parameters. It supports three types of searches: location search, layer search, and feature "
+  },
+  {
+    "name": "GeoApi",
+    "url": "https://api.gouv.fr/api/geoapi.html",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "French geographical data"
+  },
+  {
+    "name": "Geoapify",
+    "url": "https://www.geoapify.com/api/geocoding-api/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Forward and reverse geocoding, address autocomplete"
+  },
+  {
+    "name": "Geocod.io",
+    "url": "https://www.geocod.io/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Address geocoding / reverse geocoding in bulk"
+  },
+  {
+    "name": "Geocode.xyz",
+    "url": "https://geocode.xyz/api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing"
+  },
+  {
+    "name": "Geocodify.com",
+    "url": "https://geocodify.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Worldwide geocoding, geoparsing and autocomplete for addresses"
+  },
+  {
+    "name": "Geodata.gov.gr",
+    "url": "https://geodata.gov.gr/en/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Open geospatial data and API service for Greece"
+  },
+  {
+    "name": "GeoDataSource",
+    "url": "https://www.geodatasource.com/web-service",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Geocoding of city name by using latitude and longitude coordinates"
+  },
+  {
+    "name": "GeoDB Cities",
+    "url": "http://geodb-cities-api.wirefreethought.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Get global city, region, and country data"
+  },
+  {
+    "name": "GeoDescription",
+    "url": "https://geodescription.com",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Reverse geocoding - Converting geographic coordinates to address-like location description"
+  },
+  {
+    "name": "GeographQL",
+    "url": "https://geographql.netlify.app",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "A Country, State, and City GraphQL API"
+  },
+  {
+    "name": "GeoJS",
+    "url": "https://www.geojs.io",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "IP geolocation with ChatOps integration"
+  },
+  {
+    "name": "Geokeo",
+    "url": "https://geokeo.com",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Geokeo geocoding service- with 2500 free api requests daily"
+  },
+  {
+    "name": "Geolocated",
+    "url": "https://geolocated.io",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Free IP Geolocation API with multi-continent servers, and 60000 free requests/month"
+  },
+  {
+    "name": "GeoNames",
+    "url": "http://www.geonames.org/export/web-services.html",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Place names and other geographical data"
+  },
+  {
+    "name": "geoPlugin",
+    "url": "https://www.geoplugin.com",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "IP geolocation and currency conversion"
+  },
+  {
+    "name": "Google Earth Engine",
+    "url": "https://developers.google.com/earth-engine/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "A cloud-based platform for planetary-scale environmental data analysis"
+  },
+  {
+    "name": "Google Maps",
+    "url": "https://developers.google.com/maps/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Create/customize digital maps based on Google Maps data"
+  },
+  {
+    "name": "Graph Countries",
+    "url": "https://github.com/lennertVanSever/graphcountries",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Country-related data like currencies, languages, flags, regions+subregions and bordering countries"
+  },
+  {
+    "name": "Hello as Service",
+    "url": "https://hellosalut.stefanbohacek.dev/hello/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API allows developers to greet visitors in their native language by utilizing their IP address or browser language settings. By making a simple API call, you can receive localized greetings based"
+  },
+  {
+    "name": "HelloSalut",
+    "url": "https://fourtonfish.com/project/hellosalut-api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get hello translation following user language"
+  },
+  {
+    "name": "HERE Maps",
+    "url": "https://developer.here.com",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Create/customize digital maps based on HERE Maps data"
+  },
+  {
+    "name": "Hong Kong GeoData Store",
+    "url": "https://geodata.gov.hk/gs/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "API for accessing geo-data of Hong Kong"
+  },
+  {
+    "name": "iAM Smart API",
+    "url": "https://data.gov.hk/en-data/dataset/hk-dpo-dpo_hp-iam-smart-registration-locations",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The iAM Smart API provides information about registration locations for the iAM Smart service, which facilitates digital identity verification in Hong Kong. It delivers data regarding service counters"
+  },
+  {
+    "name": "IBGE",
+    "url": "https://servicodados.ibge.gov.br/api/docs",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Aggregate services of IBGE (Brazilian Institute of Geography and Statistics)"
+  },
+  {
+    "name": "IIN Lookup API",
+    "url": "https://iinapi.com/iin_api_specs.yaml",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API retrieves metadata about credit or debit cards based on the initial digits (IIN/BIN) of the card number. Users can obtain information like the card brand, issuing institution, and country by "
+  },
+  {
+    "name": "InternetDB API",
+    "url": "https://internetdb.shodan.io",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The InternetDB API enables fast lookups of open ports for specific IP addresses, providing insights into the devices using those addresses. It also includes vulnerability metadata to help users assess"
+  },
+  {
+    "name": "IP (LabStack)",
+    "url": "http://labstack.com/ip",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Lookup country, region, city, time-zone, currency and language of an IP"
+  },
+  {
+    "name": "IP Address Lookup",
+    "url": "https://ipty.org",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides the public IP address of a user along with their network information. It allows users to easily find and share their IP address using a simple HTTP request."
+  },
+  {
+    "name": "IP Data API",
+    "url": "https://ipapi.is/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "ipapi.is provides a comprehensive API for obtaining detailed information on IP addresses, including geolocation, hosting provider data, and detection of VPNs, proxies, and abusive behavior. The API is"
+  },
+  {
+    "name": "IP Geo Currency API",
+    "url": "https://apip.cc/docs.html",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides geolocation information and currency data based on a user's IP address. It allows developers to retrieve IP details such as country, city, and currency exchange rates through simple "
+  },
+  {
+    "name": "IP Geolocation & Currency Converter",
+    "url": "https://www.geoplugin.com/webservices/json",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The JSON IP Geolocation API allows you to determine the geographical location of visitors based on their IP addresses. It provides detailed location data such as country, region, city, and coordinates"
+  },
+  {
+    "name": "IP Geolocation API",
+    "url": "https://ip-api.com/docs/api:json",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API allows users to retrieve geolocation information from an IP address or domain name. It provides details such as country, city, region, latitude, longitude, and more in a JSON format without r"
+  },
+  {
+    "name": "IP Location",
+    "url": "http://ip-api.com/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Find location with ip address"
+  },
+  {
+    "name": "IP Proxy Detection",
+    "url": "https://getipintel.net/free-proxy-vpn-tor-detection-api/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "GetIPIntel.net provides a free API that detects proxy, VPN, and malicious IP addresses to prevent fraud and abuse on online platforms. It uses advanced algorithms to analyze IP behavior and issue a pr"
+  },
+  {
+    "name": "IP2Location",
+    "url": "https://www.ip2location.com/web-service/ip2location",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "IP geolocation web service to get more than 55 parameters"
+  },
+  {
+    "name": "IP2Location.io",
+    "url": "https://www.ip2location.io",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Bundle of Free IP geolocation and WHOIS API"
+  },
+  {
+    "name": "IP2Proxy",
+    "url": "https://www.ip2location.com/web-service/ip2proxy",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Detect proxy and VPN using IP address"
+  },
+  {
+    "name": "ipapi.co IP Location",
+    "url": "https://ipapi.co/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Find IP address location information"
+  },
+  {
+    "name": "ipgeolocation",
+    "url": "https://ipgeolocation.io/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "IP Geolocation AP with free plan 30k requests per month"
+  },
+  {
+    "name": "IPGeolocationAPI.com",
+    "url": "https://ipgeolocationapi.com/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Locate your visitors by IP with country details"
+  },
+  {
+    "name": "IPInfoDB",
+    "url": "https://www.ipinfodb.com/api",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address"
+  },
+  {
+    "name": "ipstack",
+    "url": "https://ipstack.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Locate and identify website visitors by IP address"
+  },
+  {
+    "name": "IPWho IP Geolocation API",
+    "url": "https://www.ipwho.org/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency."
+  },
+  {
+    "name": "IPWhois",
+    "url": "https://ipwhois.io",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "IP geolocation and IP intelligence API providing location, ISP, ASN, and proxy detection data for IPv4 and IPv6 addresses"
+  },
+  {
+    "name": "IsItWater",
+    "url": "https://IsItWater.com/",
+    "auth": "rapidapi-key",
+    "category": "Geocoding",
+    "description": "A free API to determine if a lat/lon is on water or land"
+  },
+  {
+    "name": "ISO 3166 Updates API",
+    "url": "https://iso3166-updates.vercel.app/api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Access all of the current and historical ISO 3166 changes data"
+  },
+  {
+    "name": "ISO 3166-2 API",
+    "url": "https://iso3166-2-api.vercel.app/api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Access all of the world's subdivision/regional ISO 3166-2 codes"
+  },
+  {
+    "name": "ISS Current Location",
+    "url": "http://open-notify.org/Open-Notify-API/ISS-Location-Now/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Provides the current location of the International Space Station including latitude, longitude, and timestamp. Offers both JSON and JSONP formats for easy access. Users are advised to poll the API no "
+  },
+  {
+    "name": "Kakao Maps",
+    "url": "https://apis.map.kakao.com",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Kakao Maps provide multiple APIs for Korean maps"
+  },
+  {
+    "name": "keycdn IP Location Finder",
+    "url": "https://tools.keycdn.com/geo",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Get the IP geolocation data through the simple REST API. All the responses are JSON encoded"
+  },
+  {
+    "name": "Kölner Adressen API",
+    "url": "https://offenedaten-koeln.de/dataset/adressen-k%C3%B6ln",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides access to a dataset containing addresses within the city of Cologne. It includes geospatial information and various formats for data retrieval, enabling navigation and analysis of ge"
+  },
+  {
+    "name": "Location Sharing API",
+    "url": "https://mcinenews.net/LAT/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API enables users to search for locations and share their coordinates easily. It includes features like reverse geocoding, QR code generation for locations, and the ability to display and manage "
+  },
+  {
+    "name": "LocationIQ",
+    "url": "https://locationiq.org/docs/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Provides forward/reverse geocoding and batch geocoding"
+  },
+  {
+    "name": "Longdo Map",
+    "url": "https://map.longdo.com/docs/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Interactive map with detailed places and information portal in Thailand"
+  },
+  {
+    "name": "Manual Precipitation Stations",
+    "url": "https://opendatadocs.meteoswiss.ch/a-data-groundbased/a5-manual-precipitation-stations",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides access to the data generated by MeteoSwiss’s manual precipitation monitoring network, which operates around 240 locations collecting daily rainfall and snow measurements. Users can r"
+  },
+  {
+    "name": "MapAtlas",
+    "url": "https://mapatlas.eu/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Geocoding, routing, map tiles, directions, and route optimization APIs. EU-hosted"
+  },
+  {
+    "name": "Mapbox",
+    "url": "https://docs.mapbox.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Create/customize beautiful digital maps"
+  },
+  {
+    "name": "MapQuest",
+    "url": "https://developer.mapquest.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "To access tools and resources to map the world"
+  },
+  {
+    "name": "Metadapi Zip Code",
+    "url": "https://www.metadapi.com/API-Products/Zip-Code-API",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Enhanced United States zip code information. Census, IRS, demographics, radius, distances and more"
+  },
+  {
+    "name": "Mexico",
+    "url": "https://github.com/IcaliaLabs/sepomex",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Mexico RESTful zip codes API"
+  },
+  {
+    "name": "Nominatim",
+    "url": "https://nominatim.org/release-docs/develop/api/Overview",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Search OSM data by name and address"
+  },
+  {
+    "name": "One Map, Singapore",
+    "url": "https://www.onemap.gov.sg/docs/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Singapore Land Authority REST API services for Singapore addresses"
+  },
+  {
+    "name": "OnWater",
+    "url": "https://onwater.io",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Determine if a lat/lon is on water or land"
+  },
+  {
+    "name": "Open Topo Data",
+    "url": "https://www.opentopodata.org",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Elevation and ocean depth for a latitude and longitude"
+  },
+  {
+    "name": "OpenCage",
+    "url": "https://opencagedata.com",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Forward and reverse geocoding using open data"
+  },
+  {
+    "name": "OpenPLZ API",
+    "url": "https://www.openplzapi.org/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "A public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland via an open REST API"
+  },
+  {
+    "name": "openrouteservice.org",
+    "url": "https://openrouteservice.org/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Directions, POIs, isochrones, geocoding (+reverse), elevation, and more"
+  },
+  {
+    "name": "OpenStreetMap",
+    "url": "https://wiki.openstreetmap.org/wiki/API",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Navigation, geolocation and geographical data"
+  },
+  {
+    "name": "osu! beatmap API",
+    "url": "https://osu.direct/api/docs",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Search, discover, and download osu! beatmaps effortlessly."
+  },
+  {
+    "name": "Parking St.Gallen",
+    "url": "https://daten.stadt.sg.ch/explore/dataset/freie-parkplatze-in-der-stadt-stgallen-pls/api/?disjunctive.phid&disjunctive.phname",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Allows searching and downloading parking records in Stadt St.Gallen with various parameters. Data includes parking locations, availability, occupancy, and more."
+  },
+  {
+    "name": "Phone Number Validator",
+    "url": "https://api.numlookupapi.com/v1/validate/01613950781?apikey=num_live_Nf2vjeM19tHdi42qQ2LaVVMg2IGk1ReU2BYBKnvm&country_code=BD",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API validates phone numbers, providing details such as the local and international format. It identifies the country, carrier, and line type for the given number, ensuring accurate communication."
+  },
+  {
+    "name": "Pinball Map",
+    "url": "https://pinballmap.com/api/v1/docs",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "A crowdsourced map of public pinball machines"
+  },
+  {
+    "name": "Pointpin",
+    "url": "https://pointp.in",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Pointpin is a simple yet powerful API designed for high traffic websites to deliver fast and reliable IP geolocation for your websites and applications."
+  },
+  {
+    "name": "Postali",
+    "url": "https://postali.app/api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Mexico Zip Codes API"
+  },
+  {
+    "name": "Postcode API",
+    "url": "https://postcodes.io",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Postcode lookup & Geolocation for the UK"
+  },
+  {
+    "name": "PostcodeData.nl",
+    "url": "http://api.postcodedata.nl/v1/postcode/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Provide geolocation data based on postcode for Dutch addresses"
+  },
+  {
+    "name": "Proweblook IP Checker",
+    "url": "https://proweblook.com/ipapi",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Proweblook lookup & Geolocation"
+  },
+  {
+    "name": "Red Tide Information",
+    "url": "https://data.gov.hk/en-data/dataset/hk-afcd-afcdlist-red-tide-location",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides updated information on red tides sighted in Hong Kong waters, including species and location. It facilitates access to datasets for both commercial and non-commercial use, ensuring t"
+  },
+  {
+    "name": "Represent Officials API",
+    "url": "https://represent.opennorth.ca/api/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides access to information about elected officials and electoral districts in Canada. Users can find representatives based on postal codes or geographical coordinates, retrieve boundary s"
+  },
+  {
+    "name": "REST Countries",
+    "url": "https://restcountries.com",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get information about countries via a RESTful API"
+  },
+  {
+    "name": "RoadGoat Cities",
+    "url": "https://www.roadgoat.com/business/cities-api",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Cities content & photos API"
+  },
+  {
+    "name": "Rwanda Locations",
+    "url": "https://rapidapi.com/victorkarangwa4/api/rwanda",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Rwanda Provences, Districts, Cities, Capital City, Sector, cells, villages and streets"
+  },
+  {
+    "name": "Shame as a Service",
+    "url": "https://github.com/prakhardubey2002/shame-as-a-service/blob/main/README.md",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "A simple NestJS API that delivers country-specific shame messages. Perfect for adding a bit of humor to your applications or motivating your team with culturally-aware shame quotes."
+  },
+  {
+    "name": "SLF",
+    "url": "https://github.com/slftool/slftool.github.io/blob/master/API.md",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "German city, country, river, database"
+  },
+  {
+    "name": "SmartIP.io",
+    "url": "https://smartip.io",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "IP Geolocation and Threat Intelligence API"
+  },
+  {
+    "name": "SpotSense",
+    "url": "https://spotsense.io/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Add location based interactions to your mobile app"
+  },
+  {
+    "name": "Telize",
+    "url": "https://rapidapi.com/fcambus/api/telize/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Telize offers location information from any IP address"
+  },
+  {
+    "name": "Tempmail API",
+    "url": "https://api.tempmail.lol/v2/",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The Tempmail API provides users with disposable email addresses that can be used for temporary registrations or verifications. It allows users to manage their temporary inboxes, retrieve emails, and p"
+  },
+  {
+    "name": "Temporary Email API",
+    "url": "https://github.com/l0v3m0n3y/temporarymail",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The Temporary Email API provides users with a way to generate temporary email addresses for secure and anonymous communication. Users can create, check, and manage temporary email addresses, allowing "
+  },
+  {
+    "name": "Throwaway Email API",
+    "url": "https://throwaway.cloud/api",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The Throwaway Email API allows users to check if an email address is from a disposable domain. It provides endpoints to search by domain name or email address. This service is useful for validating an"
+  },
+  {
+    "name": "Timezones Dictionary API",
+    "url": "https://apyhub.com/utility/data-lists-timezone",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "This API returns a list of all available timezones for your application"
+  },
+  {
+    "name": "TomTom",
+    "url": "https://developer.tomtom.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Maps, Directions, Places and Traffic APIs"
+  },
+  {
+    "name": "Uebermaps",
+    "url": "https://uebermaps.com/api/v2",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Discover and share maps with friends"
+  },
+  {
+    "name": "US ZipCode",
+    "url": "https://www.smarty.com/docs/cloud/us-zipcode-api",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Validate and append data for any US ZipCode"
+  },
+  {
+    "name": "User Data Scraper",
+    "url": "https://leakcheck.net/api/public?check=example",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API allows users to scrape and retrieve user data from various online sources. It gathers a wide range of user information including names, addresses, phone numbers, and more, which can be utiliz"
+  },
+  {
+    "name": "Utah AGRC",
+    "url": "https://api.mapserv.utah.gov",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Utah Web API for geocoding Utah addresses"
+  },
+  {
+    "name": "UV Index API",
+    "url": "https://data.gov.sg/datasets?formats=API&sort=relevancy&page=1&resultId=d_1b676cd174a9af4704fdb3f9aa58ff5e#tag/default/GET/uv",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "The UV Index API provides real-time data on ultraviolet index levels for various locations in Singapore. Users can retrieve the latest UV index information updated every hour between 7 AM and 7 PM. Th"
+  },
+  {
+    "name": "ViaCep",
+    "url": "https://viacep.com.br",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Brazil RESTful zip codes API"
+  },
+  {
+    "name": "Visitor Statistics API",
+    "url": "https://data.gov.hk/en-data/dataset/hk-censtatd-tablechart-650-80001",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "This API provides access to data regarding visitor arrivals in Hong Kong by country and region of residence. Users can retrieve this data in various formats including JSON, CSV, and XLSX for analysis "
+  },
+  {
+    "name": "What3Words",
+    "url": "https://what3words.com",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Three words as rememberable and unique coordinates worldwide"
+  },
+  {
+    "name": "Yandex.Maps Geocoder",
+    "url": "https://yandex.com/dev/maps/geocoder",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Use geocoding to get an object's coordinates from its address"
+  },
+  {
+    "name": "ZipCodeAPI",
+    "url": "https://www.zipcodeapi.com",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "US zip code distance, radius and location API"
+  },
+  {
+    "name": "Zipcodestack",
+    "url": "https://zipcodestack.com/",
+    "auth": "apiKey",
+    "category": "Geocoding",
+    "description": "Zip Code API - Free Postal Code Validation"
+  },
+  {
+    "name": "Zippopotam.us",
+    "url": "http://www.zippopotam.us",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get information about place such as country, city, state, etc"
+  },
+  {
+    "name": "Ziptastic",
+    "url": "https://ziptasticapi.com",
+    "auth": "No",
+    "category": "Geocoding",
+    "description": "Get the country, state, and city of any US zip-code"
+  }
+]

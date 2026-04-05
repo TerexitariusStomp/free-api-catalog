@@ -1,0 +1,646 @@
+[
+  {
+    "name": "Accommodation API",
+    "url": "https://databrowser.opendatahub.com/dataset-overview/7c8f490d-7b54-4a88-801f-f7669f5aaed9",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API provides access to a comprehensive dataset of accommodations, including hotels, guesthouses, and similar types of lodging. Users can retrieve information on various accommodation options, fac"
+  },
+  {
+    "name": "ADS-B Exchange",
+    "url": "https://www.adsbexchange.com/data",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Access real-time and historical data of any and all airborne aircraft"
+  },
+  {
+    "name": "adsbdb",
+    "url": "https://www.adsbdb.com",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Open access to aircraft, airline, and flight route data"
+  },
+  {
+    "name": "Aero Key, India",
+    "url": "https://aerokey-api.vercel.app/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Indian Domestic Airport Data"
+  },
+  {
+    "name": "ai-cats API",
+    "url": "https://ai-cats.net/api-doc",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "The ai-cats API provides access to various functionalities related to AI and cat management, offering features such as training, health monitoring, and interaction tracking. Users can utilize this API"
+  },
+  {
+    "name": "airportsapi",
+    "url": "https://airport-web.appspot.com/api/docs",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Get name and website-URL for airports by ICAO code"
+  },
+  {
+    "name": "AIS Hub",
+    "url": "http://www.aishub.net/api",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Real-time data of any marine and inland vessel equipped with AIS tracking system"
+  },
+  {
+    "name": "Amadeus for Developers",
+    "url": "https://developers.amadeus.com/self-service",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "Travel Search - Limited usage"
+  },
+  {
+    "name": "Amadeus Travel Innovation Sandbox",
+    "url": "https://sandbox.amadeus.com/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Travel Search - Limited usage"
+  },
+  {
+    "name": "ArcNautical Vessel Check",
+    "url": "https://github.com/SaltyTaro/vessel-check-api",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Vessel sanctions screening, ownership transparency scoring, and vetting intelligence"
+  },
+  {
+    "name": "AviationAPI",
+    "url": "https://docs.aviationapi.com",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather"
+  },
+  {
+    "name": "AZ511",
+    "url": "https://www.az511.com/developers/doc",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Access traffic data from the ADOT API"
+  },
+  {
+    "name": "BART API",
+    "url": "https://api.bart.gov",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Bay Area Rapid Transit real-time arrivals"
+  },
+  {
+    "name": "BC Ferries",
+    "url": "https://www.bcferriesapi.ca",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Sailing times and capacities for BC Ferries"
+  },
+  {
+    "name": "BIC-Boxtech",
+    "url": "https://docs.bic-boxtech.org/",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "Container technical detail for the global container fleet"
+  },
+  {
+    "name": "Boston MBTA Transit",
+    "url": "https://www.mbta.com/developers/v3-api",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Stations and predicted arrivals for MBTA"
+  },
+  {
+    "name": "Brasil API",
+    "url": "https://brasilapi.com.br/docs",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Acesso programático de informações relacionadas a CEPs, bancos, CNPJ, IBGE, feriados nacionais, tabela FIPE e muito mais, fornecendo endpoints modernos com baixa latência. Este projeto busca centraliz"
+  },
+  {
+    "name": "Chinese Medicine Clinics",
+    "url": "https://data.gov.hk/en-data/dataset/hospital-hadata-service-cmctr",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API provides access to the attendance data of Chinese medicine clinics and training and research centers. Users can access datasets including annual attendances categorized by languages such as E"
+  },
+  {
+    "name": "CityBikes",
+    "url": "https://api.citybik.es",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Bike share data from around the world"
+  },
+  {
+    "name": "Community Transit",
+    "url": "https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Transitland API"
+  },
+  {
+    "name": "Company Enrich API",
+    "url": "https://docs.companyenrich.com",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "The Company Enrich API provides businesses with enriched, actionable insights about companies. It offers endpoints for company enrichment, search, and discovering similar companies, enabling users to "
+  },
+  {
+    "name": "CTS",
+    "url": "https://api.cts-strasbourg.eu/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "CTS Realtime API"
+  },
+  {
+    "name": "Dutch Customer Data API",
+    "url": "https://free.bedrijfsdata.nl/#phone",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Verify and standardize Dutch customer and business data, including addresses, phone numbers, emails, URLs, VAT, IBAN, Chamber of Commerce (KvK) numbers, and postal codes."
+  },
+  {
+    "name": "Dymo API Introduction",
+    "url": "https://tpe.li/D-DMAPI",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "The Dymo API provides a comprehensive solution for businesses by integrating security, AI, marketing, and analytics into a single platform. It allows users to validate data, detect malicious activity,"
+  },
+  {
+    "name": "facha",
+    "url": "https://docs.api.facha.dev/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Aircraft Tracking, AIS Ship Tracking, Temporary Email Detection, IP GeoLocation, Package Tracking"
+  },
+  {
+    "name": "Flight Fare Search",
+    "url": "https://rapidapi.com/farish978/api/flight-fare-search",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Search for realtime flight fares across destinations"
+  },
+  {
+    "name": "Fuel Prices at Spanish Gas Stations",
+    "url": "https://datos.gob.es/en/apidata",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Provides information about fuel prices at gas stations in Spain"
+  },
+  {
+    "name": "Game Data API",
+    "url": "https://fitgirlapi.onrender.com",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API serves as a robust backend for aggregating game data by merging metadata from Steam with download links from the FitGirl Repacks website. It provides endpoints to retrieve popular games and d"
+  },
+  {
+    "name": "Grab",
+    "url": "https://developer.grab.com/docs/",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "Track deliveries, ride fares, payments and loyalty points"
+  },
+  {
+    "name": "GraphHopper",
+    "url": "https://docs.graphhopper.com/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "A-to-B routing with turn-by-turn instructions"
+  },
+  {
+    "name": "Icelandic APIs",
+    "url": "http://docs.apis.is",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Open APIs that deliver services in or regarding Iceland"
+  },
+  {
+    "name": "Izi",
+    "url": "http://api-docs.izi.travel/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Audio guide for travellers"
+  },
+  {
+    "name": "Konkan Railway Live Train Position",
+    "url": "https://konkan-railway-api.vercel.app/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Realtime data for trains on India's Konkan Railway"
+  },
+  {
+    "name": "Land Transport Authority DataMall, Singapore",
+    "url": "https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Singapore transport information"
+  },
+  {
+    "name": "Las Vegas City API",
+    "url": "https://www.lasvegasnevada.gov/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API provides access to various city services, resources, and information for residents, visitors, and businesses in Las Vegas. Users can retrieve data about city events, government initiatives, p"
+  },
+  {
+    "name": "Mentality Skill Training",
+    "url": "https://melodious-squirrel-e72cff.netlify.app/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API provides resources and tools focused on improving mental skills and techniques for athletes. It offers structured training methods that cater specifically to enhancing cognitive abilities in "
+  },
+  {
+    "name": "Metro Lisboa",
+    "url": "http://app.metrolisboa.pt/status/getLinhas.php",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Delays in subway lines"
+  },
+  {
+    "name": "MTA",
+    "url": "https://api.mta.info/#/subwayRealTimeFeeds",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "MTA Subway Realtime Feeds"
+  },
+  {
+    "name": "Navitia",
+    "url": "https://navitia.io",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Multimodal public transport routing"
+  },
+  {
+    "name": "Oldest People Records API",
+    "url": "https://whoistheoldest.com/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API provides information about the oldest living person and the oldest person ever recorded. It manages local data, allowing updates and constraints such as birth date limits and country of origi"
+  },
+  {
+    "name": "Open Charge Map",
+    "url": "https://openchargemap.org/site/en/api",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Global EV charging stations: locations, status, operators"
+  },
+  {
+    "name": "OpenSky Network API",
+    "url": "https://openskynetwork.github.io/opensky-api/rest.html",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Retrieve state vectors, flights, and tracks for the whole network, a particular sensor, or a specific aircraft. Rate limits apply for certain API calls, and restrictions vary for anonymous and OpenSky"
+  },
+  {
+    "name": "OVAPI Netherlands Transport",
+    "url": "https://github.com/skywave/KV78Turbo-OVAPI/wiki",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "OVAPI, country-wide public transport"
+  },
+  {
+    "name": "Passantenfrequenz Stadt St.Gallen",
+    "url": "https://daten.stadt.sg.ch/explore/dataset/fussganger-stgaller-innenstadt-vadianstrasse/information/?disjunctive.tag_nr&disjunctive.wochentag&disjunctive.arbeitstag&sort=measured_at",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Measures pedestrian traffic in St. Gallen, showing the number of pedestrians passing by a sensor on Vadianstrasse."
+  },
+  {
+    "name": "PikaSim",
+    "url": "https://pikasim.com/reseller/api-docs",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Purchase travel eSIMs programmatically for 190+ countries"
+  },
+  {
+    "name": "Railway Transport for France",
+    "url": "https://www.digital.sncf.com/startup/api",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "SNCF public API"
+  },
+  {
+    "name": "Real Time Bus Data",
+    "url": "https://data.gov.hk/en-data/dataset/hk-td-tis_21-etakmb",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "This API provides real-time arrival data for Kowloon Motor Bus and Long Win Bus services. It includes routes, stops, and the estimated time of arrival (ETA) for bus services based on live data updates"
+  },
+  {
+    "name": "REFUGE Restrooms",
+    "url": "https://www.refugerestrooms.org/api/docs",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Provides safe restroom access for transgender, intersex and gender nonconforming individuals"
+  },
+  {
+    "name": "Sabre for Developers",
+    "url": "https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Travel Search - Limited usage"
+  },
+  {
+    "name": "Schiphol Airport",
+    "url": "https://developer.schiphol.nl/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Schiphol"
+  },
+  {
+    "name": "Shodan EntityDB API",
+    "url": "https://entitydb.shodan.io/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "The Shodan EntityDB API provides fast lookups for business entities, offering a centralized repository of financial overviews and executive information for entities listed in the US. Access critical f"
+  },
+  {
+    "name": "Swedavia Airports",
+    "url": "https://apideveloper.swedavia.se/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Airport and flight information of Swedish Airports operated by Swedavia"
+  },
+  {
+    "name": "Swiss Public Transport",
+    "url": "https://transport.opendata.ch/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Swiss public transport API"
+  },
+  {
+    "name": "Tankerkoenig",
+    "url": "https://creativecommons.tankerkoenig.de/swagger/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "German realtime gas/diesel prices"
+  },
+  {
+    "name": "Trackr TMS",
+    "url": "https://rapidapi.com/jccm6/api/trackr-tms",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Trackr API makes it easy to create, assign, and track shipments, with driver support, movement history, and more"
+  },
+  {
+    "name": "TransitLand",
+    "url": "https://www.transit.land/documentation/datastore/api-endpoints.html",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Transit Aggregation"
+  },
+  {
+    "name": "Transport for Atlanta, US",
+    "url": "http://www.itsmarta.com/app-developer-resources.aspx",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Marta"
+  },
+  {
+    "name": "Transport for Auckland, New Zealand",
+    "url": "https://dev-portal.at.govt.nz",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Auckland Transport"
+  },
+  {
+    "name": "Transport for Belgium",
+    "url": "https://docs.irail.be",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "The iRail API is a third-party API for Belgian public transport by train"
+  },
+  {
+    "name": "Transport for Berlin, Germany",
+    "url": "https://github.com/derhuerst/vbb-rest/blob/5/docs/api.md",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Third-party VBB API"
+  },
+  {
+    "name": "Transport for Bordeaux, France",
+    "url": "https://opendata.bordeaux-metropole.fr/explore/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Bordeaux Métropole public transport and more (France)"
+  },
+  {
+    "name": "Transport for Budapest, Hungary",
+    "url": "https://bkkfutar.docs.apiary.io",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Budapest public transport API"
+  },
+  {
+    "name": "Transport for Chicago, US",
+    "url": "http://www.transitchicago.com/developers/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Chicago Transit Authority (CTA)"
+  },
+  {
+    "name": "Transport for Czech Republic",
+    "url": "https://www.chaps.cz/eng/products/idos-internet",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Czech transport API"
+  },
+  {
+    "name": "Transport for Finland",
+    "url": "https://digitransit.fi/en/developers",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Finnish transport API"
+  },
+  {
+    "name": "Transport for Grenoble, France",
+    "url": "https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Grenoble public transport"
+  },
+  {
+    "name": "Transport for Hessen, Germany",
+    "url": "https://opendata.rmv.de/site/start.html",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "RMV API (Public Transport in Hessen)"
+  },
+  {
+    "name": "Transport for Honolulu, US",
+    "url": "http://hea.thebus.org/api_info.asp",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Honolulu Transportation Information"
+  },
+  {
+    "name": "Transport for India",
+    "url": "https://data.gov.in/sector/transport",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "India Public Transport API"
+  },
+  {
+    "name": "Transport for Lisbon, Portugal",
+    "url": "https://emel.city-platform.com/opendata/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Data about buses routes, parking and traffic"
+  },
+  {
+    "name": "Transport for London, England",
+    "url": "https://api.tfl.gov.uk",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "TfL API"
+  },
+  {
+    "name": "Transport for Los Angeles, US",
+    "url": "https://developer.metro.net/api/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Data about positions of Metro vehicles in real time and travel their routes"
+  },
+  {
+    "name": "Transport for Manchester, England",
+    "url": "https://developer.tfgm.com/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "TfGM transport network data"
+  },
+  {
+    "name": "Transport for Norway",
+    "url": "https://developer.entur.org",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Transport APIs and dataset for Norway"
+  },
+  {
+    "name": "Transport for Ottawa, Canada",
+    "url": "https://www.octranspo.com/en/plan-your-trip/travel-tools/developers",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "OC Transpo API"
+  },
+  {
+    "name": "Transport for Paris, France",
+    "url": "http://data.ratp.fr/api/v1/console/datasets/1.0/search",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "RATP Open Data API"
+  },
+  {
+    "name": "Transport for Philadelphia, US",
+    "url": "http://www3.septa.org/hackathon/",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "SEPTA APIs"
+  },
+  {
+    "name": "Transport for Sao Paulo, Brazil",
+    "url": "http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "SPTrans"
+  },
+  {
+    "name": "Transport for Spain",
+    "url": "https://data.renfe.com/api/1/util/snippet/api_info.html",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Public trains of Spain"
+  },
+  {
+    "name": "Transport for Sweden",
+    "url": "https://www.trafiklab.se/api",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "Public Transport consumer"
+  },
+  {
+    "name": "Transport for Switzerland",
+    "url": "https://opentransportdata.swiss/en/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Official Swiss Public Transport Open Data"
+  },
+  {
+    "name": "Transport for The Netherlands",
+    "url": "http://www.ns.nl/reisinformatie/ns-api",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "NS, only trains"
+  },
+  {
+    "name": "Transport for Toronto, Canada",
+    "url": "https://myttc.ca/developers",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "TTC"
+  },
+  {
+    "name": "Transport for UK",
+    "url": "https://developer.transportapi.com",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Transport API and dataset for UK"
+  },
+  {
+    "name": "Transport for United States",
+    "url": "https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "NextBus API"
+  },
+  {
+    "name": "Transport for Vancouver, Canada",
+    "url": "https://developer.translink.ca/",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "TransLink"
+  },
+  {
+    "name": "Transport for Washington, US",
+    "url": "https://developer.wmata.com/",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "Washington Metro transport API"
+  },
+  {
+    "name": "transport.rest",
+    "url": "https://transport.rest",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Community maintained, developer-friendly public transport API"
+  },
+  {
+    "name": "Tripadvisor",
+    "url": "https://developer-tripadvisor.com/home/",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Rating content for a hotel, restaurant, attraction or destination"
+  },
+  {
+    "name": "Uber",
+    "url": "https://developer.uber.com/products",
+    "auth": "OAuth",
+    "category": "Transportation",
+    "description": "Uber ride requests and price estimation"
+  },
+  {
+    "name": "Velib metropolis, Paris, France",
+    "url": "https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole",
+    "auth": "No",
+    "category": "Transportation",
+    "description": "Velib Open Data API"
+  },
+  {
+    "name": "VOLO",
+    "url": "https://www.flyvolo.ai/for-agents",
+    "auth": "apiKey",
+    "category": "Transportation",
+    "description": "Private aviation charter search, quotes, fleet, and empty legs"
+  }
+]

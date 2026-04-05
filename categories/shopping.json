@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Best Buy",
+    "url": "https://bestbuyapis.github.io/api-documentation/#overview",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Products, Buying Options, Categories, Recommendations, Stores and Commerce"
+  },
+  {
+    "name": "Canopy",
+    "url": "https://www.canopyapi.co/",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "A modern API for Amazon Data"
+  },
+  {
+    "name": "Digi-Key",
+    "url": "https://www.digikey.com/en/resources/api-solutions",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Retrieve price and inventory of electronic components as well as place orders"
+  },
+  {
+    "name": "E-Commerce APIs",
+    "url": "https://apyhub.com/catalog/commerce-quick-tools",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "All around e-commerce APIs. Generate QR codes, product categories and thumbnails, barcodes and many more."
+  },
+  {
+    "name": "eBay",
+    "url": "https://developer.ebay.com/",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Sell and Buy on eBay"
+  },
+  {
+    "name": "Etsy",
+    "url": "https://www.etsy.com/developers/documentation/getting_started/api_basics",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Manage shop and interact with listings"
+  },
+  {
+    "name": "Flipkart Marketplace",
+    "url": "https://seller.flipkart.com/api-docs/FMSAPI.html",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Product listing management, Order Fulfilment in the Flipkart Marketplace"
+  },
+  {
+    "name": "Lazada",
+    "url": "https://open.lazada.com/doc/doc.htm",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Retrieve product ratings and seller performance metrics"
+  },
+  {
+    "name": "Mercadolibre",
+    "url": "https://developers.mercadolibre.cl/es_ar/api-docs-es",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Manage sales, ads, products, services and Shops"
+  },
+  {
+    "name": "OLX Poland",
+    "url": "https://developer.olx.pl/api/doc#section/",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Integrate with local sites by posting, managing adverts and communicating with OLX users"
+  },
+  {
+    "name": "Platzi Fake Store",
+    "url": "https://fakeapi.platzi.com/",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "A fake store API for your e-commerce or shopping website prototype. For testing and learning"
+  },
+  {
+    "name": "Printful",
+    "url": "https://developers.printful.com",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Printful's official API to manage and integrate their services"
+  },
+  {
+    "name": "Printify",
+    "url": "https://developers.printify.com/",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Printify's official API to manage and integrate their services"
+  },
+  {
+    "name": "Rappi",
+    "url": "https://dev-portal.rappi.com/",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Manage orders from Rappi's app"
+  },
+  {
+    "name": "ScoutAPI",
+    "url": "https://scoutapi.com",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Affordable, Swift, and Reliable Amazon Data in Real-Time"
+  },
+  {
+    "name": "Shopee",
+    "url": "https://open.shopee.com/documents?version=1",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Shopee's official API for integration of various services from Shopee"
+  },
+  {
+    "name": "Shopify",
+    "url": "https://shopify.dev/docs/api",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Manage sales channels, customers, products, and discounts for a retail business"
+  },
+  {
+    "name": "ShopSavvy",
+    "url": "https://shopsavvy.com/data",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "Product pricing and price history across thousands of retailers"
+  },
+  {
+    "name": "Tokopedia",
+    "url": "https://developer.tokopedia.com/openapi/guide/#/",
+    "auth": "OAuth",
+    "category": "Shopping",
+    "description": "Tokopedia's Official API for integration of various services from Tokopedia"
+  },
+  {
+    "name": "WooCommerce",
+    "url": "https://woocommerce.github.io/woocommerce-rest-api-docs/",
+    "auth": "apiKey",
+    "category": "Shopping",
+    "description": "WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format"
+  }
+]

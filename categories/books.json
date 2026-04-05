@@ -1,0 +1,163 @@
+[
+  {
+    "name": "A Bíblia Digital",
+    "url": "https://www.abibliadigital.com.br/en",
+    "auth": "apiKey",
+    "category": "Books",
+    "description": "Do not worry about managing the multiple versions of the Bible"
+  },
+  {
+    "name": "Bhagavad Gita",
+    "url": "https://bhagavadgita.io/api",
+    "auth": "OAuth",
+    "category": "Books",
+    "description": "Bhagavad Gita text"
+  },
+  {
+    "name": "Bhagavad Gita telugu",
+    "url": "https://gita-api.vercel.app",
+    "auth": "No",
+    "category": "Books",
+    "description": "Bhagavad Gita API in telugu and odia languages"
+  },
+  {
+    "name": "Bible-api",
+    "url": "https://bible-api.com",
+    "auth": "No",
+    "category": "Books",
+    "description": "Free Bible API with multiple languages"
+  },
+  {
+    "name": "Big Book",
+    "url": "https://bigbookapi.com",
+    "auth": "apiKey",
+    "category": "Books",
+    "description": "The Big Book API allows you to semantically search, filter, sort, and recommend books"
+  },
+  {
+    "name": "Ganjoor",
+    "url": "https://api.ganjoor.net",
+    "auth": "OAuth",
+    "category": "Books",
+    "description": "Classic Persian poetry works including access to related manuscripts, recitations and music tracks"
+  },
+  {
+    "name": "Google Books",
+    "url": "https://developers.google.com/books/",
+    "auth": "OAuth",
+    "category": "Books",
+    "description": "Books"
+  },
+  {
+    "name": "Gutendex",
+    "url": "https://gutendex.com",
+    "auth": "No",
+    "category": "Books",
+    "description": "Web-API for fetching data from Project Gutenberg Books Library"
+  },
+  {
+    "name": "Harry Potter",
+    "url": "https://github.com/fedeperin/potterapi",
+    "auth": "No",
+    "category": "Books",
+    "description": "API to get data from Harry Potter books, movies and characters"
+  },
+  {
+    "name": "Holy Bible API",
+    "url": "https://holy-bible-api.com/docs",
+    "auth": "No",
+    "category": "Books",
+    "description": "Free Bible API serving 800+ text translations and 40+ audio translations"
+  },
+  {
+    "name": "Library Management",
+    "url": "https://github.com/adam-dev2/library-management-api",
+    "auth": "No",
+    "category": "Books",
+    "description": "Manage users, books, authors, loans and reviews"
+  },
+  {
+    "name": "Open Library",
+    "url": "https://openlibrary.org/developers/api",
+    "auth": "No",
+    "category": "Books",
+    "description": "Books, book covers and related data"
+  },
+  {
+    "name": "Open Library Search API",
+    "url": "https://openlibrary.org/dev/docs/api/search",
+    "auth": "No",
+    "category": "Books",
+    "description": "Open Library provides an experimental API to search for book data. It can return data for multiple books in a single request, including Work and Edition level information, author IDs, book availabilit"
+  },
+  {
+    "name": "Penguin Publishing",
+    "url": "https://www.penguinrandomhouse.biz/webservices/rest",
+    "auth": "No",
+    "category": "Books",
+    "description": "Book data from Penguin Random House"
+  },
+  {
+    "name": "PoetryDB",
+    "url": "https://github.com/thundercomb/poetrydb#readme",
+    "auth": "No",
+    "category": "Books",
+    "description": "Enables you to get instant data from our vast poetry collection"
+  },
+  {
+    "name": "Quran",
+    "url": "https://quran.api-docs.io",
+    "auth": "No",
+    "category": "Books",
+    "description": "RESTful Quran API with multiple languages"
+  },
+  {
+    "name": "Quran Cloud",
+    "url": "https://alquran.cloud/api",
+    "auth": "No",
+    "category": "Books",
+    "description": "A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran"
+  },
+  {
+    "name": "Rig Veda",
+    "url": "https://aninditabasu.github.io/indica/",
+    "auth": "No",
+    "category": "Books",
+    "description": "Gods and poets, their categories, and the verse meters, with the mandal and sukta number"
+  },
+  {
+    "name": "Stephen King",
+    "url": "https://stephen-king-api.onrender.com/",
+    "auth": "No",
+    "category": "Books",
+    "description": "The varied works and characters of the prolific author Stephen King"
+  },
+  {
+    "name": "Thirukkural",
+    "url": "https://api-thirukkural.web.app",
+    "auth": "No",
+    "category": "Books",
+    "description": "1330 Thirukkural poems and explanation in Tamil and English"
+  },
+  {
+    "name": "tronalddump API",
+    "url": "https://docs.tronalddump.io/",
+    "auth": "No",
+    "category": "Books",
+    "description": "Api & web archive for the dumbest things Donald Trump has ever said. Service to retrieve and create tags, quotes sources, authors, and quotes."
+  },
+  {
+    "name": "Wizard World API",
+    "url": "https://wizard-world-api.herokuapp.com/swagger/index.html",
+    "auth": "No",
+    "category": "Books",
+    "description": "Get information from the Harry Potter universe"
+  },
+  {
+    "name": "Wolne Lektury",
+    "url": "https://wolnelektury.pl/api",
+    "auth": "No",
+    "category": "Books",
+    "description": "API for obtaining information about e-books available on the WolneLektury.pl website"
+  }
+]

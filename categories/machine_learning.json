@@ -1,0 +1,268 @@
+[
+  {
+    "name": "Advanced Multilanguage AI Translator (RapidAPI)",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "AI-powered translator supporting multiple languages with fast, context-aware responses"
+  },
+  {
+    "name": "Agent Hustle",
+    "url": "https://agent.stakewatch.dev/api",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "AI web services: scraping, research, screenshots, translation, summarization"
+  },
+  {
+    "name": "AI Engine",
+    "url": "https://ai-engine.net/apis/all-in-one",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "36+ AI endpoints: OCR, face detection, background removal, object detection, NSFW moderation, face swap, image generation"
+  },
+  {
+    "name": "AI For Thai",
+    "url": "https://aiforthai.in.th/index.php",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Free Various Thai AI API"
+  },
+  {
+    "name": "AI Learning Engine",
+    "url": "https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Create, auto-grade, and analyze learning tasks with AI-based evaluations"
+  },
+  {
+    "name": "AI/ML API",
+    "url": "https://aimlapi.com",
+    "auth": "Yes",
+    "category": "Machine Learning",
+    "description": "Access 100+ curated AI Models over 1 API"
+  },
+  {
+    "name": "Clarifai",
+    "url": "https://docs.clarifai.com/api-guide/api-overview",
+    "auth": "OAuth",
+    "category": "Machine Learning",
+    "description": "Computer Vision"
+  },
+  {
+    "name": "Cloudmersive",
+    "url": "https://www.cloudmersive.com/image-recognition-and-processing-api",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Image captioning, face recognition, NSFW classification"
+  },
+  {
+    "name": "Cohere",
+    "url": "https://docs.cohere.ai/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable."
+  },
+  {
+    "name": "CustomGPT.ai",
+    "url": "https://docs.customgpt.ai/reference/i-api-homepage",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "RAG API with RESTful endpoints, comprehensive SDKs, and enterprise-grade reliability."
+  },
+  {
+    "name": "Deepcode",
+    "url": "https://www.deepcode.ai",
+    "auth": "No",
+    "category": "Machine Learning",
+    "description": "AI for code review"
+  },
+  {
+    "name": "Dialogflow",
+    "url": "https://cloud.google.com/dialogflow/docs/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Natural Language Processing"
+  },
+  {
+    "name": "DiffusionBee",
+    "url": "https://diffusionbee.com",
+    "auth": "No",
+    "category": "Machine Learning",
+    "description": "Stable Diffusion text-to-image generation"
+  },
+  {
+    "name": "Eden",
+    "url": "https://www.edenai.co/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Get all AI models in one place, e.g. OpenAI, Google and lots more!"
+  },
+  {
+    "name": "EXUDE-API",
+    "url": "http://uttesh.com/exude-api",
+    "auth": "No",
+    "category": "Machine Learning",
+    "description": "Used for the primary ways for filtering the stopping, stemming words from the text data"
+  },
+  {
+    "name": "Face-api.js",
+    "url": "https://github.com/justadudewhohacks/face-api.js",
+    "auth": "No",
+    "category": "Machine Learning",
+    "description": "JavaScript API for face detection, recognition, and emotion analysis using TensorFlow.js"
+  },
+  {
+    "name": "Gladia",
+    "url": "https://docs.gladia.io",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Artificial intelligence API's"
+  },
+  {
+    "name": "HOL Registry Broker",
+    "url": "https://hol.org/docs/registry-broker/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Discovery API for AI agents & MCP servers (search, verify, UAID, chat)"
+  },
+  {
+    "name": "Hugging Face Datasets",
+    "url": "https://huggingface.co/docs/datasets",
+    "auth": "No",
+    "category": "Machine Learning",
+    "description": "Access and share datasets for ML"
+  },
+  {
+    "name": "Hugging Face Models Hub",
+    "url": "https://huggingface.co/docs/hub",
+    "auth": "No",
+    "category": "Machine Learning",
+    "description": "Discover and use pre-trained models"
+  },
+  {
+    "name": "Imagga",
+    "url": "https://imagga.com/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Image Recognition Solutions like Tagging, Visual Search, NSFW moderation"
+  },
+  {
+    "name": "Inferdo",
+    "url": "https://rapidapi.com/user/inferdo",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Computer Vision services like Facial detection, Image labeling, NSFW classification"
+  },
+  {
+    "name": "Irisnet",
+    "url": "https://irisnet.de/api/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Realtime content moderation API that blocks or blurs unwanted images in real-time"
+  },
+  {
+    "name": "jsonAi.cloud",
+    "url": "https://jsonai.cloud",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Save JSON schemas as api endpoints, feed it with your data and get structured JSON responses with AI"
+  },
+  {
+    "name": "Keen IO",
+    "url": "https://keen.io/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Data Analytics"
+  },
+  {
+    "name": "Machinetutors",
+    "url": "https://machinetutors.com/api/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP"
+  },
+  {
+    "name": "MessengerX.io",
+    "url": "https://messengerx.rtfd.io",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "A FREE API for developers to build and monetize personalized ML based chat apps"
+  },
+  {
+    "name": "NLP Cloud",
+    "url": "https://nlpcloud.io",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more"
+  },
+  {
+    "name": "OpenAI",
+    "url": "https://openai.com/index/openai-api",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI"
+  },
+  {
+    "name": "Perspective",
+    "url": "https://perspectiveapi.com",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "NLP API to return probability that if text is toxic, obscene, insulting or threatening"
+  },
+  {
+    "name": "Replicate",
+    "url": "https://replicate.com/docs/reference/http",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Run and deploy machine learning models in the cloud"
+  },
+  {
+    "name": "Roboflow Universe",
+    "url": "https://universe.roboflow.com",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Pre-trained computer vision models"
+  },
+  {
+    "name": "SkyBiometry",
+    "url": "https://skybiometry.com/documentation/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Face Detection, Face Recognition and Face Grouping"
+  },
+  {
+    "name": "Spam Hunter",
+    "url": "https://spam-hunter.ru/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Free service to classify text as spam using ML"
+  },
+  {
+    "name": "Summarize Text with AI",
+    "url": "https://apyhub.com/utility/ai-summarize",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "This API generates customizable summaries of text and web pages using AI"
+  },
+  {
+    "name": "Unplugg",
+    "url": "https://unplu.gg/test_api.html",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Forecasting API for timeseries data"
+  },
+  {
+    "name": "Wit.ai",
+    "url": "https://wit.ai/",
+    "auth": "OAuth",
+    "category": "Machine Learning",
+    "description": "Natural Language Processing"
+  },
+  {
+    "name": "WolframAlpha",
+    "url": "https://products.wolframalpha.com/api/",
+    "auth": "apiKey",
+    "category": "Machine Learning",
+    "description": "Provides specific answers to questions using data and algorithms"
+  }
+]

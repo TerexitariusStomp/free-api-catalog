@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Brazilian Vehicles and Prices",
+    "url": "https://deividfortuna.github.io/fipe",
+    "auth": "No",
+    "category": "Vehicle",
+    "description": "Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe"
+  },
+  {
+    "name": "CarAPI",
+    "url": "https://carapi.app",
+    "auth": "apiKey",
+    "category": "Vehicle",
+    "description": "The developer friendly vehicle API. Make, model, trims and more via a RESTFul API"
+  },
+  {
+    "name": "CarsXE",
+    "url": "https://api.carsxe.com/",
+    "auth": "apiKey",
+    "category": "Vehicle",
+    "description": "CarsXE API provides comprehensive data on vehicles, including VIN decoding & specifications, license plate decoding, images, history and market value. It enables developers to build innovative applications for the automotive industry, such as insurance & roadside assistance tools, ride sharing & grocery delivery apps, inventory management systems, and market analysis platforms."
+  },
+  {
+    "name": "Helipaddy sites",
+    "url": "https://helipaddy.com/api/",
+    "auth": "apiKey",
+    "category": "Vehicle",
+    "description": "Helicopter and passenger drone landing site directory, Helipaddy data and much more"
+  },
+  {
+    "name": "Kelley Blue Book",
+    "url": "http://developer.kbb.com/#!/data/1-Default",
+    "auth": "apiKey",
+    "category": "Vehicle",
+    "description": "Vehicle info, pricing, configuration, plus much more"
+  },
+  {
+    "name": "Mercedes-Benz",
+    "url": "https://developer.mercedes-benz.com/apis",
+    "auth": "apiKey",
+    "category": "Vehicle",
+    "description": "Telematics data, remotely access vehicle functions, car configurator, locate service dealers"
+  },
+  {
+    "name": "NHTSA",
+    "url": "https://vpic.nhtsa.dot.gov/api",
+    "auth": "No",
+    "category": "Vehicle",
+    "description": "NHTSA Product Information Catalog and Vehicle Listing"
+  },
+  {
+    "name": "Smartcar",
+    "url": "https://smartcar.com/docs/",
+    "auth": "OAuth",
+    "category": "Vehicle",
+    "description": "Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars"
+  }
+]

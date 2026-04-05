@@ -1,0 +1,331 @@
+[
+  {
+    "name": "American Football Highlights API",
+    "url": "https://highlightly.net/documentation/american-football/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Real time American Football (NFL/NCAA) highlights"
+  },
+  {
+    "name": "API-FOOTBALL",
+    "url": "https://www.api-football.com/documentation-v3",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Get information about Football Leagues & Cups"
+  },
+  {
+    "name": "balldontlie",
+    "url": "https://www.balldontlie.io",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Balldontlie provides access to stats data from the NBA"
+  },
+  {
+    "name": "Basketball Highlights API",
+    "url": "https://highlightly.net/documentation/basketball/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Real time basketball video highlights"
+  },
+  {
+    "name": "Canadian Football League (CFL)",
+    "url": "http://api.cfl.ca/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Official JSON API providing real-time league, team and player statistics about the CFL"
+  },
+  {
+    "name": "Cartola FC",
+    "url": "https://github.com/wgenial/cartrolandofc",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "The Cartola FC API serves to check the partial points of your team"
+  },
+  {
+    "name": "City Bikes",
+    "url": "https://api.citybik.es/v2",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "City Bikes around the world"
+  },
+  {
+    "name": "Cloudbet",
+    "url": "https://www.cloudbet.com/api/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically"
+  },
+  {
+    "name": "CollegeFootballData.com",
+    "url": "https://collegefootballdata.com",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Unofficial detailed American college football statistics, records, and results API"
+  },
+  {
+    "name": "CricData",
+    "url": "https://cricketdata.org/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Ultimate Cricket data API - Score, Scorecard, Players data, Fantasy API"
+  },
+  {
+    "name": "Ergast F1 API",
+    "url": "https://ergast.com/api/f1",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Formula 1 historical data (1950–present)"
+  },
+  {
+    "name": "F1 API",
+    "url": "https://f1api.dev",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Open F1 API with realtime data"
+  },
+  {
+    "name": "F1 Data API",
+    "url": "https://github.com/Jacobbrewer1/f1-data",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Formula 1 data API that delivers data from the F1 Archive dating back to 1950"
+  },
+  {
+    "name": "Fantasy Premier League",
+    "url": "https://github.com/flavnat/fpl-api",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Fantasy Premier League data, including fixtures, teams, and player stats"
+  },
+  {
+    "name": "Fitbit",
+    "url": "https://dev.fitbit.com/",
+    "auth": "OAuth",
+    "category": "Sports & Fitness",
+    "description": "Fitbit Information"
+  },
+  {
+    "name": "Football",
+    "url": "https://rapidapi.com/GiulianoCrescimbeni/api/football98/",
+    "auth": "X-Mashape-Key",
+    "category": "Sports & Fitness",
+    "description": "A simple Open Source Football API to get squads’ stats, best scorers and more"
+  },
+  {
+    "name": "Football (Soccer) Videos",
+    "url": "https://www.scorebat.com/video-api",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more"
+  },
+  {
+    "name": "Football Data API",
+    "url": "https://www.football-data.org/documentation/quickstart",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "The Football Data API provides comprehensive access to football (soccer) statistics and information. It includes data on areas, competitions, teams, matches, standings, scorers, and players. Perfect f"
+  },
+  {
+    "name": "Football Highlights",
+    "url": "https://highlightly.net/documentation/football/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Real time football (soccer) highlights from over +950 leagues"
+  },
+  {
+    "name": "Football Prediction",
+    "url": "https://boggio-analytics.com/fp-api/",
+    "auth": "X-Mashape-Key",
+    "category": "Sports & Fitness",
+    "description": "Predictions for upcoming football matches, odds, results and stats"
+  },
+  {
+    "name": "Football Standings",
+    "url": "https://github.com/azharimm/football-standings-api",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Display football standings e.g epl, la liga, serie a etc. The data is based on espn site"
+  },
+  {
+    "name": "Football-Data.org",
+    "url": "http://api.football-data.org/index",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Football Data"
+  },
+  {
+    "name": "Free Sports API",
+    "url": "https://www.thesportsdb.com/free_sports_api",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Provides free JSON sports API for accessing basic sports data, including information on teams, players, events, and more. Offers test API keys, API limits, and upgrade options for premium features."
+  },
+  {
+    "name": "Golf-Data",
+    "url": "https://github.com/Jacobbrewer1/golf-data-docs",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Golf data API with golf course, club and hole information"
+  },
+  {
+    "name": "Hockey Highlights",
+    "url": "https://highlightly.net/documentation/hockey/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Real time hockey highlights"
+  },
+  {
+    "name": "iSports API",
+    "url": "https://isportsapi.com/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Provide live and historical sports data of global competitions, like live score, fixtures, player & match stats, database etc."
+  },
+  {
+    "name": "JCDecaux Bike",
+    "url": "https://developer.jcdecaux.com/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "JCDecaux's self-service bicycles"
+  },
+  {
+    "name": "MLB Records and Stats",
+    "url": "https://appac.github.io/mlb-data-api-docs",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Current and historical MLB statistics"
+  },
+  {
+    "name": "NBA Data",
+    "url": "https://rapidapi.com/api-sports/api/api-nba/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "All NBA Stats DATA, Games, Livescore, Standings, Statistics"
+  },
+  {
+    "name": "NBA GraphQL",
+    "url": "https://nbaapi.com/graphql/",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Advanced NBA Player, Team, and Season Statistics and Data"
+  },
+  {
+    "name": "NBA Stats",
+    "url": "https://api.server.nbaapi.com/",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "NBA player statistics, season totals, advanced metrics, game data, and shot chart data"
+  },
+  {
+    "name": "NHL Records and Stats",
+    "url": "https://gitlab.com/dword4/nhlapi",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "NHL historical data and statistics"
+  },
+  {
+    "name": "Oddsmagnet",
+    "url": "https://oddsmagnet.com/oddsdata",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Odds history from multiple UK bookmakers"
+  },
+  {
+    "name": "OpenLigaDB",
+    "url": "https://www.openligadb.de",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Crowd sourced sports league results"
+  },
+  {
+    "name": "Placar Agora",
+    "url": "https://golfeito.asamkt.com.br/",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Placar Agora provides live scores, final results, and upcoming game schedules for sports enthusiasts. It allows users to follow their favorite teams and view real-time updates on various matches."
+  },
+  {
+    "name": "Premier League Standings",
+    "url": "https://rapidapi.com/heisenbug/api/premier-league-live-scores/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "All Current Premier League Standings and Statistics"
+  },
+  {
+    "name": "SharpAPI",
+    "url": "https://docs.sharpapi.io",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Real-time sports betting odds from 20+ sportsbooks with +EV detection"
+  },
+  {
+    "name": "Sport Data",
+    "url": "https://sportdataapi.com",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Get sports data from all over the world"
+  },
+  {
+    "name": "Sport Highlights",
+    "url": "https://highlightly.net/documentation/sports/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Real time Sport Highlights"
+  },
+  {
+    "name": "Sportmonks Cricket",
+    "url": "https://docs.sportmonks.com/cricket/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Live cricket score, player statistics and fantasy API"
+  },
+  {
+    "name": "Sportmonks Football",
+    "url": "https://docs.sportmonks.com/football/",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Football score/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga"
+  },
+  {
+    "name": "Squiggle",
+    "url": "https://api.squiggle.com.au",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Fixtures, results and predictions for Australian Football League matches"
+  },
+  {
+    "name": "Strava",
+    "url": "https://strava.github.io/api/",
+    "auth": "OAuth",
+    "category": "Sports & Fitness",
+    "description": "Connect with athletes, activities and more"
+  },
+  {
+    "name": "SuredBits",
+    "url": "https://suredbits.com/api/",
+    "auth": "No",
+    "category": "Sports & Fitness",
+    "description": "Query sports data, including teams, players, games, scores and statistics"
+  },
+  {
+    "name": "TheSportsDB",
+    "url": "https://www.thesportsdb.com/api.php",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Crowd-Sourced Sports Data and Artwork"
+  },
+  {
+    "name": "Tredict",
+    "url": "https://www.tredict.com/blog/oauth_docs/",
+    "auth": "OAuth",
+    "category": "Sports & Fitness",
+    "description": "Get and set activities, health data and more"
+  },
+  {
+    "name": "Wger",
+    "url": "https://wger.de/en/software/api",
+    "auth": "apiKey",
+    "category": "Sports & Fitness",
+    "description": "Workout manager data as exercises, muscles or equipment"
+  }
+]
